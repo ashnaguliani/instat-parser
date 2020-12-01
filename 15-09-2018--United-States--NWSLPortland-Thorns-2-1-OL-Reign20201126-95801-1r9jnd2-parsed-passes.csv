@@ -1,0 +1,683 @@
+start_time,end_time,player,team,half,start_pos_x,start_pos_y,recipient,successful,end_pos_x,end_pos_y
+0.0,12.85,10. Jessica Anne Fishlock,OL Reign,1st half,52.5,34.2,6. Alexandra Linsley Long Batista,1,35.5,34.7
+0.0,15.38,6. Alexandra Linsley Long Batista,OL Reign,1st half,35.5,34.7,10. Jessica Anne Fishlock,1,52.5,34.2
+0.27,20.27,3. Lauren Kate Barnes,OL Reign,1st half,46.4,56.0,15. Megan Anna Rapinoe,1,64.1,58.2
+5.89,25.89,15. Megan Anna Rapinoe,OL Reign,1st half,71.8,55.3,8. Theresa Eslund,1,80.4,14.8
+9.84,29.84,8. Theresa Eslund,OL Reign,1st half,88.6,15.6,24. Adrianna Nichole Franch,0,101.0,33.5
+16.73,36.73,24. Adrianna Nichole Franch,Portland Thorns,1st half,12.0,28.5,9. Caitlin Jade Foord,1,57.8,33.0
+44.84,64.84,3. Lauren Kate Barnes,OL Reign,1st half,34.9,47.4,4. Megan Leigh Oyster,1,32.1,13.6
+48.74,68.74,4. Megan Leigh Oyster,OL Reign,1st half,28.8,15.8,1. Lydia Grace Yilkari Williams,1,18.1,34.5
+51.41,71.41,1. Lydia Grace Yilkari Williams,OL Reign,1st half,19.3,36.9,3. Lauren Kate Barnes,1,28.1,50.5
+54.7,74.7,3. Lauren Kate Barnes,OL Reign,1st half,32.3,52.4,20. Rumi Utsugi,1,41.4,47.4
+55.61,75.61,20. Rumi Utsugi,OL Reign,1st half,41.4,47.4,3. Lauren Kate Barnes,1,33.8,58.9
+59.16,79.16,3. Lauren Kate Barnes,OL Reign,1st half,38.4,62.7,16. Emily Ann Sonnett,0,91.4,63.2
+70.68,90.68,15. Megan Anna Rapinoe,OL Reign,1st half,91.6,68.0,7. Stephanie-Elise Catley,1,80.4,65.1
+73.19,93.19,7. Stephanie-Elise Catley,OL Reign,1st half,81.7,63.5,10. Lindsey Michelle Horan,0,91.6,45.7
+74.54,94.54,10. Lindsey Michelle Horan,Portland Thorns,1st half,13.4,22.3,15. Megan Anna Rapinoe,0,18.5,5.5
+78.04,98.04,15. Megan Anna Rapinoe,OL Reign,1st half,85.3,56.3,10. Jessica Anne Fishlock,1,82.7,40.5
+126.48,146.48,20. Rumi Utsugi,OL Reign,1st half,79.6,36.6,7. Stephanie-Elise Catley,1,89.9,48.4
+127.75,147.75,7. Stephanie-Elise Catley,OL Reign,1st half,89.9,48.4,23. Margaret Purce,0,91.1,44.3
+132.93,152.93,3. Lauren Kate Barnes,OL Reign,1st half,56.7,51.7,15. Megan Anna Rapinoe,1,95.6,55.5
+168.15,188.15,24. Adrianna Nichole Franch,Portland Thorns,1st half,5.2,39.3,20. Rumi Utsugi,0,58.0,56.5
+171.06,191.06,20. Rumi Utsugi,OL Reign,1st half,47.0,11.5,30. Celeste Anais Boureille,0,57.1,21.1
+172.03,192.03,30. Celeste Anais Boureille,Portland Thorns,1st half,47.9,46.9,10. Jessica Anne Fishlock,0,50.2,37.6
+177.09,197.09,10. Lindsey Michelle Horan,Portland Thorns,1st half,48.3,40.0,20. Rumi Utsugi,0,55.7,31.8
+178.63,198.63,20. Rumi Utsugi,OL Reign,1st half,49.3,36.2,15. Megan Anna Rapinoe,1,57.1,37.8
+179.36,199.36,15. Megan Anna Rapinoe,OL Reign,1st half,57.1,37.8,10. Jessica Anne Fishlock,1,62.4,35.9
+182.92,202.92,10. Jessica Anne Fishlock,OL Reign,1st half,68.0,44.3,15. Ellie Madison Carpenter,0,94.9,52.7
+194.17,214.17,7. Stephanie-Elise Catley,OL Reign,1st half,97.9,68.0,20. Rumi Utsugi,1,90.9,64.4
+195.1,215.1,20. Rumi Utsugi,OL Reign,1st half,90.9,64.4,7. Stephanie-Elise Catley,1,97.7,66.8
+226.43,246.43,15. Megan Anna Rapinoe,OL Reign,1st half,105.0,68.0,22. Jasmyne Spencer,1,103.3,48.4
+228.71,248.71,22. Jasmyne Spencer,OL Reign,1st half,102.7,51.7,15. Megan Anna Rapinoe,1,98.5,60.1
+229.42,249.42,15. Megan Anna Rapinoe,OL Reign,1st half,98.5,60.1,10. Lindsey Michelle Horan,0,96.6,36.9
+234.99,254.99,12. Christine Margaret Sinclair,Portland Thorns,1st half,12.0,62.7,3. Lauren Kate Barnes,0,35.3,63.0
+260.38,280.38,24. Adrianna Nichole Franch,Portland Thorns,1st half,5.0,37.4,10. Lindsey Michelle Horan,1,51.9,57.2
+290.75,310.75,16. Emily Ann Sonnett,Portland Thorns,1st half,48.9,50.5,6. Alexandra Linsley Long Batista,0,91.1,30.9
+293.33,313.33,6. Alexandra Linsley Long Batista,OL Reign,1st half,13.9,37.1,20. Rumi Utsugi,1,21.2,44.3
+294.73,314.73,20. Rumi Utsugi,OL Reign,1st half,21.2,44.3,30. Celeste Anais Boureille,0,41.4,46.2
+298.93,318.93,30. Celeste Anais Boureille,Portland Thorns,1st half,58.0,27.8,4. Emily Townsend Menges,1,50.0,30.4
+301.48,321.48,4. Emily Townsend Menges,Portland Thorns,1st half,47.9,34.5,16. Emily Ann Sonnett,1,45.6,45.5
+303.47,323.47,16. Emily Ann Sonnett,Portland Thorns,1st half,46.2,47.2,25. Meghan Elizabeth Klingenberg,1,74.3,45.3
+305.33,325.33,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,48.1,64.4,3. Lauren Kate Barnes,0,74.3,45.3
+307.62,327.62,3. Lauren Kate Barnes,OL Reign,1st half,30.7,22.7,6. Alexandra Linsley Long Batista,1,36.8,13.2
+310.28,330.28,6. Alexandra Linsley Long Batista,OL Reign,1st half,36.8,13.2,8. Theresa Eslund,1,35.5,2.4
+312.34,332.34,8. Theresa Eslund,OL Reign,1st half,35.5,2.4,6. Alexandra Linsley Long Batista,1,27.9,5.5
+316.6,336.6,6. Alexandra Linsley Long Batista,OL Reign,1st half,27.9,5.5,4. Megan Leigh Oyster,1,7.6,5.5
+318.37,338.37,4. Megan Leigh Oyster,OL Reign,1st half,7.6,5.5,16. Emily Ann Sonnett,1,60.5,59.4
+325.45,345.45,10. Lindsey Michelle Horan,Portland Thorns,1st half,55.7,67.5,25. Meghan Elizabeth Klingenberg,1,41.8,67.0
+328.58,348.58,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,37.8,65.8,24. Adrianna Nichole Franch,1,9.0,40.2
+333.0,353.0,24. Adrianna Nichole Franch,Portland Thorns,1st half,10.1,36.4,23. Margaret Purce,1,44.9,15.3
+360.86,380.86,7. Stephanie-Elise Catley,OL Reign,1st half,35.9,68.0,10. Jessica Anne Fishlock,1,47.9,63.2
+361.99,381.99,10. Jessica Anne Fishlock,OL Reign,1st half,47.9,63.2,23. Margaret Purce,0,44.3,64.4
+365.08,385.08,15. Megan Anna Rapinoe,OL Reign,1st half,50.4,68.0,16. Emily Ann Sonnett,0,72.7,57.5
+366.19,386.19,16. Emily Ann Sonnett,Portland Thorns,1st half,32.3,10.5,20. Rumi Utsugi,0,54.6,13.2
+368.22,388.22,20. Rumi Utsugi,OL Reign,1st half,50.4,54.8,4. Emily Townsend Menges,1,26.5,31.8
+373.84,393.84,4. Emily Townsend Menges,Portland Thorns,1st half,31.3,39.3,17. Tobin Powell Powell Heath,1,45.2,61.8
+418.39,438.39,16. Emily Ann Sonnett,Portland Thorns,1st half,55.9,63.5,10. Lindsey Michelle Horan,1,87.6,34.7
+422.48,442.48,7. Stephanie-Elise Catley,OL Reign,1st half,16.8,29.2,14. Jodie Lee Taylor,1,30.4,28.3
+425.35,445.35,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,73.1,47.9,17. Tobin Powell Powell Heath,1,74.8,57.7
+431.04,451.04,17. Tobin Powell Powell Heath,Portland Thorns,1st half,95.1,62.5,20. Rumi Utsugi,0,93.4,39.5
+432.2,452.2,20. Rumi Utsugi,OL Reign,1st half,11.6,28.5,15. Megan Anna Rapinoe,1,27.7,33.3
+433.99,453.99,15. Megan Anna Rapinoe,OL Reign,1st half,27.7,33.3,30. Celeste Anais Boureille,0,29.8,25.6
+436.6,456.6,30. Celeste Anais Boureille,Portland Thorns,1st half,79.8,45.7,20. Rumi Utsugi,0,84.2,46.2
+445.99,465.99,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,86.1,68.0,12. Christine Margaret Sinclair,1,93.4,59.1
+448.77,468.77,12. Christine Margaret Sinclair,Portland Thorns,1st half,90.7,62.3,10. Lindsey Michelle Horan,1,83.6,57.7
+452.03,472.03,10. Lindsey Michelle Horan,Portland Thorns,1st half,84.2,57.0,12. Christine Margaret Sinclair,1,91.8,52.0
+506.6,526.6,3. Lauren Kate Barnes,OL Reign,1st half,27.9,61.3,20. Rumi Utsugi,1,39.3,57.0
+507.75,527.75,20. Rumi Utsugi,OL Reign,1st half,39.3,57.0,23. Margaret Purce,1,0.0,0.0
+509.64,529.64,3. Lauren Kate Barnes,OL Reign,1st half,28.8,63.7,20. Rumi Utsugi,1,37.6,53.2
+512.37,532.37,20. Rumi Utsugi,OL Reign,1st half,33.2,56.0,3. Lauren Kate Barnes,1,24.4,57.5
+514.46,534.46,3. Lauren Kate Barnes,OL Reign,1st half,22.7,55.5,1. Lydia Grace Yilkari Williams,1,9.4,40.5
+520.06,540.06,1. Lydia Grace Yilkari Williams,OL Reign,1st half,14.7,36.9,7. Stephanie-Elise Catley,1,48.3,63.0
+525.41,545.41,7. Stephanie-Elise Catley,OL Reign,1st half,54.2,62.0,20. Rumi Utsugi,1,47.2,58.2
+526.72,546.72,20. Rumi Utsugi,OL Reign,1st half,47.2,58.2,15. Megan Anna Rapinoe,1,75.8,66.3
+545.06,565.06,15. Ellie Madison Carpenter,Portland Thorns,1st half,36.5,2.4,16. Emily Ann Sonnett,1,31.9,11.3
+548.0,568.0,16. Emily Ann Sonnett,Portland Thorns,1st half,31.9,11.3,10. Lindsey Michelle Horan,1,35.5,23.9
+549.81,569.81,10. Lindsey Michelle Horan,Portland Thorns,1st half,35.5,23.9,4. Emily Townsend Menges,1,20.8,29.0
+551.75,571.75,4. Emily Townsend Menges,Portland Thorns,1st half,20.8,29.0,7. Stephanie-Elise Catley,0,49.8,0.0
+568.13,588.13,7. Stephanie-Elise Catley,OL Reign,1st half,55.2,68.0,15. Megan Anna Rapinoe,1,63.6,64.2
+569.23,589.23,15. Megan Anna Rapinoe,OL Reign,1st half,63.6,64.2,7. Stephanie-Elise Catley,1,58.4,62.0
+571.8,591.8,7. Stephanie-Elise Catley,OL Reign,1st half,60.1,60.6,20. Rumi Utsugi,1,55.2,58.4
+574.43,594.43,20. Rumi Utsugi,OL Reign,1st half,56.9,63.9,30. Celeste Anais Boureille,0,66.2,58.4
+576.72,596.72,30. Celeste Anais Boureille,Portland Thorns,1st half,44.5,10.1,9. Caitlin Jade Foord,1,59.6,13.9
+577.69,597.69,9. Caitlin Jade Foord,Portland Thorns,1st half,59.6,13.9,12. Christine Margaret Sinclair,1,56.1,7.2
+580.44,600.44,12. Christine Margaret Sinclair,Portland Thorns,1st half,54.2,10.3,17. Tobin Powell Powell Heath,1,71.4,23.0
+583.06,603.06,4. Megan Leigh Oyster,OL Reign,1st half,36.1,45.3,6. Alexandra Linsley Long Batista,1,39.3,44.3
+587.04,607.04,6. Alexandra Linsley Long Batista,OL Reign,1st half,46.2,34.5,22. Jasmyne Spencer,1,48.3,21.3
+595.81,615.81,12. Christine Margaret Sinclair,Portland Thorns,1st half,39.7,40.0,9. Caitlin Jade Foord,1,46.0,49.3
+601.95,621.95,9. Caitlin Jade Foord,Portland Thorns,1st half,78.5,45.5,20. Rumi Utsugi,0,79.8,44.8
+605.48,625.48,4. Megan Leigh Oyster,OL Reign,1st half,13.7,17.2,8. Theresa Eslund,1,26.2,5.5
+610.29,630.29,8. Theresa Eslund,OL Reign,1st half,26.5,1.9,22. Jasmyne Spencer,1,45.4,5.5
+635.27,655.27,4. Megan Leigh Oyster,OL Reign,1st half,46.6,6.0,10. Jessica Anne Fishlock,1,69.3,10.8
+638.44,658.44,10. Jessica Anne Fishlock,OL Reign,1st half,75.4,8.6,25. Meghan Elizabeth Klingenberg,1,23.5,62.3
+643.56,663.56,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,38.2,66.1,4. Megan Leigh Oyster,0,58.4,63.0
+648.78,668.78,4. Megan Leigh Oyster,OL Reign,1st half,52.5,2.2,3. Lauren Kate Barnes,1,35.1,14.6
+651.6,671.6,3. Lauren Kate Barnes,OL Reign,1st half,35.9,18.4,6. Alexandra Linsley Long Batista,1,40.9,27.3
+656.97,676.97,6. Alexandra Linsley Long Batista,OL Reign,1st half,44.9,38.8,3. Lauren Kate Barnes,1,37.4,29.9
+658.09,678.09,3. Lauren Kate Barnes,OL Reign,1st half,37.4,29.9,6. Alexandra Linsley Long Batista,1,47.7,30.6
+660.69,680.69,6. Alexandra Linsley Long Batista,OL Reign,1st half,48.9,28.5,8. Theresa Eslund,1,85.5,1.7
+664.61,684.61,8. Theresa Eslund,OL Reign,1st half,85.5,1.7,10. Lindsey Michelle Horan,1,8.0,52.9
+706.28,726.28,7. Stephanie-Elise Catley,OL Reign,1st half,105.0,0.0,8. Theresa Eslund,1,89.0,3.1
+716.66,736.66,3. Lauren Kate Barnes,OL Reign,1st half,57.8,33.3,10. Jessica Anne Fishlock,1,94.3,1.4
+725.53,745.53,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,1.5,65.1,17. Tobin Powell Powell Heath,1,5.9,65.8
+729.78,749.78,17. Tobin Powell Powell Heath,Portland Thorns,1st half,5.9,65.8,25. Meghan Elizabeth Klingenberg,1,30.4,67.0
+730.8,750.8,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,0.8,63.2,4. Megan Leigh Oyster,0,30.4,67.0
+733.08,753.08,4. Megan Leigh Oyster,OL Reign,1st half,74.6,1.0,6. Alexandra Linsley Long Batista,1,85.1,4.5
+779.47,799.47,24. Adrianna Nichole Franch,Portland Thorns,1st half,17.9,62.5,8. Theresa Eslund,0,70.8,62.7
+782.1,802.1,8. Theresa Eslund,OL Reign,1st half,34.2,5.3,22. Jasmyne Spencer,1,46.2,4.1
+784.64,804.64,22. Jasmyne Spencer,OL Reign,1st half,42.4,3.1,4. Megan Leigh Oyster,1,28.1,2.6
+785.9,805.9,4. Megan Leigh Oyster,OL Reign,1st half,28.1,2.6,16. Emily Ann Sonnett,0,69.9,17.0
+790.11,810.11,16. Emily Ann Sonnett,Portland Thorns,1st half,34.9,45.7,3. Lauren Kate Barnes,0,72.2,29.7
+796.22,816.22,7. Stephanie-Elise Catley,OL Reign,1st half,48.5,56.7,15. Ellie Madison Carpenter,0,68.0,68.0
+817.09,837.09,15. Ellie Madison Carpenter,Portland Thorns,1st half,37.0,0.0,20. Rumi Utsugi,1,50.6,61.1
+818.68,838.68,20. Rumi Utsugi,OL Reign,1st half,50.6,61.1,10. Lindsey Michelle Horan,0,55.2,56.3
+820.24,840.24,10. Lindsey Michelle Horan,Portland Thorns,1st half,49.8,11.7,7. Stephanie-Elise Catley,0,62.4,7.7
+821.9,841.9,7. Stephanie-Elise Catley,OL Reign,1st half,42.6,61.1,10. Jessica Anne Fishlock,1,48.3,51.2
+825.61,845.61,10. Jessica Anne Fishlock,OL Reign,1st half,48.7,57.2,7. Stephanie-Elise Catley,1,44.3,63.0
+827.25,847.25,7. Stephanie-Elise Catley,OL Reign,1st half,44.3,63.0,3. Lauren Kate Barnes,1,40.1,56.7
+828.91,848.91,20. Rumi Utsugi,OL Reign,1st half,41.6,57.7,6. Alexandra Linsley Long Batista,1,38.6,45.5
+832.71,852.71,6. Alexandra Linsley Long Batista,OL Reign,1st half,38.0,36.9,8. Theresa Eslund,1,75.2,2.9
+838.14,858.14,8. Theresa Eslund,OL Reign,1st half,86.5,1.7,24. Adrianna Nichole Franch,0,99.3,32.1
+841.27,861.27,24. Adrianna Nichole Franch,Portland Thorns,1st half,9.0,38.3,10. Lindsey Michelle Horan,1,26.5,51.5
+880.4,900.4,24. Adrianna Nichole Franch,Portland Thorns,1st half,28.1,49.6,20. Rumi Utsugi,0,71.6,45.3
+882.54,902.54,20. Rumi Utsugi,OL Reign,1st half,33.4,22.7,10. Jessica Anne Fishlock,1,39.1,17.5
+884.52,904.52,30. Celeste Anais Boureille,Portland Thorns,1st half,65.9,50.5,8. Theresa Eslund,0,74.3,51.2
+886.02,906.02,8. Theresa Eslund,OL Reign,1st half,30.7,16.8,4. Emily Townsend Menges,1,32.5,55.1
+891.3,911.3,4. Emily Townsend Menges,Portland Thorns,1st half,37.2,53.9,22. Jasmyne Spencer,0,38.6,53.6
+903.91,923.91,7. Stephanie-Elise Catley,OL Reign,1st half,78.5,68.0,15. Megan Anna Rapinoe,1,85.7,59.6
+907.74,927.74,15. Megan Anna Rapinoe,OL Reign,1st half,81.7,48.1,10. Lindsey Michelle Horan,0,81.3,46.9
+913.71,933.71,12. Christine Margaret Sinclair,Portland Thorns,1st half,38.0,6.0,4. Megan Leigh Oyster,0,93.4,10.3
+918.16,938.16,4. Megan Leigh Oyster,OL Reign,1st half,11.6,57.7,1. Lydia Grace Yilkari Williams,1,2.1,44.5
+920.28,940.28,1. Lydia Grace Yilkari Williams,OL Reign,1st half,2.1,44.5,15. Ellie Madison Carpenter,0,7.6,68.0
+950.82,970.82,15. Ellie Madison Carpenter,Portland Thorns,1st half,97.4,0.0,3. Lauren Kate Barnes,1,6.9,45.0
+952.86,972.86,23. Margaret Purce,Portland Thorns,1st half,98.1,23.0,17. Tobin Powell Powell Heath,1,0.0,0.0
+987.33,1007.33,17. Tobin Powell Powell Heath,Portland Thorns,1st half,104.6,0.5,30. Celeste Anais Boureille,1,101.0,25.9
+1012.9,1032.9,15. Ellie Madison Carpenter,Portland Thorns,1st half,80.0,0.0,6. Alexandra Linsley Long Batista,0,96.6,21.5
+1024.14,1044.14,20. Rumi Utsugi,OL Reign,1st half,7.6,30.4,10. Jessica Anne Fishlock,1,8.2,22.7
+1058.89,1078.89,17. Tobin Powell Powell Heath,Portland Thorns,1st half,105.0,68.0,1. Lydia Grace Yilkari Williams,0,101.6,36.6
+1065.86,1085.86,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,58.4,51.0,4. Emily Townsend Menges,1,55.0,58.2
+1067.44,1087.44,4. Emily Townsend Menges,Portland Thorns,1st half,55.0,58.2,17. Tobin Powell Powell Heath,1,73.1,67.3
+1075.55,1095.55,17. Tobin Powell Powell Heath,Portland Thorns,1st half,76.9,52.2,30. Celeste Anais Boureille,1,92.2,59.9
+1109.25,1129.25,17. Tobin Powell Powell Heath,Portland Thorns,1st half,105.0,68.0,10. Jessica Anne Fishlock,0,98.7,33.5
+1134.74,1154.74,15. Ellie Madison Carpenter,Portland Thorns,1st half,88.2,0.0,10. Lindsey Michelle Horan,1,92.0,17.7
+1136.79,1156.79,10. Lindsey Michelle Horan,Portland Thorns,1st half,100.6,21.5,15. Megan Anna Rapinoe,0,92.0,17.7
+1138.93,1158.93,15. Megan Anna Rapinoe,OL Reign,1st half,13.0,50.3,20. Rumi Utsugi,1,14.1,43.1
+1142.37,1162.37,4. Megan Leigh Oyster,OL Reign,1st half,14.9,31.4,4. Emily Townsend Menges,0,50.0,29.5
+1145.5,1165.5,4. Emily Townsend Menges,Portland Thorns,1st half,55.0,38.5,22. Jasmyne Spencer,0,71.0,46.2
+1150.86,1170.86,22. Jasmyne Spencer,OL Reign,1st half,54.2,28.3,10. Jessica Anne Fishlock,1,51.7,32.8
+1153.81,1173.81,10. Jessica Anne Fishlock,OL Reign,1st half,52.9,41.2,7. Stephanie-Elise Catley,1,60.5,57.5
+1157.97,1177.97,7. Stephanie-Elise Catley,OL Reign,1st half,75.0,59.4,15. Megan Anna Rapinoe,1,90.7,63.0
+1160.08,1180.08,15. Megan Anna Rapinoe,OL Reign,1st half,88.4,60.3,7. Stephanie-Elise Catley,1,87.8,59.9
+1166.53,1186.53,8. Theresa Eslund,OL Reign,1st half,93.0,18.9,25. Meghan Elizabeth Klingenberg,0,98.9,27.3
+1167.68,1187.68,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,6.1,40.7,6. Alexandra Linsley Long Batista,0,35.5,56.5
+1172.98,1192.98,6. Alexandra Linsley Long Batista,OL Reign,1st half,73.1,10.3,10. Jessica Anne Fishlock,1,92.2,40.5
+1175.15,1195.15,10. Jessica Anne Fishlock,OL Reign,1st half,92.2,40.5,4. Emily Townsend Menges,0,98.7,38.3
+1181.26,1201.26,23. Margaret Purce,Portland Thorns,1st half,26.5,3.4,7. Stephanie-Elise Catley,0,54.4,5.5
+1204.37,1224.37,7. Stephanie-Elise Catley,OL Reign,1st half,50.6,62.5,30. Celeste Anais Boureille,0,73.5,57.2
+1205.92,1225.92,30. Celeste Anais Boureille,Portland Thorns,1st half,31.5,10.8,23. Margaret Purce,1,41.8,2.6
+1208.13,1228.13,23. Margaret Purce,Portland Thorns,1st half,41.8,2.6,7. Stephanie-Elise Catley,0,64.3,0.0
+1223.85,1243.85,7. Stephanie-Elise Catley,OL Reign,1st half,40.7,68.0,15. Megan Anna Rapinoe,1,55.9,63.9
+1226.31,1246.31,15. Megan Anna Rapinoe,OL Reign,1st half,54.0,64.4,8. Theresa Eslund,1,45.8,27.5
+1229.5,1249.5,8. Theresa Eslund,OL Reign,1st half,45.8,27.5,6. Alexandra Linsley Long Batista,1,32.3,39.5
+1235.79,1255.79,6. Alexandra Linsley Long Batista,OL Reign,1st half,34.4,29.2,20. Rumi Utsugi,1,33.6,48.6
+1237.18,1257.18,20. Rumi Utsugi,OL Reign,1st half,33.6,48.6,3. Lauren Kate Barnes,1,25.0,48.1
+1238.32,1258.32,3. Lauren Kate Barnes,OL Reign,1st half,25.0,48.1,7. Stephanie-Elise Catley,1,44.5,61.1
+1240.96,1260.96,7. Stephanie-Elise Catley,OL Reign,1st half,44.5,60.6,20. Rumi Utsugi,1,47.0,52.9
+1242.59,1262.59,20. Rumi Utsugi,OL Reign,1st half,47.9,54.6,15. Megan Anna Rapinoe,1,63.6,57.0
+1243.6,1263.6,15. Megan Anna Rapinoe,OL Reign,1st half,63.6,57.0,7. Stephanie-Elise Catley,1,63.8,63.7
+1244.99,1264.99,7. Stephanie-Elise Catley,OL Reign,1st half,63.8,63.7,15. Megan Anna Rapinoe,1,75.6,60.6
+1264.51,1284.51,15. Megan Anna Rapinoe,OL Reign,1st half,96.8,68.0,10. Jessica Anne Fishlock,1,97.0,60.1
+1266.39,1286.39,10. Jessica Anne Fishlock,OL Reign,1st half,97.2,63.0,15. Megan Anna Rapinoe,1,97.2,66.8
+1269.7,1289.7,15. Megan Anna Rapinoe,OL Reign,1st half,100.6,62.5,8. Theresa Eslund,1,100.2,15.8
+1288.86,1308.86,8. Theresa Eslund,OL Reign,1st half,91.6,0.0,6. Alexandra Linsley Long Batista,1,76.9,6.2
+1292.77,1312.77,6. Alexandra Linsley Long Batista,OL Reign,1st half,72.4,10.1,3. Lauren Kate Barnes,1,56.1,31.6
+1295.55,1315.55,3. Lauren Kate Barnes,OL Reign,1st half,56.1,34.2,7. Stephanie-Elise Catley,1,66.6,61.3
+1299.32,1319.32,7. Stephanie-Elise Catley,OL Reign,1st half,72.9,61.1,10. Lindsey Michelle Horan,0,90.7,34.2
+1306.09,1326.09,30. Celeste Anais Boureille,Portland Thorns,1st half,19.7,22.0,23. Margaret Purce,1,27.5,6.5
+1314.77,1334.77,30. Celeste Anais Boureille,Portland Thorns,1st half,10.9,12.5,15. Ellie Madison Carpenter,1,5.9,9.6
+1316.8,1336.8,15. Ellie Madison Carpenter,Portland Thorns,1st half,5.9,9.6,3. Lauren Kate Barnes,0,38.2,4.8
+1319.85,1339.85,3. Lauren Kate Barnes,OL Reign,1st half,67.0,66.3,15. Ellie Madison Carpenter,0,70.3,68.0
+1339.13,1359.13,15. Ellie Madison Carpenter,Portland Thorns,1st half,34.7,0.0,12. Christine Margaret Sinclair,1,62.6,8.6
+1339.36,1359.36,12. Christine Margaret Sinclair,Portland Thorns,1st half,54.8,6.5,7. Stephanie-Elise Catley,0,62.6,8.6
+1341.01,1361.01,7. Stephanie-Elise Catley,OL Reign,1st half,42.8,59.4,6. Alexandra Linsley Long Batista,1,47.7,50.3
+1348.34,1368.34,6. Alexandra Linsley Long Batista,OL Reign,1st half,47.5,32.6,4. Megan Leigh Oyster,1,37.0,10.5
+1352.83,1372.83,4. Megan Leigh Oyster,OL Reign,1st half,44.5,11.3,6. Alexandra Linsley Long Batista,1,43.9,20.1
+1355.02,1375.02,6. Alexandra Linsley Long Batista,OL Reign,1st half,41.6,25.6,3. Lauren Kate Barnes,1,40.3,47.4
+1362.41,1382.41,3. Lauren Kate Barnes,OL Reign,1st half,61.1,55.5,14. Jodie Lee Taylor,1,92.2,47.4
+1364.45,1384.45,14. Jodie Lee Taylor,OL Reign,1st half,92.2,47.4,16. Emily Ann Sonnett,1,15.5,21.5
+1368.18,1388.18,30. Celeste Anais Boureille,Portland Thorns,1st half,25.6,24.2,8. Theresa Eslund,0,38.0,68.0
+1392.9,1412.9,8. Theresa Eslund,OL Reign,1st half,67.0,0.0,20. Rumi Utsugi,1,71.8,8.1
+1393.73,1413.73,20. Rumi Utsugi,OL Reign,1st half,71.8,8.1,22. Jasmyne Spencer,1,88.6,9.1
+1404.67,1424.67,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,14.1,63.2,4. Megan Leigh Oyster,1,45.2,59.4
+1407.88,1427.88,6. Alexandra Linsley Long Batista,OL Reign,1st half,63.0,9.1,12. Christine Margaret Sinclair,0,64.7,9.8
+1442.48,1462.48,15. Ellie Madison Carpenter,Portland Thorns,1st half,10.9,7.4,7. Stephanie-Elise Catley,0,27.7,0.0
+1462.49,1482.49,7. Stephanie-Elise Catley,OL Reign,1st half,77.3,68.0,15. Megan Anna Rapinoe,1,84.8,61.8
+1463.12,1483.12,15. Megan Anna Rapinoe,OL Reign,1st half,84.8,61.8,30. Celeste Anais Boureille,0,78.8,63.9
+1465.49,1485.49,7. Stephanie-Elise Catley,OL Reign,1st half,75.6,64.2,15. Megan Anna Rapinoe,1,83.6,60.3
+1496.88,1516.88,15. Megan Anna Rapinoe,OL Reign,1st half,105.0,68.0,24. Adrianna Nichole Franch,0,102.1,32.8
+1505.58,1525.58,24. Adrianna Nichole Franch,Portland Thorns,1st half,8.6,30.2,7. Stephanie-Elise Catley,0,61.1,0.0
+1514.05,1534.05,7. Stephanie-Elise Catley,OL Reign,1st half,43.9,68.0,10. Jessica Anne Fishlock,1,44.9,58.7
+1518.75,1538.75,10. Jessica Anne Fishlock,OL Reign,1st half,45.6,56.7,20. Rumi Utsugi,1,33.4,36.6
+1521.69,1541.69,20. Rumi Utsugi,OL Reign,1st half,32.3,34.2,4. Megan Leigh Oyster,1,31.1,19.9
+1523.51,1543.51,4. Megan Leigh Oyster,OL Reign,1st half,31.1,19.9,25. Meghan Elizabeth Klingenberg,0,53.5,0.0
+1530.71,1550.71,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,51.5,68.0,10. Lindsey Michelle Horan,1,56.3,62.7
+1531.63,1551.63,10. Lindsey Michelle Horan,Portland Thorns,1st half,56.3,62.7,25. Meghan Elizabeth Klingenberg,1,50.8,67.8
+1534.23,1554.23,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,48.9,67.3,10. Lindsey Michelle Horan,1,48.9,61.5
+1535.81,1555.81,10. Lindsey Michelle Horan,Portland Thorns,1st half,48.7,60.1,30. Celeste Anais Boureille,1,48.7,50.0
+1538.52,1558.52,30. Celeste Anais Boureille,Portland Thorns,1st half,48.1,45.7,16. Emily Ann Sonnett,1,36.8,38.5
+1542.39,1562.39,16. Emily Ann Sonnett,Portland Thorns,1st half,32.1,38.3,24. Adrianna Nichole Franch,1,14.1,35.7
+1545.79,1565.79,24. Adrianna Nichole Franch,Portland Thorns,1st half,15.3,32.1,7. Stephanie-Elise Catley,0,50.4,0.0
+1557.06,1577.06,7. Stephanie-Elise Catley,OL Reign,1st half,54.6,68.0,15. Megan Anna Rapinoe,1,73.5,60.3
+1560.55,1580.55,15. Megan Anna Rapinoe,OL Reign,1st half,69.3,56.7,20. Rumi Utsugi,1,57.1,54.6
+1563.51,1583.51,20. Rumi Utsugi,OL Reign,1st half,57.1,59.1,7. Stephanie-Elise Catley,1,62.2,65.1
+1564.19,1584.19,7. Stephanie-Elise Catley,OL Reign,1st half,62.2,65.1,23. Margaret Purce,0,65.3,63.2
+1565.69,1585.69,23. Margaret Purce,Portland Thorns,1st half,37.2,3.1,7. Stephanie-Elise Catley,0,46.8,0.0
+1576.33,1596.33,7. Stephanie-Elise Catley,OL Reign,1st half,58.2,68.0,10. Jessica Anne Fishlock,1,79.4,62.5
+1582.82,1602.82,10. Jessica Anne Fishlock,OL Reign,1st half,84.4,65.6,15. Megan Anna Rapinoe,1,80.0,59.6
+1583.44,1603.44,15. Megan Anna Rapinoe,OL Reign,1st half,80.0,59.6,10. Jessica Anne Fishlock,1,91.6,62.3
+1722.94,1742.94,10. Lindsey Michelle Horan,Portland Thorns,1st half,41.4,41.2,23. Margaret Purce,1,68.9,8.9
+1724.88,1744.88,23. Margaret Purce,Portland Thorns,1st half,68.9,8.9,1. Lydia Grace Yilkari Williams,0,100.4,31.6
+1752.84,1772.84,1. Lydia Grace Yilkari Williams,OL Reign,1st half,4.6,36.4,23. Margaret Purce,0,33.0,64.4
+1759.79,1779.79,23. Margaret Purce,Portland Thorns,1st half,93.7,9.1,3. Lauren Kate Barnes,0,96.0,23.9
+1760.58,1780.58,3. Lauren Kate Barnes,OL Reign,1st half,9.0,44.1,10. Jessica Anne Fishlock,1,22.5,46.0
+1765.91,1785.91,10. Jessica Anne Fishlock,OL Reign,1st half,34.0,50.3,14. Jodie Lee Taylor,1,49.1,44.8
+1778.46,1798.46,4. Megan Leigh Oyster,OL Reign,1st half,36.5,20.6,6. Alexandra Linsley Long Batista,1,31.3,30.2
+1780.82,1800.82,6. Alexandra Linsley Long Batista,OL Reign,1st half,30.0,32.3,20. Rumi Utsugi,1,33.4,44.1
+1782.71,1802.71,20. Rumi Utsugi,OL Reign,1st half,33.6,43.6,3. Lauren Kate Barnes,1,26.2,46.5
+1785.15,1805.15,3. Lauren Kate Barnes,OL Reign,1st half,26.9,48.1,30. Celeste Anais Boureille,0,51.2,50.5
+1786.53,1806.53,30. Celeste Anais Boureille,Portland Thorns,1st half,53.8,17.5,23. Margaret Purce,1,72.0,9.1
+1790.28,1810.28,20. Rumi Utsugi,OL Reign,1st half,39.1,52.0,15. Megan Anna Rapinoe,1,50.8,54.1
+1791.15,1811.15,15. Megan Anna Rapinoe,OL Reign,1st half,50.8,54.1,10. Jessica Anne Fishlock,1,48.5,49.6
+1796.08,1816.08,10. Jessica Anne Fishlock,OL Reign,1st half,62.6,52.4,15. Megan Anna Rapinoe,1,96.8,55.5
+1804.3,1824.3,15. Megan Anna Rapinoe,OL Reign,1st half,100.8,49.3,4. Emily Townsend Menges,1,5.0,34.0
+1817.09,1837.09,24. Adrianna Nichole Franch,Portland Thorns,1st half,7.3,39.7,10. Lindsey Michelle Horan,1,42.2,66.3
+1822.26,1842.26,10. Lindsey Michelle Horan,Portland Thorns,1st half,44.1,63.9,22. Jasmyne Spencer,0,42.2,66.3
+1829.0,1849.0,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,34.2,68.0,10. Lindsey Michelle Horan,1,32.8,57.0
+1831.77,1851.77,10. Lindsey Michelle Horan,Portland Thorns,1st half,32.1,58.9,10. Jessica Anne Fishlock,0,32.8,57.0
+1833.14,1853.14,10. Jessica Anne Fishlock,OL Reign,1st half,77.1,13.4,14. Jodie Lee Taylor,1,80.6,14.4
+1836.76,1856.76,14. Jodie Lee Taylor,OL Reign,1st half,79.8,18.9,10. Jessica Anne Fishlock,1,87.6,20.6
+1837.97,1857.97,10. Jessica Anne Fishlock,OL Reign,1st half,87.8,20.1,22. Jasmyne Spencer,1,91.8,7.9
+1841.28,1861.28,22. Jasmyne Spencer,OL Reign,1st half,97.9,8.9,15. Ellie Madison Carpenter,0,101.2,40.9
+1874.49,1894.49,15. Megan Anna Rapinoe,OL Reign,1st half,105.0,67.5,24. Adrianna Nichole Franch,0,102.3,33.0
+1897.54,1917.54,8. Theresa Eslund,OL Reign,1st half,91.1,0.0,20. Rumi Utsugi,1,81.5,8.6
+1900.62,1920.62,20. Rumi Utsugi,OL Reign,1st half,83.4,8.4,8. Theresa Eslund,1,84.6,1.2
+1902.81,1922.81,8. Theresa Eslund,OL Reign,1st half,85.1,1.2,20. Rumi Utsugi,1,77.1,3.8
+1905.5,1925.5,20. Rumi Utsugi,OL Reign,1st half,71.0,3.4,4. Megan Leigh Oyster,1,56.9,6.7
+1908.16,1928.16,4. Megan Leigh Oyster,OL Reign,1st half,56.1,12.7,3. Lauren Kate Barnes,1,48.5,32.1
+1911.93,1931.93,3. Lauren Kate Barnes,OL Reign,1st half,50.6,37.4,16. Emily Ann Sonnett,0,84.2,46.0
+1961.07,1981.07,7. Stephanie-Elise Catley,OL Reign,1st half,105.0,0.0,10. Lindsey Michelle Horan,1,4.2,33.8
+1980.68,2000.68,16. Emily Ann Sonnett,Portland Thorns,1st half,9.7,40.2,8. Theresa Eslund,1,70.1,11.0
+1991.61,2011.61,12. Christine Margaret Sinclair,Portland Thorns,1st half,84.2,35.9,23. Margaret Purce,1,96.0,13.2
+2000.35,2020.35,23. Margaret Purce,Portland Thorns,1st half,98.3,12.9,17. Tobin Powell Powell Heath,0,7.8,11.3
+2006.71,2026.71,17. Tobin Powell Powell Heath,Portland Thorns,1st half,98.7,58.9,25. Meghan Elizabeth Klingenberg,1,87.8,57.2
+2009.22,2029.22,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,88.0,57.0,10. Lindsey Michelle Horan,1,99.1,29.0
+2043.42,2063.42,1. Lydia Grace Yilkari Williams,OL Reign,1st half,5.0,39.0,10. Lindsey Michelle Horan,1,55.7,17.7
+2047.54,2067.54,15. Ellie Madison Carpenter,Portland Thorns,1st half,49.8,11.7,3. Lauren Kate Barnes,0,81.9,20.8
+2050.39,2070.39,3. Lauren Kate Barnes,OL Reign,1st half,23.1,47.2,12. Christine Margaret Sinclair,0,29.6,51.7
+2072.11,2092.11,7. Stephanie-Elise Catley,OL Reign,1st half,4.4,68.0,15. Megan Anna Rapinoe,1,9.4,65.1
+2075.75,2095.75,15. Megan Anna Rapinoe,OL Reign,1st half,9.4,65.1,7. Stephanie-Elise Catley,1,4.8,64.4
+2076.75,2096.75,7. Stephanie-Elise Catley,OL Reign,1st half,4.8,64.4,14. Jodie Lee Taylor,1,38.4,66.1
+2081.03,2101.03,14. Jodie Lee Taylor,OL Reign,1st half,37.0,61.3,25. Meghan Elizabeth Klingenberg,0,56.3,22.5
+2086.34,2106.34,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,44.3,51.2,4. Emily Townsend Menges,1,30.5,47.2
+2088.01,2108.01,4. Emily Townsend Menges,Portland Thorns,1st half,30.5,47.2,25. Meghan Elizabeth Klingenberg,1,97.7,37.1
+2093.27,2113.27,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,43.9,60.6,1. Lydia Grace Yilkari Williams,0,97.7,37.1
+2113.99,2133.99,1. Lydia Grace Yilkari Williams,OL Reign,1st half,14.1,31.4,15. Megan Anna Rapinoe,1,65.3,50.3
+2117.47,2137.47,15. Megan Anna Rapinoe,OL Reign,1st half,65.3,50.3,15. Ellie Madison Carpenter,1,39.7,17.7
+2139.92,2159.92,15. Ellie Madison Carpenter,Portland Thorns,1st half,7.8,0.0,7. Stephanie-Elise Catley,0,28.3,4.3
+2141.81,2161.81,7. Stephanie-Elise Catley,OL Reign,1st half,76.7,63.7,6. Alexandra Linsley Long Batista,1,71.8,61.5
+2144.29,2164.29,6. Alexandra Linsley Long Batista,OL Reign,1st half,69.3,59.1,3. Lauren Kate Barnes,1,39.1,56.0
+2148.18,2168.18,3. Lauren Kate Barnes,OL Reign,1st half,39.1,56.0,1. Lydia Grace Yilkari Williams,1,26.2,40.7
+2150.76,2170.76,1. Lydia Grace Yilkari Williams,OL Reign,1st half,26.2,41.2,3. Lauren Kate Barnes,1,30.0,55.8
+2156.05,2176.05,3. Lauren Kate Barnes,OL Reign,1st half,40.5,55.5,10. Jessica Anne Fishlock,1,67.6,52.0
+2161.08,2181.08,10. Jessica Anne Fishlock,OL Reign,1st half,55.7,47.4,6. Alexandra Linsley Long Batista,1,50.2,38.3
+2163.44,2183.44,6. Alexandra Linsley Long Batista,OL Reign,1st half,55.2,44.8,20. Rumi Utsugi,1,58.4,58.2
+2165.66,2185.66,20. Rumi Utsugi,OL Reign,1st half,60.3,56.0,22. Jasmyne Spencer,1,84.8,31.1
+2167.76,2187.76,22. Jasmyne Spencer,OL Reign,1st half,84.8,31.1,8. Theresa Eslund,1,95.1,15.6
+2170.72,2190.72,8. Theresa Eslund,OL Reign,1st half,95.1,15.6,22. Jasmyne Spencer,1,92.8,29.7
+2173.8,2193.8,22. Jasmyne Spencer,OL Reign,1st half,91.1,29.0,6. Alexandra Linsley Long Batista,1,82.5,22.5
+2209.79,2229.79,15. Megan Anna Rapinoe,OL Reign,1st half,105.0,68.0,24. Adrianna Nichole Franch,1,3.2,34.0
+2231.29,2251.29,24. Adrianna Nichole Franch,Portland Thorns,1st half,4.8,34.0,22. Jasmyne Spencer,1,56.3,6.9
+2234.67,2254.67,17. Tobin Powell Powell Heath,Portland Thorns,1st half,55.0,66.3,25. Meghan Elizabeth Klingenberg,1,48.1,66.6
+2238.21,2258.21,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,46.2,67.0,4. Emily Townsend Menges,1,58.8,60.3
+2239.99,2259.99,4. Emily Townsend Menges,Portland Thorns,1st half,33.8,65.6,6. Alexandra Linsley Long Batista,0,58.8,60.3
+2243.63,2263.63,3. Lauren Kate Barnes,OL Reign,1st half,34.2,17.2,20. Rumi Utsugi,1,46.8,22.0
+2247.06,2267.06,20. Rumi Utsugi,OL Reign,1st half,51.0,21.3,8. Theresa Eslund,1,56.1,4.8
+2250.21,2270.21,8. Theresa Eslund,OL Reign,1st half,55.7,6.7,6. Alexandra Linsley Long Batista,1,47.7,14.6
+2252.32,2272.32,6. Alexandra Linsley Long Batista,OL Reign,1st half,47.9,16.8,20. Rumi Utsugi,1,50.2,36.6
+2255.49,2275.49,20. Rumi Utsugi,OL Reign,1st half,50.2,38.5,3. Lauren Kate Barnes,1,46.6,53.6
+2258.6,2278.6,3. Lauren Kate Barnes,OL Reign,1st half,55.4,59.1,10. Jessica Anne Fishlock,1,65.3,50.0
+2263.09,2283.09,10. Jessica Anne Fishlock,OL Reign,1st half,74.3,61.3,7. Stephanie-Elise Catley,1,89.7,65.8
+2265.66,2285.66,7. Stephanie-Elise Catley,OL Reign,1st half,87.6,65.6,10. Jessica Anne Fishlock,1,75.6,62.0
+2269.01,2289.01,10. Jessica Anne Fishlock,OL Reign,1st half,72.7,59.1,4. Emily Townsend Menges,0,89.2,35.2
+2273.4,2293.4,22. Jasmyne Spencer,OL Reign,1st half,87.6,20.6,8. Theresa Eslund,1,93.9,14.8
+2274.6,2294.6,8. Theresa Eslund,OL Reign,1st half,93.9,14.8,15. Megan Anna Rapinoe,1,0.0,0.0
+2279.05,2299.05,15. Ellie Madison Carpenter,Portland Thorns,1st half,1.0,18.9,10. Jessica Anne Fishlock,0,27.9,14.4
+2283.39,2303.39,10. Jessica Anne Fishlock,OL Reign,1st half,76.7,67.0,15. Ellie Madison Carpenter,0,41.6,60.8
+2314.78,2334.78,15. Ellie Madison Carpenter,Portland Thorns,1st half,39.9,0.0,20. Rumi Utsugi,0,63.4,7.2
+2316.41,2336.41,20. Rumi Utsugi,OL Reign,1st half,41.6,60.8,10. Jessica Anne Fishlock,1,48.7,57.7
+2317.13,2337.13,10. Jessica Anne Fishlock,OL Reign,1st half,48.7,57.7,14. Jodie Lee Taylor,1,56.7,62.7
+2319.08,2339.08,14. Jodie Lee Taylor,OL Reign,1st half,56.7,62.7,15. Ellie Madison Carpenter,0,29.8,63.2
+2324.08,2344.08,15. Ellie Madison Carpenter,Portland Thorns,1st half,55.0,0.0,7. Stephanie-Elise Catley,0,75.2,4.8
+2325.19,2345.19,7. Stephanie-Elise Catley,OL Reign,1st half,29.8,63.2,6. Alexandra Linsley Long Batista,1,30.2,55.3
+2326.95,2346.95,6. Alexandra Linsley Long Batista,OL Reign,1st half,30.2,55.3,12. Christine Margaret Sinclair,1,74.8,12.7
+2328.4,2348.4,15. Megan Anna Rapinoe,OL Reign,1st half,40.5,58.4,22. Jasmyne Spencer,1,35.3,39.0
+2331.91,2351.91,22. Jasmyne Spencer,OL Reign,1st half,38.2,31.6,8. Theresa Eslund,1,34.0,11.3
+2334.23,2354.23,8. Theresa Eslund,OL Reign,1st half,33.6,12.9,6. Alexandra Linsley Long Batista,1,32.3,21.5
+2336.66,2356.66,6. Alexandra Linsley Long Batista,OL Reign,1st half,35.3,22.3,30. Celeste Anais Boureille,0,44.7,30.2
+2388.69,2408.69,17. Tobin Powell Powell Heath,Portland Thorns,1st half,73.1,22.0,6. Alexandra Linsley Long Batista,1,9.2,31.4
+2394.98,2414.98,23. Margaret Purce,Portland Thorns,1st half,92.0,51.5,1. Lydia Grace Yilkari Williams,0,101.2,38.8
+2481.94,2501.94,1. Lydia Grace Yilkari Williams,OL Reign,1st half,6.9,29.7,30. Celeste Anais Boureille,1,56.5,38.8
+2484.71,2504.71,30. Celeste Anais Boureille,Portland Thorns,1st half,56.5,38.8,10. Jessica Anne Fishlock,1,48.5,29.2
+2487.67,2507.67,9. Caitlin Jade Foord,Portland Thorns,1st half,72.7,28.7,23. Margaret Purce,1,72.4,18.0
+2492.24,2512.24,23. Margaret Purce,Portland Thorns,1st half,70.3,16.5,12. Christine Margaret Sinclair,1,76.4,22.5
+2494.36,2514.36,12. Christine Margaret Sinclair,Portland Thorns,1st half,78.5,24.4,23. Margaret Purce,1,91.6,13.2
+2497.69,2517.69,23. Margaret Purce,Portland Thorns,1st half,98.9,9.6,10. Lindsey Michelle Horan,0,2.1,7.4
+2505.77,2525.77,10. Lindsey Michelle Horan,Portland Thorns,1st half,92.0,66.1,30. Celeste Anais Boureille,1,81.5,50.0
+2507.84,2527.84,30. Celeste Anais Boureille,Portland Thorns,1st half,85.5,51.2,17. Tobin Powell Powell Heath,1,97.7,52.7
+2511.97,2531.97,22. Jasmyne Spencer,OL Reign,1st half,9.7,15.6,4. Emily Townsend Menges,0,51.0,2.9
+2516.65,2536.65,4. Emily Townsend Menges,Portland Thorns,1st half,54.0,65.1,25. Meghan Elizabeth Klingenberg,1,56.9,58.2
+2520.61,2540.61,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,65.1,54.6,10. Lindsey Michelle Horan,1,63.4,62.3
+2522.74,2542.74,10. Lindsey Michelle Horan,Portland Thorns,1st half,63.4,62.3,17. Tobin Powell Powell Heath,1,73.9,67.0
+2527.3,2547.3,17. Tobin Powell Powell Heath,Portland Thorns,1st half,78.5,66.8,10. Lindsey Michelle Horan,1,70.8,63.5
+2529.68,2549.68,10. Lindsey Michelle Horan,Portland Thorns,1st half,72.7,59.9,1. Lydia Grace Yilkari Williams,0,101.2,34.2
+2543.99,2563.99,1. Lydia Grace Yilkari Williams,OL Reign,1st half,14.9,35.9,15. Megan Anna Rapinoe,1,63.2,61.1
+2548.2,2598.2,10. Lindsey Michelle Horan,Portland Thorns,1st half,85.9,37.1,17. Tobin Powell Powell Heath,1,100.8,41.7
+2554.05,2574.05,15. Ellie Madison Carpenter,Portland Thorns,1st half,36.5,0.0,12. Christine Margaret Sinclair,1,59.4,9.6
+2554.91,2574.91,12. Christine Margaret Sinclair,Portland Thorns,1st half,59.4,9.6,20. Rumi Utsugi,1,45.6,58.4
+2559.38,2579.38,9. Caitlin Jade Foord,Portland Thorns,1st half,62.6,21.1,10. Lindsey Michelle Horan,1,71.6,38.5
+2642.56,2662.56,7. Stephanie-Elise Catley,OL Reign,1st half,97.0,68.0,14. Jodie Lee Taylor,1,96.0,55.3
+2643.75,2663.75,14. Jodie Lee Taylor,OL Reign,1st half,102.5,56.7,30. Celeste Anais Boureille,0,96.0,55.3
+2644.79,2664.79,30. Celeste Anais Boureille,Portland Thorns,1st half,9.0,12.7,15. Ellie Madison Carpenter,1,4.0,8.4
+2645.74,2665.74,15. Ellie Madison Carpenter,Portland Thorns,1st half,4.0,8.4,6. Alexandra Linsley Long Batista,1,79.6,52.4
+2676.98,2696.98,24. Adrianna Nichole Franch,Portland Thorns,1st half,25.8,17.7,17. Tobin Powell Powell Heath,1,90.5,38.3
+2681.57,2701.57,17. Tobin Powell Powell Heath,Portland Thorns,1st half,86.3,48.1,4. Megan Leigh Oyster,0,90.5,38.3
+2684.06,2704.06,4. Megan Leigh Oyster,OL Reign,1st half,19.3,27.8,14. Jodie Lee Taylor,1,44.7,31.4
+2690.94,2710.94,10. Lindsey Michelle Horan,Portland Thorns,1st half,72.0,12.0,3. Lauren Kate Barnes,1,22.5,53.6
+2707.0,2727.0,23. Margaret Purce,Portland Thorns,1st half,97.7,12.2,8. Theresa Eslund,0,97.0,68.0
+2735.68,2755.68,8. Theresa Eslund,OL Reign,1st half,8.0,0.0,22. Jasmyne Spencer,1,17.4,1.4
+2736.64,2756.64,17. Tobin Powell Powell Heath,Portland Thorns,1st half,87.6,66.6,22. Jasmyne Spencer,1,17.4,1.4
+2743.78,2763.78,4. Megan Leigh Oyster,OL Reign,1st half,13.9,5.0,4. Emily Townsend Menges,0,47.0,0.2
+2746.07,2766.07,4. Emily Townsend Menges,Portland Thorns,1st half,58.0,67.8,25. Meghan Elizabeth Klingenberg,1,68.9,67.3
+2747.01,2767.01,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,68.9,67.3,30. Celeste Anais Boureille,1,68.9,61.1
+2748.0,2768.0,30. Celeste Anais Boureille,Portland Thorns,1st half,68.9,61.1,22. Jasmyne Spencer,0,68.5,64.9
+2762.22,2782.22,8. Theresa Eslund,OL Reign,1st half,33.6,0.0,25. Meghan Elizabeth Klingenberg,1,57.1,64.9
+2765.32,2785.32,30. Celeste Anais Boureille,Portland Thorns,1st half,60.7,62.7,17. Tobin Powell Powell Heath,1,72.0,66.3
+2778.32,2798.32,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,69.1,68.0,12. Christine Margaret Sinclair,1,74.8,62.7
+2779.71,2799.71,12. Christine Margaret Sinclair,Portland Thorns,1st half,71.8,63.5,25. Meghan Elizabeth Klingenberg,1,68.2,67.3
+2780.97,2800.97,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,68.2,67.3,6. Alexandra Linsley Long Batista,0,71.4,64.2
+2783.65,2803.65,25. Meghan Elizabeth Klingenberg,Portland Thorns,1st half,73.7,65.6,12. Christine Margaret Sinclair,1,77.3,60.1
+2785.02,2805.02,12. Christine Margaret Sinclair,Portland Thorns,1st half,76.0,59.1,10. Lindsey Michelle Horan,1,67.8,53.6
+2787.46,2807.46,10. Lindsey Michelle Horan,Portland Thorns,1st half,67.8,50.8,15. Ellie Madison Carpenter,1,72.4,15.3
+2808.95,2828.95,1. Lydia Grace Yilkari Williams,OL Reign,1st half,15.8,35.2,15. Megan Anna Rapinoe,1,54.0,57.2
+2811.88,2831.88,15. Megan Anna Rapinoe,OL Reign,1st half,54.0,57.2,30. Celeste Anais Boureille,1,42.6,17.2
+2813.22,2833.22,30. Celeste Anais Boureille,Portland Thorns,1st half,42.6,17.2,10. Jessica Anne Fishlock,1,62.4,50.8
+2854.03,2872.75,16. Emily Ann Sonnett,Portland Thorns,2nd half,32.6,22.3,9. Caitlin Jade Foord,0,52.5,34.2
+2854.03,2868.09,9. Caitlin Jade Foord,Portland Thorns,2nd half,52.5,33.8,10. Lindsey Michelle Horan,1,39.1,36.4
+2854.03,2870.0,10. Lindsey Michelle Horan,Portland Thorns,2nd half,39.1,36.4,3. Lauren Kate Barnes,1,33.0,49.1
+2855.29,2875.29,3. Lauren Kate Barnes,OL Reign,2nd half,33.0,49.1,15. Megan Anna Rapinoe,1,46.6,59.6
+2857.18,2877.18,15. Megan Anna Rapinoe,OL Reign,2nd half,46.6,59.6,15. Ellie Madison Carpenter,0,55.4,61.1
+2858.88,2878.88,15. Ellie Madison Carpenter,Portland Thorns,2nd half,49.6,6.9,15. Megan Anna Rapinoe,0,52.1,3.6
+2860.06,2880.06,15. Megan Anna Rapinoe,OL Reign,2nd half,52.9,64.4,10. Jessica Anne Fishlock,1,58.2,60.3
+2860.77,2880.77,10. Jessica Anne Fishlock,OL Reign,2nd half,58.2,60.3,15. Ellie Madison Carpenter,0,71.4,66.1
+2863.74,2883.74,15. Ellie Madison Carpenter,Portland Thorns,2nd half,33.6,1.9,16. Emily Ann Sonnett,1,16.2,3.8
+2866.72,2886.72,16. Emily Ann Sonnett,Portland Thorns,2nd half,16.2,3.8,20. Rumi Utsugi,0,47.7,5.0
+2868.29,2888.29,20. Rumi Utsugi,OL Reign,2nd half,57.3,63.0,6. Alexandra Linsley Long Batista,1,54.2,40.5
+2873.65,2893.65,6. Alexandra Linsley Long Batista,OL Reign,2nd half,48.1,42.6,4. Megan Leigh Oyster,1,30.7,35.9
+2875.64,2895.64,4. Megan Leigh Oyster,OL Reign,2nd half,30.7,35.9,3. Lauren Kate Barnes,1,27.9,55.3
+2878.85,2898.85,3. Lauren Kate Barnes,OL Reign,2nd half,32.5,57.9,15. Megan Anna Rapinoe,1,58.2,61.1
+2881.67,2901.67,15. Megan Anna Rapinoe,OL Reign,2nd half,55.7,59.1,20. Rumi Utsugi,1,47.0,58.2
+2882.88,2902.88,20. Rumi Utsugi,OL Reign,2nd half,47.0,58.2,4. Emily Townsend Menges,0,94.7,50.0
+2915.88,2935.88,15. Megan Anna Rapinoe,OL Reign,2nd half,105.0,68.0,6. Alexandra Linsley Long Batista,1,102.3,28.5
+2940.91,2960.91,24. Adrianna Nichole Franch,Portland Thorns,2nd half,5.0,39.7,4. Megan Leigh Oyster,0,71.4,51.7
+2945.69,2965.69,4. Megan Leigh Oyster,OL Reign,2nd half,33.6,16.3,20. Rumi Utsugi,1,40.3,20.4
+3003.98,3023.98,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,73.1,57.9,16. Emily Ann Sonnett,1,94.7,35.4
+3005.68,3025.68,16. Emily Ann Sonnett,Portland Thorns,2nd half,94.7,35.4,1. Lydia Grace Yilkari Williams,0,99.8,32.6
+3026.56,3046.56,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,5.2,35.4,25. Meghan Elizabeth Klingenberg,1,69.7,61.5
+3034.63,3054.63,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,62.6,68.0,4. Megan Leigh Oyster,0,84.8,65.8
+3037.0,3057.0,4. Megan Leigh Oyster,OL Reign,2nd half,20.2,2.2,30. Celeste Anais Boureille,0,43.3,13.2
+3038.5,3058.5,30. Celeste Anais Boureille,Portland Thorns,2nd half,61.7,54.8,10. Lindsey Michelle Horan,1,64.5,60.1
+3040.41,3060.41,10. Lindsey Michelle Horan,Portland Thorns,2nd half,64.7,59.9,25. Meghan Elizabeth Klingenberg,1,64.3,66.1
+3042.48,3062.48,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,70.1,65.8,6. Alexandra Linsley Long Batista,0,75.2,61.3
+3044.56,3064.56,6. Alexandra Linsley Long Batista,OL Reign,2nd half,30.2,1.9,30. Celeste Anais Boureille,0,40.7,8.6
+3048.69,3068.69,12. Christine Margaret Sinclair,Portland Thorns,2nd half,69.5,63.2,17. Tobin Powell Powell Heath,1,80.6,63.7
+3071.87,3091.87,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,77.1,61.5,16. Emily Ann Sonnett,1,89.9,36.9
+3093.06,3113.06,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,5.0,32.8,10. Lindsey Michelle Horan,0,43.0,15.6
+3095.88,3115.88,10. Lindsey Michelle Horan,Portland Thorns,2nd half,62.0,52.4,17. Tobin Powell Powell Heath,1,74.1,54.1
+3097.03,3117.03,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,74.1,54.1,8. Theresa Eslund,0,82.3,68.0
+3108.05,3128.05,8. Theresa Eslund,OL Reign,2nd half,22.7,0.0,14. Jodie Lee Taylor,1,46.4,7.9
+3111.48,3131.48,14. Jodie Lee Taylor,OL Reign,2nd half,47.0,7.7,22. Jasmyne Spencer,1,46.6,3.1
+3180.9,3200.9,15. Megan Anna Rapinoe,OL Reign,2nd half,76.7,7.4,4. Emily Townsend Menges,0,94.7,25.1
+3208.31,3228.31,7. Stephanie-Elise Catley,OL Reign,2nd half,105.0,0.0,24. Adrianna Nichole Franch,0,102.1,34.7
+3218.79,3238.79,24. Adrianna Nichole Franch,Portland Thorns,2nd half,11.6,34.7,3. Lauren Kate Barnes,0,67.0,41.7
+3221.56,3241.56,3. Lauren Kate Barnes,OL Reign,2nd half,38.0,26.3,22. Jasmyne Spencer,1,60.5,18.7
+3223.98,3243.98,22. Jasmyne Spencer,OL Reign,2nd half,60.5,18.7,14. Jodie Lee Taylor,1,70.8,23.2
+3225.58,3245.58,14. Jodie Lee Taylor,OL Reign,2nd half,70.8,23.2,16. Emily Ann Sonnett,0,73.3,33.0
+3226.23,3246.23,16. Emily Ann Sonnett,Portland Thorns,2nd half,31.7,35.0,15. Megan Anna Rapinoe,1,74.6,46.5
+3268.94,3288.94,7. Stephanie-Elise Catley,OL Reign,2nd half,105.0,0.0,15. Megan Anna Rapinoe,1,100.0,36.6
+3301.33,3321.33,15. Megan Anna Rapinoe,OL Reign,2nd half,105.0,68.0,17. Tobin Powell Powell Heath,0,91.3,48.4
+3309.11,3329.11,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,44.5,16.8,3. Lauren Kate Barnes,0,69.9,28.3
+3312.89,3332.89,3. Lauren Kate Barnes,OL Reign,2nd half,36.5,41.9,25. Meghan Elizabeth Klingenberg,0,70.1,55.5
+3315.21,3335.21,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,34.9,12.5,7. Ana Maria Crnogorcevic,1,44.3,14.8
+3317.48,3337.48,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,43.7,15.8,30. Celeste Anais Boureille,1,42.6,22.5
+3319.88,3339.88,30. Celeste Anais Boureille,Portland Thorns,2nd half,44.5,24.7,10. Lindsey Michelle Horan,1,46.2,49.1
+3323.58,3343.58,10. Lindsey Michelle Horan,Portland Thorns,2nd half,45.8,46.0,7. Ana Maria Crnogorcevic,1,58.2,0.5
+3332.66,3352.66,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,76.9,5.3,15. Ellie Madison Carpenter,1,94.3,4.1
+3368.92,3388.92,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,105.0,0.0,30. Celeste Anais Boureille,1,102.3,26.3
+3371.38,3391.38,14. Jodie Lee Taylor,OL Reign,2nd half,2.5,41.4,22. Jasmyne Spencer,1,11.6,52.4
+3374.13,3394.13,22. Jasmyne Spencer,OL Reign,2nd half,9.9,53.4,25. Meghan Elizabeth Klingenberg,0,11.3,53.6
+3376.78,3396.78,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,100.2,5.3,17. Tobin Powell Powell Heath,1,93.2,4.5
+3441.88,3461.88,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,89.2,6.0,10. Lindsey Michelle Horan,1,97.9,31.6
+3464.22,3484.22,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,6.9,36.6,30. Celeste Anais Boureille,1,57.5,12.9
+3467.29,3487.29,30. Celeste Anais Boureille,Portland Thorns,2nd half,57.5,12.9,7. Ana Maria Crnogorcevic,1,61.3,0.5
+3472.02,3492.02,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,63.4,3.1,20. Rumi Utsugi,0,69.5,10.3
+3473.15,3493.15,20. Rumi Utsugi,OL Reign,2nd half,35.5,57.7,15. Megan Anna Rapinoe,1,44.7,64.2
+3514.13,3534.13,3. Lauren Kate Barnes,OL Reign,2nd half,54.8,65.6,10. Jessica Anne Fishlock,1,79.4,50.5
+3516.15,3536.15,10. Jessica Anne Fishlock,OL Reign,2nd half,79.4,50.5,15. Megan Anna Rapinoe,1,84.0,53.4
+3521.36,3541.36,10. Lindsey Michelle Horan,Portland Thorns,2nd half,19.3,23.2,12. Christine Margaret Sinclair,1,29.8,28.7
+3583.41,3603.41,24. Adrianna Nichole Franch,Portland Thorns,2nd half,3.6,39.7,4. Emily Townsend Menges,1,10.5,61.5
+3585.6,3605.6,4. Emily Townsend Menges,Portland Thorns,2nd half,10.5,61.5,25. Meghan Elizabeth Klingenberg,1,39.5,67.0
+3590.8,3610.8,22. Jasmyne Spencer,OL Reign,2nd half,61.3,4.5,6. Alexandra Linsley Long Batista,1,57.5,12.7
+3592.91,3612.91,6. Alexandra Linsley Long Batista,OL Reign,2nd half,58.0,16.0,20. Rumi Utsugi,1,68.5,27.1
+3595.16,3615.16,20. Rumi Utsugi,OL Reign,2nd half,70.3,30.2,15. Ellie Madison Carpenter,0,82.7,45.0
+3601.07,3621.07,15. Ellie Madison Carpenter,Portland Thorns,2nd half,40.3,9.8,9. Caitlin Jade Foord,1,60.9,14.8
+3630.13,3650.13,16. Emily Ann Sonnett,Portland Thorns,2nd half,61.1,15.3,1. Lydia Grace Yilkari Williams,1,9.2,33.0
+3634.65,3654.65,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,91.1,30.4,20. Rumi Utsugi,0,91.1,30.4
+3637.46,3657.46,15. Megan Anna Rapinoe,OL Reign,2nd half,14.5,50.8,8. Theresa Eslund,1,6.5,53.9
+3638.95,3658.95,8. Theresa Eslund,OL Reign,2nd half,6.5,53.9,30. Celeste Anais Boureille,0,37.2,55.1
+3641.67,3661.67,30. Celeste Anais Boureille,Portland Thorns,2nd half,70.3,10.3,7. Ana Maria Crnogorcevic,1,84.2,11.3
+3646.15,3666.15,3. Lauren Kate Barnes,OL Reign,2nd half,8.4,52.4,30. Celeste Anais Boureille,0,41.4,59.6
+3648.28,3668.28,30. Celeste Anais Boureille,Portland Thorns,2nd half,63.6,8.4,20. Rumi Utsugi,0,74.8,13.9
+3652.68,3672.68,7. Stephanie-Elise Catley,OL Reign,2nd half,28.6,61.5,15. Megan Anna Rapinoe,1,35.3,62.5
+3657.0,3677.0,15. Megan Anna Rapinoe,OL Reign,2nd half,29.0,52.0,8. Theresa Eslund,1,33.0,20.1
+3666.19,3686.19,8. Theresa Eslund,OL Reign,2nd half,68.7,2.6,25. Meghan Elizabeth Klingenberg,1,23.1,65.1
+3673.92,3693.92,8. Theresa Eslund,OL Reign,2nd half,79.4,0.0,4. Emily Townsend Menges,0,96.0,9.1
+3678.54,3698.54,4. Emily Townsend Menges,Portland Thorns,2nd half,12.6,64.2,12. Christine Margaret Sinclair,1,15.1,65.6
+3682.5,3702.5,12. Christine Margaret Sinclair,Portland Thorns,2nd half,15.1,65.6,25. Meghan Elizabeth Klingenberg,1,5.7,66.3
+3683.62,3703.62,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,5.7,66.3,4. Megan Leigh Oyster,0,34.7,62.7
+3688.35,3708.35,4. Megan Leigh Oyster,OL Reign,2nd half,81.5,9.6,25. Meghan Elizabeth Klingenberg,0,94.1,7.9
+3689.76,3709.76,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,10.9,60.1,4. Megan Leigh Oyster,0,16.8,60.3
+3765.33,3785.33,24. Adrianna Nichole Franch,Portland Thorns,2nd half,10.9,58.7,10. Lindsey Michelle Horan,1,65.3,51.0
+3768.66,3788.66,6. Alexandra Linsley Long Batista,OL Reign,2nd half,39.7,17.0,10. Lindsey Michelle Horan,1,65.3,51.0
+3770.23,3790.23,15. Megan Anna Rapinoe,OL Reign,2nd half,49.6,23.5,14. Jodie Lee Taylor,0,39.9,40.9
+3807.82,3827.82,24. Adrianna Nichole Franch,Portland Thorns,2nd half,42.0,31.6,10. Lindsey Michelle Horan,1,89.5,36.6
+3844.9,3864.9,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,17.4,29.0,10. Lindsey Michelle Horan,0,55.0,8.9
+3847.37,3867.37,10. Lindsey Michelle Horan,Portland Thorns,2nd half,50.0,59.1,4. Megan Leigh Oyster,0,75.0,55.1
+3851.17,3871.17,4. Megan Leigh Oyster,OL Reign,2nd half,30.0,10.5,8. Theresa Eslund,1,39.5,4.3
+3853.24,3873.24,8. Theresa Eslund,OL Reign,2nd half,42.0,3.1,4. Emily Townsend Menges,0,73.7,10.8
+3857.87,3877.87,4. Emily Townsend Menges,Portland Thorns,2nd half,26.0,64.2,22. Jasmyne Spencer,0,29.0,64.9
+3864.5,3884.5,10. Jessica Anne Fishlock,OL Reign,2nd half,79.0,6.5,8. Theresa Eslund,1,76.0,2.6
+3866.74,3886.74,8. Theresa Eslund,OL Reign,2nd half,74.8,2.9,6. Alexandra Linsley Long Batista,1,60.7,7.9
+3869.84,3889.84,6. Alexandra Linsley Long Batista,OL Reign,2nd half,58.2,11.3,4. Megan Leigh Oyster,1,37.4,8.4
+3872.79,3892.79,4. Megan Leigh Oyster,OL Reign,2nd half,34.9,12.7,1. Lydia Grace Yilkari Williams,1,17.9,32.1
+3876.93,3896.93,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,18.1,31.1,30. Celeste Anais Boureille,0,53.8,30.9
+3880.22,3900.22,30. Celeste Anais Boureille,Portland Thorns,2nd half,56.5,37.4,9. Caitlin Jade Foord,1,76.7,38.5
+3881.39,3901.39,9. Caitlin Jade Foord,Portland Thorns,2nd half,76.7,38.5,12. Christine Margaret Sinclair,1,75.4,47.4
+3882.97,3902.97,12. Christine Margaret Sinclair,Portland Thorns,2nd half,75.4,47.4,17. Tobin Powell Powell Heath,1,104.4,58.7
+3890.44,3910.44,4. Megan Leigh Oyster,OL Reign,2nd half,3.2,6.0,4. Emily Townsend Menges,0,44.7,11.5
+3892.75,3912.75,4. Emily Townsend Menges,Portland Thorns,2nd half,60.3,56.5,8. Theresa Eslund,0,79.2,68.0
+3909.27,3929.27,8. Theresa Eslund,OL Reign,2nd half,25.8,0.0,22. Jasmyne Spencer,1,37.0,4.3
+3912.38,3932.38,12. Christine Margaret Sinclair,Portland Thorns,2nd half,70.6,57.0,17. Tobin Powell Powell Heath,1,74.3,65.4
+3913.99,3933.99,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,77.3,64.6,9. Caitlin Jade Foord,1,82.1,59.4
+3917.86,3937.86,20. Rumi Utsugi,OL Reign,2nd half,27.3,22.5,7. Stephanie-Elise Catley,1,27.9,55.8
+3922.11,3942.11,7. Stephanie-Elise Catley,OL Reign,2nd half,27.9,55.8,3. Lauren Kate Barnes,1,26.9,52.4
+3925.17,3945.17,3. Lauren Kate Barnes,OL Reign,2nd half,26.9,52.4,7. Stephanie-Elise Catley,1,39.7,67.0
+3926.81,3946.81,7. Stephanie-Elise Catley,OL Reign,2nd half,39.7,67.0,15. Megan Anna Rapinoe,1,48.5,64.6
+3927.83,3947.83,15. Megan Anna Rapinoe,OL Reign,2nd half,48.5,64.6,7. Stephanie-Elise Catley,1,36.5,35.2
+3929.72,3949.72,7. Stephanie-Elise Catley,OL Reign,2nd half,39.5,61.1,17. Tobin Powell Powell Heath,0,36.5,35.2
+3934.0,3954.0,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,67.8,29.2,10. Lindsey Michelle Horan,1,71.4,38.8
+3936.49,3956.49,10. Lindsey Michelle Horan,Portland Thorns,2nd half,74.6,45.0,4. Megan Leigh Oyster,0,99.5,52.7
+3941.16,3961.16,4. Megan Leigh Oyster,OL Reign,2nd half,5.5,15.3,17. Tobin Powell Powell Heath,0,41.4,5.3
+3993.26,4013.26,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,63.8,62.7,10. Lindsey Michelle Horan,1,90.1,29.5
+4021.22,4041.22,15. Megan Anna Rapinoe,OL Reign,2nd half,54.6,60.3,15. Ellie Madison Carpenter,1,50.4,7.7
+4025.59,4045.59,14. Jodie Lee Taylor,OL Reign,2nd half,72.4,61.5,4. Emily Townsend Menges,0,95.8,54.4
+4029.75,4049.75,4. Emily Townsend Menges,Portland Thorns,2nd half,8.6,3.1,7. Stephanie-Elise Catley,0,34.4,1.9
+4040.97,4060.97,15. Ellie Madison Carpenter,Portland Thorns,2nd half,32.6,0.0,7. Ana Maria Crnogorcevic,1,46.0,2.9
+4042.64,4062.64,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,46.0,2.9,15. Megan Anna Rapinoe,1,59.0,65.1
+4044.48,4064.48,9. Caitlin Jade Foord,Portland Thorns,2nd half,58.2,6.2,12. Christine Margaret Sinclair,1,51.2,7.2
+4045.52,4065.52,12. Christine Margaret Sinclair,Portland Thorns,2nd half,51.2,7.2,20. Rumi Utsugi,0,54.0,6.2
+4073.7,4093.7,16. Emily Ann Sonnett,Portland Thorns,2nd half,49.3,9.6,9. Caitlin Jade Foord,1,83.4,27.5
+4076.27,4096.27,9. Caitlin Jade Foord,Portland Thorns,2nd half,83.4,27.5,6. Alexandra Linsley Long Batista,0,90.7,31.4
+4084.77,4104.77,16. Emily Ann Sonnett,Portland Thorns,2nd half,58.0,4.5,10. Lindsey Michelle Horan,1,87.6,32.3
+4086.88,4106.88,10. Lindsey Michelle Horan,Portland Thorns,2nd half,87.6,32.3,4. Megan Leigh Oyster,0,87.6,32.3
+4116.21,4136.21,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,4.8,35.9,30. Celeste Anais Boureille,1,59.8,10.3
+4119.17,4139.17,30. Celeste Anais Boureille,Portland Thorns,2nd half,59.8,10.3,20. Rumi Utsugi,0,59.8,10.3
+4124.09,4144.09,4. Megan Leigh Oyster,OL Reign,2nd half,30.2,41.9,12. Christine Margaret Sinclair,1,81.7,19.6
+4127.41,4147.41,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,82.3,16.0,9. Caitlin Jade Foord,0,11.6,39.0
+4182.9,4202.9,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,13.4,39.5,7. Ana Maria Crnogorcevic,0,53.5,63.7
+4195.21,4215.21,15. Megan Anna Rapinoe,OL Reign,2nd half,53.8,68.0,4. Megan Leigh Oyster,1,34.0,45.5
+4199.84,4219.84,4. Megan Leigh Oyster,OL Reign,2nd half,37.2,40.5,15. Megan Anna Rapinoe,1,84.2,60.6
+4219.65,4239.65,15. Megan Anna Rapinoe,OL Reign,2nd half,84.2,60.3,16. Emily Ann Sonnett,0,96.0,40.5
+4222.96,4242.96,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,24.6,35.0,10. Lindsey Michelle Horan,1,31.5,28.7
+4225.61,4245.61,10. Lindsey Michelle Horan,Portland Thorns,2nd half,38.6,29.2,12. Christine Margaret Sinclair,1,52.7,22.0
+4231.43,4251.43,12. Christine Margaret Sinclair,Portland Thorns,2nd half,75.8,12.2,8. Theresa Eslund,1,14.7,36.4
+4294.74,4314.74,15. Megan Anna Rapinoe,OL Reign,2nd half,44.5,54.1,10. Jessica Anne Fishlock,1,50.0,53.6
+4299.49,4319.49,10. Jessica Anne Fishlock,OL Reign,2nd half,59.6,59.9,15. Megan Anna Rapinoe,1,65.9,64.9
+4302.15,4322.15,15. Megan Anna Rapinoe,OL Reign,2nd half,73.5,64.9,24. Adrianna Nichole Franch,0,102.1,34.7
+4307.82,4327.82,24. Adrianna Nichole Franch,Portland Thorns,2nd half,14.3,38.8,25. Meghan Elizabeth Klingenberg,1,39.3,61.8
+4312.45,4332.45,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,39.3,61.8,8. Theresa Eslund,0,46.2,68.0
+4333.79,4353.79,8. Theresa Eslund,OL Reign,2nd half,58.8,0.0,10. Lindsey Michelle Horan,0,76.7,6.5
+4335.47,4355.47,10. Lindsey Michelle Horan,Portland Thorns,2nd half,28.3,61.5,10. Jessica Anne Fishlock,0,26.0,46.5
+4337.22,4357.22,10. Jessica Anne Fishlock,OL Reign,2nd half,71.8,13.9,16. Emily Ann Sonnett,0,79.0,21.5
+4340.32,4360.32,16. Emily Ann Sonnett,Portland Thorns,2nd half,27.1,38.8,9. Caitlin Jade Foord,1,69.3,29.5
+4346.36,4366.36,6. Alexandra Linsley Long Batista,OL Reign,2nd half,36.1,28.7,4. Megan Leigh Oyster,1,50.2,5.0
+4348.6,4368.6,4. Megan Leigh Oyster,OL Reign,2nd half,20.6,23.7,25. Meghan Elizabeth Klingenberg,0,50.2,5.0
+4350.76,4370.76,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,54.8,63.0,10. Lindsey Michelle Horan,1,57.1,56.5
+4354.52,4374.52,10. Lindsey Michelle Horan,Portland Thorns,2nd half,58.4,53.4,1. Lydia Grace Yilkari Williams,0,98.7,46.7
+4366.01,4386.01,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,11.1,38.1,20. Rumi Utsugi,1,27.9,39.3
+4368.4,4388.4,20. Rumi Utsugi,OL Reign,2nd half,27.9,39.3,6. Alexandra Linsley Long Batista,1,16.4,32.1
+4375.26,4395.26,6. Alexandra Linsley Long Batista,OL Reign,2nd half,16.4,32.1,1. Lydia Grace Yilkari Williams,1,6.3,36.4
+4379.67,4399.67,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,6.3,36.4,7. Stephanie-Elise Catley,1,45.6,59.9
+4382.55,4402.55,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,59.4,8.1,7. Stephanie-Elise Catley,1,45.6,59.9
+4388.18,4408.18,30. Celeste Anais Boureille,Portland Thorns,2nd half,65.1,17.2,3. Lauren Kate Barnes,1,13.9,51.7
+4420.01,4440.01,15. Ellie Madison Carpenter,Portland Thorns,2nd half,89.2,0.0,10. Jessica Anne Fishlock,1,6.7,50.0
+4422.0,4442.0,10. Jessica Anne Fishlock,OL Reign,2nd half,6.7,50.0,10. Lindsey Michelle Horan,1,98.3,18.0
+4424.34,4444.34,15. Megan Anna Rapinoe,OL Reign,2nd half,14.7,49.3,22. Jasmyne Spencer,1,39.1,10.3
+4430.01,4450.01,22. Jasmyne Spencer,OL Reign,2nd half,39.1,10.3,4. Emily Townsend Menges,0,70.8,5.3
+4434.7,4454.7,4. Emily Townsend Menges,Portland Thorns,2nd half,29.8,59.1,16. Emily Ann Sonnett,1,29.0,41.7
+4438.01,4458.01,16. Emily Ann Sonnett,Portland Thorns,2nd half,30.2,35.4,7. Stephanie-Elise Catley,0,72.9,18.9
+4440.87,4460.87,7. Stephanie-Elise Catley,OL Reign,2nd half,32.1,49.1,10. Lindsey Michelle Horan,0,49.3,39.7
+4444.98,4464.98,6. Alexandra Linsley Long Batista,OL Reign,2nd half,35.5,42.6,10. Lindsey Michelle Horan,0,36.8,42.1
+4446.44,4466.44,4. Megan Leigh Oyster,OL Reign,2nd half,25.0,34.2,7. Stephanie-Elise Catley,1,29.2,53.6
+4450.34,4470.34,7. Stephanie-Elise Catley,OL Reign,2nd half,31.1,63.5,15. Ellie Madison Carpenter,1,38.6,1.0
+4458.12,4478.12,15. Ellie Madison Carpenter,Portland Thorns,2nd half,21.4,2.4,16. Emily Ann Sonnett,1,10.9,9.1
+4459.41,4479.41,16. Emily Ann Sonnett,Portland Thorns,2nd half,10.9,9.1,30. Celeste Anais Boureille,1,31.9,12.5
+4538.14,4558.14,15. Ellie Madison Carpenter,Portland Thorns,2nd half,33.2,0.0,7. Ana Maria Crnogorcevic,1,47.2,2.2
+4539.7,4559.7,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,47.2,2.2,30. Celeste Anais Boureille,1,48.3,11.3
+4542.02,4562.02,30. Celeste Anais Boureille,Portland Thorns,2nd half,48.3,11.3,6. Alexandra Linsley Long Batista,0,56.3,12.0
+4548.23,4568.23,6. Alexandra Linsley Long Batista,OL Reign,2nd half,56.7,52.2,15. Ellie Madison Carpenter,0,71.0,68.0
+4559.93,4579.93,15. Ellie Madison Carpenter,Portland Thorns,2nd half,34.0,0.0,7. Ana Maria Crnogorcevic,1,47.0,3.4
+4560.38,4580.38,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,47.0,3.4,7. Stephanie-Elise Catley,0,56.3,6.7
+4561.93,4581.93,7. Stephanie-Elise Catley,OL Reign,2nd half,48.7,61.3,12. Christine Margaret Sinclair,1,48.7,9.8
+4562.93,4582.93,12. Christine Margaret Sinclair,Portland Thorns,2nd half,48.7,9.8,6. Alexandra Linsley Long Batista,0,48.7,9.8
+4564.67,4584.67,3. Lauren Kate Barnes,OL Reign,2nd half,41.6,54.6,20. Rumi Utsugi,1,50.0,46.5
+4566.13,4586.13,20. Rumi Utsugi,OL Reign,2nd half,50.0,46.5,10. Lindsey Michelle Horan,0,51.0,44.8
+4573.09,4593.09,10. Lindsey Michelle Horan,Portland Thorns,2nd half,86.5,32.3,4. Megan Leigh Oyster,0,86.1,34.7
+4576.19,4596.19,30. Celeste Anais Boureille,Portland Thorns,2nd half,75.6,40.5,17. Tobin Powell Powell Heath,1,85.1,61.5
+4585.82,4605.82,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,85.5,55.8,25. Meghan Elizabeth Klingenberg,1,96.8,63.0
+4594.86,4614.86,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,95.3,63.2,4. Emily Townsend Menges,1,61.1,58.2
+4599.22,4619.22,4. Emily Townsend Menges,Portland Thorns,2nd half,63.2,57.5,30. Celeste Anais Boureille,1,76.2,64.2
+4601.59,4621.59,30. Celeste Anais Boureille,Portland Thorns,2nd half,76.2,64.2,25. Meghan Elizabeth Klingenberg,1,84.4,66.8
+4603.65,4623.65,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,83.4,63.7,17. Tobin Powell Powell Heath,1,81.1,58.7
+4605.09,4625.09,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,78.3,57.9,30. Celeste Anais Boureille,1,71.8,58.4
+4606.62,4626.62,30. Celeste Anais Boureille,Portland Thorns,2nd half,73.1,56.7,1. Lydia Grace Yilkari Williams,0,100.6,35.0
+4612.57,4632.57,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,14.9,33.5,4. Emily Townsend Menges,1,46.6,37.6
+4615.66,4635.66,4. Emily Townsend Menges,Portland Thorns,2nd half,46.6,37.6,14. Jodie Lee Taylor,0,46.6,37.6
+4621.64,4641.64,22. Jasmyne Spencer,OL Reign,2nd half,79.0,2.9,25. Meghan Elizabeth Klingenberg,0,101.0,11.7
+4629.66,4649.66,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,1.7,60.3,4. Emily Townsend Menges,1,11.6,62.0
+4632.26,4652.26,4. Emily Townsend Menges,Portland Thorns,2nd half,11.6,62.0,12. Christine Margaret Sinclair,1,27.9,56.5
+4633.75,4653.75,12. Christine Margaret Sinclair,Portland Thorns,2nd half,27.9,56.5,9. Caitlin Jade Foord,1,44.3,64.9
+4652.04,4672.04,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,42.2,68.0,10. Lindsey Michelle Horan,1,42.6,59.6
+4652.87,4672.87,10. Lindsey Michelle Horan,Portland Thorns,2nd half,42.6,59.6,25. Meghan Elizabeth Klingenberg,1,42.4,66.1
+4656.49,4676.49,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,40.5,66.1,4. Emily Townsend Menges,1,32.8,65.6
+4657.32,4677.32,4. Emily Townsend Menges,Portland Thorns,2nd half,32.8,65.6,12. Christine Margaret Sinclair,1,56.1,59.9
+4658.97,4678.97,12. Christine Margaret Sinclair,Portland Thorns,2nd half,56.1,59.9,4. Megan Leigh Oyster,1,39.7,14.4
+4669.02,4689.02,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,76.4,54.6,10. Lindsey Michelle Horan,1,78.5,41.7
+4673.42,4693.42,12. Christine Margaret Sinclair,Portland Thorns,2nd half,78.5,42.1,15. Ellie Madison Carpenter,1,78.3,16.8
+4685.05,4705.05,30. Celeste Anais Boureille,Portland Thorns,2nd half,85.5,10.5,15. Ellie Madison Carpenter,1,103.1,5.0
+4687.83,4707.83,15. Ellie Madison Carpenter,Portland Thorns,2nd half,103.1,5.0,22. Jasmyne Spencer,0,96.8,40.7
+4689.88,4709.88,22. Jasmyne Spencer,OL Reign,2nd half,8.2,27.3,12. Christine Margaret Sinclair,0,25.8,50.0
+4690.63,4740.63,12. Christine Margaret Sinclair,Portland Thorns,2nd half,79.2,18.0,10. Lindsey Michelle Horan,1,96.6,35.7
+4692.62,4712.62,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,73.5,38.3,7. Ana Maria Crnogorcevic,1,84.0,20.6
+4694.03,4714.03,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,84.0,20.6,10. Lindsey Michelle Horan,1,81.7,27.8
+4701.35,4721.35,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,71.0,27.8,30. Celeste Anais Boureille,1,64.1,27.5
+4702.17,4722.17,30. Celeste Anais Boureille,Portland Thorns,2nd half,64.1,27.5,12. Christine Margaret Sinclair,1,72.4,18.7
+4815.02,4835.02,15. Ellie Madison Carpenter,Portland Thorns,2nd half,56.7,0.0,7. Ana Maria Crnogorcevic,1,67.8,2.2
+4818.59,4838.59,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,64.9,1.2,30. Celeste Anais Boureille,1,60.5,5.0
+4819.21,4839.21,30. Celeste Anais Boureille,Portland Thorns,2nd half,60.5,5.0,15. Ellie Madison Carpenter,1,55.7,1.7
+4820.76,4840.76,15. Ellie Madison Carpenter,Portland Thorns,2nd half,55.7,1.7,6. Alexandra Linsley Long Batista,0,78.5,16.5
+4825.42,4845.42,6. Alexandra Linsley Long Batista,OL Reign,2nd half,26.7,43.1,25. Meghan Elizabeth Klingenberg,0,41.4,13.2
+4828.37,4848.37,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,63.6,54.8,8. Theresa Eslund,0,66.6,55.3
+4835.82,4855.82,10. Lindsey Michelle Horan,Portland Thorns,2nd half,73.7,47.2,4. Megan Leigh Oyster,0,82.1,58.9
+4839.78,4859.78,4. Megan Leigh Oyster,OL Reign,2nd half,30.2,4.5,12. Christine Margaret Sinclair,0,33.2,3.4
+4855.65,4875.65,8. Theresa Eslund,OL Reign,2nd half,34.0,0.0,3. Lauren Kate Barnes,1,33.4,22.0
+4858.94,4878.94,3. Lauren Kate Barnes,OL Reign,2nd half,36.5,24.4,7. Stephanie-Elise Catley,1,46.2,59.1
+4863.52,4883.52,7. Stephanie-Elise Catley,OL Reign,2nd half,48.5,62.0,20. Rumi Utsugi,1,41.4,54.4
+4866.67,4886.67,20. Rumi Utsugi,OL Reign,2nd half,44.9,58.4,4. Emily Townsend Menges,0,79.0,43.6
+4868.67,4888.67,4. Emily Townsend Menges,Portland Thorns,2nd half,26.0,24.4,6. Alexandra Linsley Long Batista,0,42.6,30.6
+4870.85,4890.85,6. Alexandra Linsley Long Batista,OL Reign,2nd half,62.4,37.4,4. Megan Leigh Oyster,1,40.5,34.0
+4874.3,4894.3,4. Megan Leigh Oyster,OL Reign,2nd half,46.0,33.3,15. Ellie Madison Carpenter,0,82.3,52.7
+4877.1,4897.1,15. Ellie Madison Carpenter,Portland Thorns,2nd half,22.7,15.3,10. Jessica Anne Fishlock,0,30.7,18.0
+4878.58,4898.58,10. Jessica Anne Fishlock,OL Reign,2nd half,74.3,50.0,15. Megan Anna Rapinoe,1,90.1,35.2
+4880.51,4900.51,15. Megan Anna Rapinoe,OL Reign,2nd half,78.3,55.5,4. Emily Townsend Menges,0,90.1,35.2
+4881.7,4901.7,4. Emily Townsend Menges,Portland Thorns,2nd half,14.9,32.8,10. Lindsey Michelle Horan,1,20.4,29.9
+4882.02,4902.02,10. Lindsey Michelle Horan,Portland Thorns,2nd half,20.4,29.9,4. Emily Townsend Menges,1,17.8,33.5
+4885.35,4905.35,4. Emily Townsend Menges,Portland Thorns,2nd half,31.9,28.0,12. Christine Margaret Sinclair,1,33.0,34.0
+4887.28,4907.28,12. Christine Margaret Sinclair,Portland Thorns,2nd half,30.0,37.1,25. Meghan Elizabeth Klingenberg,1,18.9,47.2
+4889.59,4909.59,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,20.4,47.4,12. Christine Margaret Sinclair,1,29.6,45.3
+4892.06,4912.06,12. Christine Margaret Sinclair,Portland Thorns,2nd half,30.7,48.4,9. Caitlin Jade Foord,1,61.3,59.6
+4895.52,4915.52,4. Megan Leigh Oyster,OL Reign,2nd half,44.1,3.4,8. Theresa Eslund,1,48.7,6.0
+4897.19,4917.19,8. Theresa Eslund,OL Reign,2nd half,48.7,6.0,3. Lauren Kate Barnes,1,33.6,23.0
+4900.02,4920.02,3. Lauren Kate Barnes,OL Reign,2nd half,34.4,23.2,20. Rumi Utsugi,1,39.9,35.4
+4903.15,4923.15,20. Rumi Utsugi,OL Reign,2nd half,40.5,40.9,7. Stephanie-Elise Catley,1,49.3,65.4
+4906.65,4926.65,7. Stephanie-Elise Catley,OL Reign,2nd half,49.1,65.6,20. Rumi Utsugi,1,46.4,57.5
+4911.53,4931.53,20. Rumi Utsugi,OL Reign,2nd half,34.4,58.4,1. Lydia Grace Yilkari Williams,1,12.2,41.9
+4914.5,4934.5,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,12.2,41.9,20. Rumi Utsugi,1,26.0,61.5
+4917.63,4937.63,20. Rumi Utsugi,OL Reign,2nd half,26.9,62.3,15. Megan Anna Rapinoe,1,47.9,60.8
+4926.41,4946.41,15. Megan Anna Rapinoe,OL Reign,2nd half,73.1,34.5,17. Beverly Yanez,1,80.6,19.6
+4939.79,4959.79,4. Megan Leigh Oyster,OL Reign,2nd half,73.7,3.1,15. Megan Anna Rapinoe,1,91.6,39.3
+4970.41,4990.41,24. Adrianna Nichole Franch,Portland Thorns,2nd half,5.5,39.5,17. Beverly Yanez,1,61.3,5.3
+4973.04,4993.04,12. Christine Margaret Sinclair,Portland Thorns,2nd half,43.7,62.7,17. Beverly Yanez,0,43.7,62.7
+4974.0,4994.0,8. Theresa Eslund,OL Reign,2nd half,48.7,6.0,6. Alexandra Linsley Long Batista,1,47.2,11.5
+4976.53,4996.53,6. Alexandra Linsley Long Batista,OL Reign,2nd half,43.3,12.0,4. Megan Leigh Oyster,1,33.4,5.0
+4978.13,4998.13,4. Megan Leigh Oyster,OL Reign,2nd half,33.4,5.0,4. Emily Townsend Menges,1,39.9,52.9
+4980.35,5000.35,4. Emily Townsend Menges,Portland Thorns,2nd half,39.9,52.9,14. Jodie Lee Taylor,1,65.1,15.1
+5043.35,5063.35,16. Emily Ann Sonnett,Portland Thorns,2nd half,55.7,51.5,17. Beverly Yanez,0,93.2,20.6
+5089.61,5109.61,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,105.0,0.0,3. Lauren Kate Barnes,0,101.4,27.8
+5103.74,5123.74,15. Megan Anna Rapinoe,OL Reign,2nd half,17.9,55.8,3. Lauren Kate Barnes,1,13.0,50.8
+5105.11,5125.11,3. Lauren Kate Barnes,OL Reign,2nd half,13.0,50.8,25. Meghan Elizabeth Klingenberg,0,38.6,12.0
+5113.31,5133.31,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,87.6,62.5,7. Stephanie-Elise Catley,0,96.0,40.9
+5151.92,5171.92,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,4.8,40.0,7. Ana Maria Crnogorcevic,1,59.0,4.8
+5179.96,5199.96,16. Emily Ann Sonnett,Portland Thorns,2nd half,55.2,2.2,9. Caitlin Jade Foord,1,89.5,12.9
+5232.31,5252.31,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,105.0,0.0,15. Megan Anna Rapinoe,0,96.8,24.9
+5235.83,5255.83,15. Megan Anna Rapinoe,OL Reign,2nd half,13.6,44.8,15. Ellie Madison Carpenter,0,15.8,45.0
+5240.47,5260.47,11. Elizabeth Addo,OL Reign,2nd half,11.6,48.4,15. Megan Anna Rapinoe,1,69.1,52.4
+5244.14,5264.14,15. Megan Anna Rapinoe,OL Reign,2nd half,25.6,67.3,4. Emily Townsend Menges,0,69.1,52.4
+5249.96,5269.96,4. Emily Townsend Menges,Portland Thorns,2nd half,36.3,26.3,25. Meghan Elizabeth Klingenberg,1,31.3,54.8
+5253.6,5273.6,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,30.2,51.5,24. Adrianna Nichole Franch,1,14.5,32.3
+5256.26,5276.26,24. Adrianna Nichole Franch,Portland Thorns,2nd half,14.5,32.3,15. Ellie Madison Carpenter,1,35.3,8.1
+5259.66,5279.66,15. Ellie Madison Carpenter,Portland Thorns,2nd half,35.3,8.1,3. Lauren Kate Barnes,0,59.8,9.6
+5262.92,5282.92,3. Lauren Kate Barnes,OL Reign,2nd half,47.5,59.9,17. Tobin Powell Powell Heath,0,49.6,61.8
+5264.11,5284.11,3. Lauren Kate Barnes,OL Reign,2nd half,48.1,57.2,30. Celeste Anais Boureille,1,48.3,12.9
+5268.16,5288.16,12. Morgan Andrews,OL Reign,2nd half,55.4,59.9,15. Megan Anna Rapinoe,1,66.2,65.8
+5269.32,5289.32,15. Megan Anna Rapinoe,OL Reign,2nd half,66.2,65.8,11. Elizabeth Addo,1,69.3,54.4
+5316.22,5336.22,15. Megan Anna Rapinoe,OL Reign,2nd half,77.7,57.9,16. Emily Ann Sonnett,0,97.7,34.5
+5322.95,5342.95,14. Jodie Lee Taylor,OL Reign,2nd half,97.9,15.3,10. Lindsey Michelle Horan,1,8.4,36.4
+5326.58,5346.58,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,6.9,48.1,8. Theresa Eslund,1,77.7,0.0
+5437.1,5457.1,8. Theresa Eslund,OL Reign,2nd half,77.7,0.0,11. Elizabeth Addo,1,85.9,5.7
+5440.32,5460.32,11. Elizabeth Addo,OL Reign,2nd half,85.7,4.8,8. Theresa Eslund,1,77.5,1.4
+5442.61,5462.61,8. Theresa Eslund,OL Reign,2nd half,82.1,4.5,14. Jodie Lee Taylor,1,88.4,35.0
+5453.15,5473.15,7. Stephanie-Elise Catley,OL Reign,2nd half,38.4,48.8,3. Lauren Kate Barnes,1,36.5,28.7
+5456.03,5476.03,3. Lauren Kate Barnes,OL Reign,2nd half,36.3,31.4,7. Stephanie-Elise Catley,1,45.8,60.6
+5460.11,5480.11,7. Stephanie-Elise Catley,OL Reign,2nd half,48.7,63.5,15. Ellie Madison Carpenter,0,94.3,57.9
+5471.96,5491.96,11. Elizabeth Addo,OL Reign,2nd half,98.5,68.0,7. Stephanie-Elise Catley,1,88.2,65.6
+5474.26,5494.26,7. Stephanie-Elise Catley,OL Reign,2nd half,88.6,65.4,15. Megan Anna Rapinoe,1,96.8,65.4
+5480.18,5500.18,15. Megan Anna Rapinoe,OL Reign,2nd half,86.9,61.1,4. Emily Townsend Menges,0,96.4,40.5
+5482.83,5502.83,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,22.5,14.4,3. Lauren Kate Barnes,0,43.0,6.9
+5485.81,5505.81,3. Lauren Kate Barnes,OL Reign,2nd half,62.0,61.1,15. Megan Anna Rapinoe,1,69.3,65.1
+5488.81,5508.81,15. Megan Anna Rapinoe,OL Reign,2nd half,69.5,62.3,6. Alexandra Linsley Long Batista,0,8.2,35.9
+5515.85,5535.85,24. Adrianna Nichole Franch,Portland Thorns,2nd half,9.4,38.8,17. Beverly Yanez,1,47.7,9.1
+5534.99,5554.99,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,49.8,68.0,4. Megan Leigh Oyster,1,42.4,3.1
+5536.26,5556.26,4. Megan Leigh Oyster,OL Reign,2nd half,42.4,3.1,12. Christine Margaret Sinclair,0,42.4,3.1
+5538.54,5558.54,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,55.7,66.6,17. Beverly Yanez,0,56.9,66.1
+5555.57,5575.57,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,48.3,68.0,3. Lauren Kate Barnes,0,72.9,60.8
+5562.5,5582.5,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,74.6,64.2,3. Lauren Kate Barnes,0,81.1,61.5
+5579.25,5599.25,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,94.3,68.0,17. Beverly Yanez,0,101.2,64.6
+5580.84,5600.84,17. Beverly Yanez,OL Reign,2nd half,3.8,3.4,12. Morgan Andrews,1,9.9,5.0
+5581.91,5601.91,12. Morgan Andrews,OL Reign,2nd half,9.9,5.0,10. Lindsey Michelle Horan,0,29.8,5.5
+5601.18,5621.18,25. Meghan Elizabeth Klingenberg,Portland Thorns,2nd half,69.7,68.0,9. Caitlin Jade Foord,1,81.1,63.2
+5635.16,5655.16,8. Theresa Eslund,OL Reign,2nd half,26.5,0.0,11. Elizabeth Addo,1,38.6,4.5
+5637.44,5657.44,11. Elizabeth Addo,OL Reign,2nd half,36.3,2.2,8. Theresa Eslund,1,25.2,3.4
+5638.47,5658.47,8. Theresa Eslund,OL Reign,2nd half,25.2,3.4,1. Lydia Grace Yilkari Williams,1,8.4,19.6
+5640.74,5660.74,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,8.4,19.6,12. Morgan Andrews,1,42.0,12.2
+5658.84,5678.84,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,34.0,16.3,3. Lauren Kate Barnes,1,49.6,38.1
+5662.83,5682.83,3. Lauren Kate Barnes,OL Reign,2nd half,49.8,35.2,1. Lydia Grace Yilkari Williams,1,34.2,24.9
+5668.0,5688.0,1. Lydia Grace Yilkari Williams,OL Reign,2nd half,36.3,22.5,12. Morgan Andrews,1,73.5,29.9
+5670.27,5690.27,12. Morgan Andrews,OL Reign,2nd half,73.5,29.9,10. Lindsey Michelle Horan,1,31.5,38.1
+5671.04,5691.04,14. Jodie Lee Taylor,OL Reign,2nd half,82.9,30.2,11. Elizabeth Addo,1,90.7,21.1
+5673.8,5693.8,11. Elizabeth Addo,OL Reign,2nd half,94.1,19.4,17. Beverly Yanez,1,102.9,16.0
+5684.19,5704.19,17. Beverly Yanez,OL Reign,2nd half,98.1,6.9,11. Elizabeth Addo,1,95.8,13.6
+5688.23,5708.23,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,7.6,47.4,9. Caitlin Jade Foord,1,49.1,37.1
+5696.51,5716.51,3. Lauren Kate Barnes,OL Reign,2nd half,36.1,30.6,8. Theresa Eslund,1,40.3,15.3
+5699.54,5719.54,8. Theresa Eslund,OL Reign,2nd half,42.8,12.9,10. Lindsey Michelle Horan,0,78.8,21.1
+5701.8,5721.8,10. Lindsey Michelle Horan,Portland Thorns,2nd half,26.2,46.9,30. Celeste Anais Boureille,1,31.9,40.7
+5703.26,5723.26,30. Celeste Anais Boureille,Portland Thorns,2nd half,31.9,40.7,12. Christine Margaret Sinclair,1,44.1,54.6
+5707.1,5727.1,12. Christine Margaret Sinclair,Portland Thorns,2nd half,49.6,55.5,9. Caitlin Jade Foord,1,61.1,50.3
+5712.16,5732.16,9. Caitlin Jade Foord,Portland Thorns,2nd half,62.6,54.4,12. Christine Margaret Sinclair,1,59.6,59.9
+5716.18,5736.18,12. Christine Margaret Sinclair,Portland Thorns,2nd half,71.4,63.5,17. Tobin Powell Powell Heath,1,93.9,67.5
+5735.44,5755.44,8. Theresa Eslund,OL Reign,2nd half,10.7,0.0,11. Elizabeth Addo,1,12.2,2.6
+5736.38,5756.38,11. Elizabeth Addo,OL Reign,2nd half,20.0,2.9,17. Tobin Powell Powell Heath,0,12.2,2.6
+5745.69,5765.69,8. Theresa Eslund,OL Reign,2nd half,10.5,0.0,11. Elizabeth Addo,1,22.0,8.9
+5748.36,5768.36,11. Elizabeth Addo,OL Reign,2nd half,22.0,12.7,3. Lauren Kate Barnes,1,15.8,33.0
+5751.16,5771.16,3. Lauren Kate Barnes,OL Reign,2nd half,17.0,35.0,15. Megan Anna Rapinoe,1,55.9,52.7
+5753.98,5773.98,15. Ellie Madison Carpenter,Portland Thorns,2nd half,49.1,15.3,15. Megan Anna Rapinoe,1,55.9,52.7
+5763.92,5783.92,7. Ana Maria Crnogorcevic,Portland Thorns,2nd half,97.4,0.7,7. Stephanie-Elise Catley,0,98.7,1.9
+5769.15,5789.15,15. Megan Anna Rapinoe,OL Reign,2nd half,11.3,50.8,11. Elizabeth Addo,1,27.9,37.1
+5771.86,5791.86,11. Elizabeth Addo,OL Reign,2nd half,27.9,37.1,8. Theresa Eslund,1,31.7,14.8
+5774.3,5794.3,8. Theresa Eslund,OL Reign,2nd half,31.7,14.8,10. Lindsey Michelle Horan,0,63.4,21.3
+5776.08,5796.08,10. Lindsey Michelle Horan,Portland Thorns,2nd half,41.6,46.7,12. Christine Margaret Sinclair,1,46.2,50.3
+5813.18,5833.18,10. Lindsey Michelle Horan,Portland Thorns,2nd half,46.6,52.0,17. Tobin Powell Powell Heath,1,94.3,62.5
+5823.48,5843.48,8. Theresa Eslund,OL Reign,2nd half,6.1,0.0,4. Megan Leigh Oyster,1,9.0,7.9
+5825.45,5845.45,4. Megan Leigh Oyster,OL Reign,2nd half,9.0,7.9,17. Beverly Yanez,1,21.0,1.7
+5827.75,5847.75,17. Beverly Yanez,OL Reign,2nd half,21.0,1.7,12. Christine Margaret Sinclair,0,23.7,1.0
+5830.98,5850.98,17. Beverly Yanez,OL Reign,2nd half,14.9,1.2,12. Christine Margaret Sinclair,0,16.6,1.0
+5862.98,5882.98,17. Tobin Powell Powell Heath,Portland Thorns,2nd half,89.2,66.3,12. Christine Margaret Sinclair,1,87.6,65.8
