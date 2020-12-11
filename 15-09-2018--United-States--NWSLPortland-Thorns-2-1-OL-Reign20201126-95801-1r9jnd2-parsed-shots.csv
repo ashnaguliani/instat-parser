@@ -1,29 +1,26 @@
-start,end,code,team,action,half,pos_x,pos_y,goal,on_target,wide,bar_post
-124.96,144.96,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,82.9,43.8,False,False,False,False
-453.73,473.73,12. Christine Margaret Sinclair,Portland Thorns,Shots,1st half,90.3,47.9,False,True,False,False
-712.51,732.51,20. Rumi Utsugi,OL Reign,Shots,1st half,86.9,35.9,False,False,False,False
-896.26,916.26,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,88.6,44.1,False,False,False,False
-954.26,974.26,17. Tobin Powell Powell Heath,Portland Thorns,Shots,1st half,96.4,34.7,False,False,False,False
-1015.87,1035.87,9. Caitlin Jade Foord,Portland Thorns,Shots,1st half,99.5,26.8,False,True,False,False
-1017.3,1037.3,23. Margaret Purce,Portland Thorns,Shots,1st half,98.3,29.2,False,False,False,False
-1020.04,1040.04,17. Tobin Powell Powell Heath,Portland Thorns,Shots,1st half,91.1,34.2,False,False,False,True
-1365.77,1385.77,10. Jessica Anne Fishlock,OL Reign,Shots,1st half,86.1,48.4,False,False,False,False
-1656.78,1706.78,22. Jasmyne Spencer,OL Reign,Goals,1st half,101.6,28.0,True,True,False,False
-1669.59,1689.59,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,99.5,57.5,False,False,False,True
-1805.09,1825.09,14. Jodie Lee Taylor,OL Reign,Shots,1st half,98.7,34.0,False,False,False,False
-1812.42,1832.42,6. Alexandra Linsley Long Batista,OL Reign,Shots,1st half,78.1,26.1,False,True,False,False
-1915.87,1935.87,14. Jodie Lee Taylor,OL Reign,Shots,1st half,84.6,42.1,False,True,False,False
-1964.54,1984.54,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,96.2,39.7,False,False,False,False
-2011.01,2031.01,10. Lindsey Michelle Horan,Portland Thorns,Shots,1st half,99.1,29.0,False,False,True,False
-2175.41,2195.41,6. Alexandra Linsley Long Batista,OL Reign,Shots,1st half,82.5,22.5,False,False,False,False
-2177.5,2197.5,14. Jodie Lee Taylor,OL Reign,Shots,1st half,95.8,34.0,False,True,False,False
-2276.21,2296.21,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,101.6,37.1,False,True,False,False
-2550.92,2600.92,17. Tobin Powell Powell Heath,Portland Thorns,Goals,1st half,100.8,41.7,True,True,False,False
-2699.53,2719.53,9. Caitlin Jade Foord,Portland Thorns,Shots,1st half,90.9,20.6,False,False,False,False
-3073.34,3093.34,16. Emily Ann Sonnett,Portland Thorns,Shots,2nd half,89.9,36.9,False,False,True,False
-3231.22,3251.22,15. Megan Anna Rapinoe,OL Reign,Shots,2nd half,79.0,24.2,False,True,False,False
-3572.93,3592.93,15. Megan Anna Rapinoe,OL Reign,Shots,2nd half,76.7,39.7,False,False,True,False
-4463.7,4483.7,10. Jessica Anne Fishlock,OL Reign,Shots,2nd half,82.9,47.4,False,False,False,False
-4691.96,4741.96,10. Lindsey Michelle Horan,Portland Thorns,Goals,2nd half,96.6,35.7,True,True,False,False
-4941.93,4961.93,15. Megan Anna Rapinoe,OL Reign,Shots,2nd half,91.6,39.3,False,False,True,False
-5115.98,5135.98,17. Tobin Powell Powell Heath,Portland Thorns,Shots,2nd half,86.5,34.5,False,False,True,False
+,raw_event_ID,start_time,end_time,player,team,action,half,pos_x,pos_y,accuracy
+0,82,2:04,2:24,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,82.9,43.8,blocked
+1,317,7:33,7:53,12. Christine Margaret Sinclair,Portland Thorns,Shots,1st half,90.3,47.9,on_target
+2,458,11:52,12:12,20. Rumi Utsugi,OL Reign,Shots,1st half,86.9,35.9,blocked
+3,588,14:56,15:16,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,88.6,44.1,blocked
+4,624,15:54,16:14,17. Tobin Powell Powell Heath,Portland Thorns,Shots,1st half,96.4,34.7,blocked
+5,646,16:55,17:15,9. Caitlin Jade Foord,Portland Thorns,Shots,1st half,99.5,26.8,on_target
+6,657,16:57,17:17,23. Margaret Purce,Portland Thorns,Shots,1st half,98.3,29.2,blocked
+7,671,17:00,17:20,17. Tobin Powell Powell Heath,Portland Thorns,Shots,1st half,91.1,34.2,post_crossbar
+8,940,22:45,23:05,10. Jessica Anne Fishlock,OL Reign,Shots,1st half,86.1,48.4,blocked
+9,1056,27:49,28:09,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,99.5,57.5,post_crossbar
+10,1158,30:05,30:25,14. Jodie Lee Taylor,OL Reign,Shots,1st half,98.7,34.0,blocked
+11,1174,30:12,30:32,6. Alexandra Linsley Long Batista,OL Reign,Shots,1st half,78.1,26.1,on_target
+12,1237,31:55,32:15,14. Jodie Lee Taylor,OL Reign,Shots,1st half,84.6,42.1,on_target
+13,1255,32:44,33:04,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,96.2,39.7,blocked
+14,1294,33:31,33:51,10. Lindsey Michelle Horan,Portland Thorns,Shots,1st half,99.1,29.0,wide
+15,1390,36:15,36:35,6. Alexandra Linsley Long Batista,OL Reign,Shots,1st half,82.5,22.5,blocked
+16,1399,36:17,36:37,14. Jodie Lee Taylor,OL Reign,Shots,1st half,95.8,34.0,on_target
+17,1487,37:56,38:16,15. Megan Anna Rapinoe,OL Reign,Shots,1st half,101.6,37.1,on_target
+18,1723,44:59,45:19,9. Caitlin Jade Foord,Portland Thorns,Shots,1st half,90.9,20.6,blocked
+19,1935,48:39,48:59,16. Emily Ann Sonnett,Portland Thorns,Shots,2nd half,89.9,36.9,wide
+20,1995,51:17,51:37,15. Megan Anna Rapinoe,OL Reign,Shots,2nd half,79.0,24.2,on_target
+21,2128,56:58,57:18,15. Megan Anna Rapinoe,OL Reign,Shots,2nd half,76.7,39.7,wide
+22,2660,71:49,72:09,10. Jessica Anne Fishlock,OL Reign,Shots,2nd half,82.9,47.4,blocked
+23,3019,79:47,80:07,15. Megan Anna Rapinoe,OL Reign,Shots,2nd half,91.6,39.3,wide
+24,3109,82:41,83:01,17. Tobin Powell Powell Heath,Portland Thorns,Shots,2nd half,86.5,34.5,wide
