@@ -6,6 +6,7 @@ from helper import convert_seconds_to_minutes
 from passes import passes
 from shots import shots
 from goals import goals
+from key_events import key_events
 
 # last highest ID in events table
 index_to_increase = 0
@@ -35,6 +36,7 @@ events_df.drop(['start', 'end'], axis=1, inplace=True)
 events_df.to_csv(csv_file_name.split('.')[0] + "-events.csv")
 
 
-# passes(pass_df = events_df.copy()).to_csv(csv_file_name.split('.')[0] + "-passes.csv") 
-# shots(shot_df = events_df.copy()).to_csv(csv_file_name.split('.')[0] + "-shots.csv") 
+passes(pass_df = events_df.copy()).to_csv(csv_file_name.split('.')[0] + "-passes.csv") 
+shots(shot_df = events_df.copy()).to_csv(csv_file_name.split('.')[0] + "-shots.csv") 
 goals(goal_df = events_df.copy()).to_csv(csv_file_name.split('.')[0] + "-goals.csv") 
+key_events(key_event_df = events_df.copy()).to_csv(csv_file_name.split('.')[0] + "-key-events.csv") 

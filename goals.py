@@ -34,7 +34,6 @@ def goals(goal_df):
 					conceding_GK_row = row[str(x) + '_player']
 					conceding_team_row = row[str(x) + '_team']
 				elif row[str(x) + '_action'] == 'Assists':
-					print(row)
 					assisted_by_row = row[str(x) + '_player']
 					assist_pos_x_row = row[str(x) + '_pos_x']
 					assist_pos_y_row = row[str(x) + '_pos_y']
@@ -52,13 +51,10 @@ def goals(goal_df):
 	goal_df.insert(loc = 12, column = "conceding_GK", value = conceding_GK)
 	goal_df.insert(loc = 13, column = "conceding_team", value = conceding_team)
 
-
-
 	goal_df.insert(loc = 0, column = 'raw_event_ID', value = goal_df.index)
 	goal_df.reset_index(drop=True, inplace=True)
 	
 	for column in shift_column_names: 
 		goal_df.drop([column], axis=1, inplace=True)
 
-	print(goal_df)
 	return goal_df

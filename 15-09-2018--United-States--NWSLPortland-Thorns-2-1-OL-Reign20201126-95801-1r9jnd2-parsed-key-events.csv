@@ -1,0 +1,679 @@
+,raw_event_ID,start_time,end_time,player,team,action,half,pos_x,pos_y,successful
+0,1,0:00,0:16,3. Lauren Kate Barnes,OL Reign,dribble,1st half,29.6,49.1,1
+1,10,0:01,0:21,15. Megan Anna Rapinoe,OL Reign,dribble,1st half,64.1,58.2,1
+2,14,0:04,0:24,23. Margaret Purce,Portland Thorns,tackle,1st half,28.3,11.3,0
+3,15,0:04,0:24,15. Megan Anna Rapinoe,OL Reign,take_on,1st half,76.7,56.7,1
+4,16,0:04,0:24,23. Margaret Purce,Portland Thorns,challenge,1st half,28.3,11.3,0
+5,34,0:20,0:40,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,56.1,29.0,0
+6,36,0:20,0:40,20. Rumi Utsugi,OL Reign,challenge,1st half,48.9,39.0,1
+7,39,0:21,0:41,6. Alexandra Linsley Long Batista,OL Reign,recovery,1st half,44.3,35.9,null
+8,40,0:24,0:44,9. Caitlin Jade Foord,Portland Thorns,foul,1st half,70.1,23.9,null
+9,80,1:20,1:40,17. Tobin Powell Powell Heath,Portland Thorns,foul,1st half,21.0,27.5,null
+10,86,2:06,2:26,20. Rumi Utsugi,OL Reign,recovery,1st half,79.6,36.6,null
+11,96,2:08,2:28,9. Caitlin Jade Foord,Portland Thorns,recovery,1st half,18.7,19.9,null
+12,100,2:11,2:31,3. Lauren Kate Barnes,OL Reign,recovery,1st half,54.8,48.4,null
+13,116,2:52,3:12,30. Celeste Anais Boureille,Portland Thorns,recovery,1st half,47.9,46.9,null
+14,118,2:55,3:15,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,50.2,37.6,1
+15,119,2:55,3:15,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,54.8,30.4,0
+16,123,2:57,3:17,10. Lindsey Michelle Horan,Portland Thorns,recovery,1st half,48.3,40.0,null
+17,130,2:58,3:18,20. Rumi Utsugi,OL Reign,recovery,1st half,49.3,36.2,null
+18,167,3:54,4:14,12. Christine Margaret Sinclair,Portland Thorns,recovery,1st half,12.0,62.7,null
+19,175,4:22,4:42,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,53.1,10.8,0
+20,176,4:22,4:42,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,51.9,57.2,1
+21,177,4:23,4:43,6. Alexandra Linsley Long Batista,OL Reign,foul,1st half,53.3,11.0,null
+22,188,4:57,5:17,30. Celeste Anais Boureille,Portland Thorns,recovery,1st half,63.6,21.8,null
+23,210,5:21,5:41,16. Emily Ann Sonnett,Portland Thorns,challenge,1st half,60.5,59.4,1
+24,211,5:21,5:41,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,44.5,8.6,0
+25,216,5:23,5:43,10. Lindsey Michelle Horan,Portland Thorns,recovery,1st half,62.2,67.0,null
+26,239,6:08,6:28,20. Rumi Utsugi,OL Reign,recovery,1st half,50.4,54.8,null
+27,243,6:11,6:31,4. Emily Townsend Menges,Portland Thorns,challenge,1st half,26.5,31.8,1
+28,244,6:11,6:31,22. Jasmyne Spencer,OL Reign,challenge,1st half,78.5,36.2,0
+29,250,6:16,6:36,17. Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,45.2,61.8,1
+30,253,6:18,6:38,8. Theresa Eslund,OL Reign,challenge,1st half,48.9,1.4,0
+31,255,6:18,6:38,17. Tobin Powell Powell Heath,Portland Thorns,take_on,1st half,56.1,66.6,1
+32,256,6:18,6:38,8. Theresa Eslund,OL Reign,tackle,1st half,48.9,1.4,0
+33,258,6:18,6:38,8. Theresa Eslund,OL Reign,foul,1st half,49.1,1.9,null
+34,264,7:01,7:21,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,17.4,33.3,1
+35,266,7:01,7:21,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,87.6,34.7,0
+36,269,7:02,7:22,7. Stephanie-Elise Catley,OL Reign,recovery,1st half,16.8,29.2,null
+37,276,7:05,7:25,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,73.1,47.9,null
+38,278,7:07,7:27,17. Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,74.8,57.7,1
+39,280,7:08,7:28,8. Theresa Eslund,OL Reign,challenge,1st half,23.7,7.9,0
+40,281,7:08,7:28,8. Theresa Eslund,OL Reign,tackle,1st half,23.7,7.9,0
+41,283,7:08,7:28,17. Tobin Powell Powell Heath,Portland Thorns,take_on,1st half,81.3,60.1,1
+42,304,7:19,7:39,8. Theresa Eslund,OL Reign,recovery,1st half,8.4,18.9,null
+43,315,7:33,7:53,1. Lydia Grace Yilkari Williams,OL Reign,save,1st half,14.7,20.1,null
+44,321,7:55,8:15,3. Lauren Kate Barnes,OL Reign,challenge,1st half,28.8,63.2,1
+45,322,7:55,8:15,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,76.2,4.8,0
+46,323,7:55,8:15,9. Caitlin Jade Foord,Portland Thorns,foul,1st half,77.1,4.5,null
+47,353,8:48,9:08,15. Megan Anna Rapinoe,OL Reign,foul,1st half,75.2,65.8,null
+48,380,9:41,10:01,17. Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,71.4,23.0,0
+49,381,9:41,10:01,4. Megan Leigh Oyster,OL Reign,challenge,1st half,33.6,45.0,1
+50,387,9:48,10:08,22. Jasmyne Spencer,OL Reign,dribble,1st half,48.3,21.3,1
+51,390,9:53,10:13,22. Jasmyne Spencer,OL Reign,challenge,1st half,67.0,33.5,0
+52,391,9:53,10:13,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,38.0,34.5,1
+53,392,9:53,10:13,30. Celeste Anais Boureille,Portland Thorns,tackle,1st half,38.0,34.5,1
+54,394,9:54,10:14,12. Christine Margaret Sinclair,Portland Thorns,recovery,1st half,41.8,34.5,null
+55,399,9:57,10:17,9. Caitlin Jade Foord,Portland Thorns,dribble,1st half,46.0,49.3,1
+56,406,10:03,10:23,4. Megan Leigh Oyster,OL Reign,recovery,1st half,15.5,22.3,null
+57,410,10:06,10:26,8. Theresa Eslund,OL Reign,challenge,1st half,26.2,5.5,1
+58,412,10:06,10:26,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,78.8,62.5,0
+59,416,10:11,10:31,22. Jasmyne Spencer,OL Reign,take_on,1st half,45.4,5.5,1
+60,417,10:11,10:31,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,59.6,62.5,0
+61,418,10:11,10:31,30. Celeste Anais Boureille,Portland Thorns,tackle,1st half,59.6,62.5,0
+62,419,10:12,10:32,30. Celeste Anais Boureille,Portland Thorns,foul,1st half,58.8,62.7,null
+63,428,10:39,10:59,22. Jasmyne Spencer,OL Reign,challenge,1st half,81.5,5.7,0
+64,429,10:39,10:59,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,23.5,62.3,1
+65,430,10:41,11:01,25. Meghan Elizabeth Klingenberg,Portland Thorns,dribble,1st half,27.5,63.0,1
+66,433,10:45,11:05,4. Megan Leigh Oyster,OL Reign,recovery,1st half,46.6,5.0,null
+67,450,11:07,11:27,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,8.0,52.9,1
+68,452,11:07,11:27,22. Jasmyne Spencer,OL Reign,challenge,1st half,97.0,15.1,0
+69,460,11:52,12:12,20. Rumi Utsugi,OL Reign,recovery,1st half,86.9,35.9,null
+70,467,11:56,12:16,3. Lauren Kate Barnes,OL Reign,recovery,1st half,57.8,33.3,null
+71,473,12:01,12:21,10. Jessica Anne Fishlock,OL Reign,Dribbles (Unsuccessful actions),1st half,97.0,1.9,null
+72,474,12:01,12:21,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,97.0,1.9,0
+73,475,12:01,12:21,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,8.0,66.1,1
+74,476,12:01,12:21,25. Meghan Elizabeth Klingenberg,Portland Thorns,tackle,1st half,8.0,66.1,1
+75,484,12:13,12:33,4. Megan Leigh Oyster,OL Reign,recovery,1st half,74.6,1.0,null
+76,488,12:17,12:37,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,88.6,0.7,0
+77,490,12:17,12:37,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,16.4,67.3,1
+78,492,12:17,12:37,10. Lindsey Michelle Horan,Portland Thorns,tackle,1st half,16.4,67.3,1
+79,493,12:17,12:37,6. Alexandra Linsley Long Batista,OL Reign,Dribbles (Unsuccessful actions),1st half,88.6,0.7,null
+80,494,12:19,12:39,6. Alexandra Linsley Long Batista,OL Reign,foul,1st half,86.7,2.4,null
+81,507,13:08,13:28,16. Emily Ann Sonnett,Portland Thorns,recovery,1st half,35.1,51.0,null
+82,513,13:15,13:35,7. Stephanie-Elise Catley,OL Reign,recovery,1st half,47.0,53.4,null
+83,522,13:38,13:58,12. Christine Margaret Sinclair,Portland Thorns,challenge,1st half,54.4,6.9,0
+84,523,13:38,13:58,20. Rumi Utsugi,OL Reign,challenge,1st half,50.6,61.1,1
+85,527,13:40,14:00,10. Lindsey Michelle Horan,Portland Thorns,recovery,1st half,49.8,11.7,null
+86,530,13:41,14:01,7. Stephanie-Elise Catley,OL Reign,recovery,1st half,42.6,60.3,null
+87,552,13:59,14:19,24. Adrianna Nichole Franch,Portland Thorns,recovery,1st half,5.7,35.9,null
+88,555,14:03,14:23,10. Lindsey Michelle Horan,Portland Thorns,take_on,1st half,26.5,51.5,1
+89,556,14:03,14:23,10. Jessica Anne Fishlock,OL Reign,tackle,1st half,78.5,16.5,0
+90,557,14:03,14:23,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,78.5,16.5,0
+91,558,14:03,14:23,10. Jessica Anne Fishlock,OL Reign,foul,1st half,78.8,16.8,null
+92,567,14:44,15:04,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,39.1,17.5,0
+93,572,14:44,15:04,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,65.9,50.5,1
+94,574,14:46,15:06,8. Theresa Eslund,OL Reign,recovery,1st half,30.7,16.8,null
+95,577,14:49,15:09,4. Emily Townsend Menges,Portland Thorns,challenge,1st half,32.5,55.1,1
+96,578,14:49,15:09,14. Jodie Lee Taylor,OL Reign,challenge,1st half,72.5,12.9,0
+97,586,14:54,15:14,15. Megan Anna Rapinoe,OL Reign,recovery,1st half,83.4,39.0,null
+98,601,15:09,15:29,12. Christine Margaret Sinclair,Portland Thorns,recovery,1st half,31.9,19.6,null
+99,602,15:09,15:29,12. Christine Margaret Sinclair,Portland Thorns,dribble,1st half,31.5,19.6,1
+100,606,15:18,15:38,4. Megan Leigh Oyster,OL Reign,recovery,1st half,11.6,57.7,null
+101,613,15:52,16:12,3. Lauren Kate Barnes,OL Reign,challenge,1st half,6.9,45.0,0
+102,614,15:52,16:12,23. Margaret Purce,Portland Thorns,challenge,1st half,98.1,23.0,1
+103,631,16:28,16:48,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,101.0,25.9,0
+104,632,16:28,16:48,14. Jodie Lee Taylor,OL Reign,challenge,1st half,4.0,42.1,1
+105,645,16:55,17:15,1. Lydia Grace Yilkari Williams,OL Reign,save,1st half,5.5,41.2,null
+106,648,16:55,17:15,9. Caitlin Jade Foord,Portland Thorns,recovery,1st half,99.5,26.8,null
+107,658,16:57,17:17,1. Lydia Grace Yilkari Williams,OL Reign,save,1st half,6.7,38.8,null
+108,663,16:57,17:17,23. Margaret Purce,Portland Thorns,recovery,1st half,98.3,29.2,null
+109,667,16:59,17:19,17. Tobin Powell Powell Heath,Portland Thorns,recovery,1st half,91.6,31.8,null
+110,676,17:02,17:22,23. Margaret Purce,Portland Thorns,challenge,1st half,100.6,34.7,0
+111,677,17:02,17:22,3. Lauren Kate Barnes,OL Reign,challenge,1st half,4.4,33.3,1
+112,681,17:04,17:24,20. Rumi Utsugi,OL Reign,recovery,1st half,7.6,30.4,null
+113,683,17:06,17:26,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,8.8,16.3,0
+114,684,17:06,17:26,17. Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,96.2,51.7,1
+115,686,17:06,17:26,17. Tobin Powell Powell Heath,Portland Thorns,tackle,1st half,96.2,51.7,1
+116,687,17:06,17:26,17. Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,96.2,51.7,1
+117,689,17:14,17:34,8. Theresa Eslund,OL Reign,challenge,1st half,0.8,2.9,1
+118,691,17:14,17:34,17. Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),1st half,104.2,65.1,null
+119,692,17:14,17:34,8. Theresa Eslund,OL Reign,tackle,1st half,0.8,2.9,1
+120,693,17:14,17:34,17. Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,104.2,65.1,0
+121,702,17:42,18:02,22. Jasmyne Spencer,OL Reign,recovery,1st half,18.1,21.8,null
+122,703,17:42,18:02,22. Jasmyne Spencer,OL Reign,challenge,1st half,18.1,21.8,0
+123,704,17:42,18:02,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,86.9,46.2,1
+124,705,17:42,18:02,22. Jasmyne Spencer,OL Reign,Dribbles (Unsuccessful actions),1st half,18.1,21.8,null
+125,706,17:42,18:02,25. Meghan Elizabeth Klingenberg,Portland Thorns,tackle,1st half,86.9,46.2,1
+126,712,17:49,18:09,17. Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,73.1,67.3,1
+127,717,17:57,18:17,30. Celeste Anais Boureille,Portland Thorns,dribble,1st half,92.2,59.9,1
+128,728,18:32,18:52,10. Lindsey Michelle Horan,Portland Thorns,recovery,1st half,88.8,18.9,null
+129,730,18:35,18:55,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,86.9,17.2,0
+130,731,18:35,18:55,4. Megan Leigh Oyster,OL Reign,tackle,1st half,18.1,50.8,1
+131,732,18:35,18:55,4. Megan Leigh Oyster,OL Reign,challenge,1st half,18.1,50.8,1
+132,740,18:56,19:16,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,100.6,21.5,1
+133,742,18:56,19:16,7. Stephanie-Elise Catley,OL Reign,challenge,1st half,4.4,46.5,0
+134,746,18:58,19:18,15. Megan Anna Rapinoe,OL Reign,recovery,1st half,13.0,50.3,null
+135,751,19:00,19:20,20. Rumi Utsugi,OL Reign,challenge,1st half,14.1,43.1,1
+136,752,19:00,19:20,12. Christine Margaret Sinclair,Portland Thorns,challenge,1st half,90.9,24.9,0
+137,756,19:02,19:22,4. Megan Leigh Oyster,OL Reign,recovery,1st half,14.9,31.4,null
+138,763,19:05,19:25,4. Emily Townsend Menges,Portland Thorns,recovery,1st half,55.0,38.5,null
+139,764,19:06,19:26,22. Jasmyne Spencer,OL Reign,recovery,1st half,34.0,21.8,null
+140,766,19:06,19:26,22. Jasmyne Spencer,OL Reign,dribble,1st half,34.0,21.8,1
+141,774,19:15,19:35,7. Stephanie-Elise Catley,OL Reign,dribble,1st half,60.5,57.5,1
+142,780,19:20,19:40,7. Stephanie-Elise Catley,OL Reign,dribble,1st half,87.8,59.9,1
+143,787,19:27,19:47,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,6.1,40.7,null
+144,790,19:30,19:50,6. Alexandra Linsley Long Batista,OL Reign,recovery,1st half,69.5,11.5,null
+145,799,19:35,19:55,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,92.2,40.5,1
+146,801,19:35,19:55,16. Emily Ann Sonnett,Portland Thorns,challenge,1st half,12.8,27.5,0
+147,811,19:41,20:01,23. Margaret Purce,Portland Thorns,recovery,1st half,26.5,3.4,null
+148,844,20:48,21:08,15. Megan Anna Rapinoe,OL Reign,challenge,1st half,79.0,61.5,0
+149,845,20:48,21:08,15. Ellie Madison Carpenter,Portland Thorns,tackle,1st half,26.0,6.5,1
+150,846,20:48,21:08,15. Ellie Madison Carpenter,Portland Thorns,challenge,1st half,26.0,6.5,1
+151,879,21:43,22:03,6. Alexandra Linsley Long Batista,OL Reign,recovery,1st half,80.0,33.3,null
+152,881,21:43,22:03,17. Tobin Powell Powell Heath,Portland Thorns,tackle,1st half,20.6,34.5,1
+153,883,21:43,22:03,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,84.4,33.5,0
+154,884,21:43,22:03,17. Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,20.6,34.5,1
+155,888,21:46,22:06,30. Celeste Anais Boureille,Portland Thorns,recovery,1st half,19.7,22.0,null
+156,889,21:47,22:07,23. Margaret Purce,Portland Thorns,challenge,1st half,27.5,6.5,0
+157,891,21:47,22:07,7. Stephanie-Elise Catley,OL Reign,challenge,1st half,77.5,61.5,1
+158,892,21:47,22:07,7. Stephanie-Elise Catley,OL Reign,tackle,1st half,77.5,61.5,1
+159,893,21:47,22:07,23. Margaret Purce,Portland Thorns,Dribbles (Unsuccessful actions),1st half,27.5,6.5,null
+160,894,21:51,22:11,7. Stephanie-Elise Catley,OL Reign,recovery,1st half,98.1,67.0,null
+161,899,21:53,22:13,7. Stephanie-Elise Catley,OL Reign,challenge,1st half,96.6,62.5,0
+162,900,21:53,22:13,15. Ellie Madison Carpenter,Portland Thorns,challenge,1st half,8.4,5.5,1
+163,901,21:53,22:13,7. Stephanie-Elise Catley,OL Reign,Dribbles (Unsuccessful actions),1st half,96.6,62.5,null
+164,902,21:53,22:13,15. Ellie Madison Carpenter,Portland Thorns,tackle,1st half,8.4,5.5,1
+165,904,21:54,22:14,30. Celeste Anais Boureille,Portland Thorns,recovery,1st half,10.9,12.5,null
+166,909,21:59,22:19,3. Lauren Kate Barnes,OL Reign,recovery,1st half,66.8,63.2,null
+167,920,22:22,22:42,6. Alexandra Linsley Long Batista,OL Reign,dribble,1st half,47.7,50.3,1
+168,931,22:36,22:56,3. Lauren Kate Barnes,OL Reign,dribble,1st half,40.3,47.4,1
+169,941,22:48,23:08,30. Celeste Anais Boureille,Portland Thorns,recovery,1st half,25.6,24.2,null
+170,948,23:16,23:36,22. Jasmyne Spencer,OL Reign,challenge,1st half,86.7,6.5,0
+171,950,23:16,23:36,4. Emily Townsend Menges,Portland Thorns,challenge,1st half,18.3,61.5,1
+172,952,23:16,23:36,4. Emily Townsend Menges,Portland Thorns,tackle,1st half,18.3,61.5,1
+173,953,23:16,23:36,22. Jasmyne Spencer,OL Reign,Dribbles (Unsuccessful actions),1st half,86.7,6.5,null
+174,954,23:18,23:38,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,6.3,63.9,1
+175,955,23:18,23:38,22. Jasmyne Spencer,OL Reign,challenge,1st half,98.7,4.1,0
+176,959,23:26,23:46,4. Megan Leigh Oyster,OL Reign,challenge,1st half,45.2,59.4,0
+177,961,23:26,23:46,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,59.8,8.6,1
+178,963,23:27,23:47,6. Alexandra Linsley Long Batista,OL Reign,recovery,1st half,63.0,9.1,null
+179,970,23:31,23:51,3. Lauren Kate Barnes,OL Reign,recovery,1st half,44.3,12.2,null
+180,972,23:31,23:51,12. Christine Margaret Sinclair,Portland Thorns,foul,1st half,60.7,53.6,null
+181,984,24:25,24:45,7. Stephanie-Elise Catley,OL Reign,recovery,1st half,75.6,64.2,null
+182,986,24:26,24:46,15. Megan Anna Rapinoe,OL Reign,dribble,1st half,83.6,60.3,1
+183,1049,26:26,26:46,16. Emily Ann Sonnett,Portland Thorns,foul,1st half,7.3,11.0,null
+184,1060,27:51,28:11,22. Jasmyne Spencer,OL Reign,recovery,1st half,101.6,28.0,null
+185,1075,29:15,29:35,23. Margaret Purce,Portland Thorns,dribble,1st half,72.0,3.6,1
+186,1076,29:15,29:35,23. Margaret Purce,Portland Thorns,recovery,1st half,72.0,3.6,null
+187,1077,29:17,29:37,20. Rumi Utsugi,OL Reign,tackle,1st half,28.6,64.9,0
+188,1078,29:17,29:37,23. Margaret Purce,Portland Thorns,take_on,1st half,76.4,3.1,1
+189,1079,29:17,29:37,20. Rumi Utsugi,OL Reign,challenge,1st half,28.6,64.9,0
+190,1092,29:22,29:42,10. Jessica Anne Fishlock,OL Reign,dribble,1st half,22.5,46.0,1
+191,1096,29:28,29:48,14. Jodie Lee Taylor,OL Reign,challenge,1st half,49.1,44.3,0
+192,1098,29:28,29:48,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,55.9,23.7,1
+193,1099,29:28,29:48,10. Lindsey Michelle Horan,Portland Thorns,tackle,1st half,55.9,23.7,1
+194,1100,29:28,29:48,14. Jodie Lee Taylor,OL Reign,Dribbles (Unsuccessful actions),1st half,49.1,44.3,null
+195,1101,29:30,29:50,16. Emily Ann Sonnett,Portland Thorns,recovery,1st half,51.2,27.5,null
+196,1104,29:30,29:50,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,53.8,40.5,0
+197,1105,29:30,29:50,10. Jessica Anne Fishlock,OL Reign,tackle,1st half,53.8,40.5,0
+198,1106,29:30,29:50,16. Emily Ann Sonnett,Portland Thorns,take_on,1st half,51.2,27.5,1
+199,1108,29:33,29:53,16. Emily Ann Sonnett,Portland Thorns,challenge,1st half,55.4,39.0,0
+200,1109,29:33,29:53,22. Jasmyne Spencer,OL Reign,challenge,1st half,49.6,29.0,1
+201,1110,29:33,29:53,22. Jasmyne Spencer,OL Reign,tackle,1st half,49.6,29.0,1
+202,1112,29:35,29:55,4. Megan Leigh Oyster,OL Reign,recovery,1st half,38.0,24.7,null
+203,1130,29:46,30:06,30. Celeste Anais Boureille,Portland Thorns,recovery,1st half,53.8,17.5,null
+204,1133,29:48,30:08,7. Stephanie-Elise Catley,OL Reign,challenge,1st half,33.6,59.1,1
+205,1134,29:48,30:08,23. Margaret Purce,Portland Thorns,challenge,1st half,71.4,8.9,0
+206,1135,29:48,30:08,7. Stephanie-Elise Catley,OL Reign,tackle,1st half,33.6,59.1,1
+207,1139,29:50,30:10,20. Rumi Utsugi,OL Reign,recovery,1st half,39.1,52.0,null
+208,1143,29:53,30:13,10. Jessica Anne Fishlock,OL Reign,take_on,1st half,48.5,49.6,1
+209,1146,29:53,30:13,10. Jessica Anne Fishlock,OL Reign,dribble,1st half,48.5,49.6,1
+210,1147,29:53,30:13,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,56.5,18.4,0
+211,1148,29:53,30:13,30. Celeste Anais Boureille,Portland Thorns,tackle,1st half,56.5,18.4,0
+212,1152,29:59,30:19,15. Megan Anna Rapinoe,OL Reign,dribble,1st half,96.8,55.5,1
+213,1162,30:06,30:26,14. Jodie Lee Taylor,OL Reign,recovery,1st half,97.9,35.4,null
+214,1163,30:07,30:27,14. Jodie Lee Taylor,OL Reign,challenge,1st half,96.4,35.9,0
+215,1165,30:07,30:27,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,8.6,32.1,1
+216,1166,30:07,30:27,30. Celeste Anais Boureille,Portland Thorns,tackle,1st half,8.6,32.1,1
+217,1169,30:09,30:29,6. Alexandra Linsley Long Batista,OL Reign,recovery,1st half,73.5,30.4,null
+218,1173,30:12,30:32,24. Adrianna Nichole Franch,Portland Thorns,save,1st half,26.9,41.9,null
+219,1182,30:23,30:43,22. Jasmyne Spencer,OL Reign,challenge,1st half,63.8,1.2,0
+220,1183,30:23,30:43,17. Tobin Powell Powell Heath,Portland Thorns,tackle,1st half,41.2,66.8,1
+221,1184,30:23,30:43,22. Jasmyne Spencer,OL Reign,Dribbles (Unsuccessful actions),1st half,63.8,1.2,null
+222,1185,30:23,30:43,17. Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,41.2,66.8,1
+223,1235,31:55,32:15,24. Adrianna Nichole Franch,Portland Thorns,save,1st half,20.4,25.9,null
+224,1241,31:55,32:15,14. Jodie Lee Taylor,OL Reign,recovery,1st half,84.6,42.1,null
+225,1249,32:43,33:03,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,100.8,34.2,0
+226,1250,32:43,33:03,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,4.2,33.8,1
+227,1253,32:43,33:03,15. Megan Anna Rapinoe,OL Reign,recovery,1st half,99.1,40.2,null
+228,1259,32:47,33:07,17. Tobin Powell Powell Heath,Portland Thorns,recovery,1st half,4.6,48.4,null
+229,1265,33:03,33:23,8. Theresa Eslund,OL Reign,challenge,1st half,70.1,11.0,1
+230,1266,33:03,33:23,12. Christine Margaret Sinclair,Portland Thorns,challenge,1st half,34.9,57.0,0
+231,1269,33:06,33:26,20. Rumi Utsugi,OL Reign,challenge,1st half,56.3,21.1,0
+232,1270,33:06,33:26,12. Christine Margaret Sinclair,Portland Thorns,challenge,1st half,48.7,46.9,1
+233,1273,33:06,33:26,12. Christine Margaret Sinclair,Portland Thorns,dribble,1st half,50.2,45.5,1
+234,1296,33:31,33:51,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,5.9,39.0,0
+235,1297,33:31,33:51,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,99.1,29.0,1
+236,1302,34:06,34:26,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,55.7,17.7,1
+237,1303,34:06,34:26,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,49.3,50.3,0
+238,1308,34:07,34:27,15. Ellie Madison Carpenter,Portland Thorns,recovery,1st half,49.8,11.7,null
+239,1324,34:39,34:59,14. Jodie Lee Taylor,OL Reign,challenge,1st half,38.4,66.1,1
+240,1325,34:39,34:59,15. Ellie Madison Carpenter,Portland Thorns,challenge,1st half,66.6,1.9,0
+241,1328,34:45,35:05,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,48.7,45.5,null
+242,1334,34:57,35:17,1. Lydia Grace Yilkari Williams,OL Reign,recovery,1st half,7.3,30.9,null
+243,1341,35:17,35:37,15. Ellie Madison Carpenter,Portland Thorns,challenge,1st half,39.7,17.7,0
+244,1342,35:17,35:37,15. Megan Anna Rapinoe,OL Reign,challenge,1st half,65.3,50.3,1
+245,1345,35:19,35:39,14. Jodie Lee Taylor,OL Reign,Dribbles (Unsuccessful actions),1st half,80.0,52.9,null
+246,1346,35:19,35:39,14. Jodie Lee Taylor,OL Reign,challenge,1st half,80.0,52.9,0
+247,1347,35:19,35:39,16. Emily Ann Sonnett,Portland Thorns,tackle,1st half,25.0,15.1,1
+248,1348,35:19,35:39,16. Emily Ann Sonnett,Portland Thorns,challenge,1st half,25.0,15.1,1
+249,1353,35:41,36:01,7. Stephanie-Elise Catley,OL Reign,recovery,1st half,76.7,63.7,null
+250,1357,35:43,36:03,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,71.8,61.5,1
+251,1358,35:43,36:03,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,33.2,6.5,0
+252,1392,36:16,36:36,14. Jodie Lee Taylor,OL Reign,recovery,1st half,94.7,32.3,null
+253,1398,36:17,36:37,24. Adrianna Nichole Franch,Portland Thorns,save,1st half,9.2,34.0,null
+254,1411,36:51,37:11,4. Megan Leigh Oyster,OL Reign,challenge,1st half,101.8,34.0,0
+255,1413,36:51,37:11,24. Adrianna Nichole Franch,Portland Thorns,challenge,1st half,3.2,34.0,1
+256,1416,36:51,37:11,4. Megan Leigh Oyster,OL Reign,foul,1st half,101.4,33.8,null
+257,1421,37:12,37:32,22. Jasmyne Spencer,OL Reign,challenge,1st half,56.3,6.9,0
+258,1422,37:12,37:32,10. Lindsey Michelle Horan,Portland Thorns,challenge,1st half,48.7,61.1,1
+259,1424,37:14,37:34,17. Tobin Powell Powell Heath,Portland Thorns,recovery,1st half,55.0,66.3,null
+260,1438,37:23,37:43,3. Lauren Kate Barnes,OL Reign,recovery,1st half,34.2,17.2,null
+261,1456,37:39,37:59,10. Jessica Anne Fishlock,OL Reign,dribble,1st half,65.3,50.0,1
+262,1458,37:41,38:01,10. Jessica Anne Fishlock,OL Reign,take_on,1st half,70.1,56.3,1
+263,1460,37:41,38:01,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,34.9,11.7,0
+264,1461,37:41,38:01,30. Celeste Anais Boureille,Portland Thorns,tackle,1st half,34.9,11.7,0
+265,1475,37:52,38:12,22. Jasmyne Spencer,OL Reign,recovery,1st half,87.2,23.5,null
+266,1489,37:56,38:16,24. Adrianna Nichole Franch,Portland Thorns,save,1st half,3.4,30.9,null
+267,1497,37:59,38:19,15. Ellie Madison Carpenter,Portland Thorns,recovery,1st half,1.0,18.9,null
+268,1520,38:46,39:06,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,30.2,55.3,1
+269,1525,38:46,39:06,12. Christine Margaret Sinclair,Portland Thorns,challenge,1st half,74.8,12.7,0
+270,1543,39:00,39:20,10. Jessica Anne Fishlock,OL Reign,foul,1st half,32.3,42.9,null
+271,1549,39:50,40:10,16. Emily Ann Sonnett,Portland Thorns,challenge,1st half,95.8,36.6,0
+272,1550,39:50,40:10,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,9.2,31.4,1
+273,1553,39:52,40:12,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,90.1,39.5,0
+274,1554,39:52,40:12,14. Jodie Lee Taylor,OL Reign,challenge,1st half,14.9,28.5,1
+275,1563,39:54,40:14,23. Margaret Purce,Portland Thorns,recovery,1st half,92.0,51.5,null
+276,1568,39:56,40:16,16. Emily Ann Sonnett,Portland Thorns,foul,1st half,101.2,39.0,null
+277,1573,41:24,41:44,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,48.5,29.2,0
+278,1574,41:24,41:44,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,56.5,38.8,1
+279,1583,41:30,41:50,7. Stephanie-Elise Catley,OL Reign,challenge,1st half,33.4,50.8,1
+280,1584,41:30,41:50,23. Margaret Purce,Portland Thorns,challenge,1st half,71.6,17.2,0
+281,1585,41:30,41:50,7. Stephanie-Elise Catley,OL Reign,tackle,1st half,33.4,50.8,1
+282,1587,41:31,41:51,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,63.6,18.0,0
+283,1588,41:31,41:51,15. Megan Anna Rapinoe,OL Reign,challenge,1st half,41.4,50.0,1
+284,1593,41:32,41:52,23. Margaret Purce,Portland Thorns,recovery,1st half,70.3,16.5,null
+285,1616,41:51,42:11,22. Jasmyne Spencer,OL Reign,recovery,1st half,9.7,15.6,null
+286,1618,41:56,42:16,4. Emily Townsend Menges,Portland Thorns,recovery,1st half,54.0,65.1,null
+287,1636,42:11,42:31,1. Lydia Grace Yilkari Williams,OL Reign,recovery,1st half,3.8,33.8,null
+288,1639,42:27,42:47,15. Megan Anna Rapinoe,OL Reign,challenge,1st half,63.2,61.1,0
+289,1641,42:27,42:47,15. Ellie Madison Carpenter,Portland Thorns,challenge,1st half,41.8,6.9,1
+290,1654,42:34,42:54,12. Christine Margaret Sinclair,Portland Thorns,challenge,1st half,59.4,9.6,1
+291,1656,42:34,42:54,20. Rumi Utsugi,OL Reign,challenge,1st half,45.6,58.4,0
+292,1660,42:40,43:00,10. Lindsey Michelle Horan,Portland Thorns,dribble,1st half,71.6,38.5,1
+293,1684,44:07,44:27,6. Alexandra Linsley Long Batista,OL Reign,challenge,1st half,79.6,52.4,0
+294,1685,44:07,44:27,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,25.4,15.6,1
+295,1686,44:07,44:27,6. Alexandra Linsley Long Batista,OL Reign,foul,1st half,79.8,52.4,null
+296,1700,44:47,45:07,14. Jodie Lee Taylor,OL Reign,tackle,1st half,34.7,42.4,0
+297,1701,44:47,45:07,14. Jodie Lee Taylor,OL Reign,challenge,1st half,34.7,42.4,0
+298,1702,44:47,45:07,10. Lindsey Michelle Horan,Portland Thorns,recovery,1st half,70.3,25.6,null
+299,1704,44:47,45:07,10. Lindsey Michelle Horan,Portland Thorns,take_on,1st half,70.3,25.6,1
+300,1706,44:47,45:07,10. Lindsey Michelle Horan,Portland Thorns,dribble,1st half,71.0,24.9,1
+301,1710,44:52,45:12,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,82.5,14.4,0
+302,1711,44:52,45:12,3. Lauren Kate Barnes,OL Reign,challenge,1st half,22.5,53.6,1
+303,1713,44:53,45:13,14. Jodie Lee Taylor,OL Reign,recovery,1st half,29.6,54.6,null
+304,1714,44:55,45:15,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,73.7,18.7,1
+305,1715,44:55,45:15,9. Caitlin Jade Foord,Portland Thorns,tackle,1st half,73.7,18.7,1
+306,1717,44:55,45:15,14. Jodie Lee Taylor,OL Reign,challenge,1st half,31.3,49.3,0
+307,1718,44:56,45:16,9. Caitlin Jade Foord,Portland Thorns,dribble,1st half,75.4,19.9,1
+308,1726,45:02,45:22,23. Margaret Purce,Portland Thorns,recovery,1st half,89.5,5.7,null
+309,1727,45:02,45:22,23. Margaret Purce,Portland Thorns,dribble,1st half,89.0,4.5,1
+310,1735,45:36,45:56,22. Jasmyne Spencer,OL Reign,challenge,1st half,17.4,1.4,0
+311,1737,45:36,45:56,17. Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,87.6,66.6,1
+312,1743,45:39,45:59,9. Caitlin Jade Foord,Portland Thorns,challenge,1st half,92.4,57.0,0
+313,1745,45:39,45:59,22. Jasmyne Spencer,OL Reign,challenge,1st half,12.6,11.0,1
+314,1746,45:39,45:59,22. Jasmyne Spencer,OL Reign,tackle,1st half,12.6,11.0,1
+315,1747,45:39,45:59,9. Caitlin Jade Foord,Portland Thorns,Dribbles (Unsuccessful actions),1st half,92.4,57.0,null
+316,1748,45:41,46:01,4. Megan Leigh Oyster,OL Reign,recovery,1st half,10.5,9.1,null
+317,1752,45:46,46:06,4. Emily Townsend Menges,Portland Thorns,recovery,1st half,58.0,67.8,null
+318,1765,46:03,46:23,22. Jasmyne Spencer,OL Reign,challenge,1st half,47.9,3.1,0
+319,1766,46:03,46:23,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,57.1,64.9,1
+320,1771,46:05,46:25,30. Celeste Anais Boureille,Portland Thorns,recovery,1st half,60.7,62.7,null
+321,1772,46:07,46:27,17. Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,72.0,66.3,0
+322,1773,46:07,46:27,8. Theresa Eslund,OL Reign,challenge,1st half,33.0,1.7,1
+323,1774,46:07,46:27,8. Theresa Eslund,OL Reign,tackle,1st half,33.0,1.7,1
+324,1775,46:07,46:27,17. Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),1st half,72.0,66.3,null
+325,1787,46:21,46:41,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,68.0,67.0,null
+326,1802,46:34,46:54,1. Lydia Grace Yilkari Williams,OL Reign,recovery,1st half,1.1,41.2,null
+327,1811,46:53,47:13,30. Celeste Anais Boureille,Portland Thorns,challenge,1st half,42.6,17.2,1
+328,1812,46:53,47:13,10. Jessica Anne Fishlock,OL Reign,challenge,1st half,62.4,50.8,0
+329,1820,45:01,45:21,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,33.0,49.1,null
+330,1827,45:04,45:24,15. Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,49.6,6.9,null
+331,1836,45:09,45:29,15. Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,33.6,1.9,null
+332,1866,46:04,46:24,6. Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,102.3,28.5,0
+333,1870,46:04,46:24,16. Emily Ann Sonnett,Portland Thorns,challenge,2nd half,2.7,39.5,1
+334,1874,46:31,46:51,4. Megan Leigh Oyster,OL Reign,recovery,2nd half,33.6,16.3,null
+335,1879,46:34,46:54,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,69.1,53.9,null
+336,1881,46:35,46:55,20. Rumi Utsugi,OL Reign,foul,2nd half,32.1,13.2,null
+337,1894,47:54,48:14,8. Theresa Eslund,OL Reign,challenge,2nd half,35.3,6.5,0
+338,1896,47:54,48:14,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,69.7,61.5,1
+339,1901,48:02,48:22,4. Megan Leigh Oyster,OL Reign,recovery,2nd half,20.2,2.2,null
+340,1906,48:04,48:24,30. Celeste Anais Boureille,Portland Thorns,recovery,2nd half,61.7,54.8,null
+341,1914,48:09,48:29,6. Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,29.8,6.7,null
+342,1924,48:14,48:34,12. Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,69.5,63.2,null
+343,1928,48:17,48:37,8. Theresa Eslund,OL Reign,foul,2nd half,27.5,3.8,null
+344,1954,49:17,49:37,22. Jasmyne Spencer,OL Reign,dribble,2nd half,46.6,3.1,1
+345,1955,49:21,49:41,4. Emily Townsend Menges,Portland Thorns,challenge,2nd half,33.0,61.3,0
+346,1957,49:21,49:41,4. Emily Townsend Menges,Portland Thorns,tackle,2nd half,33.0,61.3,0
+347,1959,49:21,49:41,22. Jasmyne Spencer,OL Reign,take_on,2nd half,72.0,6.7,1
+348,1961,49:22,49:42,4. Emily Townsend Menges,Portland Thorns,foul,2nd half,28.8,60.6,null
+349,1979,51:07,51:27,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,38.0,26.3,null
+350,1986,51:12,51:32,16. Emily Ann Sonnett,Portland Thorns,recovery,2nd half,31.7,35.0,null
+351,1989,51:13,51:33,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,74.6,46.5,1
+352,1990,51:13,51:33,15. Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,30.4,21.5,0
+353,1992,51:13,51:33,15. Megan Anna Rapinoe,OL Reign,dribble,2nd half,74.6,46.0,1
+354,1993,51:17,51:37,24. Adrianna Nichole Franch,Portland Thorns,save,2nd half,26.0,43.8,null
+355,2002,51:57,52:17,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,100.0,36.6,0
+356,2004,51:57,52:17,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,5.0,31.4,1
+357,2015,52:28,52:48,17. Tobin Powell Powell Heath,Portland Thorns,dribble,2nd half,13.7,19.6,1
+358,2020,52:37,52:57,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,35.1,39.7,null
+359,2024,52:41,53:01,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,34.9,12.5,null
+360,2036,52:53,53:13,7. Ana Maria Crnogorcevic,Portland Thorns,dribble,2nd half,58.2,0.5,1
+361,2040,53:00,53:20,15. Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,94.3,4.1,0
+362,2042,53:00,53:20,7. Stephanie-Elise Catley,OL Reign,tackle,2nd half,10.7,63.9,1
+363,2043,53:00,53:20,7. Stephanie-Elise Catley,OL Reign,challenge,2nd half,10.7,63.9,1
+364,2044,53:00,53:20,15. Ellie Madison Carpenter,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,94.3,4.1,null
+365,2049,53:36,53:56,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,102.3,26.3,0
+366,2050,53:36,53:56,14. Jodie Lee Taylor,OL Reign,challenge,2nd half,2.7,41.7,1
+367,2064,53:44,54:04,15. Megan Anna Rapinoe,OL Reign,foul,2nd half,11.6,63.9,null
+368,2071,54:48,55:08,10. Jessica Anne Fishlock,OL Reign,challenge,2nd half,7.1,36.4,1
+369,2072,54:48,55:08,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,97.9,31.6,0
+370,2074,54:49,55:09,10. Lindsey Michelle Horan,Portland Thorns,foul,2nd half,97.9,31.1,null
+371,2077,55:13,55:33,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,47.5,55.1,0
+372,2078,55:13,55:33,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,57.5,12.9,1
+373,2093,55:20,55:40,15. Megan Anna Rapinoe,OL Reign,dribble,2nd half,44.7,64.2,1
+374,2095,55:22,55:42,15. Megan Anna Rapinoe,OL Reign,take_on,2nd half,54.4,64.9,1
+375,2096,55:22,55:42,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,50.6,3.1,0
+376,2097,55:22,55:42,30. Celeste Anais Boureille,Portland Thorns,tackle,2nd half,50.6,3.1,0
+377,2099,55:23,55:43,30. Celeste Anais Boureille,Portland Thorns,foul,2nd half,49.8,3.8,null
+378,2105,56:04,56:24,7. Ana Maria Crnogorcevic,Portland Thorns,tackle,2nd half,14.3,15.1,1
+379,2106,56:04,56:24,7. Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,14.3,15.1,1
+380,2107,56:04,56:24,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,90.7,52.9,0
+381,2109,56:05,56:25,10. Jessica Anne Fishlock,OL Reign,recovery,2nd half,89.7,41.9,null
+382,2110,56:05,56:25,10. Jessica Anne Fishlock,OL Reign,Dribbles (Unsuccessful actions),2nd half,89.7,41.9,null
+383,2113,56:05,56:25,10. Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,15.3,26.1,1
+384,2114,56:05,56:25,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,15.3,26.1,1
+385,2116,56:05,56:25,10. Jessica Anne Fishlock,OL Reign,challenge,2nd half,89.7,41.9,0
+386,2119,56:09,56:29,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,29.8,28.7,0
+387,2121,56:09,56:29,10. Jessica Anne Fishlock,OL Reign,tackle,2nd half,75.2,39.3,1
+388,2122,56:09,56:29,10. Jessica Anne Fishlock,OL Reign,challenge,2nd half,75.2,39.3,1
+389,2123,56:09,56:29,12. Christine Margaret Sinclair,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,29.8,28.7,null
+390,2125,56:10,56:30,20. Rumi Utsugi,OL Reign,recovery,2nd half,75.8,43.3,null
+391,2127,56:11,56:31,12. Christine Margaret Sinclair,Portland Thorns,foul,2nd half,29.2,24.9,null
+392,2137,57:14,57:34,22. Jasmyne Spencer,OL Reign,challenge,2nd half,66.6,4.8,1
+393,2139,57:14,57:34,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,38.4,63.2,0
+394,2152,57:23,57:43,15. Ellie Madison Carpenter,Portland Thorns,dribble,2nd half,25.8,18.9,1
+395,2158,57:28,57:48,3. Lauren Kate Barnes,OL Reign,challenge,2nd half,44.1,53.2,0
+396,2159,57:28,57:48,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,60.9,14.8,1
+397,2161,57:28,57:48,3. Lauren Kate Barnes,OL Reign,foul,2nd half,43.7,53.6,null
+398,2169,57:58,58:18,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,95.8,35.0,0
+399,2170,57:58,58:18,1. Lydia Grace Yilkari Williams,OL Reign,challenge,2nd half,9.2,33.0,1
+400,2177,58:00,58:20,17. Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,91.1,30.4,1
+401,2179,58:00,58:20,20. Rumi Utsugi,OL Reign,challenge,2nd half,13.9,37.6,0
+402,2183,58:03,58:23,15. Megan Anna Rapinoe,OL Reign,recovery,2nd half,14.5,50.8,null
+403,2186,58:06,58:26,30. Celeste Anais Boureille,Portland Thorns,recovery,2nd half,67.8,12.9,null
+404,2195,58:09,58:29,7. Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,84.2,11.3,0
+405,2196,58:09,58:29,8. Theresa Eslund,OL Reign,challenge,2nd half,20.8,56.7,1
+406,2200,58:12,58:32,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,8.4,52.4,null
+407,2208,58:16,58:36,7. Stephanie-Elise Catley,OL Reign,recovery,2nd half,23.3,52.9,null
+408,2212,58:19,58:39,15. Megan Anna Rapinoe,OL Reign,dribble,2nd half,35.3,62.5,1
+409,2217,58:25,58:45,8. Theresa Eslund,OL Reign,dribble,2nd half,33.0,20.1,1
+410,2221,58:33,58:53,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,23.1,65.1,1
+411,2222,58:33,58:53,22. Jasmyne Spencer,OL Reign,challenge,2nd half,81.9,2.9,0
+412,2234,58:52,59:12,4. Megan Leigh Oyster,OL Reign,recovery,2nd half,70.3,5.3,null
+413,2235,58:53,59:13,17. Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,26.7,60.8,0
+414,2236,58:53,59:13,4. Megan Leigh Oyster,OL Reign,take_on,2nd half,78.3,7.2,1
+415,2237,58:53,59:13,17. Tobin Powell Powell Heath,Portland Thorns,tackle,2nd half,26.7,60.8,0
+416,2244,58:55,59:15,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,10.9,60.1,null
+417,2249,58:58,59:18,6. Alexandra Linsley Long Batista,OL Reign,foul,2nd half,95.1,12.5,null
+418,2259,60:14,60:34,6. Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,39.7,17.0,1
+419,2260,60:14,60:34,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,65.3,51.0,0
+420,2270,60:56,61:16,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,89.5,36.6,0
+421,2275,60:56,61:16,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,15.5,31.4,1
+422,2276,60:56,61:16,10. Lindsey Michelle Horan,Portland Thorns,foul,2nd half,89.2,36.9,null
+423,2285,61:35,61:55,4. Megan Leigh Oyster,OL Reign,recovery,2nd half,30.0,12.9,null
+424,2291,61:41,62:01,4. Emily Townsend Menges,Portland Thorns,recovery,2nd half,31.3,57.2,null
+425,2300,61:47,62:07,10. Jessica Anne Fishlock,OL Reign,recovery,2nd half,79.6,3.4,null
+426,2325,62:13,62:33,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,0.59999999999999,9.3,1
+427,2326,62:13,62:33,17. Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,104.4,58.7,0
+428,2327,62:13,62:33,4. Megan Leigh Oyster,OL Reign,tackle,2nd half,0.59999999999999,9.3,1
+429,2328,62:13,62:33,17. Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,104.4,58.7,null
+430,2334,62:18,62:38,4. Emily Townsend Menges,Portland Thorns,recovery,2nd half,60.3,56.5,null
+431,2343,62:38,62:58,12. Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,70.6,57.0,null
+432,2348,62:40,63:00,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,82.1,59.4,0
+433,2350,62:40,63:00,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,22.9,8.6,1
+434,2352,62:42,63:02,20. Rumi Utsugi,OL Reign,recovery,2nd half,27.9,18.0,null
+435,2362,62:58,63:18,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,68.5,32.8,null
+436,2371,63:07,63:27,4. Megan Leigh Oyster,OL Reign,recovery,2nd half,5.5,15.3,null
+437,2374,63:10,63:30,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,63.6,62.7,null
+438,2376,63:12,63:32,14. Jodie Lee Taylor,OL Reign,tackle,2nd half,41.6,5.5,0
+439,2377,63:12,63:32,14. Jodie Lee Taylor,OL Reign,challenge,2nd half,41.6,5.5,0
+440,2378,63:12,63:32,17. Tobin Powell Powell Heath,Portland Thorns,take_on,2nd half,63.4,62.5,1
+441,2380,63:12,63:32,14. Jodie Lee Taylor,OL Reign,foul,2nd half,41.6,5.5,null
+442,2389,64:01,64:21,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,90.1,29.5,0
+443,2391,64:01,64:21,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,14.9,38.5,1
+444,2393,64:02,64:22,10. Lindsey Michelle Horan,Portland Thorns,foul,2nd half,90.5,28.5,null
+445,2398,64:27,64:47,15. Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,50.4,7.7,0
+446,2399,64:27,64:47,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,54.6,60.3,1
+447,2418,64:48,65:08,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,59.0,65.1,0
+448,2419,64:48,65:08,7. Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,46.0,2.9,1
+449,2427,64:52,65:12,20. Rumi Utsugi,OL Reign,foul,2nd half,51.0,61.5,null
+450,2439,65:28,65:48,16. Emily Ann Sonnett,Portland Thorns,recovery,2nd half,56.1,4.3,null
+451,2447,65:32,65:52,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,87.6,32.3,1
+452,2449,65:32,65:52,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,17.4,35.7,0
+453,2458,66:05,66:25,20. Rumi Utsugi,OL Reign,challenge,2nd half,45.2,57.7,0
+454,2459,66:05,66:25,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,59.8,10.3,1
+455,2463,66:08,66:28,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,74.6,28.7,0
+456,2464,66:08,66:28,4. Megan Leigh Oyster,OL Reign,tackle,2nd half,30.4,39.3,1
+457,2465,66:08,66:28,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,30.4,39.3,1
+458,2466,66:08,66:28,9. Caitlin Jade Foord,Portland Thorns,recovery,2nd half,74.6,28.7,null
+459,2468,66:08,66:28,9. Caitlin Jade Foord,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,74.6,28.7,null
+460,2474,66:11,66:31,3. Lauren Kate Barnes,OL Reign,challenge,2nd half,23.3,48.4,0
+461,2475,66:11,66:31,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,81.7,19.6,1
+462,2480,66:13,66:33,7. Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,82.3,16.0,null
+463,2495,67:28,67:48,15. Megan Anna Rapinoe,OL Reign,dribble,2nd half,84.2,60.6,1
+464,2508,67:48,68:08,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,24.6,35.0,null
+465,2513,67:53,68:13,12. Christine Margaret Sinclair,Portland Thorns,dribble,2nd half,52.7,22.0,1
+466,2520,67:58,68:18,8. Theresa Eslund,OL Reign,challenge,2nd half,14.7,36.4,1
+467,2521,67:58,68:18,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,90.3,31.6,0
+468,2527,68:52,69:12,30. Celeste Anais Boureille,Portland Thorns,foul,2nd half,60.7,14.4,null
+469,2542,69:10,69:30,24. Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,2.9,33.3,null
+470,2548,69:41,70:01,10. Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,28.3,61.5,null
+471,2554,69:43,70:03,10. Jessica Anne Fishlock,OL Reign,recovery,2nd half,71.8,13.9,null
+472,2558,69:44,70:04,16. Emily Ann Sonnett,Portland Thorns,recovery,2nd half,26.0,46.5,null
+473,2560,69:48,70:08,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,69.3,29.5,0
+474,2561,69:48,70:08,3. Lauren Kate Barnes,OL Reign,challenge,2nd half,35.7,38.5,1
+475,2565,69:52,70:12,6. Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,36.1,28.7,null
+476,2571,69:56,70:16,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,54.8,63.0,null
+477,2579,70:04,70:24,1. Lydia Grace Yilkari Williams,OL Reign,recovery,2nd half,6.3,21.3,null
+478,2587,70:28,70:48,7. Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,59.4,8.1,1
+479,2591,70:28,70:48,7. Stephanie-Elise Catley,OL Reign,challenge,2nd half,45.6,59.9,0
+480,2594,70:32,70:52,10. Jessica Anne Fishlock,OL Reign,tackle,2nd half,45.6,54.6,0
+481,2595,70:32,70:52,30. Celeste Anais Boureille,Portland Thorns,take_on,2nd half,59.4,13.4,1
+482,2596,70:32,70:52,10. Jessica Anne Fishlock,OL Reign,challenge,2nd half,45.6,54.6,0
+483,2601,70:36,70:56,3. Lauren Kate Barnes,OL Reign,challenge,2nd half,13.9,51.7,1
+484,2603,70:36,70:56,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,91.1,16.3,0
+485,2608,71:07,71:27,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,98.3,18.0,0
+486,2609,71:07,71:27,10. Jessica Anne Fishlock,OL Reign,challenge,2nd half,6.7,50.0,1
+487,2617,71:19,71:39,4. Emily Townsend Menges,Portland Thorns,recovery,2nd half,34.2,62.7,null
+488,2625,71:26,71:46,7. Stephanie-Elise Catley,OL Reign,recovery,2nd half,32.1,49.1,null
+489,2632,71:30,71:50,6. Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,35.5,42.6,null
+490,2640,71:32,71:52,4. Megan Leigh Oyster,OL Reign,recovery,2nd half,25.0,34.2,null
+491,2645,71:39,71:59,15. Ellie Madison Carpenter,Portland Thorns,tackle,2nd half,38.6,1.0,1
+492,2646,71:39,71:59,15. Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,38.6,1.0,1
+493,2647,71:39,71:59,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,66.4,67.0,0
+494,2648,71:39,71:59,15. Megan Anna Rapinoe,OL Reign,Dribbles (Unsuccessful actions),2nd half,66.4,67.0,null
+495,2654,71:46,72:06,10. Jessica Anne Fishlock,OL Reign,challenge,2nd half,73.1,55.5,1
+496,2655,71:46,72:06,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,31.9,12.5,0
+497,2658,71:47,72:07,10. Jessica Anne Fishlock,OL Reign,dribble,2nd half,75.4,54.6,1
+498,2663,71:50,72:10,15. Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,17.0,11.3,null
+499,2669,73:09,73:29,6. Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,48.7,56.0,null
+500,2671,73:09,73:29,6. Alexandra Linsley Long Batista,OL Reign,dribble,2nd half,48.9,53.6,1
+501,2672,73:10,73:30,6. Alexandra Linsley Long Batista,OL Reign,take_on,2nd half,48.7,52.9,1
+502,2673,73:10,73:30,12. Christine Margaret Sinclair,Portland Thorns,tackle,2nd half,56.3,15.1,0
+503,2674,73:10,73:30,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,56.3,15.1,0
+504,2685,73:27,73:47,7. Stephanie-Elise Catley,OL Reign,recovery,2nd half,48.7,61.3,null
+505,2688,73:28,73:48,6. Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,56.3,58.2,0
+506,2689,73:28,73:48,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,48.7,9.8,1
+507,2694,73:30,73:50,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,41.6,54.6,null
+508,2701,73:34,73:54,10. Lindsey Michelle Horan,Portland Thorns,dribble,2nd half,63.4,25.1,1
+509,2711,73:42,74:02,30. Celeste Anais Boureille,Portland Thorns,recovery,2nd half,75.6,40.5,null
+510,2713,73:44,74:04,17. Tobin Powell Powell Heath,Portland Thorns,dribble,2nd half,85.1,61.5,1
+511,2714,73:49,74:09,22. Jasmyne Spencer,OL Reign,challenge,2nd half,10.7,4.3,0
+512,2715,73:49,74:09,22. Jasmyne Spencer,OL Reign,tackle,2nd half,10.7,4.3,0
+513,2716,73:49,74:09,17. Tobin Powell Powell Heath,Portland Thorns,take_on,2nd half,94.3,63.7,1
+514,2740,74:14,74:34,1. Lydia Grace Yilkari Williams,OL Reign,recovery,2nd half,4.4,33.0,null
+515,2747,74:21,74:41,4. Emily Townsend Menges,Portland Thorns,challenge,2nd half,46.6,37.6,1
+516,2749,74:21,74:41,14. Jodie Lee Taylor,OL Reign,challenge,2nd half,58.4,30.4,0
+517,2752,74:23,74:43,22. Jasmyne Spencer,OL Reign,recovery,2nd half,57.8,9.8,null
+518,2757,74:31,74:51,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,4.0,56.3,null
+519,2762,74:42,75:02,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,44.3,64.9,0
+520,2763,74:42,75:02,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,60.7,3.1,1
+521,2776,75:06,75:26,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,65.3,53.6,0
+522,2777,75:06,75:26,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,39.7,14.4,1
+523,2779,75:07,75:27,20. Rumi Utsugi,OL Reign,challenge,2nd half,44.1,9.8,1
+524,2780,75:07,75:27,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,60.9,58.2,0
+525,2782,75:08,75:28,7. Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,72.5,46.7,0
+526,2783,75:08,75:28,3. Lauren Kate Barnes,OL Reign,challenge,2nd half,32.5,21.3,1
+527,2785,75:10,75:30,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,62.6,61.1,null
+528,2787,75:10,75:30,17. Tobin Powell Powell Heath,Portland Thorns,dribble,2nd half,61.5,63.9,1
+529,2790,75:12,75:32,20. Rumi Utsugi,OL Reign,tackle,2nd half,34.7,6.0,0
+530,2791,75:12,75:32,20. Rumi Utsugi,OL Reign,challenge,2nd half,34.7,6.0,0
+531,2792,75:12,75:32,17. Tobin Powell Powell Heath,Portland Thorns,take_on,2nd half,70.3,62.0,1
+532,2797,75:16,75:36,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,80.0,38.1,0
+533,2798,75:16,75:36,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,25.0,29.9,1
+534,2799,75:16,75:36,15. Megan Anna Rapinoe,OL Reign,tackle,2nd half,25.0,29.9,1
+535,2802,75:18,75:38,12. Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,81.1,42.4,null
+536,2806,75:20,75:40,15. Ellie Madison Carpenter,Portland Thorns,dribble,2nd half,78.3,16.8,1
+537,2807,75:25,75:45,15. Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,94.1,16.0,0
+538,2809,75:25,75:45,7. Stephanie-Elise Catley,OL Reign,challenge,2nd half,10.9,52.0,1
+539,2810,75:25,75:45,7. Stephanie-Elise Catley,OL Reign,tackle,2nd half,10.9,52.0,1
+540,2813,75:28,75:48,30. Celeste Anais Boureille,Portland Thorns,recovery,2nd half,76.4,4.3,null
+541,2815,75:28,75:48,30. Celeste Anais Boureille,Portland Thorns,dribble,2nd half,76.0,2.9,1
+542,2834,75:38,75:58,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,73.5,38.3,null
+543,2838,75:40,76:00,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,81.7,27.8,0
+544,2839,75:40,76:00,8. Theresa Eslund,OL Reign,tackle,2nd half,23.3,40.2,1
+545,2840,75:40,76:00,8. Theresa Eslund,OL Reign,challenge,2nd half,23.3,40.2,1
+546,2841,75:40,76:00,10. Lindsey Michelle Horan,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,81.7,27.8,null
+547,2843,75:42,76:02,20. Rumi Utsugi,OL Reign,recovery,2nd half,20.4,33.8,null
+548,2845,75:44,76:04,17. Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,77.7,33.3,1
+549,2846,75:44,76:04,20. Rumi Utsugi,OL Reign,challenge,2nd half,27.3,34.7,0
+550,2847,75:44,76:04,17. Tobin Powell Powell Heath,Portland Thorns,tackle,2nd half,77.7,33.3,1
+551,2850,75:46,76:06,7. Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,75.6,28.3,null
+552,2866,77:24,77:44,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,65.9,2.4,0
+553,2867,77:24,77:44,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,39.1,65.6,1
+554,2879,77:48,78:08,6. Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,26.5,51.5,null
+555,2890,77:55,78:15,17. Beverly Yanez,OL Reign,recovery,2nd half,41.6,15.6,null
+556,2891,77:56,78:16,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,63.0,52.0,1
+557,2892,77:56,78:16,17. Beverly Yanez,OL Reign,challenge,2nd half,42.0,16.0,0
+558,2893,77:56,78:16,10. Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,63.0,52.0,1
+559,2896,77:59,78:19,17. Beverly Yanez,OL Reign,challenge,2nd half,36.5,16.8,1
+560,2897,77:59,78:19,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,68.5,51.2,0
+561,2900,78:01,78:21,10. Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,73.7,47.2,null
+562,2922,78:34,78:54,4. Emily Townsend Menges,Portland Thorns,recovery,2nd half,26.0,24.4,null
+563,2940,78:44,79:04,10. Jessica Anne Fishlock,OL Reign,recovery,2nd half,74.3,50.0,null
+564,2966,79:00,79:20,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,61.3,59.6,0
+565,2967,79:00,79:20,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,43.7,8.4,1
+566,2989,79:25,79:45,15. Megan Anna Rapinoe,OL Reign,dribble,2nd half,47.9,60.8,1
+567,2991,79:27,79:47,15. Megan Anna Rapinoe,OL Reign,take_on,2nd half,50.2,40.9,1
+568,2993,79:27,79:47,4. Emily Townsend Menges,Portland Thorns,challenge,2nd half,54.8,27.1,0
+569,2994,79:27,79:47,4. Emily Townsend Menges,Portland Thorns,tackle,2nd half,54.8,27.1,0
+570,3001,79:34,79:54,25. Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,13.2,44.3,0
+571,3002,79:34,79:54,17. Beverly Yanez,OL Reign,take_on,2nd half,91.8,23.7,1
+572,3003,79:34,79:54,25. Meghan Elizabeth Klingenberg,Portland Thorns,tackle,2nd half,13.2,44.3,0
+573,3007,79:37,79:57,16. Emily Ann Sonnett,Portland Thorns,recovery,2nd half,7.1,40.0,null
+574,3012,79:43,80:03,4. Megan Leigh Oyster,OL Reign,recovery,2nd half,69.5,2.9,null
+575,3024,79:47,80:07,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,91.6,39.3,1
+576,3025,79:47,80:07,7. Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,13.4,28.7,0
+577,3032,80:19,80:39,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,43.7,62.7,1
+578,3033,80:19,80:39,17. Beverly Yanez,OL Reign,challenge,2nd half,61.3,5.3,0
+579,3035,80:19,80:39,8. Theresa Eslund,OL Reign,recovery,2nd half,48.7,6.0,null
+580,3043,80:26,80:46,4. Emily Townsend Menges,Portland Thorns,challenge,2nd half,39.9,52.9,1
+581,3044,80:26,80:46,14. Jodie Lee Taylor,OL Reign,challenge,2nd half,65.1,15.1,0
+582,3051,80:28,80:48,6. Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,49.1,15.1,0
+583,3054,80:28,80:48,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,55.9,52.9,1
+584,3056,80:28,80:48,6. Alexandra Linsley Long Batista,OL Reign,foul,2nd half,49.1,15.8,null
+585,3072,82:19,82:39,15. Megan Anna Rapinoe,OL Reign,recovery,2nd half,13.2,46.7,null
+586,3073,82:21,82:41,10. Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,91.8,23.2,1
+587,3074,82:21,82:41,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,91.8,23.2,1
+588,3075,82:21,82:41,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,13.2,44.8,0
+589,3077,82:22,82:42,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,13.2,48.6,1
+590,3078,82:22,82:42,16. Emily Ann Sonnett,Portland Thorns,challenge,2nd half,91.8,19.4,0
+591,3082,82:25,82:45,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,79.4,15.6,null
+592,3083,82:28,82:48,15. Megan Anna Rapinoe,OL Reign,tackle,2nd half,21.6,55.5,1
+593,3084,82:28,82:48,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,21.6,55.5,1
+594,3085,82:28,82:48,17. Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,83.4,12.5,0
+595,3087,82:28,82:48,17. Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,83.4,12.5,null
+596,3093,82:34,82:54,25. Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,66.4,56.0,null
+597,3096,82:34,82:54,25. Meghan Elizabeth Klingenberg,Portland Thorns,dribble,2nd half,66.4,56.0,1
+598,3106,82:41,83:01,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,86.5,34.5,null
+599,3113,83:19,83:39,7. Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,59.0,4.8,1
+600,3114,83:19,83:39,12. Morgan Andrews,OL Reign,challenge,2nd half,46.0,63.2,0
+601,3115,83:20,83:40,15. Megan Anna Rapinoe,OL Reign,recovery,2nd half,50.8,67.5,null
+602,3116,83:24,83:44,15. Megan Anna Rapinoe,OL Reign,Dribbles (Unsuccessful actions),2nd half,50.8,66.8,null
+603,3117,83:24,83:44,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,54.2,1.2,1
+604,3119,83:24,83:44,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,50.8,66.8,0
+605,3120,83:24,83:44,10. Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,54.2,1.2,1
+606,3122,83:24,83:44,15. Megan Anna Rapinoe,OL Reign,foul,2nd half,50.4,66.8,null
+607,3125,83:48,84:08,9. Caitlin Jade Foord,Portland Thorns,dribble,2nd half,89.5,12.9,1
+608,3139,84:41,85:01,15. Megan Anna Rapinoe,OL Reign,recovery,2nd half,13.6,44.8,null
+609,3144,84:42,85:02,12. Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,93.7,24.9,null
+610,3148,84:43,85:03,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,94.5,24.2,0
+611,3149,84:43,85:03,11. Elizabeth Addo,OL Reign,challenge,2nd half,10.5,43.8,1
+612,3150,84:43,85:03,11. Elizabeth Addo,OL Reign,tackle,2nd half,10.5,43.8,1
+613,3154,84:53,85:13,4. Emily Townsend Menges,Portland Thorns,recovery,2nd half,35.9,15.6,null
+614,3165,85:07,85:27,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,45.2,58.4,null
+615,3174,85:10,85:30,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,48.1,57.2,null
+616,3177,85:11,85:31,11. Elizabeth Addo,OL Reign,challenge,2nd half,56.7,55.1,0
+617,3178,85:11,85:31,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,48.3,12.9,1
+618,3179,85:12,85:32,30. Celeste Anais Boureille,Portland Thorns,tackle,2nd half,51.2,12.2,0
+619,3181,85:12,85:32,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,51.2,12.2,0
+620,3182,85:12,85:32,12. Morgan Andrews,OL Reign,take_on,2nd half,53.8,55.8,1
+621,3185,85:12,85:32,12. Morgan Andrews,OL Reign,recovery,2nd half,53.8,55.8,null
+622,3191,85:18,85:38,10. Lindsey Michelle Horan,Portland Thorns,foul,2nd half,31.3,11.3,null
+623,3201,86:06,86:26,14. Jodie Lee Taylor,OL Reign,challenge,2nd half,96.4,19.6,1
+624,3203,86:06,86:26,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,8.6,48.4,0
+625,3209,86:10,86:30,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,8.4,36.4,1
+626,3210,86:10,86:30,7. Stephanie-Elise Catley,OL Reign,challenge,2nd half,96.6,31.6,0
+627,3215,86:12,86:32,7. Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,6.9,48.1,null
+628,3229,88:11,88:31,12. Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,17.4,36.9,null
+629,3232,88:18,88:38,7. Stephanie-Elise Catley,OL Reign,recovery,2nd half,38.0,48.8,null
+630,3243,88:29,88:49,15. Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,10.7,10.1,null
+631,3250,88:42,89:02,15. Megan Anna Rapinoe,OL Reign,dribble,2nd half,96.8,65.4,1
+632,3262,88:48,89:08,7. Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,22.5,14.4,null
+633,3267,88:51,89:11,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,62.0,61.1,null
+634,3281,89:24,89:44,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,57.3,58.9,0
+635,3282,89:24,89:44,17. Beverly Yanez,OL Reign,challenge,2nd half,47.7,9.1,1
+636,3290,89:42,90:02,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,42.4,3.1,1
+637,3291,89:42,90:02,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,62.6,64.9,0
+638,3297,89:44,90:04,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,55.7,66.6,null
+639,3307,90:08,90:28,7. Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,74.6,64.2,null
+640,3321,90:33,90:53,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,71.4,66.1,0
+641,3322,90:33,90:53,14. Jodie Lee Taylor,OL Reign,challenge,2nd half,33.6,1.9,1
+642,3323,90:33,90:53,14. Jodie Lee Taylor,OL Reign,tackle,2nd half,33.6,1.9,1
+643,3326,90:48,91:08,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,81.1,63.2,0
+644,3328,90:48,91:08,4. Megan Leigh Oyster,OL Reign,challenge,2nd half,23.9,4.8,1
+645,3341,91:29,91:49,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,63.0,55.8,0
+646,3342,91:29,91:49,12. Morgan Andrews,OL Reign,challenge,2nd half,42.0,12.2,1
+647,3344,91:30,91:50,10. Lindsey Michelle Horan,Portland Thorns,foul,2nd half,62.6,56.0,null
+648,3357,91:56,92:16,10. Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,31.5,38.1,0
+649,3359,91:56,92:16,12. Morgan Andrews,OL Reign,challenge,2nd half,73.5,29.9,1
+650,3373,92:09,92:29,17. Beverly Yanez,OL Reign,recovery,2nd half,97.9,9.1,null
+651,3379,92:12,92:32,11. Elizabeth Addo,OL Reign,challenge,2nd half,98.9,15.1,0
+652,3380,92:12,92:32,30. Celeste Anais Boureille,Portland Thorns,tackle,2nd half,6.1,52.9,1
+653,3381,92:12,92:32,30. Celeste Anais Boureille,Portland Thorns,challenge,2nd half,6.1,52.9,1
+654,3382,92:12,92:32,11. Elizabeth Addo,OL Reign,Dribbles (Unsuccessful actions),2nd half,98.9,15.1,null
+655,3384,92:14,92:34,17. Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,7.6,47.4,null
+656,3387,92:19,92:39,9. Caitlin Jade Foord,Portland Thorns,challenge,2nd half,49.1,37.1,0
+657,3388,92:19,92:39,9. Caitlin Jade Foord,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,49.1,37.1,null
+658,3389,92:19,92:39,7. Stephanie-Elise Catley,OL Reign,challenge,2nd half,55.9,30.9,1
+659,3390,92:19,92:39,7. Stephanie-Elise Catley,OL Reign,tackle,2nd half,55.9,30.9,1
+660,3393,92:22,92:42,3. Lauren Kate Barnes,OL Reign,recovery,2nd half,36.1,30.6,null
+661,3409,92:34,92:54,9. Caitlin Jade Foord,Portland Thorns,dribble,2nd half,61.1,50.3,1
+662,3423,93:03,93:23,17. Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,92.6,65.4,0
+663,3424,93:03,93:23,8. Theresa Eslund,OL Reign,tackle,2nd half,12.4,2.6,1
+664,3425,93:03,93:23,17. Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,92.6,65.4,null
+665,3426,93:03,93:23,8. Theresa Eslund,OL Reign,challenge,2nd half,12.4,2.6,1
+666,3439,93:19,93:39,15. Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,49.1,15.3,1
+667,3440,93:19,93:39,15. Megan Anna Rapinoe,OL Reign,challenge,2nd half,55.9,52.7,0
+668,3442,93:22,93:42,7. Ana Maria Crnogorcevic,Portland Thorns,dribble,2nd half,58.2,7.7,1
+669,3448,93:32,93:52,15. Megan Anna Rapinoe,OL Reign,recovery,2nd half,1.9,60.8,null
+670,3456,93:44,94:04,12. Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,46.2,50.3,1
+671,3458,93:44,94:04,14. Jodie Lee Taylor,OL Reign,challenge,2nd half,58.8,17.7,0
+672,3459,93:44,94:04,14. Jodie Lee Taylor,OL Reign,foul,2nd half,59.0,17.7,null
+673,3471,94:36,94:56,17. Beverly Yanez,OL Reign,recovery,2nd half,14.9,1.2,null
+674,3475,94:38,94:58,17. Beverly Yanez,OL Reign,tackle,2nd half,15.1,1.2,0
+675,3476,94:38,94:58,17. Beverly Yanez,OL Reign,challenge,2nd half,15.1,1.2,0
+676,3478,94:38,94:58,12. Christine Margaret Sinclair,Portland Thorns,take_on,2nd half,89.9,66.8,1
+677,3480,94:38,94:58,17. Beverly Yanez,OL Reign,foul,2nd half,15.3,1.4,null
