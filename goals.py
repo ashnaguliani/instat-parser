@@ -1,7 +1,7 @@
 def goals(goal_df):
 	max_shift = 3
 
-	column_suffixes = ['player', 'action', 'team', 'pos_x', 'pos_y']
+	column_suffixes = ['player_ID', 'action', 'team', 'pos_x', 'pos_y']
 	shift_column_names = []
 
 	for i in range(-(max_shift), max_shift+1): 
@@ -31,10 +31,10 @@ def goals(goal_df):
 		while x <= max_shift:
 			if x != 0:
 				if row[str(x) + '_action'] == 'Goals conceded':
-					conceding_GK_row = row[str(x) + '_player']
+					conceding_GK_row = row[str(x) + '_player_ID']
 					conceding_team_row = row[str(x) + '_team']
 				elif row[str(x) + '_action'] == 'Assists':
-					assisted_by_row = row[str(x) + '_player']
+					assisted_by_row = row[str(x) + '_player_ID']
 					assist_pos_x_row = row[str(x) + '_pos_x']
 					assist_pos_y_row = row[str(x) + '_pos_y']
 			x += 1

@@ -1,7 +1,7 @@
 def shots(shot_df): 
     max_shift = 3
 
-    column_suffixes = ['player', 'action', 'start_time', 'end_time']
+    column_suffixes = ['player_ID', 'action', 'start_time', 'end_time']
     shift_column_names = []
 
     for i in range(-(max_shift), max_shift+1): 
@@ -21,7 +21,7 @@ def shots(shot_df):
         accuracy_row = "blocked"
         while x <= max_shift:
             if x != 0:
-                if row[str(x) + '_player'] == row['player'] and row[str(x) + '_start_time'] == row['start_time'] and row[str(x) + '_end_time'] == row['end_time']:
+                if row[str(x) + '_player_ID'] == row['player_ID'] and row[str(x) + '_start_time'] == row['start_time'] and row[str(x) + '_end_time'] == row['end_time']:
 
                     if row[str(x) + '_action'] == 'Shot on target': 
                         accuracy_row = "on_target"
