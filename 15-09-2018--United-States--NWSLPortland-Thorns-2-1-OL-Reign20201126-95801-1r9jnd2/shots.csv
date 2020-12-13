@@ -1,0 +1,26 @@
+,raw_event_ID,start_time,end_time,player_ID,team,action,half,pos_x,pos_y,accuracy
+0,81,2:04,2:24,Megan Anna Rapinoe,OL Reign,Shots,1st half,82.9,43.8,blocked
+1,316,7:33,7:53,Christine Margaret Sinclair,Portland Thorns,Shots,1st half,90.3,47.9,on_target
+2,457,11:52,12:12,Rumi Utsugi,OL Reign,Shots,1st half,86.9,35.9,blocked
+3,587,14:56,15:16,Megan Anna Rapinoe,OL Reign,Shots,1st half,88.6,44.1,blocked
+4,623,15:54,16:14,Tobin Powell Powell Heath,Portland Thorns,Shots,1st half,96.4,34.7,blocked
+5,645,16:55,17:15,Caitlin Jade Foord,Portland Thorns,Shots,1st half,99.5,26.8,on_target
+6,656,16:57,17:17,Margaret Purce,Portland Thorns,Shots,1st half,98.3,29.2,blocked
+7,670,17:00,17:20,Tobin Powell Powell Heath,Portland Thorns,Shots,1st half,91.1,34.2,post_crossbar
+8,939,22:45,23:05,Jessica Anne Fishlock,OL Reign,Shots,1st half,86.1,48.4,blocked
+9,1055,27:49,28:09,Megan Anna Rapinoe,OL Reign,Shots,1st half,99.5,57.5,post_crossbar
+10,1157,30:05,30:25,Jodie Lee Taylor,OL Reign,Shots,1st half,98.7,34.0,blocked
+11,1173,30:12,30:32,Alexandra Linsley Long Batista,OL Reign,Shots,1st half,78.1,26.1,on_target
+12,1236,31:55,32:15,Jodie Lee Taylor,OL Reign,Shots,1st half,84.6,42.1,on_target
+13,1254,32:44,33:04,Megan Anna Rapinoe,OL Reign,Shots,1st half,96.2,39.7,blocked
+14,1293,33:31,33:51,Lindsey Michelle Horan,Portland Thorns,Shots,1st half,99.1,29.0,wide
+15,1389,36:15,36:35,Alexandra Linsley Long Batista,OL Reign,Shots,1st half,82.5,22.5,blocked
+16,1398,36:17,36:37,Jodie Lee Taylor,OL Reign,Shots,1st half,95.8,34.0,on_target
+17,1486,37:56,38:16,Megan Anna Rapinoe,OL Reign,Shots,1st half,101.6,37.1,on_target
+18,1722,44:59,45:19,Caitlin Jade Foord,Portland Thorns,Shots,1st half,90.9,20.6,blocked
+19,1934,48:39,48:59,Emily Ann Sonnett,Portland Thorns,Shots,2nd half,89.9,36.9,wide
+20,1994,51:17,51:37,Megan Anna Rapinoe,OL Reign,Shots,2nd half,79.0,24.2,on_target
+21,2127,56:58,57:18,Megan Anna Rapinoe,OL Reign,Shots,2nd half,76.7,39.7,wide
+22,2659,71:49,72:09,Jessica Anne Fishlock,OL Reign,Shots,2nd half,82.9,47.4,blocked
+23,3018,79:47,80:07,Megan Anna Rapinoe,OL Reign,Shots,2nd half,91.6,39.3,wide
+24,3108,82:41,83:01,Tobin Powell Powell Heath,Portland Thorns,Shots,2nd half,86.5,34.5,wide
