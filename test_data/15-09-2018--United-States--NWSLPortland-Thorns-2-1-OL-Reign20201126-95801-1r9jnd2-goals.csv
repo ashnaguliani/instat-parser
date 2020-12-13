@@ -1,0 +1,4 @@
+,raw_event_ID,start_time,end_time,player_ID,team,action,half,pos_x,pos_y,assisted_by,assist_pos_x,assist_pos_y,conceding_GK,conceding_team
+0,1051,27:36,28:26,Jasmyne Spencer,OL Reign,Goals,1st half,101.6,28.0,null,null,null,Adrianna Nichole Franch,Portland Thorns
+1,1645,42:30,43:20,Tobin Powell Powell Heath,Portland Thorns,Goals,1st half,100.8,41.7,Lindsey Michelle Horan,85.9,37.1,Lydia Grace Yilkari Williams,OL Reign
+2,2828,75:37,76:27,Lindsey Michelle Horan,Portland Thorns,Goals,2nd half,96.6,35.7,Christine Margaret Sinclair,79.2,18.0,Lydia Grace Yilkari Williams,OL Reign
