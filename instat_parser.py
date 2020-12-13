@@ -3,6 +3,7 @@ import csv
 import pandas as pd
 import sys
 import time
+import os
 
 from helper import convert_seconds_to_minutes, convert_code_to_playerID
 from passes import passes
@@ -15,27 +16,15 @@ xml_file_name = sys.argv[1]
 tree = ET.parse(xml_file_name)
 root = tree.getroot()
 
-# open a file for writing - named the same as the XML file appended with -parsed
-# output_file_name = xml_file_name.split('.')[0] + "-parsed.csv"
-# game_data = open(output_file_name, "w")
-
-# write to the file
-# csvwriter = csv.writer(game_data)
-# with game_data:
 xml_data = []
-
-#the first row of the CSV file (column names) -- list of lists is CSV writer syntax (each list is a row)
-# headers = ["ID", "start", "end", "code", "team", "action", "half", "pos_x", "pos_y"]
 
 # we want to look through each "instance" in the XML file
 for elem in tree.findall('.//instance'):
-
 # create an empty list to store all the data for this instance
 	instance = []
 	instance.append(float(elem.find('start').text))
 	instance.append(float(elem.find('end').text))
 	instance.append(elem.find('code').text)
-
 	# there's a couple instances that don't have every variable - here we'll check that the
 	# instance does have at least one of them (so we'll assume it has all the rest) to make 
 	# sure that doing a get is safe
@@ -90,11 +79,15 @@ events_df.insert(loc = 2, column = "end_time", value = end_time)
 events_df.insert(loc = 3, column = "player_ID", value = player_ID)
 events_df.drop(['start', 'end', 'code'], axis=1, inplace=True)
 
+sub_directory = xml_file_name.split('.')[0]
+if not os.path.exists(sub_directory):
+    os.makedirs(sub_directory)
+
 # output the DF into a file which is the original filename + events
-events_df.to_csv(xml_file_name.split('.')[0] + "-events.csv")
+events_df.to_csv(sub_directory + '/events.csv')
 
 # run each of the other scripts & output into their own files
-passes(pass_df = events_df.copy()).to_csv(xml_file_name.split('.')[0] + "-passes.csv") 
-shots(shot_df = events_df.copy()).to_csv(xml_file_name.split('.')[0] + "-shots.csv") 
-goals(goal_df = events_df.copy()).to_csv(xml_file_name.split('.')[0] + "-goals.csv") 
-key_events(key_event_df = events_df.copy()).to_csv(xml_file_name.split('.')[0] + "-key-events.csv") 
+passes(pass_df = events_df.copy()).to_csv(sub_directory + "/passes.csv") 
+shots(shot_df = events_df.copy()).to_csv(sub_directory + "/shots.csv") 
+goals(goal_df = events_df.copy()).to_csv(sub_directory + "/goals.csv") 
+key_events(key_event_df = events_df.copy()).to_csv(sub_directory + "/key-events.csv") 
