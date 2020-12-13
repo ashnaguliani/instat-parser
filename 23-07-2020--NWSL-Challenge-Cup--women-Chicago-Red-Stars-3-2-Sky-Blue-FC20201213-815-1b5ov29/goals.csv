@@ -1,0 +1,6 @@
+,raw_event_ID,start_time,end_time,player_ID,team,action,half,pos_x,pos_y,assisted_by,assist_pos_x,assist_pos_y,conceding_GK,conceding_team
+0,361,7:28,8:18,Bianca St. Georges,Chicago Red Stars,Goals,1st half,93.4,27.2,Katie Johnson Carreon,79.5,37.1,Kailen Mary Sheridan,Sky Blue FC
+1,475,10:21,11:11,Rachel Hill,Chicago Red Stars,Goals,1st half,96.9,37.7,null,null,null,Kailen Mary Sheridan,Sky Blue FC
+2,2557,59:07,59:57,Savannah McCaskill,Chicago Red Stars,Goals,2nd half,97.6,30.2,Bianca St. Georges,99.4,18.5,Kailen Mary Sheridan,Sky Blue FC
+3,2944,70:50,71:40,Evelyne Viens,Sky Blue FC,Goals,2nd half,102.6,35.1,McCall RaNae Zerboni,94.6,34.4,Alyssa Naeher,Chicago Red Stars
+4,3135,76:06,76:56,Julie Beth Ertz,Sky Blue FC,Goals,2nd half,3.7,33.0,null,null,null,Alyssa Naeher,Chicago Red Stars

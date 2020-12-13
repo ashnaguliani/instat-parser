@@ -1,0 +1,508 @@
+,raw_event_ID,start_time,end_time,player_ID,team,action,half,pos_x,pos_y,successful
+0,12,0:12,0:32,Danielle Colaprico,Chicago Red Stars,challenge,1st half,42.5,47.0,0
+1,13,0:12,0:32,Danielle Colaprico,Chicago Red Stars,Dribbles (Unsuccessful actions),1st half,42.5,47.0,null
+2,14,0:12,0:32,Paige Monaghan,Sky Blue FC,tackle,1st half,62.5,21.0,1
+3,15,0:12,0:32,Paige Monaghan,Sky Blue FC,challenge,1st half,62.5,21.0,1
+4,17,0:13,0:33,McCall RaNae Zerboni,Sky Blue FC,recovery,1st half,62.1,18.1,null
+5,21,0:17,0:37,Katie Johnson Carreon,Chicago Red Stars,tackle,1st half,45.1,52.6,1
+6,23,0:17,0:37,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,59.9,15.4,0
+7,25,0:17,0:37,Katie Johnson Carreon,Chicago Red Stars,challenge,1st half,45.1,52.6,1
+8,27,0:19,0:39,Margaret Purce,Sky Blue FC,challenge,1st half,67.2,3.0,0
+9,28,0:19,0:39,Zoey Goralski,Chicago Red Stars,challenge,1st half,37.8,65.0,1
+10,42,0:28,0:48,Sabrina Flores,Sky Blue FC,recovery,1st half,47.1,34.4,null
+11,66,0:59,1:19,Jennifer Cudjoe,Sky Blue FC,challenge,1st half,64.3,58.8,1
+12,68,0:59,1:19,Jennifer Cudjoe,Sky Blue FC,tackle,1st half,64.3,58.8,1
+13,70,0:59,1:19,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,1st half,40.7,9.2,0
+14,73,1:00,1:20,Nahomi Kawasumi,Sky Blue FC,recovery,1st half,66.2,66.4,null
+15,81,1:05,1:25,Savannah McCaskill,Chicago Red Stars,recovery,1st half,44.6,22.8,null
+16,104,1:25,1:45,Zoey Goralski,Chicago Red Stars,recovery,1st half,42.3,65.6,null
+17,123,1:43,2:03,McCall RaNae Zerboni,Sky Blue FC,recovery,1st half,21.8,22.1,null
+18,126,1:48,2:08,Julie Beth Ertz,Chicago Red Stars,recovery,1st half,57.8,30.9,null
+19,169,3:29,3:49,Kealia Mae Watt,Chicago Red Stars,challenge,1st half,95.4,6.8,0
+20,170,3:29,3:49,Sabrina Flores,Sky Blue FC,challenge,1st half,9.6,61.2,1
+21,171,3:31,3:51,Savannah McCaskill,Chicago Red Stars,recovery,1st half,89.2,8.4,null
+22,188,4:10,4:30,Zoey Goralski,Chicago Red Stars,recovery,1st half,83.7,16.9,null
+23,201,4:20,4:40,Zoey Goralski,Chicago Red Stars,recovery,1st half,78.5,5.3,null
+24,210,4:22,4:42,Nahomi Kawasumi,Sky Blue FC,recovery,1st half,17.4,61.7,null
+25,217,4:36,4:56,Sabrina Flores,Sky Blue FC,challenge,1st half,30.2,7.5,1
+26,218,4:36,4:56,Katie Johnson Carreon,Chicago Red Stars,challenge,1st half,74.8,60.5,0
+27,219,4:38,4:58,Margaret Purce,Sky Blue FC,recovery,1st half,23.9,8.0,null
+28,225,4:55,5:15,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,31.3,1.2,0
+29,226,4:55,5:15,Katie Johnson Carreon,Chicago Red Stars,challenge,1st half,73.7,66.8,1
+30,231,4:59,5:19,McCall RaNae Zerboni,Sky Blue FC,tackle,1st half,30.2,10.2,1
+31,232,4:59,5:19,Savannah McCaskill,Chicago Red Stars,challenge,1st half,74.8,57.8,0
+32,234,4:59,5:19,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,30.2,10.2,1
+33,235,5:00,5:20,Katie Johnson Carreon,Chicago Red Stars,recovery,1st half,74.3,66.1,null
+34,250,5:17,5:37,Kailen Mary Sheridan,Sky Blue FC,recovery,1st half,1.5,48.1,null
+35,294,6:05,6:25,Zoey Goralski,Chicago Red Stars,challenge,1st half,13.4,57.8,1
+36,295,6:05,6:25,Zoey Goralski,Chicago Red Stars,tackle,1st half,13.4,57.8,1
+37,296,6:05,6:25,Paige Monaghan,Sky Blue FC,Dribbles (Unsuccessful actions),1st half,91.6,10.2,null
+38,297,6:05,6:25,Paige Monaghan,Sky Blue FC,challenge,1st half,91.6,10.2,0
+39,300,6:07,6:27,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,1st half,11.1,52.2,null
+40,308,6:35,6:55,Sarah Gorden,Chicago Red Stars,challenge,1st half,15.3,54.5,0
+41,309,6:35,6:55,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,89.7,13.5,1
+42,311,6:36,6:56,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,1st half,17.3,58.7,0
+43,312,6:36,6:56,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,87.7,9.3,1
+44,314,6:37,6:57,Danielle Colaprico,Chicago Red Stars,challenge,1st half,21.0,51.7,1
+45,315,6:37,6:57,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,84.0,16.3,0
+46,322,6:39,6:59,Katie Johnson Carreon,Chicago Red Stars,recovery,1st half,25.4,62.9,null
+47,331,6:50,7:10,Kealia Mae Watt,Chicago Red Stars,challenge,1st half,82.1,21.1,0
+48,332,6:50,7:10,Estelle Laura Johnson,Sky Blue FC,challenge,1st half,22.9,46.9,1
+49,355,7:20,7:40,Alyssa Naeher,Chicago Red Stars,recovery,1st half,8.3,42.8,null
+50,364,7:31,7:51,Nahomi Kawasumi,Sky Blue FC,recovery,1st half,44.4,58.1,null
+51,369,7:33,7:53,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,1st half,56.1,19.2,1
+52,370,7:33,7:53,Vanessa Sue Di Bernardo,Chicago Red Stars,tackle,1st half,56.1,19.2,1
+53,371,7:33,7:53,Sarah Christine Woldmoe,Sky Blue FC,challenge,1st half,48.9,48.8,0
+54,376,7:34,7:54,Kealia Mae Watt,Chicago Red Stars,recovery,1st half,59.2,16.9,null
+55,385,7:42,8:02,Gina Loren Lewandowski,Sky Blue FC,challenge,1st half,12.7,46.2,0
+56,386,7:42,8:02,Bianca St. Georges,Chicago Red Stars,take_on,1st half,92.3,21.8,1
+57,387,7:42,8:02,Gina Loren Lewandowski,Sky Blue FC,tackle,1st half,12.7,46.2,0
+58,413,9:37,9:57,Jennifer Cudjoe,Sky Blue FC,challenge,1st half,62.5,44.3,0
+59,414,9:37,9:57,Jennifer Cudjoe,Sky Blue FC,Dribbles (Unsuccessful actions),1st half,62.5,44.3,null
+60,415,9:37,9:57,Danielle Colaprico,Chicago Red Stars,challenge,1st half,42.5,23.7,1
+61,416,9:37,9:57,Danielle Colaprico,Chicago Red Stars,tackle,1st half,42.5,23.7,1
+62,418,9:37,9:57,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,1st half,41.3,20.8,null
+63,424,9:39,9:59,Erica Skroski,Sky Blue FC,challenge,1st half,49.2,52.4,1
+64,425,9:39,9:59,Rachel Hill,Chicago Red Stars,challenge,1st half,55.8,15.6,0
+65,450,9:59,10:19,Margaret Purce,Sky Blue FC,recovery,1st half,66.1,2.8,null
+66,459,10:05,10:25,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,65.1,12.8,0
+67,460,10:05,10:25,Danielle Colaprico,Chicago Red Stars,challenge,1st half,39.9,55.2,1
+68,478,10:26,10:46,Sabrina Flores,Sky Blue FC,challenge,1st half,6.5,58.8,0
+69,479,10:26,10:46,Sabrina Flores,Sky Blue FC,tackle,1st half,6.5,58.8,0
+70,480,10:26,10:46,Kealia Mae Watt,Chicago Red Stars,take_on,1st half,98.5,9.2,1
+71,487,10:30,10:50,Bianca St. Georges,Chicago Red Stars,recovery,1st half,89.7,15.7,null
+72,498,10:35,10:55,Rachel Hill,Chicago Red Stars,recovery,1st half,97.0,39.4,null
+73,512,11:36,11:56,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,61.6,39.6,0
+74,513,11:36,11:56,Julie Beth Ertz,Chicago Red Stars,challenge,1st half,43.4,28.4,1
+75,516,11:37,11:57,Sarah Gorden,Chicago Red Stars,recovery,1st half,38.0,32.7,null
+76,518,11:40,12:00,Kailen Mary Sheridan,Sky Blue FC,recovery,1st half,22.8,23.3,null
+77,544,12:01,12:21,Bianca St. Georges,Chicago Red Stars,foul,1st half,68.2,5.7,null
+78,550,12:25,12:45,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,54.1,47.4,0
+79,552,12:25,12:45,Rachel Hill,Chicago Red Stars,challenge,1st half,50.9,20.6,1
+80,558,12:29,12:49,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,1st half,39.6,15.7,null
+81,583,13:24,13:44,Paige Monaghan,Sky Blue FC,challenge,1st half,64.0,2.0,0
+82,584,13:24,13:44,Zoey Goralski,Chicago Red Stars,challenge,1st half,41.0,66.0,1
+83,586,13:25,13:45,Katie Johnson Carreon,Chicago Red Stars,recovery,1st half,45.0,66.1,null
+84,600,13:36,13:56,Margaret Purce,Sky Blue FC,foul,1st half,54.8,0.9,null
+85,620,14:08,14:28,Zoey Goralski,Chicago Red Stars,recovery,1st half,95.5,56.1,null
+86,633,14:19,14:39,Jennifer Cudjoe,Sky Blue FC,recovery,1st half,15.4,18.2,null
+87,651,14:40,15:00,Nahomi Kawasumi,Sky Blue FC,challenge,1st half,99.5,54.9,0
+88,654,14:40,15:00,Julie Beth Ertz,Chicago Red Stars,challenge,1st half,5.5,13.1,1
+89,680,15:39,15:59,Savannah McCaskill,Chicago Red Stars,recovery,1st half,42.8,43.6,null
+90,700,16:01,16:21,Kailen Mary Sheridan,Sky Blue FC,recovery,1st half,16.0,43.0,null
+91,726,16:47,17:07,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,1st half,40.5,15.6,0
+92,728,16:47,17:07,Jennifer Cudjoe,Sky Blue FC,tackle,1st half,64.5,52.4,1
+93,729,16:47,17:07,Jennifer Cudjoe,Sky Blue FC,challenge,1st half,64.5,52.4,1
+94,734,16:49,17:09,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,1st half,31.4,19.6,null
+95,753,17:50,18:10,Gina Loren Lewandowski,Sky Blue FC,challenge,1st half,21.2,1.9,1
+96,754,17:50,18:10,Rachel Hill,Chicago Red Stars,challenge,1st half,83.8,66.1,0
+97,756,17:50,18:10,Gina Loren Lewandowski,Sky Blue FC,tackle,1st half,21.2,1.9,1
+98,772,18:14,18:34,Danielle Colaprico,Chicago Red Stars,recovery,1st half,69.9,57.5,null
+99,774,18:16,18:36,Danielle Colaprico,Chicago Red Stars,challenge,1st half,70.4,64.8,0
+100,775,18:16,18:36,McCall RaNae Zerboni,Sky Blue FC,tackle,1st half,34.6,3.2,1
+101,776,18:16,18:36,Danielle Colaprico,Chicago Red Stars,Dribbles (Unsuccessful actions),1st half,70.4,64.8,null
+102,777,18:16,18:36,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,34.6,3.2,1
+103,779,18:18,18:38,Margaret Purce,Sky Blue FC,recovery,1st half,28.6,1.5,null
+104,819,18:55,19:15,Margaret Purce,Sky Blue FC,recovery,1st half,47.1,3.1,null
+105,820,18:56,19:16,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,1st half,43.4,45.1,null
+106,829,19:02,19:22,Bianca St. Georges,Chicago Red Stars,recovery,1st half,41.0,13.1,null
+107,846,19:24,19:44,Sabrina Flores,Sky Blue FC,challenge,1st half,24.6,62.4,0
+108,847,19:24,19:44,Sabrina Flores,Sky Blue FC,tackle,1st half,24.6,62.4,0
+109,848,19:24,19:44,Kealia Mae Watt,Chicago Red Stars,take_on,1st half,80.4,5.6,1
+110,854,19:30,19:50,Rachel Hill,Chicago Red Stars,challenge,1st half,84.7,16.1,1
+111,855,19:30,19:50,Gina Loren Lewandowski,Sky Blue FC,challenge,1st half,20.3,51.9,0
+112,863,19:31,19:51,Margaret Purce,Sky Blue FC,recovery,1st half,14.4,31.7,null
+113,868,19:33,19:53,Sarah Gorden,Chicago Red Stars,recovery,1st half,58.8,40.4,null
+114,900,20:07,20:27,Alyssa Naeher,Chicago Red Stars,recovery,1st half,4.6,17.3,null
+115,931,20:53,21:13,Paige Monaghan,Sky Blue FC,recovery,1st half,84.4,30.7,null
+116,947,21:28,21:48,Rachel Hill,Chicago Red Stars,challenge,1st half,57.2,40.8,0
+117,948,21:28,21:48,Sarah Christine Woldmoe,Sky Blue FC,challenge,1st half,47.8,27.2,1
+118,952,21:29,21:49,Zoey Goralski,Chicago Red Stars,recovery,1st half,45.4,60.0,null
+119,997,22:09,22:29,Sarah Christine Woldmoe,Sky Blue FC,recovery,1st half,75.5,43.0,null
+120,1028,22:58,23:18,Sabrina Flores,Sky Blue FC,recovery,1st half,26.9,49.1,null
+121,1049,23:18,23:38,McCall RaNae Zerboni,Sky Blue FC,challenge,1st half,57.7,61.3,0
+122,1051,23:18,23:38,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,1st half,47.3,6.7,1
+123,1078,23:53,24:13,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,90.7,25.3,0
+124,1079,23:53,24:13,Julie Beth Ertz,Chicago Red Stars,challenge,1st half,14.3,42.7,1
+125,1081,23:54,24:14,Alyssa Naeher,Chicago Red Stars,recovery,1st half,12.9,41.2,null
+126,1099,24:40,25:00,Erica Skroski,Sky Blue FC,challenge,1st half,36.5,31.3,1
+127,1101,24:40,25:00,Rachel Hill,Chicago Red Stars,challenge,1st half,68.5,36.7,0
+128,1114,25:10,25:30,McCall RaNae Zerboni,Sky Blue FC,recovery,1st half,31.1,15.2,null
+129,1127,25:21,25:41,Margaret Purce,Sky Blue FC,challenge,1st half,59.9,2.4,0
+130,1128,25:21,25:41,Zoey Goralski,Chicago Red Stars,challenge,1st half,45.1,65.6,1
+131,1129,25:21,25:41,Margaret Purce,Sky Blue FC,Dribbles (Unsuccessful actions),1st half,59.9,2.4,null
+132,1130,25:21,25:41,Zoey Goralski,Chicago Red Stars,tackle,1st half,45.1,65.6,1
+133,1134,25:25,25:45,Jennifer Cudjoe,Sky Blue FC,recovery,1st half,48.4,23.3,null
+134,1160,25:59,26:19,Nahomi Kawasumi,Sky Blue FC,challenge,1st half,64.9,64.4,0
+135,1161,25:59,26:19,Bianca St. Georges,Chicago Red Stars,tackle,1st half,40.1,3.6,1
+136,1162,25:59,26:19,Bianca St. Georges,Chicago Red Stars,challenge,1st half,40.1,3.6,1
+137,1163,25:59,26:19,Nahomi Kawasumi,Sky Blue FC,Dribbles (Unsuccessful actions),1st half,64.9,64.4,null
+138,1170,26:19,26:39,Erica Skroski,Sky Blue FC,challenge,1st half,45.2,66.6,1
+139,1171,26:19,26:39,Rachel Hill,Chicago Red Stars,challenge,1st half,59.8,1.4,0
+140,1195,26:40,27:00,Julie Beth Ertz,Chicago Red Stars,recovery,1st half,24.3,13.4,null
+141,1215,27:24,27:44,Kealia Mae Watt,Chicago Red Stars,tackle,1st half,14.7,4.2,1
+142,1217,27:24,27:44,Kealia Mae Watt,Chicago Red Stars,challenge,1st half,14.7,4.2,1
+143,1218,27:24,27:44,Sabrina Flores,Sky Blue FC,challenge,1st half,90.3,63.8,0
+144,1219,27:27,27:47,Sarah Christine Woldmoe,Sky Blue FC,recovery,1st half,72.5,61.9,null
+145,1245,27:58,28:18,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,81.6,2.2,0
+146,1246,27:58,28:18,Zoey Goralski,Chicago Red Stars,tackle,1st half,23.4,65.8,1
+147,1247,27:58,28:18,Zoey Goralski,Chicago Red Stars,challenge,1st half,23.4,65.8,1
+148,1257,28:15,28:35,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,92.1,2.2,0
+149,1259,28:15,28:35,Katie Johnson Carreon,Chicago Red Stars,challenge,1st half,12.9,65.8,1
+150,1266,28:18,28:38,Rachel Hill,Chicago Red Stars,challenge,1st half,39.4,64.6,0
+151,1268,28:18,28:38,Gina Loren Lewandowski,Sky Blue FC,challenge,1st half,65.6,3.4,1
+152,1275,28:25,28:45,Erica Skroski,Sky Blue FC,recovery,1st half,55.8,21.8,null
+153,1290,28:33,28:53,Katie Johnson Carreon,Chicago Red Stars,recovery,1st half,41.5,56.5,null
+154,1294,28:38,28:58,Kailen Mary Sheridan,Sky Blue FC,recovery,1st half,25.6,18.9,null
+155,1326,29:44,30:04,Paige Monaghan,Sky Blue FC,challenge,1st half,93.5,1.9,0
+156,1327,29:44,30:04,Zoey Goralski,Chicago Red Stars,challenge,1st half,11.5,66.1,1
+157,1328,29:44,30:04,Paige Monaghan,Sky Blue FC,Dribbles (Unsuccessful actions),1st half,93.5,1.9,null
+158,1330,29:44,30:04,Zoey Goralski,Chicago Red Stars,tackle,1st half,11.5,66.1,1
+159,1338,29:51,30:11,Sarah Gorden,Chicago Red Stars,recovery,1st half,1.0,59.0,null
+160,1354,30:42,31:02,Erica Skroski,Sky Blue FC,challenge,1st half,91.4,45.7,0
+161,1355,30:42,31:02,Savannah McCaskill,Chicago Red Stars,challenge,1st half,13.6,22.3,1
+162,1357,30:43,31:03,Erica Skroski,Sky Blue FC,foul,1st half,90.7,44.5,null
+163,1362,33:53,34:13,Gina Loren Lewandowski,Sky Blue FC,challenge,1st half,33.5,42.1,1
+164,1363,33:53,34:13,Rachel Hill,Chicago Red Stars,challenge,1st half,71.5,25.9,0
+165,1364,33:54,34:14,Kealia Mae Watt,Chicago Red Stars,recovery,1st half,72.0,22.0,null
+166,1398,34:39,34:59,Bianca St. Georges,Chicago Red Stars,recovery,1st half,39.2,14.2,null
+167,1401,34:41,35:01,McCall RaNae Zerboni,Sky Blue FC,recovery,1st half,55.0,30.3,null
+168,1414,34:55,35:15,Margaret Purce,Sky Blue FC,challenge,1st half,90.6,3.4,0
+169,1416,34:55,35:15,Zoey Goralski,Chicago Red Stars,challenge,1st half,14.4,64.6,1
+170,1417,34:55,35:15,Margaret Purce,Sky Blue FC,Dribbles (Unsuccessful actions),1st half,90.6,3.4,null
+171,1418,34:55,35:15,Zoey Goralski,Chicago Red Stars,tackle,1st half,14.4,64.6,1
+172,1426,35:06,35:26,Gina Loren Lewandowski,Sky Blue FC,challenge,1st half,62.9,10.8,1
+173,1428,35:06,35:26,Rachel Hill,Chicago Red Stars,challenge,1st half,42.1,57.2,0
+174,1433,35:12,35:32,Zoey Goralski,Chicago Red Stars,tackle,1st half,22.6,65.8,0
+175,1434,35:12,35:32,Jennifer Cudjoe,Sky Blue FC,take_on,1st half,82.4,2.2,1
+176,1435,35:12,35:32,Zoey Goralski,Chicago Red Stars,challenge,1st half,22.6,65.8,0
+177,1442,35:16,35:36,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,94.0,31.5,0
+178,1445,35:16,35:36,Julie Beth Ertz,Chicago Red Stars,challenge,1st half,11.0,36.5,1
+179,1447,35:17,35:37,Sarah Gorden,Chicago Red Stars,recovery,1st half,9.9,43.9,null
+180,1493,36:25,36:45,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,83.7,42.5,0
+181,1494,36:25,36:45,Danielle Colaprico,Chicago Red Stars,challenge,1st half,21.3,25.5,1
+182,1497,36:25,36:45,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,foul,1st half,83.1,42.9,null
+183,1508,36:58,37:18,Paige Monaghan,Sky Blue FC,recovery,1st half,59.2,6.7,null
+184,1528,37:23,37:43,McCall RaNae Zerboni,Sky Blue FC,take_on,1st half,95.3,55.3,1
+185,1530,37:23,37:43,Bianca St. Georges,Chicago Red Stars,challenge,1st half,9.7,12.7,0
+186,1531,37:23,37:43,Bianca St. Georges,Chicago Red Stars,tackle,1st half,9.7,12.7,0
+187,1533,37:24,37:44,Savannah McCaskill,Chicago Red Stars,foul,1st half,4.6,12.3,null
+188,1546,38:15,38:35,Margaret Purce,Sky Blue FC,recovery,1st half,89.7,36.0,null
+189,1555,38:43,39:03,Sarah Christine Woldmoe,Sky Blue FC,challenge,1st half,51.9,43.5,0
+190,1557,38:43,39:03,Savannah McCaskill,Chicago Red Stars,challenge,1st half,53.1,24.5,1
+191,1569,38:52,39:12,Sarah Gorden,Chicago Red Stars,recovery,1st half,20.1,38.8,null
+192,1574,38:58,39:18,Sabrina Flores,Sky Blue FC,recovery,1st half,47.9,51.1,null
+193,1578,39:01,39:21,Nahomi Kawasumi,Sky Blue FC,take_on,1st half,59.3,57.4,1
+194,1579,39:01,39:21,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,1st half,45.7,10.6,0
+195,1581,39:01,39:21,Vanessa Sue Di Bernardo,Chicago Red Stars,tackle,1st half,45.7,10.6,0
+196,1584,39:05,39:25,Julie Beth Ertz,Chicago Red Stars,recovery,1st half,29.6,23.9,null
+197,1590,39:06,39:26,Jennifer Cudjoe,Sky Blue FC,recovery,1st half,68.8,34.2,null
+198,1626,39:59,40:19,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,1st half,101.4,51.6,0
+199,1627,39:59,40:19,Julie Beth Ertz,Chicago Red Stars,challenge,1st half,3.6,16.4,1
+200,1629,40:00,40:20,Bianca St. Georges,Chicago Red Stars,recovery,1st half,3.3,15.6,null
+201,1648,40:33,40:53,Erica Skroski,Sky Blue FC,tackle,1st half,20.8,52.3,1
+202,1649,40:33,40:53,Kealia Mae Watt,Chicago Red Stars,challenge,1st half,84.2,15.7,0
+203,1651,40:33,40:53,Erica Skroski,Sky Blue FC,challenge,1st half,20.8,52.3,1
+204,1652,40:33,40:53,Kealia Mae Watt,Chicago Red Stars,Dribbles (Unsuccessful actions),1st half,84.2,15.7,null
+205,1668,40:52,41:12,Katie Johnson Carreon,Chicago Red Stars,foul,1st half,45.7,61.1,null
+206,1684,41:46,42:06,Alyssa Naeher,Chicago Red Stars,recovery,1st half,0.7,42.3,null
+207,1688,42:08,42:28,Kailen Mary Sheridan,Sky Blue FC,recovery,1st half,14.5,50.3,null
+208,1701,42:20,42:40,Danielle Colaprico,Chicago Red Stars,recovery,1st half,45.6,41.7,null
+209,1705,42:25,42:45,Paige Monaghan,Sky Blue FC,tackle,1st half,65.3,7.4,0
+210,1706,42:25,42:45,Paige Monaghan,Sky Blue FC,challenge,1st half,65.3,7.4,0
+211,1707,42:25,42:45,Zoey Goralski,Chicago Red Stars,take_on,1st half,39.7,60.6,1
+212,1722,42:34,42:54,McCall RaNae Zerboni,Sky Blue FC,recovery,1st half,47.2,9.8,null
+213,1744,42:56,43:16,Kealia Mae Watt,Chicago Red Stars,recovery,1st half,5.1,27.0,null
+214,1752,43:01,43:21,McCall RaNae Zerboni,Sky Blue FC,recovery,1st half,76.5,50.3,null
+215,1763,43:32,43:52,Kealia Mae Watt,Chicago Red Stars,challenge,1st half,55.0,20.7,0
+216,1765,43:32,43:52,Sabrina Flores,Sky Blue FC,challenge,1st half,50.0,47.3,1
+217,1766,43:37,43:57,Bianca St. Georges,Chicago Red Stars,challenge,1st half,57.4,2.6,0
+218,1767,43:37,43:57,Sabrina Flores,Sky Blue FC,challenge,1st half,47.6,65.4,1
+219,1789,44:11,44:31,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,1st half,52.3,6.7,null
+220,1817,44:43,45:03,Kailen Mary Sheridan,Sky Blue FC,recovery,1st half,5.8,44.2,null
+221,1848,45:13,45:33,Sarah Gorden,Chicago Red Stars,challenge,1st half,9.0,37.5,0
+222,1849,45:13,45:33,Paige Monaghan,Sky Blue FC,challenge,1st half,96.0,30.5,1
+223,1858,45:53,46:13,Rachel Hill,Chicago Red Stars,challenge,1st half,58.4,51.2,0
+224,1859,45:53,46:13,Gina Loren Lewandowski,Sky Blue FC,challenge,1st half,46.6,16.8,1
+225,1862,45:57,46:17,Paige Monaghan,Sky Blue FC,recovery,1st half,65.3,6.6,null
+226,1869,46:03,46:23,Nahomi Kawasumi,Sky Blue FC,recovery,1st half,69.5,54.0,null
+227,1908,46:35,46:55,Danielle Colaprico,Chicago Red Stars,recovery,1st half,32.4,62.1,null
+228,1917,46:51,47:11,Kailen Mary Sheridan,Sky Blue FC,recovery,1st half,9.5,55.9,null
+229,1925,47:00,47:20,Zoey Goralski,Chicago Red Stars,foul,1st half,46.3,60.6,null
+230,1942,47:31,47:51,Sarah Christine Woldmoe,Sky Blue FC,challenge,1st half,65.6,7.1,0
+231,1943,47:31,47:51,Danielle Colaprico,Chicago Red Stars,challenge,1st half,39.4,60.9,1
+232,1947,47:33,47:53,Paige Monaghan,Sky Blue FC,recovery,1st half,74.1,10.8,null
+233,1967,48:07,48:27,Erica Skroski,Sky Blue FC,challenge,1st half,95.9,32.3,1
+234,1969,48:07,48:27,Rachel Hill,Chicago Red Stars,challenge,1st half,9.1,35.7,0
+235,1978,48:42,49:02,Bianca St. Georges,Chicago Red Stars,recovery,1st half,46.8,18.5,null
+236,2000,48:57,49:17,Sarah Christine Woldmoe,Sky Blue FC,recovery,1st half,36.1,22.1,null
+237,2049,45:32,45:52,McCall RaNae Zerboni,Sky Blue FC,Dribbles (Unsuccessful actions),2nd half,63.8,8.1,null
+238,2051,45:32,45:52,Rachel Hill,Chicago Red Stars,tackle,2nd half,41.2,59.9,1
+239,2052,45:32,45:52,Rachel Hill,Chicago Red Stars,challenge,2nd half,41.2,59.9,1
+240,2053,45:32,45:52,McCall RaNae Zerboni,Sky Blue FC,challenge,2nd half,63.8,8.1,0
+241,2056,45:33,45:53,Margaret Purce,Sky Blue FC,recovery,2nd half,61.3,5.7,null
+242,2065,45:38,45:58,Danielle Colaprico,Chicago Red Stars,foul,2nd half,26.2,55.6,null
+243,2087,46:43,47:03,Rachel Hill,Chicago Red Stars,recovery,2nd half,91.8,28.8,null
+244,2103,47:15,47:35,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,73.5,14.8,0
+245,2105,47:15,47:35,Sarah Christine Woldmoe,Sky Blue FC,challenge,2nd half,31.5,53.2,1
+246,2118,47:29,47:49,Zoey Goralski,Chicago Red Stars,tackle,2nd half,42.0,58.5,1
+247,2119,47:29,47:49,Zoey Goralski,Chicago Red Stars,challenge,2nd half,42.0,58.5,1
+248,2121,47:29,47:49,Margaret Purce,Sky Blue FC,challenge,2nd half,63.0,9.5,0
+249,2122,47:29,47:49,Margaret Purce,Sky Blue FC,Dribbles (Unsuccessful actions),2nd half,63.0,9.5,null
+250,2126,47:42,48:02,Zoey Goralski,Chicago Red Stars,challenge,2nd half,8.7,59.8,1
+251,2128,47:42,48:02,Zoey Goralski,Chicago Red Stars,tackle,2nd half,8.7,59.8,1
+252,2129,47:42,48:02,McCall RaNae Zerboni,Sky Blue FC,challenge,2nd half,96.3,8.2,0
+253,2139,47:47,48:07,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,recovery,2nd half,89.0,9.8,null
+254,2142,47:50,48:10,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,2nd half,94.3,12.4,0
+255,2143,47:50,48:10,Danielle Colaprico,Chicago Red Stars,tackle,2nd half,10.7,55.6,1
+256,2144,47:50,48:10,Danielle Colaprico,Chicago Red Stars,challenge,2nd half,10.7,55.6,1
+257,2147,47:52,48:12,Zoey Goralski,Chicago Red Stars,recovery,2nd half,11.0,58.7,null
+258,2184,48:45,49:05,Julie Beth Ertz,Chicago Red Stars,recovery,2nd half,37.3,11.8,null
+259,2191,48:48,49:08,Bianca St. Georges,Chicago Red Stars,recovery,2nd half,39.0,3.1,null
+260,2195,48:50,49:10,Erica Skroski,Sky Blue FC,recovery,2nd half,45.3,59.9,null
+261,2220,50:05,50:25,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,71.3,30.5,0
+262,2222,50:05,50:25,Erica Skroski,Sky Blue FC,challenge,2nd half,33.7,37.5,1
+263,2237,50:21,50:41,Sabrina Flores,Sky Blue FC,challenge,2nd half,98.1,62.1,0
+264,2238,50:21,50:41,Kealia Mae Watt,Chicago Red Stars,recovery,2nd half,6.9,5.9,null
+265,2239,50:21,50:41,Kealia Mae Watt,Chicago Red Stars,take_on,2nd half,6.9,5.9,1
+266,2241,50:21,50:41,Sabrina Flores,Sky Blue FC,tackle,2nd half,98.1,62.1,0
+267,2247,52:20,52:40,Zoey Goralski,Chicago Red Stars,challenge,2nd half,42.2,53.7,0
+268,2248,52:20,52:40,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,tackle,2nd half,62.8,14.3,1
+269,2249,52:20,52:40,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,2nd half,62.8,14.3,1
+270,2252,52:20,52:40,Sarah Christine Woldmoe,Sky Blue FC,recovery,2nd half,60.8,16.6,null
+271,2261,52:27,52:47,Nahomi Kawasumi,Sky Blue FC,recovery,2nd half,79.6,37.0,null
+272,2276,52:38,52:58,Erica Skroski,Sky Blue FC,recovery,2nd half,49.5,59.5,null
+273,2292,52:54,53:14,Savannah McCaskill,Chicago Red Stars,recovery,2nd half,46.6,43.9,null
+274,2300,53:00,53:20,Sabrina Flores,Sky Blue FC,challenge,2nd half,44.1,57.2,1
+275,2301,53:00,53:20,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,60.9,10.8,0
+276,2302,53:00,53:20,Sabrina Flores,Sky Blue FC,tackle,2nd half,44.1,57.2,1
+277,2303,53:00,53:20,Kealia Mae Watt,Chicago Red Stars,Dribbles (Unsuccessful actions),2nd half,60.9,10.8,null
+278,2305,53:01,53:21,Paige Monaghan,Sky Blue FC,recovery,2nd half,43.1,53.9,null
+279,2308,53:09,53:29,Alyssa Naeher,Chicago Red Stars,recovery,2nd half,21.9,8.7,null
+280,2314,53:18,53:38,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,2nd half,50.0,17.7,1
+281,2316,53:18,53:38,McCall RaNae Zerboni,Sky Blue FC,challenge,2nd half,55.0,50.3,0
+282,2317,53:19,53:39,McCall RaNae Zerboni,Sky Blue FC,foul,2nd half,55.0,50.3,null
+283,2321,53:55,54:15,Margaret Purce,Sky Blue FC,challenge,2nd half,18.5,23.8,1
+284,2322,53:55,54:15,Rachel Hill,Chicago Red Stars,challenge,2nd half,86.5,44.2,0
+285,2327,53:58,54:18,Zoey Goralski,Chicago Red Stars,recovery,2nd half,86.0,66.3,null
+286,2339,54:11,54:31,Alyssa Naeher,Chicago Red Stars,recovery,2nd half,32.3,37.7,null
+287,2356,54:26,54:46,Nahomi Kawasumi,Sky Blue FC,recovery,2nd half,48.6,35.3,null
+288,2384,54:54,55:14,Alyssa Naeher,Chicago Red Stars,recovery,2nd half,1.5,21.0,null
+289,2390,55:13,55:33,Sabrina Flores,Sky Blue FC,recovery,2nd half,35.7,51.9,null
+290,2411,55:55,56:15,Erica Skroski,Sky Blue FC,recovery,2nd half,40.2,50.8,null
+291,2419,56:04,56:24,Alyssa Naeher,Chicago Red Stars,recovery,2nd half,10.4,9.2,null
+292,2440,56:26,56:46,Margaret Purce,Sky Blue FC,challenge,2nd half,92.1,24.9,0
+293,2441,56:26,56:46,Rachel Hill,Chicago Red Stars,challenge,2nd half,12.9,43.1,1
+294,2449,56:41,57:01,Sarah Gorden,Chicago Red Stars,challenge,2nd half,7.3,58.0,1
+295,2450,56:41,57:01,Sarah Gorden,Chicago Red Stars,tackle,2nd half,7.3,58.0,1
+296,2451,56:41,57:01,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,2nd half,97.7,10.0,0
+297,2457,56:43,57:03,Margaret Purce,Sky Blue FC,recovery,2nd half,99.8,5.6,null
+298,2464,56:45,57:05,Danielle Colaprico,Chicago Red Stars,recovery,2nd half,6.2,54.6,null
+299,2468,56:48,57:08,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,74.2,17.9,0
+300,2469,56:48,57:08,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,30.8,50.1,1
+301,2470,56:49,57:09,Savannah McCaskill,Chicago Red Stars,recovery,2nd half,27.6,44.2,null
+302,2484,57:12,57:32,Rachel Hill,Chicago Red Stars,foul,2nd half,47.2,62.1,null
+303,2496,57:44,58:04,Sarah Gorden,Chicago Red Stars,challenge,2nd half,8.1,58.7,1
+304,2497,57:44,58:04,Jennifer Cudjoe,Sky Blue FC,challenge,2nd half,96.9,9.3,0
+305,2498,57:44,58:04,Sarah Gorden,Chicago Red Stars,tackle,2nd half,8.1,58.7,1
+306,2540,58:56,59:16,Zoey Goralski,Chicago Red Stars,recovery,2nd half,33.3,53.1,null
+307,2543,58:57,59:17,Sarah Christine Woldmoe,Sky Blue FC,recovery,2nd half,55.2,14.3,null
+308,2550,59:03,59:23,Paige Monaghan,Sky Blue FC,recovery,2nd half,74.2,20.4,null
+309,2559,59:08,59:28,Kealia Mae Watt,Chicago Red Stars,recovery,2nd half,25.3,31.8,null
+310,2565,59:11,59:31,Savannah McCaskill,Chicago Red Stars,challenge,2nd half,40.1,28.5,1
+311,2566,59:11,59:31,Sabrina Flores,Sky Blue FC,challenge,2nd half,64.9,39.5,0
+312,2594,60:49,61:09,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,26.3,37.2,0
+313,2595,60:49,61:09,Jennifer Cudjoe,Sky Blue FC,challenge,2nd half,78.7,30.8,1
+314,2615,61:22,61:42,Margaret Purce,Sky Blue FC,challenge,2nd half,55.7,12.2,0
+315,2617,61:22,61:42,Rachel Hill,Chicago Red Stars,challenge,2nd half,49.3,55.8,1
+316,2645,62:06,62:26,Zoey Goralski,Chicago Red Stars,recovery,2nd half,26.4,47.8,null
+317,2647,62:09,62:29,Margaret Purce,Sky Blue FC,recovery,2nd half,66.7,9.7,null
+318,2659,62:26,62:46,Bianca St. Georges,Chicago Red Stars,recovery,2nd half,27.6,6.3,null
+319,2668,62:36,62:56,Rachel Hill,Chicago Red Stars,challenge,2nd half,54.0,46.7,1
+320,2670,62:36,62:56,Paige Monaghan,Sky Blue FC,challenge,2nd half,51.0,21.3,0
+321,2673,62:38,62:58,Zoey Goralski,Chicago Red Stars,recovery,2nd half,54.0,54.9,null
+322,2679,62:41,63:01,Danielle Colaprico,Chicago Red Stars,challenge,2nd half,45.3,45.6,0
+323,2680,62:41,63:01,Jennifer Cudjoe,Sky Blue FC,challenge,2nd half,59.7,22.4,1
+324,2682,62:41,63:01,Danielle Colaprico,Chicago Red Stars,Dribbles (Unsuccessful actions),2nd half,45.3,45.6,null
+325,2683,62:41,63:01,Jennifer Cudjoe,Sky Blue FC,tackle,2nd half,59.7,22.4,1
+326,2699,63:15,63:35,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,94.8,14.7,0
+327,2700,63:15,63:35,Kealia Mae Watt,Chicago Red Stars,Dribbles (Unsuccessful actions),2nd half,94.8,14.7,null
+328,2701,63:15,63:35,Sabrina Flores,Sky Blue FC,tackle,2nd half,10.2,53.3,1
+329,2702,63:15,63:35,Sabrina Flores,Sky Blue FC,challenge,2nd half,10.2,53.3,1
+330,2708,63:29,63:49,Sarah Gorden,Chicago Red Stars,recovery,2nd half,50.8,43.3,null
+331,2722,63:37,63:57,Kailen Mary Sheridan,Sky Blue FC,save,2nd half,14.1,27.4,null
+332,2727,63:40,64:00,Zoey Goralski,Chicago Red Stars,recovery,2nd half,85.1,49.7,null
+333,2731,63:42,64:02,Zoey Goralski,Chicago Red Stars,challenge,2nd half,88.4,36.3,0
+334,2732,63:42,64:02,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,16.6,31.7,1
+335,2733,63:42,64:02,Gina Loren Lewandowski,Sky Blue FC,tackle,2nd half,16.6,31.7,1
+336,2735,63:45,64:05,Bianca St. Georges,Chicago Red Stars,recovery,2nd half,70.7,14.2,null
+337,2747,63:51,64:11,Katie Johnson Carreon,Chicago Red Stars,recovery,2nd half,88.3,28.0,null
+338,2771,64:33,64:53,Sarah Gorden,Chicago Red Stars,recovery,2nd half,23.3,48.3,null
+339,2772,64:37,64:57,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,foul,2nd half,98.8,10.4,null
+340,2782,65:34,65:54,Rachel Hill,Chicago Red Stars,challenge,2nd half,89.8,59.8,0
+341,2783,65:34,65:54,Margaret Purce,Sky Blue FC,challenge,2nd half,15.2,8.2,1
+342,2784,65:37,65:57,Rachel Hill,Chicago Red Stars,foul,2nd half,97.3,61.6,null
+343,2790,66:23,66:43,Evelyne Viens,Sky Blue FC,recovery,2nd half,71.9,19.5,null
+344,2791,66:23,66:43,Sarah Gorden,Chicago Red Stars,challenge,2nd half,33.1,48.5,0
+345,2792,66:23,66:43,Evelyne Viens,Sky Blue FC,challenge,2nd half,71.9,19.5,1
+346,2797,66:25,66:45,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,foul,2nd half,80.4,14.9,null
+347,2802,66:57,67:17,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,74.2,39.7,0
+348,2804,66:57,67:17,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,30.8,28.3,1
+349,2806,66:59,67:19,Erica Skroski,Sky Blue FC,recovery,2nd half,23.8,32.8,null
+350,2812,67:08,67:28,Julie Beth Ertz,Chicago Red Stars,recovery,2nd half,42.1,11.3,null
+351,2831,67:44,68:04,Imani Michelle Dorsey,Sky Blue FC,challenge,2nd half,40.0,62.4,1
+352,2833,67:44,68:04,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,65.0,5.6,0
+353,2841,67:46,68:06,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,2nd half,51.5,11.5,0
+354,2844,67:46,68:06,McCall RaNae Zerboni,Sky Blue FC,challenge,2nd half,53.5,56.5,1
+355,2860,67:55,68:15,Julie Beth Ertz,Chicago Red Stars,challenge,2nd half,9.6,25.3,1
+356,2861,67:55,68:15,Evelyne Viens,Sky Blue FC,challenge,2nd half,95.4,42.7,0
+357,2868,68:06,68:26,Margaret Purce,Sky Blue FC,recovery,2nd half,49.8,35.5,null
+358,2894,68:58,69:18,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,recovery,2nd half,62.4,14.0,null
+359,2896,68:59,69:19,Danielle Colaprico,Chicago Red Stars,recovery,2nd half,43.6,47.0,null
+360,2901,69:04,69:24,Jennifer Cudjoe,Sky Blue FC,challenge,2nd half,44.5,26.5,0
+361,2903,69:04,69:24,Savannah McCaskill,Chicago Red Stars,challenge,2nd half,60.5,41.5,1
+362,2904,69:05,69:25,Jennifer Cudjoe,Sky Blue FC,foul,2nd half,45.0,26.2,null
+363,2929,70:37,70:57,Zoey Goralski,Chicago Red Stars,challenge,2nd half,21.8,58.0,0
+364,2931,70:37,70:57,Jennifer Cudjoe,Sky Blue FC,take_on,2nd half,83.2,10.0,1
+365,2932,70:37,70:57,Zoey Goralski,Chicago Red Stars,tackle,2nd half,21.8,58.0,0
+366,2942,70:42,71:02,Sarah Gorden,Chicago Red Stars,recovery,2nd half,7.4,47.0,null
+367,2971,71:59,72:19,Kealia Mae Watt,Chicago Red Stars,recovery,2nd half,66.2,7.2,null
+368,2979,72:06,72:26,Gina Loren Lewandowski,Sky Blue FC,tackle,2nd half,30.4,42.3,0
+369,2980,72:06,72:26,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,30.4,42.3,0
+370,2981,72:06,72:26,Michele Vasconcelos,Chicago Red Stars,take_on,2nd half,74.6,25.7,1
+371,2992,72:20,72:40,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,95.6,5.6,0
+372,2994,72:20,72:40,Nahomi Kawasumi,Sky Blue FC,challenge,2nd half,9.4,62.4,1
+373,2995,72:20,72:40,Nahomi Kawasumi,Sky Blue FC,tackle,2nd half,9.4,62.4,1
+374,3005,72:54,73:14,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,foul,2nd half,28.1,18.8,null
+375,3014,73:50,74:10,Sarah Christine Woldmoe,Sky Blue FC,recovery,2nd half,15.2,31.4,null
+376,3022,73:54,74:14,Jennifer Cudjoe,Sky Blue FC,challenge,2nd half,29.4,29.8,1
+377,3024,73:54,74:14,Danielle Colaprico,Chicago Red Stars,challenge,2nd half,75.6,38.2,0
+378,3026,73:55,74:15,Sarah Christine Woldmoe,Sky Blue FC,recovery,2nd half,29.8,31.0,null
+379,3027,73:57,74:17,Vanessa Sue Di Bernardo,Chicago Red Stars,foul,2nd half,73.2,31.1,null
+380,3030,74:09,74:29,Sarah Gorden,Chicago Red Stars,recovery,2nd half,25.3,5.6,null
+381,3037,74:27,74:47,Margaret Purce,Sky Blue FC,recovery,2nd half,50.7,20.2,null
+382,3041,74:35,74:55,Zoey Goralski,Chicago Red Stars,tackle,2nd half,18.8,58.9,0
+383,3042,74:35,74:55,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,take_on,2nd half,86.2,9.1,1
+384,3043,74:35,74:55,Zoey Goralski,Chicago Red Stars,challenge,2nd half,18.8,58.9,0
+385,3058,74:43,75:03,Gina Loren Lewandowski,Sky Blue FC,recovery,2nd half,71.5,23.7,null
+386,3076,75:04,75:24,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,72.0,18.9,0
+387,3078,75:04,75:24,Imani Michelle Dorsey,Sky Blue FC,challenge,2nd half,33.0,49.1,1
+388,3129,76:03,76:23,Kailen Mary Sheridan,Sky Blue FC,recovery,2nd half,26.3,35.3,null
+389,3140,76:14,76:34,Margaret Purce,Sky Blue FC,take_on,2nd half,76.6,11.8,1
+390,3141,76:14,76:34,Zoey Goralski,Chicago Red Stars,tackle,2nd half,28.4,56.2,0
+391,3143,76:14,76:34,Zoey Goralski,Chicago Red Stars,challenge,2nd half,28.4,56.2,0
+392,3154,76:21,76:41,Julie Beth Ertz,Chicago Red Stars,recovery,2nd half,3.7,33.0,null
+393,3166,78:34,78:54,Nahomi Kawasumi,Sky Blue FC,tackle,2nd half,69.1,61.0,1
+394,3168,78:34,78:54,Nahomi Kawasumi,Sky Blue FC,challenge,2nd half,69.1,61.0,1
+395,3169,78:34,78:54,Zoey Goralski,Chicago Red Stars,challenge,2nd half,35.9,7.0,0
+396,3172,78:34,78:54,Zoey Goralski,Chicago Red Stars,recovery,2nd half,35.9,7.0,null
+397,3173,78:34,78:54,Zoey Goralski,Chicago Red Stars,Dribbles (Unsuccessful actions),2nd half,35.9,7.0,null
+398,3178,78:36,78:56,Evelyne Viens,Sky Blue FC,recovery,2nd half,76.8,57.9,null
+399,3180,78:37,78:57,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,2nd half,25.0,10.2,1
+400,3182,78:37,78:57,Evelyne Viens,Sky Blue FC,challenge,2nd half,80.0,57.8,0
+401,3183,78:37,78:57,Vanessa Sue Di Bernardo,Chicago Red Stars,tackle,2nd half,25.0,10.2,1
+402,3185,78:41,79:01,Julie Beth Ertz,Chicago Red Stars,recovery,2nd half,4.9,10.4,null
+403,3190,78:45,79:05,Erica Skroski,Sky Blue FC,recovery,2nd half,55.1,54.7,null
+404,3204,79:00,79:20,Sarah Gorden,Chicago Red Stars,recovery,2nd half,14.9,26.9,null
+405,3207,79:02,79:22,Sarah Christine Woldmoe,Sky Blue FC,recovery,2nd half,81.0,48.3,null
+406,3214,79:02,79:22,Makenzy Doniak,Chicago Red Stars,recovery,2nd half,18.7,13.0,null
+407,3217,79:05,79:25,Margaret Purce,Sky Blue FC,recovery,2nd half,66.7,35.4,null
+408,3224,79:09,79:29,Bianca St. Georges,Chicago Red Stars,recovery,2nd half,30.8,47.3,null
+409,3227,79:12,79:32,Bianca St. Georges,Chicago Red Stars,challenge,2nd half,41.5,63.3,0
+410,3228,79:12,79:32,Elizabeth Hunt Eddy,Sky Blue FC,challenge,2nd half,63.5,4.7,1
+411,3229,79:12,79:32,Elizabeth Hunt Eddy,Sky Blue FC,tackle,2nd half,63.5,4.7,1
+412,3239,79:32,79:52,Evelyne Viens,Sky Blue FC,foul,2nd half,83.5,24.7,null
+413,3245,80:22,80:42,Margaret Purce,Sky Blue FC,challenge,2nd half,32.2,19.0,1
+414,3246,80:22,80:42,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,72.8,49.0,0
+415,3282,81:31,81:51,Sarah Christine Woldmoe,Sky Blue FC,recovery,2nd half,55.9,57.3,null
+416,3300,82:04,82:24,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,39.1,6.5,0
+417,3301,82:04,82:24,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,65.9,61.5,1
+418,3308,82:07,82:27,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,60.7,58.1,0
+419,3309,82:07,82:27,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,2nd half,44.3,9.9,1
+420,3312,82:09,82:29,Sarah Christine Woldmoe,Sky Blue FC,recovery,2nd half,43.8,21.1,null
+421,3336,82:38,82:58,Kailen Mary Sheridan,Sky Blue FC,recovery,2nd half,17.4,20.9,null
+422,3347,82:55,83:15,Nahomi Kawasumi,Sky Blue FC,challenge,2nd half,69.0,49.2,0
+423,3348,82:55,83:15,Makenzy Doniak,Chicago Red Stars,challenge,2nd half,36.0,18.8,1
+424,3352,82:56,83:16,McCall RaNae Zerboni,Sky Blue FC,recovery,2nd half,63.9,46.8,null
+425,3357,82:58,83:18,Kayla Sharples,Chicago Red Stars,recovery,2nd half,27.4,15.5,null
+426,3363,83:01,83:21,Erica Skroski,Sky Blue FC,recovery,2nd half,47.5,45.7,null
+427,3387,84:09,84:29,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,84.3,55.8,1
+428,3388,84:09,84:29,Margaret Purce,Sky Blue FC,challenge,2nd half,20.7,12.2,0
+429,3389,84:11,84:31,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,16.2,21.7,1
+430,3391,84:11,84:31,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,88.8,46.3,0
+431,3394,84:12,84:32,Danielle Colaprico,Chicago Red Stars,challenge,2nd half,76.4,41.6,1
+432,3398,84:12,84:32,Elizabeth Hunt Eddy,Sky Blue FC,challenge,2nd half,28.6,26.4,0
+433,3400,84:14,84:34,Elizabeth Hunt Eddy,Sky Blue FC,challenge,2nd half,25.4,27.4,1
+434,3402,84:14,84:34,Elizabeth Hunt Eddy,Sky Blue FC,tackle,2nd half,25.4,27.4,1
+435,3403,84:14,84:34,Michele Vasconcelos,Chicago Red Stars,challenge,2nd half,79.6,40.6,0
+436,3406,84:17,84:37,Margaret Purce,Sky Blue FC,recovery,2nd half,23.1,24.7,null
+437,3426,84:34,84:54,Gina Loren Lewandowski,Sky Blue FC,recovery,2nd half,59.8,22.5,null
+438,3435,84:43,85:03,Kayla Sharples,Chicago Red Stars,recovery,2nd half,30.2,9.6,null
+439,3438,84:44,85:04,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,63.3,38.0,1
+440,3439,84:44,85:04,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,41.7,30.0,0
+441,3441,84:46,85:06,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,2nd half,30.1,30.8,null
+442,3446,84:57,85:17,Kailen Mary Sheridan,Sky Blue FC,recovery,2nd half,31.2,11.6,null
+443,3458,86:04,86:24,Margaret Purce,Sky Blue FC,take_on,2nd half,70.9,12.4,1
+444,3459,86:04,86:24,Kealia Mae Watt,Chicago Red Stars,tackle,2nd half,34.1,55.6,0
+445,3460,86:04,86:24,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,34.1,55.6,0
+446,3462,86:05,86:25,Kealia Mae Watt,Chicago Red Stars,foul,2nd half,33.8,55.1,null
+447,3468,86:44,87:04,Julie Beth Ertz,Chicago Red Stars,challenge,2nd half,14.5,32.7,1
+448,3472,86:44,87:04,McCall RaNae Zerboni,Sky Blue FC,challenge,2nd half,90.5,35.3,0
+449,3474,86:48,87:08,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,69.7,60.7,1
+450,3477,86:48,87:08,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,35.3,7.3,0
+451,3482,86:53,87:13,Julie Beth Ertz,Chicago Red Stars,challenge,2nd half,11.8,20.9,1
+452,3483,86:53,87:13,Evelyne Viens,Sky Blue FC,challenge,2nd half,93.2,47.1,0
+453,3486,86:53,87:13,Evelyne Viens,Sky Blue FC,foul,2nd half,92.7,47.3,null
+454,3493,87:31,87:51,Makenzy Doniak,Chicago Red Stars,challenge,2nd half,69.0,25.4,0
+455,3494,87:31,87:51,McCall RaNae Zerboni,Sky Blue FC,challenge,2nd half,36.0,42.6,1
+456,3498,87:33,87:53,Gina Loren Lewandowski,Sky Blue FC,recovery,2nd half,36.3,35.6,null
+457,3499,87:34,87:54,Danielle Colaprico,Chicago Red Stars,recovery,2nd half,61.2,31.6,null
+458,3514,87:43,88:03,Michele Vasconcelos,Chicago Red Stars,challenge,2nd half,71.6,52.1,0
+459,3515,87:43,88:03,Michele Vasconcelos,Chicago Red Stars,tackle,2nd half,71.6,52.1,0
+460,3516,87:43,88:03,Margaret Purce,Sky Blue FC,take_on,2nd half,33.4,15.9,1
+461,3538,88:03,88:23,Kayla Sharples,Chicago Red Stars,recovery,2nd half,22.5,15.8,null
+462,3543,88:06,88:26,Sarah Christine Woldmoe,Sky Blue FC,challenge,2nd half,67.8,44.0,0
+463,3544,88:06,88:26,Michele Vasconcelos,Chicago Red Stars,challenge,2nd half,37.2,24.0,1
+464,3548,88:07,88:27,Gina Loren Lewandowski,Sky Blue FC,recovery,2nd half,60.5,37.0,null
+465,3557,88:15,88:35,Margaret Purce,Sky Blue FC,Dribbles (Unsuccessful actions),2nd half,86.3,14.6,null
+466,3559,88:15,88:35,Kealia Mae Watt,Chicago Red Stars,tackle,2nd half,18.7,53.4,1
+467,3560,88:15,88:35,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,18.7,53.4,1
+468,3561,88:15,88:35,Margaret Purce,Sky Blue FC,challenge,2nd half,86.3,14.6,0
+469,3563,88:18,88:38,Margaret Purce,Sky Blue FC,challenge,2nd half,82.2,18.1,1
+470,3565,88:18,88:38,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,22.8,49.9,0
+471,3584,88:33,88:53,Sarah Gorden,Chicago Red Stars,recovery,2nd half,16.1,42.0,null
+472,3601,88:51,89:11,Vanessa Sue Di Bernardo,Chicago Red Stars,recovery,2nd half,25.2,33.8,null
+473,3632,89:25,89:45,Kayla Sharples,Chicago Red Stars,recovery,2nd half,21.3,17.5,null
+474,3646,89:49,90:09,Danielle Colaprico,Chicago Red Stars,challenge,2nd half,35.2,47.2,0
+475,3647,89:49,90:09,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,2nd half,69.8,20.8,1
+476,3668,90:38,90:58,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,2nd half,86.2,14.4,1
+477,3671,90:38,90:58,Bianca St. Georges,Chicago Red Stars,challenge,2nd half,18.8,53.6,0
+478,3676,90:56,91:16,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,65.8,32.1,0
+479,3677,90:56,91:16,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,39.2,35.9,1
+480,3687,91:00,91:20,Kayla Sharples,Chicago Red Stars,recovery,2nd half,63.1,5.1,null
+481,3698,91:24,91:44,Elizabeth Hunt Eddy,Sky Blue FC,challenge,2nd half,74.9,54.9,0
+482,3700,91:24,91:44,Vanessa Sue Di Bernardo,Chicago Red Stars,challenge,2nd half,30.1,13.1,1
+483,3701,91:24,91:44,Elizabeth Hunt Eddy,Sky Blue FC,Dribbles (Unsuccessful actions),2nd half,74.9,54.9,null
+484,3702,91:24,91:44,Vanessa Sue Di Bernardo,Chicago Red Stars,tackle,2nd half,30.1,13.1,1
+485,3705,91:27,91:47,Imani Michelle Dorsey,Sky Blue FC,recovery,2nd half,62.4,63.7,null
+486,3716,91:31,91:51,Kayla Sharples,Chicago Red Stars,recovery,2nd half,23.2,11.2,null
+487,3737,91:58,92:18,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,challenge,2nd half,82.2,22.8,0
+488,3739,91:58,92:18,Bianca St. Georges,Chicago Red Stars,challenge,2nd half,22.8,45.2,1
+489,3794,92:56,93:16,Margaret Purce,Sky Blue FC,challenge,2nd half,82.4,7.8,0
+490,3795,92:56,93:16,Kealia Mae Watt,Chicago Red Stars,challenge,2nd half,22.6,60.2,1
+491,3797,92:58,93:18,Bianca St. Georges,Chicago Red Stars,recovery,2nd half,12.6,57.5,null
+492,3801,93:05,93:25,Kailen Mary Sheridan,Sky Blue FC,recovery,2nd half,42.2,8.0,null
+493,3820,93:26,93:46,Gina Loren Lewandowski,Sky Blue FC,challenge,2nd half,9.6,5.4,1
+494,3821,93:26,93:46,Gina Loren Lewandowski,Sky Blue FC,tackle,2nd half,9.6,5.4,1
+495,3822,93:26,93:46,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,95.4,62.6,0
+496,3824,93:29,93:49,McCall RaNae Zerboni,Sky Blue FC,recovery,2nd half,15.6,7.5,null
+497,3848,93:56,94:16,Bianca St. Georges,Chicago Red Stars,recovery,2nd half,8.5,54.4,null
+498,3852,94:04,94:24,Gina Loren Lewandowski,Sky Blue FC,recovery,2nd half,54.8,8.3,null
+499,3862,94:10,94:30,Nahomi Kawasumi,Sky Blue FC,challenge,2nd half,72.6,35.9,0
+500,3864,94:10,94:30,Kayla Sharples,Chicago Red Stars,challenge,2nd half,32.4,32.1,1
+501,3866,94:12,94:32,Sarah Christine Woldmoe,Sky Blue FC,challenge,2nd half,66.2,35.9,0
+502,3867,94:12,94:32,Kayla Sharples,Chicago Red Stars,challenge,2nd half,38.8,32.1,1
+503,3873,94:34,94:54,McCall RaNae Zerboni,Sky Blue FC,recovery,2nd half,5.9,51.4,null
+504,3882,95:17,95:37,Margaret Purce,Sky Blue FC,tackle,2nd half,6.4,3.9,1
+505,3883,95:17,95:37,Margaret Purce,Sky Blue FC,challenge,2nd half,6.4,3.9,1
+506,3885,95:17,95:37,Katie Johnson Carreon,Chicago Red Stars,challenge,2nd half,98.6,64.1,0

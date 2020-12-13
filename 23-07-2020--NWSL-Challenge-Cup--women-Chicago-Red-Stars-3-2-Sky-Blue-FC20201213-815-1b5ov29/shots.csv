@@ -1,0 +1,14 @@
+,raw_event_ID,start_time,end_time,player_ID,team,action,half,pos_x,pos_y,accuracy
+0,139,2:34,2:54,Katie Johnson Carreon,Chicago Red Stars,Shots,1st half,104.4,27.6,post_crossbar
+1,484,10:29,10:49,Kealia Mae Watt,Chicago Red Stars,Shots,1st half,96.7,25.3,blocked
+2,932,20:54,21:14,Paige Monaghan,Sky Blue FC,Shots,1st half,85.2,28.8,post_crossbar
+3,1315,28:58,29:18,Paige Monaghan,Sky Blue FC,Shots,1st half,93.3,20.1,wide
+4,1544,38:15,38:35,Margaret Purce,Sky Blue FC,Shots,1st half,89.7,36.0,wide
+5,1757,43:03,43:23,McCall RaNae Zerboni,Sky Blue FC,Shots,1st half,79.5,45.4,wide
+6,1846,45:13,45:33,Paige Monaghan,Sky Blue FC,Shots,1st half,96.0,30.5,blocked
+7,1962,48:07,48:27,Erica Skroski,Sky Blue FC,Shots,1st half,95.9,32.3,wide
+8,2085,46:43,47:03,Rachel Hill,Chicago Red Stars,Shots,2nd half,91.8,28.8,blocked
+9,2607,60:56,61:16,Sarah Christine Woldmoe,Sky Blue FC,Shots,2nd half,83.6,32.1,wide
+10,2687,62:46,63:06,Jennifer Cudjoe,Sky Blue FC,Shots,2nd half,77.6,25.3,wide
+11,2724,63:37,63:57,Rachel Hill,Chicago Red Stars,Shots,2nd half,90.9,40.6,on_target
+12,2882,68:20,68:40,Ifeoma Chukwufumnay Onumonu,Sky Blue FC,Shots,2nd half,98.1,35.1,wide
