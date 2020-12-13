@@ -1,0 +1,587 @@
+,raw_event_ID,start_time,end_time,player_ID,team,action,half,pos_x,pos_y,successful
+0,10,0:00,0:16,Elizabeth Rose Ball,Portland Thorns,recovery,1st half,21.4,19.9,null
+1,16,0:01,0:21,Margaret Purce,Portland Thorns,challenge,1st half,58.1,6.0,0
+2,17,0:01,0:21,Becky Sauerbrunn,Utah Royals,challenge,1st half,46.9,62.0,1
+3,23,0:04,0:24,Rachel Louise Corsie,Utah Royals,recovery,1st half,38.2,42.1,null
+4,30,0:10,0:30,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,23.6,23.5,null
+5,46,0:21,0:41,Adrianna Nichole Franch,Portland Thorns,recovery,1st half,4.4,35.7,null
+6,49,0:29,0:49,Rachel Louise Corsie,Utah Royals,recovery,1st half,39.4,20.7,null
+7,68,0:44,1:04,Gunnhildur Yrsa Jonsdottir,Utah Royals,recovery,1st half,55.5,1.8,null
+8,98,1:27,1:47,Rachel Louise Corsie,Utah Royals,recovery,1st half,22.2,48.3,null
+9,106,1:32,1:52,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,66.5,42.7,0
+10,107,1:32,1:52,Christine Margaret Sinclair,Portland Thorns,Dribbles (Unsuccessful actions),1st half,66.5,42.7,null
+11,108,1:32,1:52,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,38.5,25.3,1
+12,109,1:32,1:52,Gunnhildur Yrsa Jonsdottir,Utah Royals,tackle,1st half,38.5,25.3,1
+13,114,1:50,2:10,Christine Margaret Sinclair,Portland Thorns,take_on,1st half,77.2,53.0,1
+14,115,1:50,2:10,Lo'eau LaBonta,Utah Royals,tackle,1st half,27.8,15.0,0
+15,116,1:50,2:10,Lo'eau LaBonta,Utah Royals,challenge,1st half,27.8,15.0,0
+16,126,1:59,2:19,Mandy Laddish,Utah Royals,recovery,1st half,28.0,27.3,null
+17,129,2:04,2:24,Hayley Emma Raso,Portland Thorns,challenge,1st half,86.6,47.5,1
+18,130,2:04,2:24,Hayley Emma Raso,Portland Thorns,tackle,1st half,86.6,47.5,1
+19,131,2:04,2:24,Rachel Louise Corsie,Utah Royals,challenge,1st half,18.4,20.5,0
+20,132,2:07,2:27,Becky Sauerbrunn,Utah Royals,recovery,1st half,13.8,34.5,null
+21,133,2:07,2:27,Margaret Purce,Portland Thorns,challenge,1st half,91.3,32.1,0
+22,134,2:07,2:27,Becky Sauerbrunn,Utah Royals,challenge,1st half,13.7,35.9,1
+23,138,2:14,2:34,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,80.0,6.8,null
+24,143,2:24,2:44,Kelley Maureen O'Hara,Utah Royals,dribble,1st half,26.2,65.0,1
+25,149,2:29,2:49,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,55.0,39.1,null
+26,153,2:34,2:54,Nicole Renee Barnhart,Utah Royals,recovery,1st half,9.1,24.5,null
+27,163,3:08,3:28,Christen Annemarie Press,Utah Royals,challenge,1st half,45.5,56.8,0
+28,164,3:08,3:28,Elizabeth Rose Ball,Portland Thorns,challenge,1st half,59.5,11.2,1
+29,165,3:08,3:28,Christen Annemarie Press,Utah Royals,Dribbles (Unsuccessful actions),1st half,45.5,56.8,null
+30,166,3:08,3:28,Elizabeth Rose Ball,Portland Thorns,tackle,1st half,59.5,11.2,1
+31,169,3:10,3:30,Christine Margaret Sinclair,Portland Thorns,recovery,1st half,61.6,24.7,null
+32,172,3:13,3:33,Becky Sauerbrunn,Utah Royals,challenge,1st half,29.6,45.9,0
+33,173,3:13,3:33,Margaret Purce,Portland Thorns,challenge,1st half,75.4,22.1,1
+34,178,3:14,3:34,Kelley Maureen O'Hara,Utah Royals,recovery,1st half,30.8,54.2,null
+35,183,3:16,3:36,Gabrielle Seiler,Portland Thorns,recovery,1st half,70.0,10.6,null
+36,201,3:33,3:53,Kelley Maureen O'Hara,Utah Royals,tackle,1st half,30.6,63.4,0
+37,202,3:33,3:53,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,30.6,63.4,0
+38,203,3:33,3:53,Ellie Madison Carpenter,Portland Thorns,take_on,1st half,74.4,4.6,1
+39,219,4:43,5:03,Amy Joy Rodriguez Shilling,Utah Royals,challenge,1st half,67.2,33.1,0
+40,220,4:43,5:03,Gabrielle Seiler,Portland Thorns,challenge,1st half,37.8,34.9,1
+41,250,4:58,5:18,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,43.2,47.3,0
+42,251,4:58,5:18,Amy Joy Rodriguez Shilling,Utah Royals,challenge,1st half,61.8,20.7,1
+43,264,7:23,7:43,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,49.9,35.1,0
+44,265,7:23,7:43,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,55.1,32.9,1
+45,282,7:39,7:59,Ellie Madison Carpenter,Portland Thorns,dribble,1st half,90.5,1.8,1
+46,297,7:56,8:16,Becky Sauerbrunn,Utah Royals,challenge,1st half,18.4,53.0,0
+47,299,7:56,8:16,Hayley Emma Raso,Portland Thorns,challenge,1st half,86.6,15.0,1
+48,314,8:08,8:28,Hayley Emma Raso,Portland Thorns,recovery,1st half,90.5,11.2,null
+49,317,8:08,8:28,Becky Sauerbrunn,Utah Royals,tackle,1st half,14.9,56.2,0
+50,318,8:08,8:28,Hayley Emma Raso,Portland Thorns,take_on,1st half,90.1,11.8,1
+51,319,8:08,8:28,Becky Sauerbrunn,Utah Royals,challenge,1st half,14.9,56.2,0
+52,337,8:22,8:42,Christine Margaret Sinclair,Portland Thorns,recovery,1st half,81.4,24.3,null
+53,362,9:35,9:55,Rachel Louise Corsie,Utah Royals,challenge,1st half,19.4,11.4,0
+54,363,9:35,9:55,Margaret Purce,Portland Thorns,challenge,1st half,85.6,56.6,1
+55,365,9:36,9:56,Margaret Purce,Portland Thorns,take_on,1st half,82.4,55.6,1
+56,366,9:36,9:56,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,22.6,12.4,0
+57,368,9:36,9:56,Gunnhildur Yrsa Jonsdottir,Utah Royals,tackle,1st half,22.6,12.4,0
+58,369,9:37,9:57,Margaret Purce,Portland Thorns,challenge,1st half,82.4,51.2,0
+59,371,9:37,9:57,Margaret Purce,Portland Thorns,Dribbles (Unsuccessful actions),1st half,82.4,51.2,null
+60,372,9:37,9:57,Desiree Rose Marie Scott,Utah Royals,challenge,1st half,22.6,16.8,1
+61,373,9:37,9:57,Desiree Rose Marie Scott,Utah Royals,tackle,1st half,22.6,16.8,1
+62,376,9:39,9:59,Rachel Louise Corsie,Utah Royals,recovery,1st half,23.3,24.9,null
+63,401,10:27,10:47,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,94.2,42.7,null
+64,414,10:55,11:15,Katherine Nicole Stengel,Utah Royals,challenge,1st half,50.6,29.0,0
+65,415,10:55,11:15,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,54.4,39.0,1
+66,416,10:56,11:16,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,44.6,23.8,0
+67,417,10:56,11:16,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,60.4,44.2,1
+68,432,11:16,11:36,Gabrielle Seiler,Portland Thorns,challenge,1st half,64.1,65.4,1
+69,433,11:16,11:36,Gabrielle Seiler,Portland Thorns,tackle,1st half,64.1,65.4,1
+70,434,11:16,11:36,Katherine Nicole Stengel,Utah Royals,challenge,1st half,40.9,2.6,0
+71,435,11:17,11:37,Gabrielle Seiler,Portland Thorns,challenge,1st half,60.4,66.2,1
+72,438,11:17,11:37,Katherine Nicole Stengel,Utah Royals,challenge,1st half,44.6,1.8,0
+73,439,11:17,11:37,Katherine Nicole Stengel,Utah Royals,foul,1st half,46.2,0.8,null
+74,447,11:51,12:11,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,17.0,35.9,1
+75,448,11:51,12:11,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,88.0,32.1,0
+76,452,11:51,12:11,Katherine Nicole Stengel,Utah Royals,recovery,1st half,18.4,34.3,null
+77,455,11:53,12:13,Gabrielle Seiler,Portland Thorns,recovery,1st half,71.6,32.7,null
+78,479,12:32,12:52,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,50.4,14.8,null
+79,505,12:54,13:14,Kate Elizabeth Bowen,Utah Royals,recovery,1st half,44.6,1.0,null
+80,625,15:10,15:30,Amy Joy Rodriguez Shilling,Utah Royals,challenge,1st half,95.4,29.0,1
+81,626,15:10,15:30,Emily Townsend Menges,Portland Thorns,challenge,1st half,9.6,39.0,0
+82,632,15:42,16:02,Margaret Purce,Portland Thorns,challenge,1st half,62.0,57.9,0
+83,638,15:42,16:02,Kate Elizabeth Bowen,Utah Royals,challenge,1st half,43.0,10.1,1
+84,643,15:49,16:09,Katherine Reynolds,Portland Thorns,recovery,1st half,45.7,64.3,null
+85,646,15:50,16:10,Kate Elizabeth Bowen,Utah Royals,recovery,1st half,39.9,1.8,null
+86,656,15:53,16:13,Kate Elizabeth Bowen,Utah Royals,recovery,1st half,40.4,2.6,null
+87,662,16:08,16:28,Katherine Nicole Stengel,Utah Royals,challenge,1st half,56.3,4.3,0
+88,664,16:08,16:28,Emily Townsend Menges,Portland Thorns,challenge,1st half,48.7,63.7,1
+89,667,16:19,16:39,Emily Townsend Menges,Portland Thorns,challenge,1st half,39.4,59.7,0
+90,669,16:19,16:39,Katherine Nicole Stengel,Utah Royals,challenge,1st half,65.6,8.3,1
+91,674,16:22,16:42,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,48.7,65.4,0
+92,677,16:22,16:42,Kate Elizabeth Bowen,Utah Royals,challenge,1st half,56.3,2.6,1
+93,678,16:23,16:43,Emily Townsend Menges,Portland Thorns,recovery,1st half,36.9,60.7,null
+94,683,16:27,16:47,Gabrielle Seiler,Portland Thorns,challenge,1st half,63.2,41.8,0
+95,685,16:27,16:47,Lo'eau LaBonta,Utah Royals,challenge,1st half,41.8,26.2,1
+96,686,16:27,16:47,Gabrielle Seiler,Portland Thorns,Dribbles (Unsuccessful actions),1st half,63.2,41.8,null
+97,687,16:27,16:47,Lo'eau LaBonta,Utah Royals,tackle,1st half,41.8,26.2,1
+98,691,16:30,16:50,Kelley Maureen O'Hara,Utah Royals,recovery,1st half,34.3,43.2,null
+99,692,16:32,16:52,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,42.5,52.2,null
+100,722,17:06,17:26,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,63.7,66.2,1
+101,723,17:06,17:26,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,41.3,1.8,0
+102,728,17:07,17:27,Elizabeth Rose Ball,Portland Thorns,recovery,1st half,38.0,9.7,null
+103,769,18:17,18:37,Gabrielle Seiler,Portland Thorns,challenge,1st half,57.2,14.0,1
+104,770,18:17,18:37,Katherine Nicole Stengel,Utah Royals,challenge,1st half,47.8,54.0,0
+105,773,18:19,18:39,Desiree Rose Marie Scott,Utah Royals,recovery,1st half,31.7,38.6,null
+106,788,18:26,18:46,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,58.6,42.6,null
+107,791,18:26,18:46,Lindsey Michelle Horan,Portland Thorns,dribble,1st half,60.4,44.5,1
+108,805,18:43,19:03,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,61.1,14.2,0
+109,806,18:43,19:03,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,43.9,53.8,1
+110,808,18:44,19:04,Lindsey Michelle Horan,Portland Thorns,foul,1st half,59.5,12.6,null
+111,817,19:18,19:38,Desiree Rose Marie Scott,Utah Royals,dribble,1st half,59.2,45.7,1
+112,831,19:33,19:53,Katherine Nicole Stengel,Utah Royals,recovery,1st half,86.6,61.1,null
+113,862,20:18,20:38,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,48.1,3.4,0
+114,863,20:18,20:38,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,56.9,64.6,1
+115,868,20:40,21:00,Emily Townsend Menges,Portland Thorns,challenge,1st half,50.4,65.4,0
+116,869,20:40,21:00,Katherine Nicole Stengel,Utah Royals,challenge,1st half,54.6,2.6,1
+117,924,22:20,22:40,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,96.6,45.3,1
+118,926,22:20,22:40,Rachel Louise Corsie,Utah Royals,challenge,1st half,8.4,22.7,0
+119,931,22:23,22:43,Desiree Rose Marie Scott,Utah Royals,recovery,1st half,11.2,20.3,null
+120,940,22:54,23:14,Becky Sauerbrunn,Utah Royals,challenge,1st half,8.9,26.8,1
+121,944,22:54,23:14,Elizabeth Rose Ball,Portland Thorns,challenge,1st half,96.1,41.2,0
+122,950,22:56,23:16,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,98.5,24.6,1
+123,952,22:56,23:16,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,6.5,43.4,0
+124,957,22:58,23:18,Gunnhildur Yrsa Jonsdottir,Utah Royals,recovery,1st half,3.8,48.7,null
+125,963,23:17,23:37,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,96.9,26.2,1
+126,964,23:17,23:37,Becky Sauerbrunn,Utah Royals,challenge,1st half,8.1,41.8,0
+127,973,23:23,23:43,Emily Townsend Menges,Portland Thorns,recovery,1st half,59.2,16.2,null
+128,985,23:51,24:11,Katherine Nicole Stengel,Utah Royals,challenge,1st half,47.2,65.6,0
+129,989,23:51,24:11,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,57.8,2.4,1
+130,994,23:55,24:15,Kelley Maureen O'Hara,Utah Royals,recovery,1st half,23.6,60.9,null
+131,1004,24:01,24:21,Elizabeth Rose Ball,Portland Thorns,recovery,1st half,40.6,9.7,null
+132,1025,24:27,24:47,Amy Joy Rodriguez Shilling,Utah Royals,take_on,1st half,47.2,20.3,1
+133,1026,24:27,24:47,Lindsey Michelle Horan,Portland Thorns,tackle,1st half,57.8,47.7,0
+134,1027,24:27,24:47,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,57.8,47.7,0
+135,1041,25:05,25:25,Emily Townsend Menges,Portland Thorns,recovery,1st half,38.7,41.8,null
+136,1055,25:10,25:30,Gunnhildur Yrsa Jonsdottir,Utah Royals,recovery,1st half,56.2,15.8,null
+137,1058,25:13,25:33,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,44.8,63.7,null
+138,1060,25:13,25:33,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,1st half,44.8,63.7,1
+139,1062,25:15,25:35,Kate Elizabeth Bowen,Utah Royals,foul,1st half,40.4,3.7,null
+140,1110,27:53,28:13,Lo'eau LaBonta,Utah Royals,challenge,1st half,5.6,63.3,1
+141,1111,27:53,28:13,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,99.4,4.7,0
+142,1114,27:57,28:17,Katherine Nicole Stengel,Utah Royals,challenge,1st half,19.8,57.0,0
+143,1117,27:57,28:17,Gabrielle Seiler,Portland Thorns,challenge,1st half,85.2,11.0,1
+144,1132,28:12,28:32,Desiree Rose Marie Scott,Utah Royals,challenge,1st half,7.7,11.4,0
+145,1133,28:12,28:32,Desiree Rose Marie Scott,Utah Royals,tackle,1st half,7.7,11.4,0
+146,1134,28:12,28:32,Meghan Elizabeth Klingenberg,Portland Thorns,take_on,1st half,97.3,56.6,1
+147,1143,28:16,28:36,Margaret Purce,Portland Thorns,recovery,1st half,79.8,60.7,null
+148,1164,29:00,29:20,Nicole Renee Barnhart,Utah Royals,recovery,1st half,3.7,32.5,null
+149,1169,29:16,29:36,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,60.2,2.6,null
+150,1187,29:42,30:02,Christen Annemarie Press,Utah Royals,challenge,1st half,65.6,67.4,0
+151,1188,29:42,30:02,Christen Annemarie Press,Utah Royals,Dribbles (Unsuccessful actions),1st half,65.6,67.4,null
+152,1189,29:42,30:02,Elizabeth Rose Ball,Portland Thorns,tackle,1st half,39.4,0.59999999999999,1
+153,1190,29:42,30:02,Elizabeth Rose Ball,Portland Thorns,challenge,1st half,39.4,0.59999999999999,1
+154,1194,29:45,30:05,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,45.2,10.2,0
+155,1196,29:45,30:05,Lindsey Michelle Horan,Portland Thorns,tackle,1st half,45.2,10.2,0
+156,1197,29:45,30:05,Katherine Nicole Stengel,Utah Royals,take_on,1st half,59.8,57.8,1
+157,1198,29:45,30:05,Katherine Nicole Stengel,Utah Royals,recovery,1st half,59.8,57.8,null
+158,1202,29:45,30:05,Katherine Nicole Stengel,Utah Royals,dribble,1st half,60.4,58.7,1
+159,1208,29:53,30:13,Amy Joy Rodriguez Shilling,Utah Royals,challenge,1st half,82.4,48.5,0
+160,1209,29:53,30:13,Emily Townsend Menges,Portland Thorns,challenge,1st half,22.6,19.5,1
+161,1212,29:54,30:14,Lo'eau LaBonta,Utah Royals,recovery,1st half,73.5,58.7,null
+162,1229,32:12,32:32,Katherine Reynolds,Portland Thorns,recovery,1st half,22.8,59.1,null
+163,1236,32:16,32:36,Rachel Louise Corsie,Utah Royals,tackle,1st half,58.3,5.7,0
+164,1237,32:16,32:36,Rachel Louise Corsie,Utah Royals,challenge,1st half,58.3,5.7,0
+165,1238,32:16,32:36,Margaret Purce,Portland Thorns,take_on,1st half,46.7,62.3,1
+166,1240,32:16,32:36,Rachel Louise Corsie,Utah Royals,foul,1st half,57.2,2.6,null
+167,1252,32:51,33:11,Hayley Emma Raso,Portland Thorns,foul,1st half,38.5,5.7,null
+168,1259,33:38,33:58,Katherine Reynolds,Portland Thorns,challenge,1st half,14.5,39.2,1
+169,1261,33:38,33:58,Kate Elizabeth Bowen,Utah Royals,challenge,1st half,90.5,28.8,0
+170,1267,33:41,34:01,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,11.0,33.3,null
+171,1273,33:50,34:10,Christen Annemarie Press,Utah Royals,take_on,1st half,90.5,64.3,1
+172,1274,33:50,34:10,Hayley Emma Raso,Portland Thorns,challenge,1st half,14.5,3.7,0
+173,1275,33:50,34:10,Hayley Emma Raso,Portland Thorns,tackle,1st half,14.5,3.7,0
+174,1285,33:54,34:14,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,95.0,23.8,1
+175,1287,33:54,34:14,Gabrielle Seiler,Portland Thorns,challenge,1st half,10.0,44.2,0
+176,1291,33:59,34:19,Gabrielle Seiler,Portland Thorns,challenge,1st half,14.9,52.0,0
+177,1293,33:59,34:19,Katherine Nicole Stengel,Utah Royals,challenge,1st half,90.1,16.0,1
+178,1299,34:08,34:28,Kelley Maureen O'Hara,Utah Royals,dribble,1st half,80.3,56.4,1
+179,1308,34:44,35:04,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,56.2,37.6,0
+180,1309,34:44,35:04,Desiree Rose Marie Scott,Utah Royals,challenge,1st half,48.8,30.4,1
+181,1315,34:46,35:06,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,53.0,27.2,null
+182,1340,35:07,35:27,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,65.6,3.9,1
+183,1341,35:07,35:27,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,39.4,64.1,0
+184,1361,35:29,35:49,Elizabeth Rose Ball,Portland Thorns,challenge,1st half,28.9,16.8,0
+185,1362,35:29,35:49,Elizabeth Rose Ball,Portland Thorns,tackle,1st half,28.9,16.8,0
+186,1363,35:29,35:49,Christen Annemarie Press,Utah Royals,take_on,1st half,76.1,51.2,1
+187,1371,35:33,35:53,Adrianna Nichole Franch,Portland Thorns,save,1st half,13.7,22.1,null
+188,1378,36:04,36:24,Kate Elizabeth Bowen,Utah Royals,dribble,1st half,38.0,3.9,1
+189,1400,37:05,37:25,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,28.2,60.1,0
+190,1402,37:05,37:25,Gunnhildur Yrsa Jonsdottir,Utah Royals,tackle,1st half,28.2,60.1,0
+191,1404,37:05,37:25,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,76.8,7.9,null
+192,1405,37:05,37:25,Ellie Madison Carpenter,Portland Thorns,take_on,1st half,76.8,7.9,1
+193,1407,37:07,37:27,Amy Joy Rodriguez Shilling,Utah Royals,foul,1st half,35.9,58.9,null
+194,1421,37:45,38:05,Gabrielle Seiler,Portland Thorns,challenge,1st half,80.3,28.8,1
+195,1422,37:45,38:05,Desiree Rose Marie Scott,Utah Royals,challenge,1st half,24.7,39.2,0
+196,1425,37:45,38:05,Becky Sauerbrunn,Utah Royals,recovery,1st half,15.9,33.7,null
+197,1429,37:47,38:07,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,89.6,22.7,null
+198,1431,37:48,38:08,Lindsey Michelle Horan,Portland Thorns,dribble,1st half,91.0,19.3,1
+199,1434,37:51,38:11,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,89.6,15.2,0
+200,1435,37:51,38:11,Desiree Rose Marie Scott,Utah Royals,tackle,1st half,15.4,52.8,1
+201,1436,37:51,38:11,Desiree Rose Marie Scott,Utah Royals,challenge,1st half,15.4,52.8,1
+202,1437,37:53,38:13,Lo'eau LaBonta,Utah Royals,recovery,1st half,13.7,58.1,null
+203,1444,38:16,38:36,Katherine Reynolds,Portland Thorns,recovery,1st half,42.2,18.3,null
+204,1484,39:06,39:26,Katherine Nicole Stengel,Utah Royals,challenge,1st half,63.5,44.9,0
+205,1485,39:06,39:26,Emily Townsend Menges,Portland Thorns,challenge,1st half,41.5,23.1,1
+206,1506,39:29,39:49,Lindsey Michelle Horan,Portland Thorns,dribble,1st half,33.4,23.1,1
+207,1536,39:55,40:15,Gabrielle Seiler,Portland Thorns,challenge,1st half,74.7,20.9,1
+208,1537,39:55,40:15,Desiree Rose Marie Scott,Utah Royals,challenge,1st half,30.3,47.1,0
+209,1538,39:55,40:15,Gabrielle Seiler,Portland Thorns,tackle,1st half,74.7,20.9,1
+210,1541,39:56,40:16,Margaret Purce,Portland Thorns,recovery,1st half,77.3,18.3,null
+211,1546,40:00,40:20,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,96.8,5.5,0
+212,1548,40:00,40:20,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,8.2,62.5,1
+213,1549,40:00,40:20,Kelley Maureen O'Hara,Utah Royals,tackle,1st half,8.2,62.5,1
+214,1554,40:18,40:38,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,100.4,21.7,0
+215,1555,40:18,40:38,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,4.6,46.3,1
+216,1559,40:21,40:41,Katherine Nicole Stengel,Utah Royals,challenge,1st half,23.4,52.4,1
+217,1563,40:21,40:41,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,81.6,15.6,0
+218,1569,40:30,40:50,Katherine Reynolds,Portland Thorns,challenge,1st half,67.4,34.3,0
+219,1572,40:30,40:50,Amy Joy Rodriguez Shilling,Utah Royals,challenge,1st half,37.6,33.7,1
+220,1575,40:32,40:52,Katherine Nicole Stengel,Utah Royals,dribble,1st half,39.0,37.4,1
+221,1607,41:11,41:31,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,44.5,56.2,null
+222,1627,41:24,41:44,Margaret Purce,Portland Thorns,challenge,1st half,71.9,28.2,0
+223,1628,41:24,41:44,Becky Sauerbrunn,Utah Royals,challenge,1st half,33.1,39.8,1
+224,1630,41:26,41:46,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,64.9,6.7,null
+225,1632,41:28,41:48,Ellie Madison Carpenter,Portland Thorns,Dribbles (Unsuccessful actions),1st half,69.8,9.7,null
+226,1634,41:28,41:48,Lo'eau LaBonta,Utah Royals,challenge,1st half,35.2,58.3,1
+227,1635,41:28,41:48,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,69.8,9.7,0
+228,1636,41:28,41:48,Lo'eau LaBonta,Utah Royals,tackle,1st half,35.2,58.3,1
+229,1637,41:31,41:51,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,80.0,15.6,1
+230,1639,41:31,41:51,Ellie Madison Carpenter,Portland Thorns,tackle,1st half,80.0,15.6,1
+231,1640,41:31,41:51,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,25.0,52.4,0
+232,1641,41:31,41:51,Kelley Maureen O'Hara,Utah Royals,recovery,1st half,25.0,52.4,null
+233,1642,41:31,41:51,Kelley Maureen O'Hara,Utah Royals,Dribbles (Unsuccessful actions),1st half,25.0,52.4,null
+234,1644,41:31,41:51,Ellie Madison Carpenter,Portland Thorns,dribble,1st half,81.0,18.5,1
+235,1649,41:34,41:54,Nicole Renee Barnhart,Utah Royals,save,1st half,9.6,48.1,null
+236,1656,42:01,42:21,Christen Annemarie Press,Utah Royals,dribble,1st half,96.2,62.7,1
+237,1658,42:02,42:22,Christen Annemarie Press,Utah Royals,take_on,1st half,94.7,58.1,1
+238,1661,42:02,42:22,Elizabeth Rose Ball,Portland Thorns,tackle,1st half,10.3,9.9,0
+239,1662,42:02,42:22,Elizabeth Rose Ball,Portland Thorns,challenge,1st half,10.3,9.9,0
+240,1676,43:25,43:45,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,75.8,6.3,null
+241,1677,43:27,43:47,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,73.8,2.8,0
+242,1678,43:27,43:47,Lo'eau LaBonta,Utah Royals,challenge,1st half,31.2,65.2,1
+243,1680,43:27,43:47,Lo'eau LaBonta,Utah Royals,tackle,1st half,31.2,65.2,1
+244,1712,43:52,44:12,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,34.8,10.2,1
+245,1713,43:52,44:12,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,70.2,57.8,0
+246,1715,43:55,44:15,Hayley Emma Raso,Portland Thorns,recovery,1st half,72.4,30.0,null
+247,1717,43:56,44:16,Hayley Emma Raso,Portland Thorns,challenge,1st half,72.8,30.4,0
+248,1719,43:56,44:16,Desiree Rose Marie Scott,Utah Royals,challenge,1st half,32.2,37.6,1
+249,1720,43:56,44:16,Desiree Rose Marie Scott,Utah Royals,tackle,1st half,32.2,37.6,1
+250,1722,43:57,44:17,Becky Sauerbrunn,Utah Royals,recovery,1st half,23.8,36.7,null
+251,1727,43:59,44:19,Kelley Maureen O'Hara,Utah Royals,dribble,1st half,26.2,59.3,1
+252,1732,44:08,44:28,Gabrielle Seiler,Portland Thorns,recovery,1st half,35.9,22.7,null
+253,1735,44:08,44:28,Gabrielle Seiler,Portland Thorns,challenge,1st half,36.2,20.1,0
+254,1736,44:08,44:28,Amy Joy Rodriguez Shilling,Utah Royals,challenge,1st half,68.8,47.9,1
+255,1737,44:08,44:28,Amy Joy Rodriguez Shilling,Utah Royals,tackle,1st half,68.8,47.9,1
+256,1739,44:10,44:30,Katherine Nicole Stengel,Utah Royals,challenge,1st half,74.5,48.9,0
+257,1742,44:10,44:30,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,30.5,19.1,1
+258,1767,44:37,44:57,Rachel Louise Corsie,Utah Royals,challenge,1st half,30.3,16.4,0
+259,1769,44:37,44:57,Margaret Purce,Portland Thorns,challenge,1st half,74.7,51.6,1
+260,1772,44:40,45:00,Becky Sauerbrunn,Utah Royals,challenge,1st half,19.8,31.9,1
+261,1773,44:40,45:00,Hayley Emma Raso,Portland Thorns,challenge,1st half,85.2,36.1,0
+262,1775,44:41,45:01,Hayley Emma Raso,Portland Thorns,foul,1st half,86.8,36.3,null
+263,1784,44:52,45:12,Katherine Nicole Stengel,Utah Royals,challenge,1st half,48.5,49.7,1
+264,1785,44:52,45:12,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,56.5,18.3,0
+265,1789,44:55,45:15,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,55.5,7.1,1
+266,1792,44:55,45:15,Christen Annemarie Press,Utah Royals,challenge,1st half,49.5,60.9,0
+267,1793,44:56,45:16,Katherine Nicole Stengel,Utah Royals,recovery,1st half,42.3,64.8,null
+268,1797,44:59,45:19,Christen Annemarie Press,Utah Royals,Dribbles (Unsuccessful actions),1st half,62.0,63.7,null
+269,1798,44:59,45:19,Elizabeth Rose Ball,Portland Thorns,tackle,1st half,43.0,4.3,1
+270,1800,44:59,45:19,Christen Annemarie Press,Utah Royals,challenge,1st half,62.0,63.7,0
+271,1801,44:59,45:19,Elizabeth Rose Ball,Portland Thorns,challenge,1st half,43.0,4.3,1
+272,1803,45:02,45:22,Christine Margaret Sinclair,Portland Thorns,recovery,1st half,59.8,14.4,null
+273,1822,45:21,45:41,Hayley Emma Raso,Portland Thorns,challenge,1st half,85.8,24.4,1
+274,1823,45:21,45:41,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,19.2,43.6,0
+275,1825,45:22,45:42,Hayley Emma Raso,Portland Thorns,challenge,1st half,83.5,27.2,0
+276,1827,45:22,45:42,Becky Sauerbrunn,Utah Royals,challenge,1st half,21.5,40.8,1
+277,1829,45:23,45:43,Becky Sauerbrunn,Utah Royals,dribble,1st half,24.5,39.6,1
+278,1830,45:23,45:43,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,80.5,28.4,0
+279,1831,45:23,45:43,Christine Margaret Sinclair,Portland Thorns,tackle,1st half,80.5,28.4,0
+280,1833,45:23,45:43,Becky Sauerbrunn,Utah Royals,take_on,1st half,24.5,39.6,1
+281,1844,45:34,45:54,Elizabeth Rose Ball,Portland Thorns,recovery,1st half,28.2,32.3,null
+282,1850,45:37,45:57,Amy Joy Rodriguez Shilling,Utah Royals,recovery,1st half,64.6,26.2,null
+283,1865,46:25,46:45,Becky Sauerbrunn,Utah Royals,recovery,1st half,26.1,49.5,null
+284,1870,46:36,46:56,Adrianna Nichole Franch,Portland Thorns,recovery,1st half,13.5,11.4,null
+285,1885,46:53,47:13,Becky Sauerbrunn,Utah Royals,recovery,1st half,33.1,63.7,null
+286,1897,46:59,47:19,Ellie Madison Carpenter,Portland Thorns,take_on,1st half,66.0,3.2,1
+287,1898,46:59,47:19,Lo'eau LaBonta,Utah Royals,challenge,1st half,39.0,64.8,0
+288,1899,46:59,47:19,Lo'eau LaBonta,Utah Royals,tackle,1st half,39.0,64.8,0
+289,1908,47:06,47:26,Margaret Purce,Portland Thorns,dribble,1st half,94.8,2.0,1
+290,1911,47:06,47:26,Margaret Purce,Portland Thorns,take_on,1st half,92.8,2.4,1
+291,1912,47:06,47:26,Kelley Maureen O'Hara,Utah Royals,challenge,1st half,12.2,65.6,0
+292,1913,47:06,47:26,Kelley Maureen O'Hara,Utah Royals,tackle,1st half,12.2,65.6,0
+293,1920,47:16,47:36,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,100.1,4.7,null
+294,1923,47:17,47:37,Lo'eau LaBonta,Utah Royals,challenge,1st half,4.0,61.9,1
+295,1924,47:17,47:37,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,101.0,6.1,0
+296,1925,47:17,47:37,Lo'eau LaBonta,Utah Royals,tackle,1st half,4.0,61.9,1
+297,1932,47:43,48:03,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,1st half,10.8,47.5,1
+298,1933,47:43,48:03,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,94.2,20.5,0
+299,1941,48:12,48:32,Katherine Reynolds,Portland Thorns,recovery,1st half,83.5,62.7,null
+300,1952,48:22,48:42,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,70.3,1.4,null
+301,1991,45:00,45:19,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,32.9,21.3,null
+302,2022,45:35,45:55,Adrianna Nichole Franch,Portland Thorns,save,2nd half,11.2,47.3,null
+303,2038,46:10,46:30,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,79.4,28.8,1
+304,2041,46:10,46:30,Emily Townsend Menges,Portland Thorns,challenge,2nd half,25.6,39.2,0
+305,2043,46:13,46:33,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,10.3,30.6,null
+306,2054,46:31,46:51,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,63.9,32.9,1
+307,2056,46:31,46:51,Desiree Rose Marie Scott,Utah Royals,challenge,2nd half,41.1,35.1,0
+308,2066,46:36,46:56,Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,57.8,43.8,null
+309,2073,46:44,47:04,Desiree Rose Marie Scott,Utah Royals,challenge,2nd half,30.5,17.0,1
+310,2074,46:44,47:04,Desiree Rose Marie Scott,Utah Royals,tackle,2nd half,30.5,17.0,1
+311,2075,46:44,47:04,Hayley Emma Raso,Portland Thorns,challenge,2nd half,74.5,51.0,0
+312,2088,46:55,47:15,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,2nd half,48.7,67.2,1
+313,2089,46:57,47:17,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,56.3,65.8,0
+314,2091,46:57,47:17,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,48.7,2.2,1
+315,2092,46:57,47:17,Gunnhildur Yrsa Jonsdottir,Utah Royals,tackle,2nd half,48.7,2.2,1
+316,2093,46:57,47:17,Meghan Elizabeth Klingenberg,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,56.3,65.8,null
+317,2113,47:26,47:46,Lindsey Michelle Horan,Portland Thorns,take_on,2nd half,62.3,55.2,1
+318,2114,47:26,47:46,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,42.7,12.8,0
+319,2115,47:26,47:46,Katherine Nicole Stengel,Utah Royals,tackle,2nd half,42.7,12.8,0
+320,2132,47:44,48:04,Kate Elizabeth Bowen,Utah Royals,challenge,2nd half,10.0,34.7,0
+321,2133,47:44,48:04,Hayley Emma Raso,Portland Thorns,challenge,2nd half,95.0,33.3,1
+322,2176,48:28,48:48,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,60.5,59.7,1
+323,2178,48:28,48:48,Gabrielle Seiler,Portland Thorns,challenge,2nd half,44.5,8.3,0
+324,2188,48:38,48:58,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,10.8,49.5,null
+325,2211,49:18,49:38,Desiree Rose Marie Scott,Utah Royals,dribble,2nd half,41.8,23.8,1
+326,2232,49:58,50:18,Emily Townsend Menges,Portland Thorns,recovery,2nd half,16.3,57.8,null
+327,2250,50:20,50:40,Christen Annemarie Press,Utah Royals,dribble,2nd half,77.0,58.9,1
+328,2254,50:24,50:44,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,26.2,46.1,null
+329,2260,50:27,50:47,Margaret Purce,Portland Thorns,dribble,2nd half,42.5,49.9,1
+330,2273,50:48,51:08,Elizabeth Rose Ball,Portland Thorns,challenge,2nd half,55.5,12.6,1
+331,2274,50:48,51:08,Elizabeth Rose Ball,Portland Thorns,tackle,2nd half,55.5,12.6,1
+332,2276,50:48,51:08,Christen Annemarie Press,Utah Royals,challenge,2nd half,49.5,55.4,0
+333,2277,50:51,51:11,Emily Townsend Menges,Portland Thorns,recovery,2nd half,37.1,24.8,null
+334,2282,50:53,51:13,Amy Joy Rodriguez Shilling,Utah Royals,recovery,2nd half,64.4,37.4,null
+335,2290,51:04,51:24,Christen Annemarie Press,Utah Royals,challenge,2nd half,78.1,54.2,0
+336,2292,51:04,51:24,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,26.9,13.8,1
+337,2294,51:05,51:25,Gabrielle Seiler,Portland Thorns,dribble,2nd half,28.7,24.8,1
+338,2303,51:26,51:46,Nicole Renee Barnhart,Utah Royals,recovery,2nd half,10.5,40.6,null
+339,2331,51:52,52:12,Christen Annemarie Press,Utah Royals,challenge,2nd half,48.1,33.7,0
+340,2332,51:52,52:12,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,56.9,34.3,1
+341,2352,52:12,52:32,Lo'eau LaBonta,Utah Royals,dribble,2nd half,46.2,59.5,1
+342,2366,52:31,52:51,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,99.2,10.2,0
+343,2368,52:31,52:51,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,5.8,57.8,1
+344,2379,53:07,53:27,Rachel Louise Corsie,Utah Royals,recovery,2nd half,38.3,12.4,null
+345,2387,53:17,53:37,Ellie Madison Carpenter,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,35.0,3.0,null
+346,2388,53:17,53:37,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,35.0,3.0,0
+347,2389,53:17,53:37,Kelley Maureen O'Hara,Utah Royals,challenge,2nd half,70.0,65.0,1
+348,2390,53:17,53:37,Kelley Maureen O'Hara,Utah Royals,tackle,2nd half,70.0,65.0,1
+349,2431,55:19,55:39,Katherine Nicole Stengel,Utah Royals,dribble,2nd half,90.8,58.1,1
+350,2442,56:01,56:21,Kate Elizabeth Bowen,Utah Royals,challenge,2nd half,96.2,35.7,0
+351,2443,56:01,56:21,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,8.8,32.3,1
+352,2447,56:04,56:24,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,72.6,46.7,null
+353,2479,57:14,57:34,Katherine Nicole Stengel,Utah Royals,dribble,2nd half,77.9,22.9,1
+354,2490,57:21,57:41,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,65.4,23.3,null
+355,2492,57:24,57:44,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,30.8,17.1,1
+356,2493,57:24,57:44,Lo'eau LaBonta,Utah Royals,challenge,2nd half,74.2,50.9,0
+357,2495,57:24,57:44,Ellie Madison Carpenter,Portland Thorns,tackle,2nd half,30.8,17.1,1
+358,2496,57:24,57:44,Lo'eau LaBonta,Utah Royals,Dribbles (Unsuccessful actions),2nd half,74.2,50.9,null
+359,2498,57:25,57:45,Elizabeth Rose Ball,Portland Thorns,recovery,2nd half,24.7,12.8,null
+360,2531,58:02,58:22,Emily Townsend Menges,Portland Thorns,challenge,2nd half,8.8,43.2,0
+361,2533,58:02,58:22,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,96.2,24.8,1
+362,2536,58:03,58:23,Adrianna Nichole Franch,Portland Thorns,save,2nd half,11.2,40.4,null
+363,2552,58:53,59:13,Kelley Maureen O'Hara,Utah Royals,recovery,2nd half,72.8,27.2,null
+364,2565,58:57,59:17,Kelley Maureen O'Hara,Utah Royals,recovery,2nd half,70.3,30.6,null
+365,2567,59:02,59:22,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,7.0,19.3,null
+366,2571,59:28,59:48,Kate Elizabeth Bowen,Utah Royals,recovery,2nd half,23.1,17.5,null
+367,2576,59:29,59:49,Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,69.8,50.5,null
+368,2580,59:34,59:54,Lo'eau LaBonta,Utah Royals,challenge,2nd half,25.2,37.1,1
+369,2581,59:34,59:54,Lo'eau LaBonta,Utah Royals,tackle,2nd half,25.2,37.1,1
+370,2583,59:34,59:54,Hayley Emma Raso,Portland Thorns,challenge,2nd half,79.8,30.9,0
+371,2585,59:39,59:59,Nicole Renee Barnhart,Utah Royals,recovery,2nd half,1.2,16.4,null
+372,2587,59:53,60:13,Amy Joy Rodriguez Shilling,Utah Royals,challenge,2nd half,47.8,6.3,1
+373,2588,59:53,60:13,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,57.2,61.7,0
+374,2601,60:19,60:39,Kelley Maureen O'Hara,Utah Royals,dribble,2nd half,47.6,61.5,1
+375,2615,60:34,60:54,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,68.4,49.3,1
+376,2616,60:34,60:54,Emily Townsend Menges,Portland Thorns,challenge,2nd half,36.6,18.7,0
+377,2617,60:35,60:55,Katherine Nicole Stengel,Utah Royals,dribble,2nd half,68.8,52.6,1
+378,2631,60:48,61:08,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,95.7,18.7,1
+379,2633,60:48,61:08,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,9.3,49.3,0
+380,2636,60:52,61:12,Amy Joy Rodriguez Shilling,Utah Royals,challenge,2nd half,95.0,26.0,0
+381,2640,60:52,61:12,Katherine Reynolds,Portland Thorns,challenge,2nd half,10.0,42.0,1
+382,2642,60:53,61:13,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,13.1,46.7,1
+383,2643,60:53,61:13,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,91.9,21.3,0
+384,2647,62:29,62:49,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,51.5,4.2,0
+385,2648,62:29,62:49,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,53.5,63.8,1
+386,2657,62:52,63:12,Amy Joy Rodriguez Shilling,Utah Royals,challenge,2nd half,59.8,2.5,1
+387,2658,62:52,63:12,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,45.2,65.5,0
+388,2668,62:58,63:18,Amy Joy Rodriguez Shilling,Utah Royals,dribble,2nd half,48.0,12.1,1
+389,2670,62:58,63:18,Amy Joy Rodriguez Shilling,Utah Royals,recovery,2nd half,48.0,12.1,null
+390,2687,63:10,63:30,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,96.9,26.8,1
+391,2688,63:10,63:30,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,8.1,41.2,0
+392,2697,63:42,64:02,Desiree Rose Marie Scott,Utah Royals,challenge,2nd half,40.2,40.8,1
+393,2698,63:42,64:02,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,64.8,27.2,0
+394,2701,63:45,64:05,Gabrielle Seiler,Portland Thorns,recovery,2nd half,45.5,30.6,null
+395,2710,64:05,64:25,Katherine Nicole Stengel,Utah Royals,dribble,2nd half,71.4,12.9,1
+396,2717,64:11,64:31,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,39.6,50.1,null
+397,2731,64:32,64:52,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,10.8,43.7,null
+398,2764,65:19,65:39,Christen Annemarie Press,Utah Royals,dribble,2nd half,46.2,60.3,1
+399,2766,65:23,65:43,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,46.0,28.1,1
+400,2767,65:23,65:43,Christen Annemarie Press,Utah Royals,challenge,2nd half,59.0,39.9,0
+401,2768,65:23,65:43,Christen Annemarie Press,Utah Royals,Dribbles (Unsuccessful actions),2nd half,59.0,39.9,null
+402,2769,65:23,65:43,Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,46.0,28.1,1
+403,2773,65:24,65:44,Gabrielle Seiler,Portland Thorns,recovery,2nd half,40.6,32.9,null
+404,2778,65:26,65:46,Margaret Purce,Portland Thorns,recovery,2nd half,42.9,53.9,null
+405,2788,65:33,65:53,Amy Joy Rodriguez Shilling,Utah Royals,challenge,2nd half,73.7,16.6,0
+406,2789,65:33,65:53,Margaret Purce,Portland Thorns,challenge,2nd half,31.3,51.4,1
+407,2790,65:33,65:53,Margaret Purce,Portland Thorns,tackle,2nd half,31.3,51.4,1
+408,2794,65:34,65:54,Gunnhildur Yrsa Jonsdottir,Utah Royals,recovery,2nd half,73.8,3.3,null
+409,2813,65:47,66:07,Christen Annemarie Press,Utah Royals,recovery,2nd half,76.7,25.0,null
+410,2821,65:56,66:16,Elizabeth Rose Ball,Portland Thorns,recovery,2nd half,4.2,5.0,null
+411,2830,66:11,66:31,Elizabeth Rose Ball,Portland Thorns,tackle,2nd half,14.5,8.7,1
+412,2831,66:11,66:31,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,90.5,59.3,0
+413,2832,66:11,66:31,Elizabeth Rose Ball,Portland Thorns,challenge,2nd half,14.5,8.7,1
+414,2834,66:13,66:33,Hayley Emma Raso,Portland Thorns,recovery,2nd half,25.4,10.0,null
+415,2839,66:16,66:36,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,39.4,20.8,0
+416,2840,66:16,66:36,Desiree Rose Marie Scott,Utah Royals,challenge,2nd half,65.6,47.2,1
+417,2841,66:16,66:36,Desiree Rose Marie Scott,Utah Royals,tackle,2nd half,65.6,47.2,1
+418,2843,66:17,66:37,Becky Sauerbrunn,Utah Royals,recovery,2nd half,62.1,49.5,null
+419,2848,66:19,66:39,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,41.8,13.7,0
+420,2849,66:19,66:39,Caitlin Jade Foord,Portland Thorns,tackle,2nd half,41.8,13.7,0
+421,2850,66:19,66:39,Lo'eau LaBonta,Utah Royals,take_on,2nd half,63.2,54.3,1
+422,2852,66:20,66:40,Caitlin Jade Foord,Portland Thorns,foul,2nd half,40.9,14.1,null
+423,2860,67:16,67:36,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,75.2,19.6,null
+424,2873,67:25,67:45,Amy Joy Rodriguez Shilling,Utah Royals,challenge,2nd half,94.8,42.4,1
+425,2874,67:25,67:45,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,10.2,25.6,0
+426,2902,68:05,68:25,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,11.4,23.1,1
+427,2903,68:05,68:25,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,93.6,44.9,0
+428,2907,69:06,69:26,Kelley Maureen O'Hara,Utah Royals,challenge,2nd half,70.7,63.0,0
+429,2908,69:06,69:26,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,34.3,5.0,1
+430,2924,69:17,69:37,Margaret Purce,Portland Thorns,dribble,2nd half,62.1,63.4,1
+431,2942,69:32,69:52,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,95.6,38.1,0
+432,2945,69:32,69:52,Rachel Louise Corsie,Utah Royals,challenge,2nd half,9.4,29.9,1
+433,2947,69:36,69:56,Katherine Nicole Stengel,Utah Royals,recovery,2nd half,23.3,14.1,null
+434,2950,69:38,69:58,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,18.7,6.5,0
+435,2954,69:38,69:58,Margaret Purce,Portland Thorns,challenge,2nd half,86.3,61.5,1
+436,2956,69:41,70:01,Meghan Elizabeth Klingenberg,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,98.7,59.9,null
+437,2957,69:41,70:01,Kate Elizabeth Bowen,Utah Royals,tackle,2nd half,6.3,8.1,1
+438,2958,69:41,70:01,Kate Elizabeth Bowen,Utah Royals,challenge,2nd half,6.3,8.1,1
+439,2959,69:41,70:01,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,98.7,59.9,0
+440,3002,71:04,71:24,Rachel Louise Corsie,Utah Royals,challenge,2nd half,57.0,6.5,1
+441,3003,71:04,71:24,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,48.0,61.5,0
+442,3029,71:29,71:49,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,13.5,50.7,null
+443,3036,71:38,71:58,Emily Townsend Menges,Portland Thorns,recovery,2nd half,41.5,5.8,null
+444,3059,72:00,72:20,Katherine Nicole Stengel,Utah Royals,recovery,2nd half,46.4,12.1,null
+445,3105,72:42,73:02,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,58.5,21.6,0
+446,3107,72:42,73:02,Katherine Reynolds,Portland Thorns,challenge,2nd half,46.5,46.4,1
+447,3108,72:43,73:03,Gunnhildur Yrsa Jonsdottir,Utah Royals,foul,2nd half,57.9,17.7,null
+448,3113,74:43,75:03,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,2nd half,56.0,65.5,1
+449,3116,74:49,75:09,Margaret Purce,Portland Thorns,dribble,2nd half,81.0,66.1,1
+450,3118,74:51,75:11,Margaret Purce,Portland Thorns,challenge,2nd half,81.2,61.5,0
+451,3119,74:51,75:11,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,23.8,6.5,1
+452,3121,74:51,75:11,Katherine Nicole Stengel,Utah Royals,tackle,2nd half,23.8,6.5,1
+453,3125,74:53,75:13,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,86.4,49.3,null
+454,3174,75:57,76:17,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,68.1,26.4,0
+455,3175,75:57,76:17,Becky Sauerbrunn,Utah Royals,challenge,2nd half,36.9,41.6,1
+456,3176,75:57,76:17,Becky Sauerbrunn,Utah Royals,tackle,2nd half,36.9,41.6,1
+457,3178,75:59,76:19,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,37.8,24.5,0
+458,3179,75:59,76:19,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,67.2,43.5,1
+459,3180,76:03,76:23,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,59.7,66.3,null
+460,3204,77:12,77:32,Tobin Powell Powell Heath,Portland Thorns,dribble,2nd half,76.3,66.1,1
+461,3207,77:20,77:40,Lindsey Michelle Horan,Portland Thorns,take_on,2nd half,95.9,60.1,1
+462,3209,77:20,77:40,Kate Elizabeth Bowen,Utah Royals,challenge,2nd half,9.1,7.9,0
+463,3210,77:20,77:40,Kate Elizabeth Bowen,Utah Royals,tackle,2nd half,9.1,7.9,0
+464,3216,77:23,77:43,Kelley Maureen O'Hara,Utah Royals,challenge,2nd half,12.1,34.9,1
+465,3217,77:23,77:43,Hayley Emma Raso,Portland Thorns,challenge,2nd half,92.9,33.1,0
+466,3221,77:28,77:48,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,69.5,5.4,null
+467,3228,77:31,77:51,Gunnhildur Yrsa Jonsdottir,Utah Royals,recovery,2nd half,22.8,46.4,null
+468,3235,77:40,78:00,Kelley Maureen O'Hara,Utah Royals,take_on,2nd half,43.6,64.7,1
+469,3236,77:40,78:00,Hayley Emma Raso,Portland Thorns,challenge,2nd half,61.4,3.3,0
+470,3238,77:40,78:00,Hayley Emma Raso,Portland Thorns,tackle,2nd half,61.4,3.3,0
+471,3245,77:50,78:10,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,40.6,2.7,null
+472,3264,78:11,78:31,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,2nd half,63.5,67.2,1
+473,3265,78:16,78:36,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,68.6,59.7,0
+474,3267,78:16,78:36,Christen Annemarie Press,Utah Royals,challenge,2nd half,36.4,8.3,1
+475,3268,78:16,78:36,Christen Annemarie Press,Utah Royals,tackle,2nd half,36.4,8.3,1
+476,3270,78:18,78:38,Katherine Nicole Stengel,Utah Royals,dribble,2nd half,41.8,12.1,1
+477,3273,78:18,78:38,Katherine Nicole Stengel,Utah Royals,recovery,2nd half,41.8,12.1,null
+478,3277,78:25,78:45,Christen Annemarie Press,Utah Royals,dribble,2nd half,58.3,6.4,1
+479,3281,78:34,78:54,Veronica Boquete,Utah Royals,challenge,2nd half,83.1,53.6,1
+480,3282,78:34,78:54,Hayley Emma Raso,Portland Thorns,challenge,2nd half,21.9,14.4,0
+481,3290,78:41,79:01,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,3.5,32.0,null
+482,3296,79:13,79:33,Rachel Louise Corsie,Utah Royals,recovery,2nd half,31.7,32.2,null
+483,3297,79:15,79:35,Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,62.8,54.9,null
+484,3316,79:35,79:55,Desiree Rose Marie Scott,Utah Royals,dribble,2nd half,39.5,9.4,1
+485,3334,79:58,80:18,Tobin Powell Powell Heath,Portland Thorns,foul,2nd half,99.4,57.4,null
+486,3337,80:07,80:27,Veronica Boquete,Utah Royals,dribble,2nd half,40.8,43.0,1
+487,3342,80:14,80:34,Kelley Maureen O'Hara,Utah Royals,dribble,2nd half,66.7,65.1,1
+488,3344,80:18,80:38,Emily Ann Sonnett,Portland Thorns,tackle,2nd half,20.7,19.1,1
+489,3345,80:18,80:38,Kelley Maureen O'Hara,Utah Royals,challenge,2nd half,84.3,48.9,0
+490,3347,80:18,80:38,Kelley Maureen O'Hara,Utah Royals,Dribbles (Unsuccessful actions),2nd half,84.3,48.9,null
+491,3348,80:18,80:38,Emily Ann Sonnett,Portland Thorns,challenge,2nd half,20.7,19.1,1
+492,3357,80:51,81:11,Rachel Louise Corsie,Utah Royals,recovery,2nd half,38.3,12.1,null
+493,3359,80:53,81:13,Emily Townsend Menges,Portland Thorns,recovery,2nd half,35.7,34.7,null
+494,3361,80:54,81:14,Emily Townsend Menges,Portland Thorns,dribble,2nd half,36.2,34.9,1
+495,3371,81:08,81:28,Kelley Maureen O'Hara,Utah Royals,recovery,2nd half,10.3,62.2,null
+496,3384,81:17,81:37,Lindsey Michelle Horan,Portland Thorns,dribble,2nd half,69.1,25.8,1
+497,3405,81:40,82:00,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,71.1,66.5,0
+498,3406,81:40,82:00,Kate Elizabeth Bowen,Utah Royals,challenge,2nd half,33.9,1.5,1
+499,3407,81:40,82:00,Kate Elizabeth Bowen,Utah Royals,tackle,2nd half,33.9,1.5,1
+500,3408,81:40,82:00,Meghan Elizabeth Klingenberg,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,71.1,66.5,null
+501,3409,81:42,82:02,Amy Joy Rodriguez Shilling,Utah Royals,recovery,2nd half,30.3,5.4,null
+502,3411,81:46,82:06,Caitlin Jade Foord,Portland Thorns,foul,2nd half,86.6,58.2,null
+503,3425,82:45,83:05,Christen Annemarie Press,Utah Royals,dribble,2nd half,96.4,61.8,1
+504,3432,82:52,83:12,Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,12.9,23.1,null
+505,3449,83:03,83:23,Rachel Louise Corsie,Utah Royals,recovery,2nd half,53.2,19.6,null
+506,3458,83:09,83:29,Veronica Boquete,Utah Royals,dribble,2nd half,69.1,47.4,1
+507,3460,83:12,83:32,Veronica Boquete,Utah Royals,take_on,2nd half,74.4,45.7,1
+508,3461,83:12,83:32,Christine Margaret Sinclair,Portland Thorns,tackle,2nd half,30.6,22.3,0
+509,3462,83:12,83:32,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,30.6,22.3,0
+510,3477,83:46,84:06,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,58.5,63.0,0
+511,3478,83:46,84:06,Kate Elizabeth Bowen,Utah Royals,challenge,2nd half,46.5,5.0,1
+512,3479,83:46,84:06,Kate Elizabeth Bowen,Utah Royals,tackle,2nd half,46.5,5.0,1
+513,3481,83:47,84:07,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,56.7,61.8,1
+514,3482,83:47,84:07,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,48.3,6.2,0
+515,3490,83:51,84:11,Desiree Rose Marie Scott,Utah Royals,challenge,2nd half,38.0,19.5,0
+516,3491,83:51,84:11,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,67.0,48.5,1
+517,3493,83:52,84:12,Christine Margaret Sinclair,Portland Thorns,dribble,2nd half,72.8,32.0,1
+518,3495,83:54,84:14,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,25.2,41.6,0
+519,3496,83:54,84:14,Christine Margaret Sinclair,Portland Thorns,take_on,2nd half,79.8,26.4,1
+520,3497,83:54,84:14,Gunnhildur Yrsa Jonsdottir,Utah Royals,tackle,2nd half,25.2,41.6,0
+521,3501,83:58,84:18,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,2nd half,84.9,50.3,1
+522,3502,83:59,84:19,Meghan Elizabeth Klingenberg,Portland Thorns,take_on,2nd half,85.8,47.2,1
+523,3503,83:59,84:19,Kate Elizabeth Bowen,Utah Royals,challenge,2nd half,19.2,20.8,0
+524,3504,83:59,84:19,Kate Elizabeth Bowen,Utah Royals,tackle,2nd half,19.2,20.8,0
+525,3526,84:35,84:55,Kelley Maureen O'Hara,Utah Royals,challenge,2nd half,41.0,64.3,1
+526,3527,84:35,84:55,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,64.0,3.7,0
+527,3533,84:36,84:56,Emily Townsend Menges,Portland Thorns,recovery,2nd half,43.6,6.4,null
+528,3538,84:40,85:00,Becky Sauerbrunn,Utah Royals,recovery,2nd half,35.3,64.3,null
+529,3555,85:01,85:21,Katherine Nicole Stengel,Utah Royals,dribble,2nd half,57.0,50.5,1
+530,3574,85:17,85:37,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,10.5,15.6,null
+531,3585,85:24,85:44,Katherine Nicole Stengel,Utah Royals,challenge,2nd half,96.8,22.3,0
+532,3587,85:24,85:44,Meghan Elizabeth Klingenberg,Portland Thorns,tackle,2nd half,8.2,45.7,1
+533,3588,85:24,85:44,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,8.2,45.7,1
+534,3590,85:26,85:46,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,2nd half,10.0,48.7,1
+535,3593,85:35,85:55,Rachel Louise Corsie,Utah Royals,challenge,2nd half,46.5,6.9,0
+536,3595,85:35,85:55,Hayley Emma Raso,Portland Thorns,challenge,2nd half,58.5,61.1,1
+537,3597,85:35,85:55,Rachel Louise Corsie,Utah Royals,foul,2nd half,46.4,5.2,null
+538,3607,86:17,86:37,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,90.5,39.7,1
+539,3609,86:17,86:37,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,14.5,28.3,0
+540,3669,89:31,89:51,Katherine Reynolds,Portland Thorns,challenge,2nd half,13.7,37.4,1
+541,3670,89:31,89:51,Rachel Louise Corsie,Utah Royals,challenge,2nd half,91.3,30.6,0
+542,3674,89:33,89:53,Emily Townsend Menges,Portland Thorns,recovery,2nd half,12.1,21.0,null
+543,3677,89:35,89:55,Kelley Maureen O'Hara,Utah Royals,recovery,2nd half,77.7,56.6,null
+544,3690,89:40,90:00,Rachel Louise Corsie,Utah Royals,challenge,2nd half,97.8,26.8,1
+545,3691,89:40,90:00,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,7.2,41.2,0
+546,3707,91:02,91:22,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,60.2,13.1,null
+547,3709,91:04,91:24,Desiree Rose Marie Scott,Utah Royals,dribble,2nd half,60.0,11.0,1
+548,3725,91:13,91:33,Katherine Reynolds,Portland Thorns,recovery,2nd half,10.8,42.6,null
+549,3736,91:34,91:54,Kelley Maureen O'Hara,Utah Royals,recovery,2nd half,79.3,53.4,null
+550,3743,91:38,91:58,Gunnhildur Yrsa Jonsdottir,Utah Royals,challenge,2nd half,92.1,32.6,0
+551,3745,91:38,91:58,Gabrielle Seiler,Portland Thorns,challenge,2nd half,12.9,35.4,1
+552,3749,91:41,92:01,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,27.7,43.9,0
+553,3750,91:41,92:01,Veronica Boquete,Utah Royals,challenge,2nd half,77.3,24.1,1
+554,3757,91:46,92:06,Veronica Boquete,Utah Royals,dribble,2nd half,66.3,25.4,1
+555,3759,91:48,92:08,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,37.1,44.7,0
+556,3760,91:48,92:08,Veronica Boquete,Utah Royals,take_on,2nd half,67.9,23.3,1
+557,3761,91:48,92:08,Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,37.1,44.7,0
+558,3774,91:58,92:18,Adrianna Nichole Franch,Portland Thorns,save,2nd half,5.2,43.3,null
+559,3782,92:00,92:20,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,12.6,29.5,null
+560,3787,92:06,92:26,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,62.8,11.9,null
+561,3806,92:21,92:41,Emily Townsend Menges,Portland Thorns,recovery,2nd half,18.7,31.4,null
+562,3808,92:24,92:44,Veronica Boquete,Utah Royals,challenge,2nd half,76.7,33.7,1
+563,3809,92:24,92:44,Veronica Boquete,Utah Royals,tackle,2nd half,76.7,33.7,1
+564,3811,92:24,92:44,Gabrielle Seiler,Portland Thorns,challenge,2nd half,28.3,34.3,0
+565,3815,92:25,92:45,Kate Elizabeth Bowen,Utah Royals,recovery,2nd half,73.2,25.8,null
+566,3826,92:31,92:51,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,1.8,47.0,null
+567,3836,93:02,93:22,Christen Annemarie Press,Utah Royals,dribble,2nd half,80.5,65.5,1
+568,3840,93:02,93:22,Christen Annemarie Press,Utah Royals,recovery,2nd half,80.5,65.5,null
+569,3847,93:16,93:36,Katherine Reynolds,Portland Thorns,challenge,2nd half,12.8,37.2,1
+570,3848,93:16,93:36,Amy Joy Rodriguez Shilling,Utah Royals,challenge,2nd half,92.2,30.8,0
+571,3853,93:17,93:37,Katherine Nicole Stengel,Utah Royals,recovery,2nd half,91.5,37.4,null
+572,3860,93:18,93:38,Adrianna Nichole Franch,Portland Thorns,save,2nd half,13.7,32.6,null
+573,3864,93:22,93:42,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,8.4,16.0,null
+574,3883,94:12,94:32,Kate Elizabeth Bowen,Utah Royals,recovery,2nd half,28.0,2.7,null
+575,3894,94:21,94:41,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,15.2,37.0,null
+576,3902,94:28,94:48,Rachel Louise Corsie,Utah Royals,recovery,2nd half,35.0,17.3,null
+577,3904,94:29,94:49,Rachel Louise Corsie,Utah Royals,challenge,2nd half,37.6,16.4,0
+578,3905,94:29,94:49,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,67.4,51.6,1
+579,3908,94:30,94:50,Christine Margaret Sinclair,Portland Thorns,dribble,2nd half,68.2,55.3,1
+580,3909,94:30,94:50,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,68.2,55.3,null
+581,3930,94:44,95:04,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,60.7,59.9,null
+582,3945,95:05,95:25,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,14.0,48.7,null
+583,3950,95:13,95:33,Rachel Louise Corsie,Utah Royals,challenge,2nd half,34.7,14.1,1
+584,3951,95:13,95:33,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,70.3,53.9,0
+585,3958,95:24,95:44,Desiree Rose Marie Scott,Utah Royals,recovery,2nd half,38.8,13.3,null
