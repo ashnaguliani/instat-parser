@@ -1,679 +1,679 @@
-,raw_event_ID,start_time,end_time,player_ID,team,action,half,pos_x,pos_y,successful
-0,0,0:00,0:16,Lauren Kate Barnes,OL Reign,dribble,1st half,29.6,49.1,1
-1,9,0:01,0:21,Megan Anna Rapinoe,OL Reign,dribble,1st half,64.1,58.2,1
-2,13,0:04,0:24,Margaret Purce,Portland Thorns,tackle,1st half,28.3,11.3,0
-3,14,0:04,0:24,Megan Anna Rapinoe,OL Reign,take_on,1st half,76.7,56.7,1
-4,15,0:04,0:24,Margaret Purce,Portland Thorns,challenge,1st half,28.3,11.3,0
-5,33,0:20,0:40,Caitlin Jade Foord,Portland Thorns,challenge,1st half,56.1,29.0,0
-6,35,0:20,0:40,Rumi Utsugi,OL Reign,challenge,1st half,48.9,39.0,1
-7,38,0:21,0:41,Alexandra Linsley Long Batista,OL Reign,recovery,1st half,44.3,35.9,null
-8,39,0:24,0:44,Caitlin Jade Foord,Portland Thorns,foul,1st half,70.1,23.9,null
-9,79,1:20,1:40,Tobin Powell Powell Heath,Portland Thorns,foul,1st half,21.0,27.5,null
-10,85,2:06,2:26,Rumi Utsugi,OL Reign,recovery,1st half,79.6,36.6,null
-11,95,2:08,2:28,Caitlin Jade Foord,Portland Thorns,recovery,1st half,18.7,19.9,null
-12,99,2:11,2:31,Lauren Kate Barnes,OL Reign,recovery,1st half,54.8,48.4,null
-13,115,2:52,3:12,Celeste Anais Boureille,Portland Thorns,recovery,1st half,47.9,46.9,null
-14,117,2:55,3:15,Celeste Anais Boureille,Portland Thorns,challenge,1st half,50.2,37.6,1
-15,118,2:55,3:15,Jessica Anne Fishlock,OL Reign,challenge,1st half,54.8,30.4,0
-16,122,2:57,3:17,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,48.3,40.0,null
-17,129,2:58,3:18,Rumi Utsugi,OL Reign,recovery,1st half,49.3,36.2,null
-18,166,3:54,4:14,Christine Margaret Sinclair,Portland Thorns,recovery,1st half,12.0,62.7,null
-19,174,4:22,4:42,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,53.1,10.8,0
-20,175,4:22,4:42,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,51.9,57.2,1
-21,176,4:23,4:43,Alexandra Linsley Long Batista,OL Reign,foul,1st half,53.3,11.0,null
-22,187,4:57,5:17,Celeste Anais Boureille,Portland Thorns,recovery,1st half,63.6,21.8,null
-23,209,5:21,5:41,Emily Ann Sonnett,Portland Thorns,challenge,1st half,60.5,59.4,1
-24,210,5:21,5:41,Jessica Anne Fishlock,OL Reign,challenge,1st half,44.5,8.6,0
-25,215,5:23,5:43,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,62.2,67.0,null
-26,238,6:08,6:28,Rumi Utsugi,OL Reign,recovery,1st half,50.4,54.8,null
-27,242,6:11,6:31,Emily Townsend Menges,Portland Thorns,challenge,1st half,26.5,31.8,1
-28,243,6:11,6:31,Jasmyne Spencer,OL Reign,challenge,1st half,78.5,36.2,0
-29,249,6:16,6:36,Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,45.2,61.8,1
-30,252,6:18,6:38,Theresa Eslund,OL Reign,challenge,1st half,48.9,1.4,0
-31,254,6:18,6:38,Tobin Powell Powell Heath,Portland Thorns,take_on,1st half,56.1,66.6,1
-32,255,6:18,6:38,Theresa Eslund,OL Reign,tackle,1st half,48.9,1.4,0
-33,257,6:18,6:38,Theresa Eslund,OL Reign,foul,1st half,49.1,1.9,null
-34,263,7:01,7:21,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,17.4,33.3,1
-35,265,7:01,7:21,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,87.6,34.7,0
-36,268,7:02,7:22,Stephanie-Elise Catley,OL Reign,recovery,1st half,16.8,29.2,null
-37,275,7:05,7:25,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,73.1,47.9,null
-38,277,7:07,7:27,Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,74.8,57.7,1
-39,279,7:08,7:28,Theresa Eslund,OL Reign,challenge,1st half,23.7,7.9,0
-40,280,7:08,7:28,Theresa Eslund,OL Reign,tackle,1st half,23.7,7.9,0
-41,282,7:08,7:28,Tobin Powell Powell Heath,Portland Thorns,take_on,1st half,81.3,60.1,1
-42,303,7:19,7:39,Theresa Eslund,OL Reign,recovery,1st half,8.4,18.9,null
-43,314,7:33,7:53,Lydia Grace Yilkari Williams,OL Reign,save,1st half,14.7,20.1,null
-44,320,7:55,8:15,Lauren Kate Barnes,OL Reign,challenge,1st half,28.8,63.2,1
-45,321,7:55,8:15,Caitlin Jade Foord,Portland Thorns,challenge,1st half,76.2,4.8,0
-46,322,7:55,8:15,Caitlin Jade Foord,Portland Thorns,foul,1st half,77.1,4.5,null
-47,352,8:48,9:08,Megan Anna Rapinoe,OL Reign,foul,1st half,75.2,65.8,null
-48,379,9:41,10:01,Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,71.4,23.0,0
-49,380,9:41,10:01,Megan Leigh Oyster,OL Reign,challenge,1st half,33.6,45.0,1
-50,386,9:48,10:08,Jasmyne Spencer,OL Reign,dribble,1st half,48.3,21.3,1
-51,389,9:53,10:13,Jasmyne Spencer,OL Reign,challenge,1st half,67.0,33.5,0
-52,390,9:53,10:13,Celeste Anais Boureille,Portland Thorns,challenge,1st half,38.0,34.5,1
-53,391,9:53,10:13,Celeste Anais Boureille,Portland Thorns,tackle,1st half,38.0,34.5,1
-54,393,9:54,10:14,Christine Margaret Sinclair,Portland Thorns,recovery,1st half,41.8,34.5,null
-55,398,9:57,10:17,Caitlin Jade Foord,Portland Thorns,dribble,1st half,46.0,49.3,1
-56,405,10:03,10:23,Megan Leigh Oyster,OL Reign,recovery,1st half,15.5,22.3,null
-57,409,10:06,10:26,Theresa Eslund,OL Reign,challenge,1st half,26.2,5.5,1
-58,411,10:06,10:26,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,78.8,62.5,0
-59,415,10:11,10:31,Jasmyne Spencer,OL Reign,take_on,1st half,45.4,5.5,1
-60,416,10:11,10:31,Celeste Anais Boureille,Portland Thorns,challenge,1st half,59.6,62.5,0
-61,417,10:11,10:31,Celeste Anais Boureille,Portland Thorns,tackle,1st half,59.6,62.5,0
-62,418,10:12,10:32,Celeste Anais Boureille,Portland Thorns,foul,1st half,58.8,62.7,null
-63,427,10:39,10:59,Jasmyne Spencer,OL Reign,challenge,1st half,81.5,5.7,0
-64,428,10:39,10:59,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,23.5,62.3,1
-65,429,10:41,11:01,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,1st half,27.5,63.0,1
-66,432,10:45,11:05,Megan Leigh Oyster,OL Reign,recovery,1st half,46.6,5.0,null
-67,449,11:07,11:27,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,8.0,52.9,1
-68,451,11:07,11:27,Jasmyne Spencer,OL Reign,challenge,1st half,97.0,15.1,0
-69,459,11:52,12:12,Rumi Utsugi,OL Reign,recovery,1st half,86.9,35.9,null
-70,466,11:56,12:16,Lauren Kate Barnes,OL Reign,recovery,1st half,57.8,33.3,null
-71,472,12:01,12:21,Jessica Anne Fishlock,OL Reign,Dribbles (Unsuccessful actions),1st half,97.0,1.9,null
-72,473,12:01,12:21,Jessica Anne Fishlock,OL Reign,challenge,1st half,97.0,1.9,0
-73,474,12:01,12:21,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,8.0,66.1,1
-74,475,12:01,12:21,Meghan Elizabeth Klingenberg,Portland Thorns,tackle,1st half,8.0,66.1,1
-75,483,12:13,12:33,Megan Leigh Oyster,OL Reign,recovery,1st half,74.6,1.0,null
-76,487,12:17,12:37,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,88.6,0.7,0
-77,489,12:17,12:37,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,16.4,67.3,1
-78,491,12:17,12:37,Lindsey Michelle Horan,Portland Thorns,tackle,1st half,16.4,67.3,1
-79,492,12:17,12:37,Alexandra Linsley Long Batista,OL Reign,Dribbles (Unsuccessful actions),1st half,88.6,0.7,null
-80,493,12:19,12:39,Alexandra Linsley Long Batista,OL Reign,foul,1st half,86.7,2.4,null
-81,506,13:08,13:28,Emily Ann Sonnett,Portland Thorns,recovery,1st half,35.1,51.0,null
-82,512,13:15,13:35,Stephanie-Elise Catley,OL Reign,recovery,1st half,47.0,53.4,null
-83,521,13:38,13:58,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,54.4,6.9,0
-84,522,13:38,13:58,Rumi Utsugi,OL Reign,challenge,1st half,50.6,61.1,1
-85,526,13:40,14:00,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,49.8,11.7,null
-86,529,13:41,14:01,Stephanie-Elise Catley,OL Reign,recovery,1st half,42.6,60.3,null
-87,551,13:59,14:19,Adrianna Nichole Franch,Portland Thorns,recovery,1st half,5.7,35.9,null
-88,554,14:03,14:23,Lindsey Michelle Horan,Portland Thorns,take_on,1st half,26.5,51.5,1
-89,555,14:03,14:23,Jessica Anne Fishlock,OL Reign,tackle,1st half,78.5,16.5,0
-90,556,14:03,14:23,Jessica Anne Fishlock,OL Reign,challenge,1st half,78.5,16.5,0
-91,557,14:03,14:23,Jessica Anne Fishlock,OL Reign,foul,1st half,78.8,16.8,null
-92,566,14:44,15:04,Jessica Anne Fishlock,OL Reign,challenge,1st half,39.1,17.5,0
-93,571,14:44,15:04,Celeste Anais Boureille,Portland Thorns,challenge,1st half,65.9,50.5,1
-94,573,14:46,15:06,Theresa Eslund,OL Reign,recovery,1st half,30.7,16.8,null
-95,576,14:49,15:09,Emily Townsend Menges,Portland Thorns,challenge,1st half,32.5,55.1,1
-96,577,14:49,15:09,Jodie Lee Taylor,OL Reign,challenge,1st half,72.5,12.9,0
-97,585,14:54,15:14,Megan Anna Rapinoe,OL Reign,recovery,1st half,83.4,39.0,null
-98,600,15:09,15:29,Christine Margaret Sinclair,Portland Thorns,recovery,1st half,31.9,19.6,null
-99,601,15:09,15:29,Christine Margaret Sinclair,Portland Thorns,dribble,1st half,31.5,19.6,1
-100,605,15:18,15:38,Megan Leigh Oyster,OL Reign,recovery,1st half,11.6,57.7,null
-101,612,15:52,16:12,Lauren Kate Barnes,OL Reign,challenge,1st half,6.9,45.0,0
-102,613,15:52,16:12,Margaret Purce,Portland Thorns,challenge,1st half,98.1,23.0,1
-103,630,16:28,16:48,Celeste Anais Boureille,Portland Thorns,challenge,1st half,101.0,25.9,0
-104,631,16:28,16:48,Jodie Lee Taylor,OL Reign,challenge,1st half,4.0,42.1,1
-105,644,16:55,17:15,Lydia Grace Yilkari Williams,OL Reign,save,1st half,5.5,41.2,null
-106,647,16:55,17:15,Caitlin Jade Foord,Portland Thorns,recovery,1st half,99.5,26.8,null
-107,657,16:57,17:17,Lydia Grace Yilkari Williams,OL Reign,save,1st half,6.7,38.8,null
-108,662,16:57,17:17,Margaret Purce,Portland Thorns,recovery,1st half,98.3,29.2,null
-109,666,16:59,17:19,Tobin Powell Powell Heath,Portland Thorns,recovery,1st half,91.6,31.8,null
-110,675,17:02,17:22,Margaret Purce,Portland Thorns,challenge,1st half,100.6,34.7,0
-111,676,17:02,17:22,Lauren Kate Barnes,OL Reign,challenge,1st half,4.4,33.3,1
-112,680,17:04,17:24,Rumi Utsugi,OL Reign,recovery,1st half,7.6,30.4,null
-113,682,17:06,17:26,Jessica Anne Fishlock,OL Reign,challenge,1st half,8.8,16.3,0
-114,683,17:06,17:26,Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,96.2,51.7,1
-115,685,17:06,17:26,Tobin Powell Powell Heath,Portland Thorns,tackle,1st half,96.2,51.7,1
-116,686,17:06,17:26,Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,96.2,51.7,1
-117,688,17:14,17:34,Theresa Eslund,OL Reign,challenge,1st half,0.8,2.9,1
-118,690,17:14,17:34,Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),1st half,104.2,65.1,null
-119,691,17:14,17:34,Theresa Eslund,OL Reign,tackle,1st half,0.8,2.9,1
-120,692,17:14,17:34,Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,104.2,65.1,0
-121,701,17:42,18:02,Jasmyne Spencer,OL Reign,recovery,1st half,18.1,21.8,null
-122,702,17:42,18:02,Jasmyne Spencer,OL Reign,challenge,1st half,18.1,21.8,0
-123,703,17:42,18:02,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,86.9,46.2,1
-124,704,17:42,18:02,Jasmyne Spencer,OL Reign,Dribbles (Unsuccessful actions),1st half,18.1,21.8,null
-125,705,17:42,18:02,Meghan Elizabeth Klingenberg,Portland Thorns,tackle,1st half,86.9,46.2,1
-126,711,17:49,18:09,Tobin Powell Powell Heath,Portland Thorns,dribble,1st half,73.1,67.3,1
-127,716,17:57,18:17,Celeste Anais Boureille,Portland Thorns,dribble,1st half,92.2,59.9,1
-128,727,18:32,18:52,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,88.8,18.9,null
-129,729,18:35,18:55,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,86.9,17.2,0
-130,730,18:35,18:55,Megan Leigh Oyster,OL Reign,tackle,1st half,18.1,50.8,1
-131,731,18:35,18:55,Megan Leigh Oyster,OL Reign,challenge,1st half,18.1,50.8,1
-132,739,18:56,19:16,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,100.6,21.5,1
-133,741,18:56,19:16,Stephanie-Elise Catley,OL Reign,challenge,1st half,4.4,46.5,0
-134,745,18:58,19:18,Megan Anna Rapinoe,OL Reign,recovery,1st half,13.0,50.3,null
-135,750,19:00,19:20,Rumi Utsugi,OL Reign,challenge,1st half,14.1,43.1,1
-136,751,19:00,19:20,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,90.9,24.9,0
-137,755,19:02,19:22,Megan Leigh Oyster,OL Reign,recovery,1st half,14.9,31.4,null
-138,762,19:05,19:25,Emily Townsend Menges,Portland Thorns,recovery,1st half,55.0,38.5,null
-139,763,19:06,19:26,Jasmyne Spencer,OL Reign,recovery,1st half,34.0,21.8,null
-140,765,19:06,19:26,Jasmyne Spencer,OL Reign,dribble,1st half,34.0,21.8,1
-141,773,19:15,19:35,Stephanie-Elise Catley,OL Reign,dribble,1st half,60.5,57.5,1
-142,779,19:20,19:40,Stephanie-Elise Catley,OL Reign,dribble,1st half,87.8,59.9,1
-143,786,19:27,19:47,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,6.1,40.7,null
-144,789,19:30,19:50,Alexandra Linsley Long Batista,OL Reign,recovery,1st half,69.5,11.5,null
-145,798,19:35,19:55,Jessica Anne Fishlock,OL Reign,challenge,1st half,92.2,40.5,1
-146,800,19:35,19:55,Emily Ann Sonnett,Portland Thorns,challenge,1st half,12.8,27.5,0
-147,810,19:41,20:01,Margaret Purce,Portland Thorns,recovery,1st half,26.5,3.4,null
-148,843,20:48,21:08,Megan Anna Rapinoe,OL Reign,challenge,1st half,79.0,61.5,0
-149,844,20:48,21:08,Ellie Madison Carpenter,Portland Thorns,tackle,1st half,26.0,6.5,1
-150,845,20:48,21:08,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,26.0,6.5,1
-151,878,21:43,22:03,Alexandra Linsley Long Batista,OL Reign,recovery,1st half,80.0,33.3,null
-152,880,21:43,22:03,Tobin Powell Powell Heath,Portland Thorns,tackle,1st half,20.6,34.5,1
-153,882,21:43,22:03,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,84.4,33.5,0
-154,883,21:43,22:03,Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,20.6,34.5,1
-155,887,21:46,22:06,Celeste Anais Boureille,Portland Thorns,recovery,1st half,19.7,22.0,null
-156,888,21:47,22:07,Margaret Purce,Portland Thorns,challenge,1st half,27.5,6.5,0
-157,890,21:47,22:07,Stephanie-Elise Catley,OL Reign,challenge,1st half,77.5,61.5,1
-158,891,21:47,22:07,Stephanie-Elise Catley,OL Reign,tackle,1st half,77.5,61.5,1
-159,892,21:47,22:07,Margaret Purce,Portland Thorns,Dribbles (Unsuccessful actions),1st half,27.5,6.5,null
-160,893,21:51,22:11,Stephanie-Elise Catley,OL Reign,recovery,1st half,98.1,67.0,null
-161,898,21:53,22:13,Stephanie-Elise Catley,OL Reign,challenge,1st half,96.6,62.5,0
-162,899,21:53,22:13,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,8.4,5.5,1
-163,900,21:53,22:13,Stephanie-Elise Catley,OL Reign,Dribbles (Unsuccessful actions),1st half,96.6,62.5,null
-164,901,21:53,22:13,Ellie Madison Carpenter,Portland Thorns,tackle,1st half,8.4,5.5,1
-165,903,21:54,22:14,Celeste Anais Boureille,Portland Thorns,recovery,1st half,10.9,12.5,null
-166,908,21:59,22:19,Lauren Kate Barnes,OL Reign,recovery,1st half,66.8,63.2,null
-167,919,22:22,22:42,Alexandra Linsley Long Batista,OL Reign,dribble,1st half,47.7,50.3,1
-168,930,22:36,22:56,Lauren Kate Barnes,OL Reign,dribble,1st half,40.3,47.4,1
-169,940,22:48,23:08,Celeste Anais Boureille,Portland Thorns,recovery,1st half,25.6,24.2,null
-170,947,23:16,23:36,Jasmyne Spencer,OL Reign,challenge,1st half,86.7,6.5,0
-171,949,23:16,23:36,Emily Townsend Menges,Portland Thorns,challenge,1st half,18.3,61.5,1
-172,951,23:16,23:36,Emily Townsend Menges,Portland Thorns,tackle,1st half,18.3,61.5,1
-173,952,23:16,23:36,Jasmyne Spencer,OL Reign,Dribbles (Unsuccessful actions),1st half,86.7,6.5,null
-174,953,23:18,23:38,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,6.3,63.9,1
-175,954,23:18,23:38,Jasmyne Spencer,OL Reign,challenge,1st half,98.7,4.1,0
-176,958,23:26,23:46,Megan Leigh Oyster,OL Reign,challenge,1st half,45.2,59.4,0
-177,960,23:26,23:46,Caitlin Jade Foord,Portland Thorns,challenge,1st half,59.8,8.6,1
-178,962,23:27,23:47,Alexandra Linsley Long Batista,OL Reign,recovery,1st half,63.0,9.1,null
-179,969,23:31,23:51,Lauren Kate Barnes,OL Reign,recovery,1st half,44.3,12.2,null
-180,971,23:31,23:51,Christine Margaret Sinclair,Portland Thorns,foul,1st half,60.7,53.6,null
-181,983,24:25,24:45,Stephanie-Elise Catley,OL Reign,recovery,1st half,75.6,64.2,null
-182,985,24:26,24:46,Megan Anna Rapinoe,OL Reign,dribble,1st half,83.6,60.3,1
-183,1048,26:26,26:46,Emily Ann Sonnett,Portland Thorns,foul,1st half,7.3,11.0,null
-184,1059,27:51,28:11,Jasmyne Spencer,OL Reign,recovery,1st half,101.6,28.0,null
-185,1074,29:15,29:35,Margaret Purce,Portland Thorns,dribble,1st half,72.0,3.6,1
-186,1075,29:15,29:35,Margaret Purce,Portland Thorns,recovery,1st half,72.0,3.6,null
-187,1076,29:17,29:37,Rumi Utsugi,OL Reign,tackle,1st half,28.6,64.9,0
-188,1077,29:17,29:37,Margaret Purce,Portland Thorns,take_on,1st half,76.4,3.1,1
-189,1078,29:17,29:37,Rumi Utsugi,OL Reign,challenge,1st half,28.6,64.9,0
-190,1091,29:22,29:42,Jessica Anne Fishlock,OL Reign,dribble,1st half,22.5,46.0,1
-191,1095,29:28,29:48,Jodie Lee Taylor,OL Reign,challenge,1st half,49.1,44.3,0
-192,1097,29:28,29:48,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,55.9,23.7,1
-193,1098,29:28,29:48,Lindsey Michelle Horan,Portland Thorns,tackle,1st half,55.9,23.7,1
-194,1099,29:28,29:48,Jodie Lee Taylor,OL Reign,Dribbles (Unsuccessful actions),1st half,49.1,44.3,null
-195,1100,29:30,29:50,Emily Ann Sonnett,Portland Thorns,recovery,1st half,51.2,27.5,null
-196,1103,29:30,29:50,Jessica Anne Fishlock,OL Reign,challenge,1st half,53.8,40.5,0
-197,1104,29:30,29:50,Jessica Anne Fishlock,OL Reign,tackle,1st half,53.8,40.5,0
-198,1105,29:30,29:50,Emily Ann Sonnett,Portland Thorns,take_on,1st half,51.2,27.5,1
-199,1107,29:33,29:53,Emily Ann Sonnett,Portland Thorns,challenge,1st half,55.4,39.0,0
-200,1108,29:33,29:53,Jasmyne Spencer,OL Reign,challenge,1st half,49.6,29.0,1
-201,1109,29:33,29:53,Jasmyne Spencer,OL Reign,tackle,1st half,49.6,29.0,1
-202,1111,29:35,29:55,Megan Leigh Oyster,OL Reign,recovery,1st half,38.0,24.7,null
-203,1129,29:46,30:06,Celeste Anais Boureille,Portland Thorns,recovery,1st half,53.8,17.5,null
-204,1132,29:48,30:08,Stephanie-Elise Catley,OL Reign,challenge,1st half,33.6,59.1,1
-205,1133,29:48,30:08,Margaret Purce,Portland Thorns,challenge,1st half,71.4,8.9,0
-206,1134,29:48,30:08,Stephanie-Elise Catley,OL Reign,tackle,1st half,33.6,59.1,1
-207,1138,29:50,30:10,Rumi Utsugi,OL Reign,recovery,1st half,39.1,52.0,null
-208,1142,29:53,30:13,Jessica Anne Fishlock,OL Reign,take_on,1st half,48.5,49.6,1
-209,1145,29:53,30:13,Jessica Anne Fishlock,OL Reign,dribble,1st half,48.5,49.6,1
-210,1146,29:53,30:13,Celeste Anais Boureille,Portland Thorns,challenge,1st half,56.5,18.4,0
-211,1147,29:53,30:13,Celeste Anais Boureille,Portland Thorns,tackle,1st half,56.5,18.4,0
-212,1151,29:59,30:19,Megan Anna Rapinoe,OL Reign,dribble,1st half,96.8,55.5,1
-213,1161,30:06,30:26,Jodie Lee Taylor,OL Reign,recovery,1st half,97.9,35.4,null
-214,1162,30:07,30:27,Jodie Lee Taylor,OL Reign,challenge,1st half,96.4,35.9,0
-215,1164,30:07,30:27,Celeste Anais Boureille,Portland Thorns,challenge,1st half,8.6,32.1,1
-216,1165,30:07,30:27,Celeste Anais Boureille,Portland Thorns,tackle,1st half,8.6,32.1,1
-217,1168,30:09,30:29,Alexandra Linsley Long Batista,OL Reign,recovery,1st half,73.5,30.4,null
-218,1172,30:12,30:32,Adrianna Nichole Franch,Portland Thorns,save,1st half,26.9,41.9,null
-219,1181,30:23,30:43,Jasmyne Spencer,OL Reign,challenge,1st half,63.8,1.2,0
-220,1182,30:23,30:43,Tobin Powell Powell Heath,Portland Thorns,tackle,1st half,41.2,66.8,1
-221,1183,30:23,30:43,Jasmyne Spencer,OL Reign,Dribbles (Unsuccessful actions),1st half,63.8,1.2,null
-222,1184,30:23,30:43,Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,41.2,66.8,1
-223,1234,31:55,32:15,Adrianna Nichole Franch,Portland Thorns,save,1st half,20.4,25.9,null
-224,1240,31:55,32:15,Jodie Lee Taylor,OL Reign,recovery,1st half,84.6,42.1,null
-225,1248,32:43,33:03,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,100.8,34.2,0
-226,1249,32:43,33:03,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,4.2,33.8,1
-227,1252,32:43,33:03,Megan Anna Rapinoe,OL Reign,recovery,1st half,99.1,40.2,null
-228,1258,32:47,33:07,Tobin Powell Powell Heath,Portland Thorns,recovery,1st half,4.6,48.4,null
-229,1264,33:03,33:23,Theresa Eslund,OL Reign,challenge,1st half,70.1,11.0,1
-230,1265,33:03,33:23,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,34.9,57.0,0
-231,1268,33:06,33:26,Rumi Utsugi,OL Reign,challenge,1st half,56.3,21.1,0
-232,1269,33:06,33:26,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,48.7,46.9,1
-233,1272,33:06,33:26,Christine Margaret Sinclair,Portland Thorns,dribble,1st half,50.2,45.5,1
-234,1295,33:31,33:51,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,5.9,39.0,0
-235,1296,33:31,33:51,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,99.1,29.0,1
-236,1301,34:06,34:26,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,55.7,17.7,1
-237,1302,34:06,34:26,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,49.3,50.3,0
-238,1307,34:07,34:27,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,49.8,11.7,null
-239,1323,34:39,34:59,Jodie Lee Taylor,OL Reign,challenge,1st half,38.4,66.1,1
-240,1324,34:39,34:59,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,66.6,1.9,0
-241,1327,34:45,35:05,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,48.7,45.5,null
-242,1333,34:57,35:17,Lydia Grace Yilkari Williams,OL Reign,recovery,1st half,7.3,30.9,null
-243,1340,35:17,35:37,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,39.7,17.7,0
-244,1341,35:17,35:37,Megan Anna Rapinoe,OL Reign,challenge,1st half,65.3,50.3,1
-245,1344,35:19,35:39,Jodie Lee Taylor,OL Reign,Dribbles (Unsuccessful actions),1st half,80.0,52.9,null
-246,1345,35:19,35:39,Jodie Lee Taylor,OL Reign,challenge,1st half,80.0,52.9,0
-247,1346,35:19,35:39,Emily Ann Sonnett,Portland Thorns,tackle,1st half,25.0,15.1,1
-248,1347,35:19,35:39,Emily Ann Sonnett,Portland Thorns,challenge,1st half,25.0,15.1,1
-249,1352,35:41,36:01,Stephanie-Elise Catley,OL Reign,recovery,1st half,76.7,63.7,null
-250,1356,35:43,36:03,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,71.8,61.5,1
-251,1357,35:43,36:03,Caitlin Jade Foord,Portland Thorns,challenge,1st half,33.2,6.5,0
-252,1391,36:16,36:36,Jodie Lee Taylor,OL Reign,recovery,1st half,94.7,32.3,null
-253,1397,36:17,36:37,Adrianna Nichole Franch,Portland Thorns,save,1st half,9.2,34.0,null
-254,1410,36:51,37:11,Megan Leigh Oyster,OL Reign,challenge,1st half,101.8,34.0,0
-255,1412,36:51,37:11,Adrianna Nichole Franch,Portland Thorns,challenge,1st half,3.2,34.0,1
-256,1415,36:51,37:11,Megan Leigh Oyster,OL Reign,foul,1st half,101.4,33.8,null
-257,1420,37:12,37:32,Jasmyne Spencer,OL Reign,challenge,1st half,56.3,6.9,0
-258,1421,37:12,37:32,Lindsey Michelle Horan,Portland Thorns,challenge,1st half,48.7,61.1,1
-259,1423,37:14,37:34,Tobin Powell Powell Heath,Portland Thorns,recovery,1st half,55.0,66.3,null
-260,1437,37:23,37:43,Lauren Kate Barnes,OL Reign,recovery,1st half,34.2,17.2,null
-261,1455,37:39,37:59,Jessica Anne Fishlock,OL Reign,dribble,1st half,65.3,50.0,1
-262,1457,37:41,38:01,Jessica Anne Fishlock,OL Reign,take_on,1st half,70.1,56.3,1
-263,1459,37:41,38:01,Celeste Anais Boureille,Portland Thorns,challenge,1st half,34.9,11.7,0
-264,1460,37:41,38:01,Celeste Anais Boureille,Portland Thorns,tackle,1st half,34.9,11.7,0
-265,1474,37:52,38:12,Jasmyne Spencer,OL Reign,recovery,1st half,87.2,23.5,null
-266,1488,37:56,38:16,Adrianna Nichole Franch,Portland Thorns,save,1st half,3.4,30.9,null
-267,1496,37:59,38:19,Ellie Madison Carpenter,Portland Thorns,recovery,1st half,1.0,18.9,null
-268,1519,38:46,39:06,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,30.2,55.3,1
-269,1524,38:46,39:06,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,74.8,12.7,0
-270,1542,39:00,39:20,Jessica Anne Fishlock,OL Reign,foul,1st half,32.3,42.9,null
-271,1548,39:50,40:10,Emily Ann Sonnett,Portland Thorns,challenge,1st half,95.8,36.6,0
-272,1549,39:50,40:10,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,9.2,31.4,1
-273,1552,39:52,40:12,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,90.1,39.5,0
-274,1553,39:52,40:12,Jodie Lee Taylor,OL Reign,challenge,1st half,14.9,28.5,1
-275,1562,39:54,40:14,Margaret Purce,Portland Thorns,recovery,1st half,92.0,51.5,null
-276,1567,39:56,40:16,Emily Ann Sonnett,Portland Thorns,foul,1st half,101.2,39.0,null
-277,1572,41:24,41:44,Jessica Anne Fishlock,OL Reign,challenge,1st half,48.5,29.2,0
-278,1573,41:24,41:44,Celeste Anais Boureille,Portland Thorns,challenge,1st half,56.5,38.8,1
-279,1582,41:30,41:50,Stephanie-Elise Catley,OL Reign,challenge,1st half,33.4,50.8,1
-280,1583,41:30,41:50,Margaret Purce,Portland Thorns,challenge,1st half,71.6,17.2,0
-281,1584,41:30,41:50,Stephanie-Elise Catley,OL Reign,tackle,1st half,33.4,50.8,1
-282,1586,41:31,41:51,Celeste Anais Boureille,Portland Thorns,challenge,1st half,63.6,18.0,0
-283,1587,41:31,41:51,Megan Anna Rapinoe,OL Reign,challenge,1st half,41.4,50.0,1
-284,1592,41:32,41:52,Margaret Purce,Portland Thorns,recovery,1st half,70.3,16.5,null
-285,1615,41:51,42:11,Jasmyne Spencer,OL Reign,recovery,1st half,9.7,15.6,null
-286,1617,41:56,42:16,Emily Townsend Menges,Portland Thorns,recovery,1st half,54.0,65.1,null
-287,1635,42:11,42:31,Lydia Grace Yilkari Williams,OL Reign,recovery,1st half,3.8,33.8,null
-288,1638,42:27,42:47,Megan Anna Rapinoe,OL Reign,challenge,1st half,63.2,61.1,0
-289,1640,42:27,42:47,Ellie Madison Carpenter,Portland Thorns,challenge,1st half,41.8,6.9,1
-290,1653,42:34,42:54,Christine Margaret Sinclair,Portland Thorns,challenge,1st half,59.4,9.6,1
-291,1655,42:34,42:54,Rumi Utsugi,OL Reign,challenge,1st half,45.6,58.4,0
-292,1659,42:40,43:00,Lindsey Michelle Horan,Portland Thorns,dribble,1st half,71.6,38.5,1
-293,1683,44:07,44:27,Alexandra Linsley Long Batista,OL Reign,challenge,1st half,79.6,52.4,0
-294,1684,44:07,44:27,Caitlin Jade Foord,Portland Thorns,challenge,1st half,25.4,15.6,1
-295,1685,44:07,44:27,Alexandra Linsley Long Batista,OL Reign,foul,1st half,79.8,52.4,null
-296,1699,44:47,45:07,Jodie Lee Taylor,OL Reign,tackle,1st half,34.7,42.4,0
-297,1700,44:47,45:07,Jodie Lee Taylor,OL Reign,challenge,1st half,34.7,42.4,0
-298,1701,44:47,45:07,Lindsey Michelle Horan,Portland Thorns,recovery,1st half,70.3,25.6,null
-299,1703,44:47,45:07,Lindsey Michelle Horan,Portland Thorns,take_on,1st half,70.3,25.6,1
-300,1705,44:47,45:07,Lindsey Michelle Horan,Portland Thorns,dribble,1st half,71.0,24.9,1
-301,1709,44:52,45:12,Caitlin Jade Foord,Portland Thorns,challenge,1st half,82.5,14.4,0
-302,1710,44:52,45:12,Lauren Kate Barnes,OL Reign,challenge,1st half,22.5,53.6,1
-303,1712,44:53,45:13,Jodie Lee Taylor,OL Reign,recovery,1st half,29.6,54.6,null
-304,1713,44:55,45:15,Caitlin Jade Foord,Portland Thorns,challenge,1st half,73.7,18.7,1
-305,1714,44:55,45:15,Caitlin Jade Foord,Portland Thorns,tackle,1st half,73.7,18.7,1
-306,1716,44:55,45:15,Jodie Lee Taylor,OL Reign,challenge,1st half,31.3,49.3,0
-307,1717,44:56,45:16,Caitlin Jade Foord,Portland Thorns,dribble,1st half,75.4,19.9,1
-308,1725,45:02,45:22,Margaret Purce,Portland Thorns,recovery,1st half,89.5,5.7,null
-309,1726,45:02,45:22,Margaret Purce,Portland Thorns,dribble,1st half,89.0,4.5,1
-310,1734,45:36,45:56,Jasmyne Spencer,OL Reign,challenge,1st half,17.4,1.4,0
-311,1736,45:36,45:56,Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,87.6,66.6,1
-312,1742,45:39,45:59,Caitlin Jade Foord,Portland Thorns,challenge,1st half,92.4,57.0,0
-313,1744,45:39,45:59,Jasmyne Spencer,OL Reign,challenge,1st half,12.6,11.0,1
-314,1745,45:39,45:59,Jasmyne Spencer,OL Reign,tackle,1st half,12.6,11.0,1
-315,1746,45:39,45:59,Caitlin Jade Foord,Portland Thorns,Dribbles (Unsuccessful actions),1st half,92.4,57.0,null
-316,1747,45:41,46:01,Megan Leigh Oyster,OL Reign,recovery,1st half,10.5,9.1,null
-317,1751,45:46,46:06,Emily Townsend Menges,Portland Thorns,recovery,1st half,58.0,67.8,null
-318,1764,46:03,46:23,Jasmyne Spencer,OL Reign,challenge,1st half,47.9,3.1,0
-319,1765,46:03,46:23,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,1st half,57.1,64.9,1
-320,1770,46:05,46:25,Celeste Anais Boureille,Portland Thorns,recovery,1st half,60.7,62.7,null
-321,1771,46:07,46:27,Tobin Powell Powell Heath,Portland Thorns,challenge,1st half,72.0,66.3,0
-322,1772,46:07,46:27,Theresa Eslund,OL Reign,challenge,1st half,33.0,1.7,1
-323,1773,46:07,46:27,Theresa Eslund,OL Reign,tackle,1st half,33.0,1.7,1
-324,1774,46:07,46:27,Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),1st half,72.0,66.3,null
-325,1786,46:21,46:41,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,1st half,68.0,67.0,null
-326,1801,46:34,46:54,Lydia Grace Yilkari Williams,OL Reign,recovery,1st half,1.1,41.2,null
-327,1810,46:53,47:13,Celeste Anais Boureille,Portland Thorns,challenge,1st half,42.6,17.2,1
-328,1811,46:53,47:13,Jessica Anne Fishlock,OL Reign,challenge,1st half,62.4,50.8,0
-329,1819,45:01,45:21,Lauren Kate Barnes,OL Reign,recovery,2nd half,33.0,49.1,null
-330,1826,45:04,45:24,Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,49.6,6.9,null
-331,1835,45:09,45:29,Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,33.6,1.9,null
-332,1865,46:04,46:24,Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,102.3,28.5,0
-333,1869,46:04,46:24,Emily Ann Sonnett,Portland Thorns,challenge,2nd half,2.7,39.5,1
-334,1873,46:31,46:51,Megan Leigh Oyster,OL Reign,recovery,2nd half,33.6,16.3,null
-335,1878,46:34,46:54,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,69.1,53.9,null
-336,1880,46:35,46:55,Rumi Utsugi,OL Reign,foul,2nd half,32.1,13.2,null
-337,1893,47:54,48:14,Theresa Eslund,OL Reign,challenge,2nd half,35.3,6.5,0
-338,1895,47:54,48:14,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,69.7,61.5,1
-339,1900,48:02,48:22,Megan Leigh Oyster,OL Reign,recovery,2nd half,20.2,2.2,null
-340,1905,48:04,48:24,Celeste Anais Boureille,Portland Thorns,recovery,2nd half,61.7,54.8,null
-341,1913,48:09,48:29,Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,29.8,6.7,null
-342,1923,48:14,48:34,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,69.5,63.2,null
-343,1927,48:17,48:37,Theresa Eslund,OL Reign,foul,2nd half,27.5,3.8,null
-344,1953,49:17,49:37,Jasmyne Spencer,OL Reign,dribble,2nd half,46.6,3.1,1
-345,1954,49:21,49:41,Emily Townsend Menges,Portland Thorns,challenge,2nd half,33.0,61.3,0
-346,1956,49:21,49:41,Emily Townsend Menges,Portland Thorns,tackle,2nd half,33.0,61.3,0
-347,1958,49:21,49:41,Jasmyne Spencer,OL Reign,take_on,2nd half,72.0,6.7,1
-348,1960,49:22,49:42,Emily Townsend Menges,Portland Thorns,foul,2nd half,28.8,60.6,null
-349,1978,51:07,51:27,Lauren Kate Barnes,OL Reign,recovery,2nd half,38.0,26.3,null
-350,1985,51:12,51:32,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,31.7,35.0,null
-351,1988,51:13,51:33,Megan Anna Rapinoe,OL Reign,challenge,2nd half,74.6,46.5,1
-352,1989,51:13,51:33,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,30.4,21.5,0
-353,1991,51:13,51:33,Megan Anna Rapinoe,OL Reign,dribble,2nd half,74.6,46.0,1
-354,1992,51:17,51:37,Adrianna Nichole Franch,Portland Thorns,save,2nd half,26.0,43.8,null
-355,2001,51:57,52:17,Megan Anna Rapinoe,OL Reign,challenge,2nd half,100.0,36.6,0
-356,2003,51:57,52:17,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,5.0,31.4,1
-357,2014,52:28,52:48,Tobin Powell Powell Heath,Portland Thorns,dribble,2nd half,13.7,19.6,1
-358,2019,52:37,52:57,Lauren Kate Barnes,OL Reign,recovery,2nd half,35.1,39.7,null
-359,2023,52:41,53:01,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,34.9,12.5,null
-360,2035,52:53,53:13,Ana Maria Crnogorcevic,Portland Thorns,dribble,2nd half,58.2,0.5,1
-361,2039,53:00,53:20,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,94.3,4.1,0
-362,2041,53:00,53:20,Stephanie-Elise Catley,OL Reign,tackle,2nd half,10.7,63.9,1
-363,2042,53:00,53:20,Stephanie-Elise Catley,OL Reign,challenge,2nd half,10.7,63.9,1
-364,2043,53:00,53:20,Ellie Madison Carpenter,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,94.3,4.1,null
-365,2048,53:36,53:56,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,102.3,26.3,0
-366,2049,53:36,53:56,Jodie Lee Taylor,OL Reign,challenge,2nd half,2.7,41.7,1
-367,2063,53:44,54:04,Megan Anna Rapinoe,OL Reign,foul,2nd half,11.6,63.9,null
-368,2070,54:48,55:08,Jessica Anne Fishlock,OL Reign,challenge,2nd half,7.1,36.4,1
-369,2071,54:48,55:08,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,97.9,31.6,0
-370,2073,54:49,55:09,Lindsey Michelle Horan,Portland Thorns,foul,2nd half,97.9,31.1,null
-371,2076,55:13,55:33,Megan Anna Rapinoe,OL Reign,challenge,2nd half,47.5,55.1,0
-372,2077,55:13,55:33,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,57.5,12.9,1
-373,2092,55:20,55:40,Megan Anna Rapinoe,OL Reign,dribble,2nd half,44.7,64.2,1
-374,2094,55:22,55:42,Megan Anna Rapinoe,OL Reign,take_on,2nd half,54.4,64.9,1
-375,2095,55:22,55:42,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,50.6,3.1,0
-376,2096,55:22,55:42,Celeste Anais Boureille,Portland Thorns,tackle,2nd half,50.6,3.1,0
-377,2098,55:23,55:43,Celeste Anais Boureille,Portland Thorns,foul,2nd half,49.8,3.8,null
-378,2104,56:04,56:24,Ana Maria Crnogorcevic,Portland Thorns,tackle,2nd half,14.3,15.1,1
-379,2105,56:04,56:24,Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,14.3,15.1,1
-380,2106,56:04,56:24,Megan Anna Rapinoe,OL Reign,challenge,2nd half,90.7,52.9,0
-381,2108,56:05,56:25,Jessica Anne Fishlock,OL Reign,recovery,2nd half,89.7,41.9,null
-382,2109,56:05,56:25,Jessica Anne Fishlock,OL Reign,Dribbles (Unsuccessful actions),2nd half,89.7,41.9,null
-383,2112,56:05,56:25,Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,15.3,26.1,1
-384,2113,56:05,56:25,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,15.3,26.1,1
-385,2115,56:05,56:25,Jessica Anne Fishlock,OL Reign,challenge,2nd half,89.7,41.9,0
-386,2118,56:09,56:29,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,29.8,28.7,0
-387,2120,56:09,56:29,Jessica Anne Fishlock,OL Reign,tackle,2nd half,75.2,39.3,1
-388,2121,56:09,56:29,Jessica Anne Fishlock,OL Reign,challenge,2nd half,75.2,39.3,1
-389,2122,56:09,56:29,Christine Margaret Sinclair,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,29.8,28.7,null
-390,2124,56:10,56:30,Rumi Utsugi,OL Reign,recovery,2nd half,75.8,43.3,null
-391,2126,56:11,56:31,Christine Margaret Sinclair,Portland Thorns,foul,2nd half,29.2,24.9,null
-392,2136,57:14,57:34,Jasmyne Spencer,OL Reign,challenge,2nd half,66.6,4.8,1
-393,2138,57:14,57:34,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,38.4,63.2,0
-394,2151,57:23,57:43,Ellie Madison Carpenter,Portland Thorns,dribble,2nd half,25.8,18.9,1
-395,2157,57:28,57:48,Lauren Kate Barnes,OL Reign,challenge,2nd half,44.1,53.2,0
-396,2158,57:28,57:48,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,60.9,14.8,1
-397,2160,57:28,57:48,Lauren Kate Barnes,OL Reign,foul,2nd half,43.7,53.6,null
-398,2168,57:58,58:18,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,95.8,35.0,0
-399,2169,57:58,58:18,Lydia Grace Yilkari Williams,OL Reign,challenge,2nd half,9.2,33.0,1
-400,2176,58:00,58:20,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,91.1,30.4,1
-401,2178,58:00,58:20,Rumi Utsugi,OL Reign,challenge,2nd half,13.9,37.6,0
-402,2182,58:03,58:23,Megan Anna Rapinoe,OL Reign,recovery,2nd half,14.5,50.8,null
-403,2185,58:06,58:26,Celeste Anais Boureille,Portland Thorns,recovery,2nd half,67.8,12.9,null
-404,2194,58:09,58:29,Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,84.2,11.3,0
-405,2195,58:09,58:29,Theresa Eslund,OL Reign,challenge,2nd half,20.8,56.7,1
-406,2199,58:12,58:32,Lauren Kate Barnes,OL Reign,recovery,2nd half,8.4,52.4,null
-407,2207,58:16,58:36,Stephanie-Elise Catley,OL Reign,recovery,2nd half,23.3,52.9,null
-408,2211,58:19,58:39,Megan Anna Rapinoe,OL Reign,dribble,2nd half,35.3,62.5,1
-409,2216,58:25,58:45,Theresa Eslund,OL Reign,dribble,2nd half,33.0,20.1,1
-410,2220,58:33,58:53,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,23.1,65.1,1
-411,2221,58:33,58:53,Jasmyne Spencer,OL Reign,challenge,2nd half,81.9,2.9,0
-412,2233,58:52,59:12,Megan Leigh Oyster,OL Reign,recovery,2nd half,70.3,5.3,null
-413,2234,58:53,59:13,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,26.7,60.8,0
-414,2235,58:53,59:13,Megan Leigh Oyster,OL Reign,take_on,2nd half,78.3,7.2,1
-415,2236,58:53,59:13,Tobin Powell Powell Heath,Portland Thorns,tackle,2nd half,26.7,60.8,0
-416,2243,58:55,59:15,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,10.9,60.1,null
-417,2248,58:58,59:18,Alexandra Linsley Long Batista,OL Reign,foul,2nd half,95.1,12.5,null
-418,2258,60:14,60:34,Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,39.7,17.0,1
-419,2259,60:14,60:34,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,65.3,51.0,0
-420,2269,60:56,61:16,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,89.5,36.6,0
-421,2274,60:56,61:16,Megan Leigh Oyster,OL Reign,challenge,2nd half,15.5,31.4,1
-422,2275,60:56,61:16,Lindsey Michelle Horan,Portland Thorns,foul,2nd half,89.2,36.9,null
-423,2284,61:35,61:55,Megan Leigh Oyster,OL Reign,recovery,2nd half,30.0,12.9,null
-424,2290,61:41,62:01,Emily Townsend Menges,Portland Thorns,recovery,2nd half,31.3,57.2,null
-425,2299,61:47,62:07,Jessica Anne Fishlock,OL Reign,recovery,2nd half,79.6,3.4,null
-426,2324,62:13,62:33,Megan Leigh Oyster,OL Reign,challenge,2nd half,0.59999999999999,9.3,1
-427,2325,62:13,62:33,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,104.4,58.7,0
-428,2326,62:13,62:33,Megan Leigh Oyster,OL Reign,tackle,2nd half,0.59999999999999,9.3,1
-429,2327,62:13,62:33,Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,104.4,58.7,null
-430,2333,62:18,62:38,Emily Townsend Menges,Portland Thorns,recovery,2nd half,60.3,56.5,null
-431,2342,62:38,62:58,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,70.6,57.0,null
-432,2347,62:40,63:00,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,82.1,59.4,0
-433,2349,62:40,63:00,Megan Leigh Oyster,OL Reign,challenge,2nd half,22.9,8.6,1
-434,2351,62:42,63:02,Rumi Utsugi,OL Reign,recovery,2nd half,27.9,18.0,null
-435,2361,62:58,63:18,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,68.5,32.8,null
-436,2370,63:07,63:27,Megan Leigh Oyster,OL Reign,recovery,2nd half,5.5,15.3,null
-437,2373,63:10,63:30,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,63.6,62.7,null
-438,2375,63:12,63:32,Jodie Lee Taylor,OL Reign,tackle,2nd half,41.6,5.5,0
-439,2376,63:12,63:32,Jodie Lee Taylor,OL Reign,challenge,2nd half,41.6,5.5,0
-440,2377,63:12,63:32,Tobin Powell Powell Heath,Portland Thorns,take_on,2nd half,63.4,62.5,1
-441,2379,63:12,63:32,Jodie Lee Taylor,OL Reign,foul,2nd half,41.6,5.5,null
-442,2388,64:01,64:21,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,90.1,29.5,0
-443,2390,64:01,64:21,Megan Leigh Oyster,OL Reign,challenge,2nd half,14.9,38.5,1
-444,2392,64:02,64:22,Lindsey Michelle Horan,Portland Thorns,foul,2nd half,90.5,28.5,null
-445,2397,64:27,64:47,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,50.4,7.7,0
-446,2398,64:27,64:47,Megan Anna Rapinoe,OL Reign,challenge,2nd half,54.6,60.3,1
-447,2417,64:48,65:08,Megan Anna Rapinoe,OL Reign,challenge,2nd half,59.0,65.1,0
-448,2418,64:48,65:08,Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,46.0,2.9,1
-449,2426,64:52,65:12,Rumi Utsugi,OL Reign,foul,2nd half,51.0,61.5,null
-450,2438,65:28,65:48,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,56.1,4.3,null
-451,2446,65:32,65:52,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,87.6,32.3,1
-452,2448,65:32,65:52,Megan Leigh Oyster,OL Reign,challenge,2nd half,17.4,35.7,0
-453,2457,66:05,66:25,Rumi Utsugi,OL Reign,challenge,2nd half,45.2,57.7,0
-454,2458,66:05,66:25,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,59.8,10.3,1
-455,2462,66:08,66:28,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,74.6,28.7,0
-456,2463,66:08,66:28,Megan Leigh Oyster,OL Reign,tackle,2nd half,30.4,39.3,1
-457,2464,66:08,66:28,Megan Leigh Oyster,OL Reign,challenge,2nd half,30.4,39.3,1
-458,2465,66:08,66:28,Caitlin Jade Foord,Portland Thorns,recovery,2nd half,74.6,28.7,null
-459,2467,66:08,66:28,Caitlin Jade Foord,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,74.6,28.7,null
-460,2473,66:11,66:31,Lauren Kate Barnes,OL Reign,challenge,2nd half,23.3,48.4,0
-461,2474,66:11,66:31,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,81.7,19.6,1
-462,2479,66:13,66:33,Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,82.3,16.0,null
-463,2494,67:28,67:48,Megan Anna Rapinoe,OL Reign,dribble,2nd half,84.2,60.6,1
-464,2507,67:48,68:08,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,24.6,35.0,null
-465,2512,67:53,68:13,Christine Margaret Sinclair,Portland Thorns,dribble,2nd half,52.7,22.0,1
-466,2519,67:58,68:18,Theresa Eslund,OL Reign,challenge,2nd half,14.7,36.4,1
-467,2520,67:58,68:18,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,90.3,31.6,0
-468,2526,68:52,69:12,Celeste Anais Boureille,Portland Thorns,foul,2nd half,60.7,14.4,null
-469,2541,69:10,69:30,Adrianna Nichole Franch,Portland Thorns,recovery,2nd half,2.9,33.3,null
-470,2547,69:41,70:01,Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,28.3,61.5,null
-471,2553,69:43,70:03,Jessica Anne Fishlock,OL Reign,recovery,2nd half,71.8,13.9,null
-472,2557,69:44,70:04,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,26.0,46.5,null
-473,2559,69:48,70:08,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,69.3,29.5,0
-474,2560,69:48,70:08,Lauren Kate Barnes,OL Reign,challenge,2nd half,35.7,38.5,1
-475,2564,69:52,70:12,Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,36.1,28.7,null
-476,2570,69:56,70:16,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,54.8,63.0,null
-477,2578,70:04,70:24,Lydia Grace Yilkari Williams,OL Reign,recovery,2nd half,6.3,21.3,null
-478,2586,70:28,70:48,Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,59.4,8.1,1
-479,2590,70:28,70:48,Stephanie-Elise Catley,OL Reign,challenge,2nd half,45.6,59.9,0
-480,2593,70:32,70:52,Jessica Anne Fishlock,OL Reign,tackle,2nd half,45.6,54.6,0
-481,2594,70:32,70:52,Celeste Anais Boureille,Portland Thorns,take_on,2nd half,59.4,13.4,1
-482,2595,70:32,70:52,Jessica Anne Fishlock,OL Reign,challenge,2nd half,45.6,54.6,0
-483,2600,70:36,70:56,Lauren Kate Barnes,OL Reign,challenge,2nd half,13.9,51.7,1
-484,2602,70:36,70:56,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,91.1,16.3,0
-485,2607,71:07,71:27,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,98.3,18.0,0
-486,2608,71:07,71:27,Jessica Anne Fishlock,OL Reign,challenge,2nd half,6.7,50.0,1
-487,2616,71:19,71:39,Emily Townsend Menges,Portland Thorns,recovery,2nd half,34.2,62.7,null
-488,2624,71:26,71:46,Stephanie-Elise Catley,OL Reign,recovery,2nd half,32.1,49.1,null
-489,2631,71:30,71:50,Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,35.5,42.6,null
-490,2639,71:32,71:52,Megan Leigh Oyster,OL Reign,recovery,2nd half,25.0,34.2,null
-491,2644,71:39,71:59,Ellie Madison Carpenter,Portland Thorns,tackle,2nd half,38.6,1.0,1
-492,2645,71:39,71:59,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,38.6,1.0,1
-493,2646,71:39,71:59,Megan Anna Rapinoe,OL Reign,challenge,2nd half,66.4,67.0,0
-494,2647,71:39,71:59,Megan Anna Rapinoe,OL Reign,Dribbles (Unsuccessful actions),2nd half,66.4,67.0,null
-495,2653,71:46,72:06,Jessica Anne Fishlock,OL Reign,challenge,2nd half,73.1,55.5,1
-496,2654,71:46,72:06,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,31.9,12.5,0
-497,2657,71:47,72:07,Jessica Anne Fishlock,OL Reign,dribble,2nd half,75.4,54.6,1
-498,2662,71:50,72:10,Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,17.0,11.3,null
-499,2668,73:09,73:29,Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,48.7,56.0,null
-500,2670,73:09,73:29,Alexandra Linsley Long Batista,OL Reign,dribble,2nd half,48.9,53.6,1
-501,2671,73:10,73:30,Alexandra Linsley Long Batista,OL Reign,take_on,2nd half,48.7,52.9,1
-502,2672,73:10,73:30,Christine Margaret Sinclair,Portland Thorns,tackle,2nd half,56.3,15.1,0
-503,2673,73:10,73:30,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,56.3,15.1,0
-504,2684,73:27,73:47,Stephanie-Elise Catley,OL Reign,recovery,2nd half,48.7,61.3,null
-505,2687,73:28,73:48,Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,56.3,58.2,0
-506,2688,73:28,73:48,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,48.7,9.8,1
-507,2693,73:30,73:50,Lauren Kate Barnes,OL Reign,recovery,2nd half,41.6,54.6,null
-508,2700,73:34,73:54,Lindsey Michelle Horan,Portland Thorns,dribble,2nd half,63.4,25.1,1
-509,2710,73:42,74:02,Celeste Anais Boureille,Portland Thorns,recovery,2nd half,75.6,40.5,null
-510,2712,73:44,74:04,Tobin Powell Powell Heath,Portland Thorns,dribble,2nd half,85.1,61.5,1
-511,2713,73:49,74:09,Jasmyne Spencer,OL Reign,challenge,2nd half,10.7,4.3,0
-512,2714,73:49,74:09,Jasmyne Spencer,OL Reign,tackle,2nd half,10.7,4.3,0
-513,2715,73:49,74:09,Tobin Powell Powell Heath,Portland Thorns,take_on,2nd half,94.3,63.7,1
-514,2739,74:14,74:34,Lydia Grace Yilkari Williams,OL Reign,recovery,2nd half,4.4,33.0,null
-515,2746,74:21,74:41,Emily Townsend Menges,Portland Thorns,challenge,2nd half,46.6,37.6,1
-516,2748,74:21,74:41,Jodie Lee Taylor,OL Reign,challenge,2nd half,58.4,30.4,0
-517,2751,74:23,74:43,Jasmyne Spencer,OL Reign,recovery,2nd half,57.8,9.8,null
-518,2756,74:31,74:51,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,4.0,56.3,null
-519,2761,74:42,75:02,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,44.3,64.9,0
-520,2762,74:42,75:02,Megan Leigh Oyster,OL Reign,challenge,2nd half,60.7,3.1,1
-521,2775,75:06,75:26,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,65.3,53.6,0
-522,2776,75:06,75:26,Megan Leigh Oyster,OL Reign,challenge,2nd half,39.7,14.4,1
-523,2778,75:07,75:27,Rumi Utsugi,OL Reign,challenge,2nd half,44.1,9.8,1
-524,2779,75:07,75:27,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,60.9,58.2,0
-525,2781,75:08,75:28,Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,72.5,46.7,0
-526,2782,75:08,75:28,Lauren Kate Barnes,OL Reign,challenge,2nd half,32.5,21.3,1
-527,2784,75:10,75:30,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,62.6,61.1,null
-528,2786,75:10,75:30,Tobin Powell Powell Heath,Portland Thorns,dribble,2nd half,61.5,63.9,1
-529,2789,75:12,75:32,Rumi Utsugi,OL Reign,tackle,2nd half,34.7,6.0,0
-530,2790,75:12,75:32,Rumi Utsugi,OL Reign,challenge,2nd half,34.7,6.0,0
-531,2791,75:12,75:32,Tobin Powell Powell Heath,Portland Thorns,take_on,2nd half,70.3,62.0,1
-532,2796,75:16,75:36,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,80.0,38.1,0
-533,2797,75:16,75:36,Megan Anna Rapinoe,OL Reign,challenge,2nd half,25.0,29.9,1
-534,2798,75:16,75:36,Megan Anna Rapinoe,OL Reign,tackle,2nd half,25.0,29.9,1
-535,2801,75:18,75:38,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,81.1,42.4,null
-536,2805,75:20,75:40,Ellie Madison Carpenter,Portland Thorns,dribble,2nd half,78.3,16.8,1
-537,2806,75:25,75:45,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,94.1,16.0,0
-538,2808,75:25,75:45,Stephanie-Elise Catley,OL Reign,challenge,2nd half,10.9,52.0,1
-539,2809,75:25,75:45,Stephanie-Elise Catley,OL Reign,tackle,2nd half,10.9,52.0,1
-540,2812,75:28,75:48,Celeste Anais Boureille,Portland Thorns,recovery,2nd half,76.4,4.3,null
-541,2814,75:28,75:48,Celeste Anais Boureille,Portland Thorns,dribble,2nd half,76.0,2.9,1
-542,2833,75:38,75:58,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,73.5,38.3,null
-543,2837,75:40,76:00,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,81.7,27.8,0
-544,2838,75:40,76:00,Theresa Eslund,OL Reign,tackle,2nd half,23.3,40.2,1
-545,2839,75:40,76:00,Theresa Eslund,OL Reign,challenge,2nd half,23.3,40.2,1
-546,2840,75:40,76:00,Lindsey Michelle Horan,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,81.7,27.8,null
-547,2842,75:42,76:02,Rumi Utsugi,OL Reign,recovery,2nd half,20.4,33.8,null
-548,2844,75:44,76:04,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,77.7,33.3,1
-549,2845,75:44,76:04,Rumi Utsugi,OL Reign,challenge,2nd half,27.3,34.7,0
-550,2846,75:44,76:04,Tobin Powell Powell Heath,Portland Thorns,tackle,2nd half,77.7,33.3,1
-551,2849,75:46,76:06,Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,75.6,28.3,null
-552,2865,77:24,77:44,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,65.9,2.4,0
-553,2866,77:24,77:44,Megan Leigh Oyster,OL Reign,challenge,2nd half,39.1,65.6,1
-554,2878,77:48,78:08,Alexandra Linsley Long Batista,OL Reign,recovery,2nd half,26.5,51.5,null
-555,2889,77:55,78:15,Beverly Yanez,OL Reign,recovery,2nd half,41.6,15.6,null
-556,2890,77:56,78:16,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,63.0,52.0,1
-557,2891,77:56,78:16,Beverly Yanez,OL Reign,challenge,2nd half,42.0,16.0,0
-558,2892,77:56,78:16,Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,63.0,52.0,1
-559,2895,77:59,78:19,Beverly Yanez,OL Reign,challenge,2nd half,36.5,16.8,1
-560,2896,77:59,78:19,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,68.5,51.2,0
-561,2899,78:01,78:21,Lindsey Michelle Horan,Portland Thorns,recovery,2nd half,73.7,47.2,null
-562,2921,78:34,78:54,Emily Townsend Menges,Portland Thorns,recovery,2nd half,26.0,24.4,null
-563,2939,78:44,79:04,Jessica Anne Fishlock,OL Reign,recovery,2nd half,74.3,50.0,null
-564,2965,79:00,79:20,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,61.3,59.6,0
-565,2966,79:00,79:20,Megan Leigh Oyster,OL Reign,challenge,2nd half,43.7,8.4,1
-566,2988,79:25,79:45,Megan Anna Rapinoe,OL Reign,dribble,2nd half,47.9,60.8,1
-567,2990,79:27,79:47,Megan Anna Rapinoe,OL Reign,take_on,2nd half,50.2,40.9,1
-568,2992,79:27,79:47,Emily Townsend Menges,Portland Thorns,challenge,2nd half,54.8,27.1,0
-569,2993,79:27,79:47,Emily Townsend Menges,Portland Thorns,tackle,2nd half,54.8,27.1,0
-570,3000,79:34,79:54,Meghan Elizabeth Klingenberg,Portland Thorns,challenge,2nd half,13.2,44.3,0
-571,3001,79:34,79:54,Beverly Yanez,OL Reign,take_on,2nd half,91.8,23.7,1
-572,3002,79:34,79:54,Meghan Elizabeth Klingenberg,Portland Thorns,tackle,2nd half,13.2,44.3,0
-573,3006,79:37,79:57,Emily Ann Sonnett,Portland Thorns,recovery,2nd half,7.1,40.0,null
-574,3011,79:43,80:03,Megan Leigh Oyster,OL Reign,recovery,2nd half,69.5,2.9,null
-575,3023,79:47,80:07,Megan Anna Rapinoe,OL Reign,challenge,2nd half,91.6,39.3,1
-576,3024,79:47,80:07,Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,13.4,28.7,0
-577,3031,80:19,80:39,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,43.7,62.7,1
-578,3032,80:19,80:39,Beverly Yanez,OL Reign,challenge,2nd half,61.3,5.3,0
-579,3034,80:19,80:39,Theresa Eslund,OL Reign,recovery,2nd half,48.7,6.0,null
-580,3042,80:26,80:46,Emily Townsend Menges,Portland Thorns,challenge,2nd half,39.9,52.9,1
-581,3043,80:26,80:46,Jodie Lee Taylor,OL Reign,challenge,2nd half,65.1,15.1,0
-582,3050,80:28,80:48,Alexandra Linsley Long Batista,OL Reign,challenge,2nd half,49.1,15.1,0
-583,3053,80:28,80:48,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,55.9,52.9,1
-584,3055,80:28,80:48,Alexandra Linsley Long Batista,OL Reign,foul,2nd half,49.1,15.8,null
-585,3071,82:19,82:39,Megan Anna Rapinoe,OL Reign,recovery,2nd half,13.2,46.7,null
-586,3072,82:21,82:41,Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,91.8,23.2,1
-587,3073,82:21,82:41,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,91.8,23.2,1
-588,3074,82:21,82:41,Megan Anna Rapinoe,OL Reign,challenge,2nd half,13.2,44.8,0
-589,3076,82:22,82:42,Megan Anna Rapinoe,OL Reign,challenge,2nd half,13.2,48.6,1
-590,3077,82:22,82:42,Emily Ann Sonnett,Portland Thorns,challenge,2nd half,91.8,19.4,0
-591,3081,82:25,82:45,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,79.4,15.6,null
-592,3082,82:28,82:48,Megan Anna Rapinoe,OL Reign,tackle,2nd half,21.6,55.5,1
-593,3083,82:28,82:48,Megan Anna Rapinoe,OL Reign,challenge,2nd half,21.6,55.5,1
-594,3084,82:28,82:48,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,83.4,12.5,0
-595,3086,82:28,82:48,Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,83.4,12.5,null
-596,3092,82:34,82:54,Meghan Elizabeth Klingenberg,Portland Thorns,recovery,2nd half,66.4,56.0,null
-597,3095,82:34,82:54,Meghan Elizabeth Klingenberg,Portland Thorns,dribble,2nd half,66.4,56.0,1
-598,3105,82:41,83:01,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,86.5,34.5,null
-599,3112,83:19,83:39,Ana Maria Crnogorcevic,Portland Thorns,challenge,2nd half,59.0,4.8,1
-600,3113,83:19,83:39,Morgan Andrews,OL Reign,challenge,2nd half,46.0,63.2,0
-601,3114,83:20,83:40,Megan Anna Rapinoe,OL Reign,recovery,2nd half,50.8,67.5,null
-602,3115,83:24,83:44,Megan Anna Rapinoe,OL Reign,Dribbles (Unsuccessful actions),2nd half,50.8,66.8,null
-603,3116,83:24,83:44,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,54.2,1.2,1
-604,3118,83:24,83:44,Megan Anna Rapinoe,OL Reign,challenge,2nd half,50.8,66.8,0
-605,3119,83:24,83:44,Lindsey Michelle Horan,Portland Thorns,tackle,2nd half,54.2,1.2,1
-606,3121,83:24,83:44,Megan Anna Rapinoe,OL Reign,foul,2nd half,50.4,66.8,null
-607,3124,83:48,84:08,Caitlin Jade Foord,Portland Thorns,dribble,2nd half,89.5,12.9,1
-608,3138,84:41,85:01,Megan Anna Rapinoe,OL Reign,recovery,2nd half,13.6,44.8,null
-609,3143,84:42,85:02,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,93.7,24.9,null
-610,3147,84:43,85:03,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,94.5,24.2,0
-611,3148,84:43,85:03,Elizabeth Addo,OL Reign,challenge,2nd half,10.5,43.8,1
-612,3149,84:43,85:03,Elizabeth Addo,OL Reign,tackle,2nd half,10.5,43.8,1
-613,3153,84:53,85:13,Emily Townsend Menges,Portland Thorns,recovery,2nd half,35.9,15.6,null
-614,3164,85:07,85:27,Lauren Kate Barnes,OL Reign,recovery,2nd half,45.2,58.4,null
-615,3173,85:10,85:30,Lauren Kate Barnes,OL Reign,recovery,2nd half,48.1,57.2,null
-616,3176,85:11,85:31,Elizabeth Addo,OL Reign,challenge,2nd half,56.7,55.1,0
-617,3177,85:11,85:31,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,48.3,12.9,1
-618,3178,85:12,85:32,Celeste Anais Boureille,Portland Thorns,tackle,2nd half,51.2,12.2,0
-619,3180,85:12,85:32,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,51.2,12.2,0
-620,3181,85:12,85:32,Morgan Andrews,OL Reign,take_on,2nd half,53.8,55.8,1
-621,3184,85:12,85:32,Morgan Andrews,OL Reign,recovery,2nd half,53.8,55.8,null
-622,3190,85:18,85:38,Lindsey Michelle Horan,Portland Thorns,foul,2nd half,31.3,11.3,null
-623,3200,86:06,86:26,Jodie Lee Taylor,OL Reign,challenge,2nd half,96.4,19.6,1
-624,3202,86:06,86:26,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,8.6,48.4,0
-625,3208,86:10,86:30,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,8.4,36.4,1
-626,3209,86:10,86:30,Stephanie-Elise Catley,OL Reign,challenge,2nd half,96.6,31.6,0
-627,3214,86:12,86:32,Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,6.9,48.1,null
-628,3228,88:11,88:31,Christine Margaret Sinclair,Portland Thorns,recovery,2nd half,17.4,36.9,null
-629,3231,88:18,88:38,Stephanie-Elise Catley,OL Reign,recovery,2nd half,38.0,48.8,null
-630,3242,88:29,88:49,Ellie Madison Carpenter,Portland Thorns,recovery,2nd half,10.7,10.1,null
-631,3249,88:42,89:02,Megan Anna Rapinoe,OL Reign,dribble,2nd half,96.8,65.4,1
-632,3261,88:48,89:08,Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,22.5,14.4,null
-633,3266,88:51,89:11,Lauren Kate Barnes,OL Reign,recovery,2nd half,62.0,61.1,null
-634,3280,89:24,89:44,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,57.3,58.9,0
-635,3281,89:24,89:44,Beverly Yanez,OL Reign,challenge,2nd half,47.7,9.1,1
-636,3289,89:42,90:02,Megan Leigh Oyster,OL Reign,challenge,2nd half,42.4,3.1,1
-637,3290,89:42,90:02,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,62.6,64.9,0
-638,3296,89:44,90:04,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,55.7,66.6,null
-639,3306,90:08,90:28,Ana Maria Crnogorcevic,Portland Thorns,recovery,2nd half,74.6,64.2,null
-640,3320,90:33,90:53,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,71.4,66.1,0
-641,3321,90:33,90:53,Jodie Lee Taylor,OL Reign,challenge,2nd half,33.6,1.9,1
-642,3322,90:33,90:53,Jodie Lee Taylor,OL Reign,tackle,2nd half,33.6,1.9,1
-643,3325,90:48,91:08,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,81.1,63.2,0
-644,3327,90:48,91:08,Megan Leigh Oyster,OL Reign,challenge,2nd half,23.9,4.8,1
-645,3340,91:29,91:49,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,63.0,55.8,0
-646,3341,91:29,91:49,Morgan Andrews,OL Reign,challenge,2nd half,42.0,12.2,1
-647,3343,91:30,91:50,Lindsey Michelle Horan,Portland Thorns,foul,2nd half,62.6,56.0,null
-648,3356,91:56,92:16,Lindsey Michelle Horan,Portland Thorns,challenge,2nd half,31.5,38.1,0
-649,3358,91:56,92:16,Morgan Andrews,OL Reign,challenge,2nd half,73.5,29.9,1
-650,3372,92:09,92:29,Beverly Yanez,OL Reign,recovery,2nd half,97.9,9.1,null
-651,3378,92:12,92:32,Elizabeth Addo,OL Reign,challenge,2nd half,98.9,15.1,0
-652,3379,92:12,92:32,Celeste Anais Boureille,Portland Thorns,tackle,2nd half,6.1,52.9,1
-653,3380,92:12,92:32,Celeste Anais Boureille,Portland Thorns,challenge,2nd half,6.1,52.9,1
-654,3381,92:12,92:32,Elizabeth Addo,OL Reign,Dribbles (Unsuccessful actions),2nd half,98.9,15.1,null
-655,3383,92:14,92:34,Tobin Powell Powell Heath,Portland Thorns,recovery,2nd half,7.6,47.4,null
-656,3386,92:19,92:39,Caitlin Jade Foord,Portland Thorns,challenge,2nd half,49.1,37.1,0
-657,3387,92:19,92:39,Caitlin Jade Foord,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,49.1,37.1,null
-658,3388,92:19,92:39,Stephanie-Elise Catley,OL Reign,challenge,2nd half,55.9,30.9,1
-659,3389,92:19,92:39,Stephanie-Elise Catley,OL Reign,tackle,2nd half,55.9,30.9,1
-660,3392,92:22,92:42,Lauren Kate Barnes,OL Reign,recovery,2nd half,36.1,30.6,null
-661,3408,92:34,92:54,Caitlin Jade Foord,Portland Thorns,dribble,2nd half,61.1,50.3,1
-662,3422,93:03,93:23,Tobin Powell Powell Heath,Portland Thorns,challenge,2nd half,92.6,65.4,0
-663,3423,93:03,93:23,Theresa Eslund,OL Reign,tackle,2nd half,12.4,2.6,1
-664,3424,93:03,93:23,Tobin Powell Powell Heath,Portland Thorns,Dribbles (Unsuccessful actions),2nd half,92.6,65.4,null
-665,3425,93:03,93:23,Theresa Eslund,OL Reign,challenge,2nd half,12.4,2.6,1
-666,3438,93:19,93:39,Ellie Madison Carpenter,Portland Thorns,challenge,2nd half,49.1,15.3,1
-667,3439,93:19,93:39,Megan Anna Rapinoe,OL Reign,challenge,2nd half,55.9,52.7,0
-668,3441,93:22,93:42,Ana Maria Crnogorcevic,Portland Thorns,dribble,2nd half,58.2,7.7,1
-669,3447,93:32,93:52,Megan Anna Rapinoe,OL Reign,recovery,2nd half,1.9,60.8,null
-670,3455,93:44,94:04,Christine Margaret Sinclair,Portland Thorns,challenge,2nd half,46.2,50.3,1
-671,3457,93:44,94:04,Jodie Lee Taylor,OL Reign,challenge,2nd half,58.8,17.7,0
-672,3458,93:44,94:04,Jodie Lee Taylor,OL Reign,foul,2nd half,59.0,17.7,null
-673,3470,94:36,94:56,Beverly Yanez,OL Reign,recovery,2nd half,14.9,1.2,null
-674,3474,94:38,94:58,Beverly Yanez,OL Reign,tackle,2nd half,15.1,1.2,0
-675,3475,94:38,94:58,Beverly Yanez,OL Reign,challenge,2nd half,15.1,1.2,0
-676,3477,94:38,94:58,Christine Margaret Sinclair,Portland Thorns,take_on,2nd half,89.9,66.8,1
-677,3479,94:38,94:58,Beverly Yanez,OL Reign,foul,2nd half,15.3,1.4,null
+ID,raw_event_ID,start_time,end_time,player_ID,team_ID,action,half,successful,pos_x,pos_y
+20180915-RGN-POR-0,20180915-RGN-POR-0,0:00,0:16,Lauren Kate Barnes,RGN,dribble,1st half,1,29.6,49.1
+20180915-RGN-POR-1,20180915-RGN-POR-9,0:01,0:21,Megan Anna Rapinoe,RGN,dribble,1st half,1,64.1,58.2
+20180915-RGN-POR-2,20180915-RGN-POR-13,0:04,0:24,Margaret Purce,POR,tackle,1st half,0,28.3,11.3
+20180915-RGN-POR-3,20180915-RGN-POR-14,0:04,0:24,Megan Anna Rapinoe,RGN,take_on,1st half,1,76.7,56.7
+20180915-RGN-POR-4,20180915-RGN-POR-15,0:04,0:24,Margaret Purce,POR,challenge,1st half,0,28.3,11.3
+20180915-RGN-POR-5,20180915-RGN-POR-33,0:20,0:40,Caitlin Jade Foord,POR,challenge,1st half,0,56.1,29.0
+20180915-RGN-POR-6,20180915-RGN-POR-35,0:20,0:40,Rumi Utsugi,RGN,challenge,1st half,1,48.9,39.0
+20180915-RGN-POR-7,20180915-RGN-POR-38,0:21,0:41,Alexandra Linsley Long Batista,RGN,recovery,1st half,null,44.3,35.9
+20180915-RGN-POR-8,20180915-RGN-POR-39,0:24,0:44,Caitlin Jade Foord,POR,foul,1st half,null,70.1,23.9
+20180915-RGN-POR-9,20180915-RGN-POR-79,1:20,1:40,Tobin Powell Powell Heath,POR,foul,1st half,null,21.0,27.5
+20180915-RGN-POR-10,20180915-RGN-POR-85,2:06,2:26,Rumi Utsugi,RGN,recovery,1st half,null,79.6,36.6
+20180915-RGN-POR-11,20180915-RGN-POR-95,2:08,2:28,Caitlin Jade Foord,POR,recovery,1st half,null,18.7,19.9
+20180915-RGN-POR-12,20180915-RGN-POR-99,2:11,2:31,Lauren Kate Barnes,RGN,recovery,1st half,null,54.8,48.4
+20180915-RGN-POR-13,20180915-RGN-POR-115,2:52,3:12,Celeste Anais Boureille,POR,recovery,1st half,null,47.9,46.9
+20180915-RGN-POR-14,20180915-RGN-POR-117,2:55,3:15,Celeste Anais Boureille,POR,challenge,1st half,1,50.2,37.6
+20180915-RGN-POR-15,20180915-RGN-POR-118,2:55,3:15,Jessica Anne Fishlock,RGN,challenge,1st half,0,54.8,30.4
+20180915-RGN-POR-16,20180915-RGN-POR-122,2:57,3:17,Lindsey Michelle Horan,POR,recovery,1st half,null,48.3,40.0
+20180915-RGN-POR-17,20180915-RGN-POR-129,2:58,3:18,Rumi Utsugi,RGN,recovery,1st half,null,49.3,36.2
+20180915-RGN-POR-18,20180915-RGN-POR-166,3:54,4:14,Christine Margaret Sinclair,POR,recovery,1st half,null,12.0,62.7
+20180915-RGN-POR-19,20180915-RGN-POR-174,4:22,4:42,Alexandra Linsley Long Batista,RGN,challenge,1st half,0,53.1,10.8
+20180915-RGN-POR-20,20180915-RGN-POR-175,4:22,4:42,Lindsey Michelle Horan,POR,challenge,1st half,1,51.9,57.2
+20180915-RGN-POR-21,20180915-RGN-POR-176,4:23,4:43,Alexandra Linsley Long Batista,RGN,foul,1st half,null,53.3,11.0
+20180915-RGN-POR-22,20180915-RGN-POR-187,4:57,5:17,Celeste Anais Boureille,POR,recovery,1st half,null,63.6,21.8
+20180915-RGN-POR-23,20180915-RGN-POR-209,5:21,5:41,Emily Ann Sonnett,POR,challenge,1st half,1,60.5,59.4
+20180915-RGN-POR-24,20180915-RGN-POR-210,5:21,5:41,Jessica Anne Fishlock,RGN,challenge,1st half,0,44.5,8.6
+20180915-RGN-POR-25,20180915-RGN-POR-215,5:23,5:43,Lindsey Michelle Horan,POR,recovery,1st half,null,62.2,67.0
+20180915-RGN-POR-26,20180915-RGN-POR-238,6:08,6:28,Rumi Utsugi,RGN,recovery,1st half,null,50.4,54.8
+20180915-RGN-POR-27,20180915-RGN-POR-242,6:11,6:31,Emily Townsend Menges,POR,challenge,1st half,1,26.5,31.8
+20180915-RGN-POR-28,20180915-RGN-POR-243,6:11,6:31,Jasmyne Spencer,RGN,challenge,1st half,0,78.5,36.2
+20180915-RGN-POR-29,20180915-RGN-POR-249,6:16,6:36,Tobin Powell Powell Heath,POR,dribble,1st half,1,45.2,61.8
+20180915-RGN-POR-30,20180915-RGN-POR-252,6:18,6:38,Theresa Eslund,RGN,challenge,1st half,0,48.9,1.4
+20180915-RGN-POR-31,20180915-RGN-POR-254,6:18,6:38,Tobin Powell Powell Heath,POR,take_on,1st half,1,56.1,66.6
+20180915-RGN-POR-32,20180915-RGN-POR-255,6:18,6:38,Theresa Eslund,RGN,tackle,1st half,0,48.9,1.4
+20180915-RGN-POR-33,20180915-RGN-POR-257,6:18,6:38,Theresa Eslund,RGN,foul,1st half,null,49.1,1.9
+20180915-RGN-POR-34,20180915-RGN-POR-263,7:01,7:21,Alexandra Linsley Long Batista,RGN,challenge,1st half,1,17.4,33.3
+20180915-RGN-POR-35,20180915-RGN-POR-265,7:01,7:21,Lindsey Michelle Horan,POR,challenge,1st half,0,87.6,34.7
+20180915-RGN-POR-36,20180915-RGN-POR-268,7:02,7:22,Stephanie-Elise Catley,RGN,recovery,1st half,null,16.8,29.2
+20180915-RGN-POR-37,20180915-RGN-POR-275,7:05,7:25,Meghan Elizabeth Klingenberg,POR,recovery,1st half,null,73.1,47.9
+20180915-RGN-POR-38,20180915-RGN-POR-277,7:07,7:27,Tobin Powell Powell Heath,POR,dribble,1st half,1,74.8,57.7
+20180915-RGN-POR-39,20180915-RGN-POR-279,7:08,7:28,Theresa Eslund,RGN,challenge,1st half,0,23.7,7.9
+20180915-RGN-POR-40,20180915-RGN-POR-280,7:08,7:28,Theresa Eslund,RGN,tackle,1st half,0,23.7,7.9
+20180915-RGN-POR-41,20180915-RGN-POR-282,7:08,7:28,Tobin Powell Powell Heath,POR,take_on,1st half,1,81.3,60.1
+20180915-RGN-POR-42,20180915-RGN-POR-303,7:19,7:39,Theresa Eslund,RGN,recovery,1st half,null,8.4,18.9
+20180915-RGN-POR-43,20180915-RGN-POR-314,7:33,7:53,Lydia Grace Yilkari Williams,RGN,save,1st half,null,14.7,20.1
+20180915-RGN-POR-44,20180915-RGN-POR-320,7:55,8:15,Lauren Kate Barnes,RGN,challenge,1st half,1,28.8,63.2
+20180915-RGN-POR-45,20180915-RGN-POR-321,7:55,8:15,Caitlin Jade Foord,POR,challenge,1st half,0,76.2,4.8
+20180915-RGN-POR-46,20180915-RGN-POR-322,7:55,8:15,Caitlin Jade Foord,POR,foul,1st half,null,77.1,4.5
+20180915-RGN-POR-47,20180915-RGN-POR-352,8:48,9:08,Megan Anna Rapinoe,RGN,foul,1st half,null,75.2,65.8
+20180915-RGN-POR-48,20180915-RGN-POR-379,9:41,10:01,Tobin Powell Powell Heath,POR,challenge,1st half,0,71.4,23.0
+20180915-RGN-POR-49,20180915-RGN-POR-380,9:41,10:01,Megan Leigh Oyster,RGN,challenge,1st half,1,33.6,45.0
+20180915-RGN-POR-50,20180915-RGN-POR-386,9:48,10:08,Jasmyne Spencer,RGN,dribble,1st half,1,48.3,21.3
+20180915-RGN-POR-51,20180915-RGN-POR-389,9:53,10:13,Jasmyne Spencer,RGN,challenge,1st half,0,67.0,33.5
+20180915-RGN-POR-52,20180915-RGN-POR-390,9:53,10:13,Celeste Anais Boureille,POR,challenge,1st half,1,38.0,34.5
+20180915-RGN-POR-53,20180915-RGN-POR-391,9:53,10:13,Celeste Anais Boureille,POR,tackle,1st half,1,38.0,34.5
+20180915-RGN-POR-54,20180915-RGN-POR-393,9:54,10:14,Christine Margaret Sinclair,POR,recovery,1st half,null,41.8,34.5
+20180915-RGN-POR-55,20180915-RGN-POR-398,9:57,10:17,Caitlin Jade Foord,POR,dribble,1st half,1,46.0,49.3
+20180915-RGN-POR-56,20180915-RGN-POR-405,10:03,10:23,Megan Leigh Oyster,RGN,recovery,1st half,null,15.5,22.3
+20180915-RGN-POR-57,20180915-RGN-POR-409,10:06,10:26,Theresa Eslund,RGN,challenge,1st half,1,26.2,5.5
+20180915-RGN-POR-58,20180915-RGN-POR-411,10:06,10:26,Meghan Elizabeth Klingenberg,POR,challenge,1st half,0,78.8,62.5
+20180915-RGN-POR-59,20180915-RGN-POR-415,10:11,10:31,Jasmyne Spencer,RGN,take_on,1st half,1,45.4,5.5
+20180915-RGN-POR-60,20180915-RGN-POR-416,10:11,10:31,Celeste Anais Boureille,POR,challenge,1st half,0,59.6,62.5
+20180915-RGN-POR-61,20180915-RGN-POR-417,10:11,10:31,Celeste Anais Boureille,POR,tackle,1st half,0,59.6,62.5
+20180915-RGN-POR-62,20180915-RGN-POR-418,10:12,10:32,Celeste Anais Boureille,POR,foul,1st half,null,58.8,62.7
+20180915-RGN-POR-63,20180915-RGN-POR-427,10:39,10:59,Jasmyne Spencer,RGN,challenge,1st half,0,81.5,5.7
+20180915-RGN-POR-64,20180915-RGN-POR-428,10:39,10:59,Meghan Elizabeth Klingenberg,POR,challenge,1st half,1,23.5,62.3
+20180915-RGN-POR-65,20180915-RGN-POR-429,10:41,11:01,Meghan Elizabeth Klingenberg,POR,dribble,1st half,1,27.5,63.0
+20180915-RGN-POR-66,20180915-RGN-POR-432,10:45,11:05,Megan Leigh Oyster,RGN,recovery,1st half,null,46.6,5.0
+20180915-RGN-POR-67,20180915-RGN-POR-449,11:07,11:27,Lindsey Michelle Horan,POR,challenge,1st half,1,8.0,52.9
+20180915-RGN-POR-68,20180915-RGN-POR-451,11:07,11:27,Jasmyne Spencer,RGN,challenge,1st half,0,97.0,15.1
+20180915-RGN-POR-69,20180915-RGN-POR-459,11:52,12:12,Rumi Utsugi,RGN,recovery,1st half,null,86.9,35.9
+20180915-RGN-POR-70,20180915-RGN-POR-466,11:56,12:16,Lauren Kate Barnes,RGN,recovery,1st half,null,57.8,33.3
+20180915-RGN-POR-71,20180915-RGN-POR-472,12:01,12:21,Jessica Anne Fishlock,RGN,take_on,1st half,0,97.0,1.9
+20180915-RGN-POR-72,20180915-RGN-POR-473,12:01,12:21,Jessica Anne Fishlock,RGN,challenge,1st half,0,97.0,1.9
+20180915-RGN-POR-73,20180915-RGN-POR-474,12:01,12:21,Meghan Elizabeth Klingenberg,POR,challenge,1st half,1,8.0,66.1
+20180915-RGN-POR-74,20180915-RGN-POR-475,12:01,12:21,Meghan Elizabeth Klingenberg,POR,tackle,1st half,1,8.0,66.1
+20180915-RGN-POR-75,20180915-RGN-POR-483,12:13,12:33,Megan Leigh Oyster,RGN,recovery,1st half,null,74.6,1.0
+20180915-RGN-POR-76,20180915-RGN-POR-487,12:17,12:37,Alexandra Linsley Long Batista,RGN,challenge,1st half,0,88.6,0.7
+20180915-RGN-POR-77,20180915-RGN-POR-489,12:17,12:37,Lindsey Michelle Horan,POR,challenge,1st half,1,16.4,67.3
+20180915-RGN-POR-78,20180915-RGN-POR-491,12:17,12:37,Lindsey Michelle Horan,POR,tackle,1st half,1,16.4,67.3
+20180915-RGN-POR-79,20180915-RGN-POR-492,12:17,12:37,Alexandra Linsley Long Batista,RGN,take_on,1st half,0,88.6,0.7
+20180915-RGN-POR-80,20180915-RGN-POR-493,12:19,12:39,Alexandra Linsley Long Batista,RGN,foul,1st half,null,86.7,2.4
+20180915-RGN-POR-81,20180915-RGN-POR-506,13:08,13:28,Emily Ann Sonnett,POR,recovery,1st half,null,35.1,51.0
+20180915-RGN-POR-82,20180915-RGN-POR-512,13:15,13:35,Stephanie-Elise Catley,RGN,recovery,1st half,null,47.0,53.4
+20180915-RGN-POR-83,20180915-RGN-POR-521,13:38,13:58,Christine Margaret Sinclair,POR,challenge,1st half,0,54.4,6.9
+20180915-RGN-POR-84,20180915-RGN-POR-522,13:38,13:58,Rumi Utsugi,RGN,challenge,1st half,1,50.6,61.1
+20180915-RGN-POR-85,20180915-RGN-POR-526,13:40,14:00,Lindsey Michelle Horan,POR,recovery,1st half,null,49.8,11.7
+20180915-RGN-POR-86,20180915-RGN-POR-529,13:41,14:01,Stephanie-Elise Catley,RGN,recovery,1st half,null,42.6,60.3
+20180915-RGN-POR-87,20180915-RGN-POR-551,13:59,14:19,Adrianna Nichole Franch,POR,recovery,1st half,null,5.7,35.9
+20180915-RGN-POR-88,20180915-RGN-POR-554,14:03,14:23,Lindsey Michelle Horan,POR,take_on,1st half,1,26.5,51.5
+20180915-RGN-POR-89,20180915-RGN-POR-555,14:03,14:23,Jessica Anne Fishlock,RGN,tackle,1st half,0,78.5,16.5
+20180915-RGN-POR-90,20180915-RGN-POR-556,14:03,14:23,Jessica Anne Fishlock,RGN,challenge,1st half,0,78.5,16.5
+20180915-RGN-POR-91,20180915-RGN-POR-557,14:03,14:23,Jessica Anne Fishlock,RGN,foul,1st half,null,78.8,16.8
+20180915-RGN-POR-92,20180915-RGN-POR-566,14:44,15:04,Jessica Anne Fishlock,RGN,challenge,1st half,0,39.1,17.5
+20180915-RGN-POR-93,20180915-RGN-POR-571,14:44,15:04,Celeste Anais Boureille,POR,challenge,1st half,1,65.9,50.5
+20180915-RGN-POR-94,20180915-RGN-POR-573,14:46,15:06,Theresa Eslund,RGN,recovery,1st half,null,30.7,16.8
+20180915-RGN-POR-95,20180915-RGN-POR-576,14:49,15:09,Emily Townsend Menges,POR,challenge,1st half,1,32.5,55.1
+20180915-RGN-POR-96,20180915-RGN-POR-577,14:49,15:09,Jodie Lee Taylor,RGN,challenge,1st half,0,72.5,12.9
+20180915-RGN-POR-97,20180915-RGN-POR-585,14:54,15:14,Megan Anna Rapinoe,RGN,recovery,1st half,null,83.4,39.0
+20180915-RGN-POR-98,20180915-RGN-POR-600,15:09,15:29,Christine Margaret Sinclair,POR,recovery,1st half,null,31.9,19.6
+20180915-RGN-POR-99,20180915-RGN-POR-601,15:09,15:29,Christine Margaret Sinclair,POR,dribble,1st half,1,31.5,19.6
+20180915-RGN-POR-100,20180915-RGN-POR-605,15:18,15:38,Megan Leigh Oyster,RGN,recovery,1st half,null,11.6,57.7
+20180915-RGN-POR-101,20180915-RGN-POR-612,15:52,16:12,Lauren Kate Barnes,RGN,challenge,1st half,0,6.9,45.0
+20180915-RGN-POR-102,20180915-RGN-POR-613,15:52,16:12,Margaret Purce,POR,challenge,1st half,1,98.1,23.0
+20180915-RGN-POR-103,20180915-RGN-POR-630,16:28,16:48,Celeste Anais Boureille,POR,challenge,1st half,0,101.0,25.9
+20180915-RGN-POR-104,20180915-RGN-POR-631,16:28,16:48,Jodie Lee Taylor,RGN,challenge,1st half,1,4.0,42.1
+20180915-RGN-POR-105,20180915-RGN-POR-644,16:55,17:15,Lydia Grace Yilkari Williams,RGN,save,1st half,null,5.5,41.2
+20180915-RGN-POR-106,20180915-RGN-POR-647,16:55,17:15,Caitlin Jade Foord,POR,recovery,1st half,null,99.5,26.8
+20180915-RGN-POR-107,20180915-RGN-POR-657,16:57,17:17,Lydia Grace Yilkari Williams,RGN,save,1st half,null,6.7,38.8
+20180915-RGN-POR-108,20180915-RGN-POR-662,16:57,17:17,Margaret Purce,POR,recovery,1st half,null,98.3,29.2
+20180915-RGN-POR-109,20180915-RGN-POR-666,16:59,17:19,Tobin Powell Powell Heath,POR,recovery,1st half,null,91.6,31.8
+20180915-RGN-POR-110,20180915-RGN-POR-675,17:02,17:22,Margaret Purce,POR,challenge,1st half,0,100.6,34.7
+20180915-RGN-POR-111,20180915-RGN-POR-676,17:02,17:22,Lauren Kate Barnes,RGN,challenge,1st half,1,4.4,33.3
+20180915-RGN-POR-112,20180915-RGN-POR-680,17:04,17:24,Rumi Utsugi,RGN,recovery,1st half,null,7.6,30.4
+20180915-RGN-POR-113,20180915-RGN-POR-682,17:06,17:26,Jessica Anne Fishlock,RGN,challenge,1st half,0,8.8,16.3
+20180915-RGN-POR-114,20180915-RGN-POR-683,17:06,17:26,Tobin Powell Powell Heath,POR,challenge,1st half,1,96.2,51.7
+20180915-RGN-POR-115,20180915-RGN-POR-685,17:06,17:26,Tobin Powell Powell Heath,POR,tackle,1st half,1,96.2,51.7
+20180915-RGN-POR-116,20180915-RGN-POR-686,17:06,17:26,Tobin Powell Powell Heath,POR,dribble,1st half,1,96.2,51.7
+20180915-RGN-POR-117,20180915-RGN-POR-688,17:14,17:34,Theresa Eslund,RGN,challenge,1st half,1,0.8,2.9
+20180915-RGN-POR-118,20180915-RGN-POR-690,17:14,17:34,Tobin Powell Powell Heath,POR,take_on,1st half,0,104.2,65.1
+20180915-RGN-POR-119,20180915-RGN-POR-691,17:14,17:34,Theresa Eslund,RGN,tackle,1st half,1,0.8,2.9
+20180915-RGN-POR-120,20180915-RGN-POR-692,17:14,17:34,Tobin Powell Powell Heath,POR,challenge,1st half,0,104.2,65.1
+20180915-RGN-POR-121,20180915-RGN-POR-701,17:42,18:02,Jasmyne Spencer,RGN,recovery,1st half,null,18.1,21.8
+20180915-RGN-POR-122,20180915-RGN-POR-702,17:42,18:02,Jasmyne Spencer,RGN,challenge,1st half,0,18.1,21.8
+20180915-RGN-POR-123,20180915-RGN-POR-703,17:42,18:02,Meghan Elizabeth Klingenberg,POR,challenge,1st half,1,86.9,46.2
+20180915-RGN-POR-124,20180915-RGN-POR-704,17:42,18:02,Jasmyne Spencer,RGN,take_on,1st half,0,18.1,21.8
+20180915-RGN-POR-125,20180915-RGN-POR-705,17:42,18:02,Meghan Elizabeth Klingenberg,POR,tackle,1st half,1,86.9,46.2
+20180915-RGN-POR-126,20180915-RGN-POR-711,17:49,18:09,Tobin Powell Powell Heath,POR,dribble,1st half,1,73.1,67.3
+20180915-RGN-POR-127,20180915-RGN-POR-716,17:57,18:17,Celeste Anais Boureille,POR,dribble,1st half,1,92.2,59.9
+20180915-RGN-POR-128,20180915-RGN-POR-727,18:32,18:52,Lindsey Michelle Horan,POR,recovery,1st half,null,88.8,18.9
+20180915-RGN-POR-129,20180915-RGN-POR-729,18:35,18:55,Lindsey Michelle Horan,POR,challenge,1st half,0,86.9,17.2
+20180915-RGN-POR-130,20180915-RGN-POR-730,18:35,18:55,Megan Leigh Oyster,RGN,tackle,1st half,1,18.1,50.8
+20180915-RGN-POR-131,20180915-RGN-POR-731,18:35,18:55,Megan Leigh Oyster,RGN,challenge,1st half,1,18.1,50.8
+20180915-RGN-POR-132,20180915-RGN-POR-739,18:56,19:16,Lindsey Michelle Horan,POR,challenge,1st half,1,100.6,21.5
+20180915-RGN-POR-133,20180915-RGN-POR-741,18:56,19:16,Stephanie-Elise Catley,RGN,challenge,1st half,0,4.4,46.5
+20180915-RGN-POR-134,20180915-RGN-POR-745,18:58,19:18,Megan Anna Rapinoe,RGN,recovery,1st half,null,13.0,50.3
+20180915-RGN-POR-135,20180915-RGN-POR-750,19:00,19:20,Rumi Utsugi,RGN,challenge,1st half,1,14.1,43.1
+20180915-RGN-POR-136,20180915-RGN-POR-751,19:00,19:20,Christine Margaret Sinclair,POR,challenge,1st half,0,90.9,24.9
+20180915-RGN-POR-137,20180915-RGN-POR-755,19:02,19:22,Megan Leigh Oyster,RGN,recovery,1st half,null,14.9,31.4
+20180915-RGN-POR-138,20180915-RGN-POR-762,19:05,19:25,Emily Townsend Menges,POR,recovery,1st half,null,55.0,38.5
+20180915-RGN-POR-139,20180915-RGN-POR-763,19:06,19:26,Jasmyne Spencer,RGN,recovery,1st half,null,34.0,21.8
+20180915-RGN-POR-140,20180915-RGN-POR-765,19:06,19:26,Jasmyne Spencer,RGN,dribble,1st half,1,34.0,21.8
+20180915-RGN-POR-141,20180915-RGN-POR-773,19:15,19:35,Stephanie-Elise Catley,RGN,dribble,1st half,1,60.5,57.5
+20180915-RGN-POR-142,20180915-RGN-POR-779,19:20,19:40,Stephanie-Elise Catley,RGN,dribble,1st half,1,87.8,59.9
+20180915-RGN-POR-143,20180915-RGN-POR-786,19:27,19:47,Meghan Elizabeth Klingenberg,POR,recovery,1st half,null,6.1,40.7
+20180915-RGN-POR-144,20180915-RGN-POR-789,19:30,19:50,Alexandra Linsley Long Batista,RGN,recovery,1st half,null,69.5,11.5
+20180915-RGN-POR-145,20180915-RGN-POR-798,19:35,19:55,Jessica Anne Fishlock,RGN,challenge,1st half,1,92.2,40.5
+20180915-RGN-POR-146,20180915-RGN-POR-800,19:35,19:55,Emily Ann Sonnett,POR,challenge,1st half,0,12.8,27.5
+20180915-RGN-POR-147,20180915-RGN-POR-810,19:41,20:01,Margaret Purce,POR,recovery,1st half,null,26.5,3.4
+20180915-RGN-POR-148,20180915-RGN-POR-843,20:48,21:08,Megan Anna Rapinoe,RGN,challenge,1st half,0,79.0,61.5
+20180915-RGN-POR-149,20180915-RGN-POR-844,20:48,21:08,Ellie Madison Carpenter,POR,tackle,1st half,1,26.0,6.5
+20180915-RGN-POR-150,20180915-RGN-POR-845,20:48,21:08,Ellie Madison Carpenter,POR,challenge,1st half,1,26.0,6.5
+20180915-RGN-POR-151,20180915-RGN-POR-878,21:43,22:03,Alexandra Linsley Long Batista,RGN,recovery,1st half,null,80.0,33.3
+20180915-RGN-POR-152,20180915-RGN-POR-880,21:43,22:03,Tobin Powell Powell Heath,POR,tackle,1st half,1,20.6,34.5
+20180915-RGN-POR-153,20180915-RGN-POR-882,21:43,22:03,Alexandra Linsley Long Batista,RGN,challenge,1st half,0,84.4,33.5
+20180915-RGN-POR-154,20180915-RGN-POR-883,21:43,22:03,Tobin Powell Powell Heath,POR,challenge,1st half,1,20.6,34.5
+20180915-RGN-POR-155,20180915-RGN-POR-887,21:46,22:06,Celeste Anais Boureille,POR,recovery,1st half,null,19.7,22.0
+20180915-RGN-POR-156,20180915-RGN-POR-888,21:47,22:07,Margaret Purce,POR,challenge,1st half,0,27.5,6.5
+20180915-RGN-POR-157,20180915-RGN-POR-890,21:47,22:07,Stephanie-Elise Catley,RGN,challenge,1st half,1,77.5,61.5
+20180915-RGN-POR-158,20180915-RGN-POR-891,21:47,22:07,Stephanie-Elise Catley,RGN,tackle,1st half,1,77.5,61.5
+20180915-RGN-POR-159,20180915-RGN-POR-892,21:47,22:07,Margaret Purce,POR,take_on,1st half,0,27.5,6.5
+20180915-RGN-POR-160,20180915-RGN-POR-893,21:51,22:11,Stephanie-Elise Catley,RGN,recovery,1st half,null,98.1,67.0
+20180915-RGN-POR-161,20180915-RGN-POR-898,21:53,22:13,Stephanie-Elise Catley,RGN,challenge,1st half,0,96.6,62.5
+20180915-RGN-POR-162,20180915-RGN-POR-899,21:53,22:13,Ellie Madison Carpenter,POR,challenge,1st half,1,8.4,5.5
+20180915-RGN-POR-163,20180915-RGN-POR-900,21:53,22:13,Stephanie-Elise Catley,RGN,take_on,1st half,0,96.6,62.5
+20180915-RGN-POR-164,20180915-RGN-POR-901,21:53,22:13,Ellie Madison Carpenter,POR,tackle,1st half,1,8.4,5.5
+20180915-RGN-POR-165,20180915-RGN-POR-903,21:54,22:14,Celeste Anais Boureille,POR,recovery,1st half,null,10.9,12.5
+20180915-RGN-POR-166,20180915-RGN-POR-908,21:59,22:19,Lauren Kate Barnes,RGN,recovery,1st half,null,66.8,63.2
+20180915-RGN-POR-167,20180915-RGN-POR-919,22:22,22:42,Alexandra Linsley Long Batista,RGN,dribble,1st half,1,47.7,50.3
+20180915-RGN-POR-168,20180915-RGN-POR-930,22:36,22:56,Lauren Kate Barnes,RGN,dribble,1st half,1,40.3,47.4
+20180915-RGN-POR-169,20180915-RGN-POR-940,22:48,23:08,Celeste Anais Boureille,POR,recovery,1st half,null,25.6,24.2
+20180915-RGN-POR-170,20180915-RGN-POR-947,23:16,23:36,Jasmyne Spencer,RGN,challenge,1st half,0,86.7,6.5
+20180915-RGN-POR-171,20180915-RGN-POR-949,23:16,23:36,Emily Townsend Menges,POR,challenge,1st half,1,18.3,61.5
+20180915-RGN-POR-172,20180915-RGN-POR-951,23:16,23:36,Emily Townsend Menges,POR,tackle,1st half,1,18.3,61.5
+20180915-RGN-POR-173,20180915-RGN-POR-952,23:16,23:36,Jasmyne Spencer,RGN,take_on,1st half,0,86.7,6.5
+20180915-RGN-POR-174,20180915-RGN-POR-953,23:18,23:38,Meghan Elizabeth Klingenberg,POR,challenge,1st half,1,6.3,63.9
+20180915-RGN-POR-175,20180915-RGN-POR-954,23:18,23:38,Jasmyne Spencer,RGN,challenge,1st half,0,98.7,4.1
+20180915-RGN-POR-176,20180915-RGN-POR-958,23:26,23:46,Megan Leigh Oyster,RGN,challenge,1st half,0,45.2,59.4
+20180915-RGN-POR-177,20180915-RGN-POR-960,23:26,23:46,Caitlin Jade Foord,POR,challenge,1st half,1,59.8,8.6
+20180915-RGN-POR-178,20180915-RGN-POR-962,23:27,23:47,Alexandra Linsley Long Batista,RGN,recovery,1st half,null,63.0,9.1
+20180915-RGN-POR-179,20180915-RGN-POR-969,23:31,23:51,Lauren Kate Barnes,RGN,recovery,1st half,null,44.3,12.2
+20180915-RGN-POR-180,20180915-RGN-POR-971,23:31,23:51,Christine Margaret Sinclair,POR,foul,1st half,null,60.7,53.6
+20180915-RGN-POR-181,20180915-RGN-POR-983,24:25,24:45,Stephanie-Elise Catley,RGN,recovery,1st half,null,75.6,64.2
+20180915-RGN-POR-182,20180915-RGN-POR-985,24:26,24:46,Megan Anna Rapinoe,RGN,dribble,1st half,1,83.6,60.3
+20180915-RGN-POR-183,20180915-RGN-POR-1048,26:26,26:46,Emily Ann Sonnett,POR,foul,1st half,null,7.3,11.0
+20180915-RGN-POR-184,20180915-RGN-POR-1059,27:51,28:11,Jasmyne Spencer,RGN,recovery,1st half,null,101.6,28.0
+20180915-RGN-POR-185,20180915-RGN-POR-1074,29:15,29:35,Margaret Purce,POR,dribble,1st half,1,72.0,3.6
+20180915-RGN-POR-186,20180915-RGN-POR-1075,29:15,29:35,Margaret Purce,POR,recovery,1st half,null,72.0,3.6
+20180915-RGN-POR-187,20180915-RGN-POR-1076,29:17,29:37,Rumi Utsugi,RGN,tackle,1st half,0,28.6,64.9
+20180915-RGN-POR-188,20180915-RGN-POR-1077,29:17,29:37,Margaret Purce,POR,take_on,1st half,1,76.4,3.1
+20180915-RGN-POR-189,20180915-RGN-POR-1078,29:17,29:37,Rumi Utsugi,RGN,challenge,1st half,0,28.6,64.9
+20180915-RGN-POR-190,20180915-RGN-POR-1091,29:22,29:42,Jessica Anne Fishlock,RGN,dribble,1st half,1,22.5,46.0
+20180915-RGN-POR-191,20180915-RGN-POR-1095,29:28,29:48,Jodie Lee Taylor,RGN,challenge,1st half,0,49.1,44.3
+20180915-RGN-POR-192,20180915-RGN-POR-1097,29:28,29:48,Lindsey Michelle Horan,POR,challenge,1st half,1,55.9,23.7
+20180915-RGN-POR-193,20180915-RGN-POR-1098,29:28,29:48,Lindsey Michelle Horan,POR,tackle,1st half,1,55.9,23.7
+20180915-RGN-POR-194,20180915-RGN-POR-1099,29:28,29:48,Jodie Lee Taylor,RGN,take_on,1st half,0,49.1,44.3
+20180915-RGN-POR-195,20180915-RGN-POR-1100,29:30,29:50,Emily Ann Sonnett,POR,recovery,1st half,null,51.2,27.5
+20180915-RGN-POR-196,20180915-RGN-POR-1103,29:30,29:50,Jessica Anne Fishlock,RGN,challenge,1st half,0,53.8,40.5
+20180915-RGN-POR-197,20180915-RGN-POR-1104,29:30,29:50,Jessica Anne Fishlock,RGN,tackle,1st half,0,53.8,40.5
+20180915-RGN-POR-198,20180915-RGN-POR-1105,29:30,29:50,Emily Ann Sonnett,POR,take_on,1st half,1,51.2,27.5
+20180915-RGN-POR-199,20180915-RGN-POR-1107,29:33,29:53,Emily Ann Sonnett,POR,challenge,1st half,0,55.4,39.0
+20180915-RGN-POR-200,20180915-RGN-POR-1108,29:33,29:53,Jasmyne Spencer,RGN,challenge,1st half,1,49.6,29.0
+20180915-RGN-POR-201,20180915-RGN-POR-1109,29:33,29:53,Jasmyne Spencer,RGN,tackle,1st half,1,49.6,29.0
+20180915-RGN-POR-202,20180915-RGN-POR-1111,29:35,29:55,Megan Leigh Oyster,RGN,recovery,1st half,null,38.0,24.7
+20180915-RGN-POR-203,20180915-RGN-POR-1129,29:46,30:06,Celeste Anais Boureille,POR,recovery,1st half,null,53.8,17.5
+20180915-RGN-POR-204,20180915-RGN-POR-1132,29:48,30:08,Stephanie-Elise Catley,RGN,challenge,1st half,1,33.6,59.1
+20180915-RGN-POR-205,20180915-RGN-POR-1133,29:48,30:08,Margaret Purce,POR,challenge,1st half,0,71.4,8.9
+20180915-RGN-POR-206,20180915-RGN-POR-1134,29:48,30:08,Stephanie-Elise Catley,RGN,tackle,1st half,1,33.6,59.1
+20180915-RGN-POR-207,20180915-RGN-POR-1138,29:50,30:10,Rumi Utsugi,RGN,recovery,1st half,null,39.1,52.0
+20180915-RGN-POR-208,20180915-RGN-POR-1142,29:53,30:13,Jessica Anne Fishlock,RGN,take_on,1st half,1,48.5,49.6
+20180915-RGN-POR-209,20180915-RGN-POR-1145,29:53,30:13,Jessica Anne Fishlock,RGN,dribble,1st half,1,48.5,49.6
+20180915-RGN-POR-210,20180915-RGN-POR-1146,29:53,30:13,Celeste Anais Boureille,POR,challenge,1st half,0,56.5,18.4
+20180915-RGN-POR-211,20180915-RGN-POR-1147,29:53,30:13,Celeste Anais Boureille,POR,tackle,1st half,0,56.5,18.4
+20180915-RGN-POR-212,20180915-RGN-POR-1151,29:59,30:19,Megan Anna Rapinoe,RGN,dribble,1st half,1,96.8,55.5
+20180915-RGN-POR-213,20180915-RGN-POR-1161,30:06,30:26,Jodie Lee Taylor,RGN,recovery,1st half,null,97.9,35.4
+20180915-RGN-POR-214,20180915-RGN-POR-1162,30:07,30:27,Jodie Lee Taylor,RGN,challenge,1st half,0,96.4,35.9
+20180915-RGN-POR-215,20180915-RGN-POR-1164,30:07,30:27,Celeste Anais Boureille,POR,challenge,1st half,1,8.6,32.1
+20180915-RGN-POR-216,20180915-RGN-POR-1165,30:07,30:27,Celeste Anais Boureille,POR,tackle,1st half,1,8.6,32.1
+20180915-RGN-POR-217,20180915-RGN-POR-1168,30:09,30:29,Alexandra Linsley Long Batista,RGN,recovery,1st half,null,73.5,30.4
+20180915-RGN-POR-218,20180915-RGN-POR-1172,30:12,30:32,Adrianna Nichole Franch,POR,save,1st half,null,26.9,41.9
+20180915-RGN-POR-219,20180915-RGN-POR-1181,30:23,30:43,Jasmyne Spencer,RGN,challenge,1st half,0,63.8,1.2
+20180915-RGN-POR-220,20180915-RGN-POR-1182,30:23,30:43,Tobin Powell Powell Heath,POR,tackle,1st half,1,41.2,66.8
+20180915-RGN-POR-221,20180915-RGN-POR-1183,30:23,30:43,Jasmyne Spencer,RGN,take_on,1st half,0,63.8,1.2
+20180915-RGN-POR-222,20180915-RGN-POR-1184,30:23,30:43,Tobin Powell Powell Heath,POR,challenge,1st half,1,41.2,66.8
+20180915-RGN-POR-223,20180915-RGN-POR-1234,31:55,32:15,Adrianna Nichole Franch,POR,save,1st half,null,20.4,25.9
+20180915-RGN-POR-224,20180915-RGN-POR-1240,31:55,32:15,Jodie Lee Taylor,RGN,recovery,1st half,null,84.6,42.1
+20180915-RGN-POR-225,20180915-RGN-POR-1248,32:43,33:03,Alexandra Linsley Long Batista,RGN,challenge,1st half,0,100.8,34.2
+20180915-RGN-POR-226,20180915-RGN-POR-1249,32:43,33:03,Lindsey Michelle Horan,POR,challenge,1st half,1,4.2,33.8
+20180915-RGN-POR-227,20180915-RGN-POR-1252,32:43,33:03,Megan Anna Rapinoe,RGN,recovery,1st half,null,99.1,40.2
+20180915-RGN-POR-228,20180915-RGN-POR-1258,32:47,33:07,Tobin Powell Powell Heath,POR,recovery,1st half,null,4.6,48.4
+20180915-RGN-POR-229,20180915-RGN-POR-1264,33:03,33:23,Theresa Eslund,RGN,challenge,1st half,1,70.1,11.0
+20180915-RGN-POR-230,20180915-RGN-POR-1265,33:03,33:23,Christine Margaret Sinclair,POR,challenge,1st half,0,34.9,57.0
+20180915-RGN-POR-231,20180915-RGN-POR-1268,33:06,33:26,Rumi Utsugi,RGN,challenge,1st half,0,56.3,21.1
+20180915-RGN-POR-232,20180915-RGN-POR-1269,33:06,33:26,Christine Margaret Sinclair,POR,challenge,1st half,1,48.7,46.9
+20180915-RGN-POR-233,20180915-RGN-POR-1272,33:06,33:26,Christine Margaret Sinclair,POR,dribble,1st half,1,50.2,45.5
+20180915-RGN-POR-234,20180915-RGN-POR-1295,33:31,33:51,Alexandra Linsley Long Batista,RGN,challenge,1st half,0,5.9,39.0
+20180915-RGN-POR-235,20180915-RGN-POR-1296,33:31,33:51,Lindsey Michelle Horan,POR,challenge,1st half,1,99.1,29.0
+20180915-RGN-POR-236,20180915-RGN-POR-1301,34:06,34:26,Lindsey Michelle Horan,POR,challenge,1st half,1,55.7,17.7
+20180915-RGN-POR-237,20180915-RGN-POR-1302,34:06,34:26,Alexandra Linsley Long Batista,RGN,challenge,1st half,0,49.3,50.3
+20180915-RGN-POR-238,20180915-RGN-POR-1307,34:07,34:27,Ellie Madison Carpenter,POR,recovery,1st half,null,49.8,11.7
+20180915-RGN-POR-239,20180915-RGN-POR-1323,34:39,34:59,Jodie Lee Taylor,RGN,challenge,1st half,1,38.4,66.1
+20180915-RGN-POR-240,20180915-RGN-POR-1324,34:39,34:59,Ellie Madison Carpenter,POR,challenge,1st half,0,66.6,1.9
+20180915-RGN-POR-241,20180915-RGN-POR-1327,34:45,35:05,Meghan Elizabeth Klingenberg,POR,recovery,1st half,null,48.7,45.5
+20180915-RGN-POR-242,20180915-RGN-POR-1333,34:57,35:17,Lydia Grace Yilkari Williams,RGN,recovery,1st half,null,7.3,30.9
+20180915-RGN-POR-243,20180915-RGN-POR-1340,35:17,35:37,Ellie Madison Carpenter,POR,challenge,1st half,0,39.7,17.7
+20180915-RGN-POR-244,20180915-RGN-POR-1341,35:17,35:37,Megan Anna Rapinoe,RGN,challenge,1st half,1,65.3,50.3
+20180915-RGN-POR-245,20180915-RGN-POR-1344,35:19,35:39,Jodie Lee Taylor,RGN,take_on,1st half,0,80.0,52.9
+20180915-RGN-POR-246,20180915-RGN-POR-1345,35:19,35:39,Jodie Lee Taylor,RGN,challenge,1st half,0,80.0,52.9
+20180915-RGN-POR-247,20180915-RGN-POR-1346,35:19,35:39,Emily Ann Sonnett,POR,tackle,1st half,1,25.0,15.1
+20180915-RGN-POR-248,20180915-RGN-POR-1347,35:19,35:39,Emily Ann Sonnett,POR,challenge,1st half,1,25.0,15.1
+20180915-RGN-POR-249,20180915-RGN-POR-1352,35:41,36:01,Stephanie-Elise Catley,RGN,recovery,1st half,null,76.7,63.7
+20180915-RGN-POR-250,20180915-RGN-POR-1356,35:43,36:03,Alexandra Linsley Long Batista,RGN,challenge,1st half,1,71.8,61.5
+20180915-RGN-POR-251,20180915-RGN-POR-1357,35:43,36:03,Caitlin Jade Foord,POR,challenge,1st half,0,33.2,6.5
+20180915-RGN-POR-252,20180915-RGN-POR-1391,36:16,36:36,Jodie Lee Taylor,RGN,recovery,1st half,null,94.7,32.3
+20180915-RGN-POR-253,20180915-RGN-POR-1397,36:17,36:37,Adrianna Nichole Franch,POR,save,1st half,null,9.2,34.0
+20180915-RGN-POR-254,20180915-RGN-POR-1410,36:51,37:11,Megan Leigh Oyster,RGN,challenge,1st half,0,101.8,34.0
+20180915-RGN-POR-255,20180915-RGN-POR-1412,36:51,37:11,Adrianna Nichole Franch,POR,challenge,1st half,1,3.2,34.0
+20180915-RGN-POR-256,20180915-RGN-POR-1415,36:51,37:11,Megan Leigh Oyster,RGN,foul,1st half,null,101.4,33.8
+20180915-RGN-POR-257,20180915-RGN-POR-1420,37:12,37:32,Jasmyne Spencer,RGN,challenge,1st half,0,56.3,6.9
+20180915-RGN-POR-258,20180915-RGN-POR-1421,37:12,37:32,Lindsey Michelle Horan,POR,challenge,1st half,1,48.7,61.1
+20180915-RGN-POR-259,20180915-RGN-POR-1423,37:14,37:34,Tobin Powell Powell Heath,POR,recovery,1st half,null,55.0,66.3
+20180915-RGN-POR-260,20180915-RGN-POR-1437,37:23,37:43,Lauren Kate Barnes,RGN,recovery,1st half,null,34.2,17.2
+20180915-RGN-POR-261,20180915-RGN-POR-1455,37:39,37:59,Jessica Anne Fishlock,RGN,dribble,1st half,1,65.3,50.0
+20180915-RGN-POR-262,20180915-RGN-POR-1457,37:41,38:01,Jessica Anne Fishlock,RGN,take_on,1st half,1,70.1,56.3
+20180915-RGN-POR-263,20180915-RGN-POR-1459,37:41,38:01,Celeste Anais Boureille,POR,challenge,1st half,0,34.9,11.7
+20180915-RGN-POR-264,20180915-RGN-POR-1460,37:41,38:01,Celeste Anais Boureille,POR,tackle,1st half,0,34.9,11.7
+20180915-RGN-POR-265,20180915-RGN-POR-1474,37:52,38:12,Jasmyne Spencer,RGN,recovery,1st half,null,87.2,23.5
+20180915-RGN-POR-266,20180915-RGN-POR-1488,37:56,38:16,Adrianna Nichole Franch,POR,save,1st half,null,3.4,30.9
+20180915-RGN-POR-267,20180915-RGN-POR-1496,37:59,38:19,Ellie Madison Carpenter,POR,recovery,1st half,null,1.0,18.9
+20180915-RGN-POR-268,20180915-RGN-POR-1519,38:46,39:06,Alexandra Linsley Long Batista,RGN,challenge,1st half,1,30.2,55.3
+20180915-RGN-POR-269,20180915-RGN-POR-1524,38:46,39:06,Christine Margaret Sinclair,POR,challenge,1st half,0,74.8,12.7
+20180915-RGN-POR-270,20180915-RGN-POR-1542,39:00,39:20,Jessica Anne Fishlock,RGN,foul,1st half,null,32.3,42.9
+20180915-RGN-POR-271,20180915-RGN-POR-1548,39:50,40:10,Emily Ann Sonnett,POR,challenge,1st half,0,95.8,36.6
+20180915-RGN-POR-272,20180915-RGN-POR-1549,39:50,40:10,Alexandra Linsley Long Batista,RGN,challenge,1st half,1,9.2,31.4
+20180915-RGN-POR-273,20180915-RGN-POR-1552,39:52,40:12,Meghan Elizabeth Klingenberg,POR,challenge,1st half,0,90.1,39.5
+20180915-RGN-POR-274,20180915-RGN-POR-1553,39:52,40:12,Jodie Lee Taylor,RGN,challenge,1st half,1,14.9,28.5
+20180915-RGN-POR-275,20180915-RGN-POR-1562,39:54,40:14,Margaret Purce,POR,recovery,1st half,null,92.0,51.5
+20180915-RGN-POR-276,20180915-RGN-POR-1567,39:56,40:16,Emily Ann Sonnett,POR,foul,1st half,null,101.2,39.0
+20180915-RGN-POR-277,20180915-RGN-POR-1572,41:24,41:44,Jessica Anne Fishlock,RGN,challenge,1st half,0,48.5,29.2
+20180915-RGN-POR-278,20180915-RGN-POR-1573,41:24,41:44,Celeste Anais Boureille,POR,challenge,1st half,1,56.5,38.8
+20180915-RGN-POR-279,20180915-RGN-POR-1582,41:30,41:50,Stephanie-Elise Catley,RGN,challenge,1st half,1,33.4,50.8
+20180915-RGN-POR-280,20180915-RGN-POR-1583,41:30,41:50,Margaret Purce,POR,challenge,1st half,0,71.6,17.2
+20180915-RGN-POR-281,20180915-RGN-POR-1584,41:30,41:50,Stephanie-Elise Catley,RGN,tackle,1st half,1,33.4,50.8
+20180915-RGN-POR-282,20180915-RGN-POR-1586,41:31,41:51,Celeste Anais Boureille,POR,challenge,1st half,0,63.6,18.0
+20180915-RGN-POR-283,20180915-RGN-POR-1587,41:31,41:51,Megan Anna Rapinoe,RGN,challenge,1st half,1,41.4,50.0
+20180915-RGN-POR-284,20180915-RGN-POR-1592,41:32,41:52,Margaret Purce,POR,recovery,1st half,null,70.3,16.5
+20180915-RGN-POR-285,20180915-RGN-POR-1615,41:51,42:11,Jasmyne Spencer,RGN,recovery,1st half,null,9.7,15.6
+20180915-RGN-POR-286,20180915-RGN-POR-1617,41:56,42:16,Emily Townsend Menges,POR,recovery,1st half,null,54.0,65.1
+20180915-RGN-POR-287,20180915-RGN-POR-1635,42:11,42:31,Lydia Grace Yilkari Williams,RGN,recovery,1st half,null,3.8,33.8
+20180915-RGN-POR-288,20180915-RGN-POR-1638,42:27,42:47,Megan Anna Rapinoe,RGN,challenge,1st half,0,63.2,61.1
+20180915-RGN-POR-289,20180915-RGN-POR-1640,42:27,42:47,Ellie Madison Carpenter,POR,challenge,1st half,1,41.8,6.9
+20180915-RGN-POR-290,20180915-RGN-POR-1653,42:34,42:54,Christine Margaret Sinclair,POR,challenge,1st half,1,59.4,9.6
+20180915-RGN-POR-291,20180915-RGN-POR-1655,42:34,42:54,Rumi Utsugi,RGN,challenge,1st half,0,45.6,58.4
+20180915-RGN-POR-292,20180915-RGN-POR-1659,42:40,43:00,Lindsey Michelle Horan,POR,dribble,1st half,1,71.6,38.5
+20180915-RGN-POR-293,20180915-RGN-POR-1683,44:07,44:27,Alexandra Linsley Long Batista,RGN,challenge,1st half,0,79.6,52.4
+20180915-RGN-POR-294,20180915-RGN-POR-1684,44:07,44:27,Caitlin Jade Foord,POR,challenge,1st half,1,25.4,15.6
+20180915-RGN-POR-295,20180915-RGN-POR-1685,44:07,44:27,Alexandra Linsley Long Batista,RGN,foul,1st half,null,79.8,52.4
+20180915-RGN-POR-296,20180915-RGN-POR-1699,44:47,45:07,Jodie Lee Taylor,RGN,tackle,1st half,0,34.7,42.4
+20180915-RGN-POR-297,20180915-RGN-POR-1700,44:47,45:07,Jodie Lee Taylor,RGN,challenge,1st half,0,34.7,42.4
+20180915-RGN-POR-298,20180915-RGN-POR-1701,44:47,45:07,Lindsey Michelle Horan,POR,recovery,1st half,null,70.3,25.6
+20180915-RGN-POR-299,20180915-RGN-POR-1703,44:47,45:07,Lindsey Michelle Horan,POR,take_on,1st half,1,70.3,25.6
+20180915-RGN-POR-300,20180915-RGN-POR-1705,44:47,45:07,Lindsey Michelle Horan,POR,dribble,1st half,1,71.0,24.9
+20180915-RGN-POR-301,20180915-RGN-POR-1709,44:52,45:12,Caitlin Jade Foord,POR,challenge,1st half,0,82.5,14.4
+20180915-RGN-POR-302,20180915-RGN-POR-1710,44:52,45:12,Lauren Kate Barnes,RGN,challenge,1st half,1,22.5,53.6
+20180915-RGN-POR-303,20180915-RGN-POR-1712,44:53,45:13,Jodie Lee Taylor,RGN,recovery,1st half,null,29.6,54.6
+20180915-RGN-POR-304,20180915-RGN-POR-1713,44:55,45:15,Caitlin Jade Foord,POR,challenge,1st half,1,73.7,18.7
+20180915-RGN-POR-305,20180915-RGN-POR-1714,44:55,45:15,Caitlin Jade Foord,POR,tackle,1st half,1,73.7,18.7
+20180915-RGN-POR-306,20180915-RGN-POR-1716,44:55,45:15,Jodie Lee Taylor,RGN,challenge,1st half,0,31.3,49.3
+20180915-RGN-POR-307,20180915-RGN-POR-1717,44:56,45:16,Caitlin Jade Foord,POR,dribble,1st half,1,75.4,19.9
+20180915-RGN-POR-308,20180915-RGN-POR-1725,45:02,45:22,Margaret Purce,POR,recovery,1st half,null,89.5,5.7
+20180915-RGN-POR-309,20180915-RGN-POR-1726,45:02,45:22,Margaret Purce,POR,dribble,1st half,1,89.0,4.5
+20180915-RGN-POR-310,20180915-RGN-POR-1734,45:36,45:56,Jasmyne Spencer,RGN,challenge,1st half,0,17.4,1.4
+20180915-RGN-POR-311,20180915-RGN-POR-1736,45:36,45:56,Tobin Powell Powell Heath,POR,challenge,1st half,1,87.6,66.6
+20180915-RGN-POR-312,20180915-RGN-POR-1742,45:39,45:59,Caitlin Jade Foord,POR,challenge,1st half,0,92.4,57.0
+20180915-RGN-POR-313,20180915-RGN-POR-1744,45:39,45:59,Jasmyne Spencer,RGN,challenge,1st half,1,12.6,11.0
+20180915-RGN-POR-314,20180915-RGN-POR-1745,45:39,45:59,Jasmyne Spencer,RGN,tackle,1st half,1,12.6,11.0
+20180915-RGN-POR-315,20180915-RGN-POR-1746,45:39,45:59,Caitlin Jade Foord,POR,take_on,1st half,0,92.4,57.0
+20180915-RGN-POR-316,20180915-RGN-POR-1747,45:41,46:01,Megan Leigh Oyster,RGN,recovery,1st half,null,10.5,9.1
+20180915-RGN-POR-317,20180915-RGN-POR-1751,45:46,46:06,Emily Townsend Menges,POR,recovery,1st half,null,58.0,67.8
+20180915-RGN-POR-318,20180915-RGN-POR-1764,46:03,46:23,Jasmyne Spencer,RGN,challenge,1st half,0,47.9,3.1
+20180915-RGN-POR-319,20180915-RGN-POR-1765,46:03,46:23,Meghan Elizabeth Klingenberg,POR,challenge,1st half,1,57.1,64.9
+20180915-RGN-POR-320,20180915-RGN-POR-1770,46:05,46:25,Celeste Anais Boureille,POR,recovery,1st half,null,60.7,62.7
+20180915-RGN-POR-321,20180915-RGN-POR-1771,46:07,46:27,Tobin Powell Powell Heath,POR,challenge,1st half,0,72.0,66.3
+20180915-RGN-POR-322,20180915-RGN-POR-1772,46:07,46:27,Theresa Eslund,RGN,challenge,1st half,1,33.0,1.7
+20180915-RGN-POR-323,20180915-RGN-POR-1773,46:07,46:27,Theresa Eslund,RGN,tackle,1st half,1,33.0,1.7
+20180915-RGN-POR-324,20180915-RGN-POR-1774,46:07,46:27,Tobin Powell Powell Heath,POR,take_on,1st half,0,72.0,66.3
+20180915-RGN-POR-325,20180915-RGN-POR-1786,46:21,46:41,Meghan Elizabeth Klingenberg,POR,recovery,1st half,null,68.0,67.0
+20180915-RGN-POR-326,20180915-RGN-POR-1801,46:34,46:54,Lydia Grace Yilkari Williams,RGN,recovery,1st half,null,1.1,41.2
+20180915-RGN-POR-327,20180915-RGN-POR-1810,46:53,47:13,Celeste Anais Boureille,POR,challenge,1st half,1,42.6,17.2
+20180915-RGN-POR-328,20180915-RGN-POR-1811,46:53,47:13,Jessica Anne Fishlock,RGN,challenge,1st half,0,62.4,50.8
+20180915-RGN-POR-329,20180915-RGN-POR-1819,45:01,45:21,Lauren Kate Barnes,RGN,recovery,2nd half,null,33.0,49.1
+20180915-RGN-POR-330,20180915-RGN-POR-1826,45:04,45:24,Ellie Madison Carpenter,POR,recovery,2nd half,null,49.6,6.9
+20180915-RGN-POR-331,20180915-RGN-POR-1835,45:09,45:29,Ellie Madison Carpenter,POR,recovery,2nd half,null,33.6,1.9
+20180915-RGN-POR-332,20180915-RGN-POR-1865,46:04,46:24,Alexandra Linsley Long Batista,RGN,challenge,2nd half,0,102.3,28.5
+20180915-RGN-POR-333,20180915-RGN-POR-1869,46:04,46:24,Emily Ann Sonnett,POR,challenge,2nd half,1,2.7,39.5
+20180915-RGN-POR-334,20180915-RGN-POR-1873,46:31,46:51,Megan Leigh Oyster,RGN,recovery,2nd half,null,33.6,16.3
+20180915-RGN-POR-335,20180915-RGN-POR-1878,46:34,46:54,Tobin Powell Powell Heath,POR,recovery,2nd half,null,69.1,53.9
+20180915-RGN-POR-336,20180915-RGN-POR-1880,46:35,46:55,Rumi Utsugi,RGN,foul,2nd half,null,32.1,13.2
+20180915-RGN-POR-337,20180915-RGN-POR-1893,47:54,48:14,Theresa Eslund,RGN,challenge,2nd half,0,35.3,6.5
+20180915-RGN-POR-338,20180915-RGN-POR-1895,47:54,48:14,Meghan Elizabeth Klingenberg,POR,challenge,2nd half,1,69.7,61.5
+20180915-RGN-POR-339,20180915-RGN-POR-1900,48:02,48:22,Megan Leigh Oyster,RGN,recovery,2nd half,null,20.2,2.2
+20180915-RGN-POR-340,20180915-RGN-POR-1905,48:04,48:24,Celeste Anais Boureille,POR,recovery,2nd half,null,61.7,54.8
+20180915-RGN-POR-341,20180915-RGN-POR-1913,48:09,48:29,Alexandra Linsley Long Batista,RGN,recovery,2nd half,null,29.8,6.7
+20180915-RGN-POR-342,20180915-RGN-POR-1923,48:14,48:34,Christine Margaret Sinclair,POR,recovery,2nd half,null,69.5,63.2
+20180915-RGN-POR-343,20180915-RGN-POR-1927,48:17,48:37,Theresa Eslund,RGN,foul,2nd half,null,27.5,3.8
+20180915-RGN-POR-344,20180915-RGN-POR-1953,49:17,49:37,Jasmyne Spencer,RGN,dribble,2nd half,1,46.6,3.1
+20180915-RGN-POR-345,20180915-RGN-POR-1954,49:21,49:41,Emily Townsend Menges,POR,challenge,2nd half,0,33.0,61.3
+20180915-RGN-POR-346,20180915-RGN-POR-1956,49:21,49:41,Emily Townsend Menges,POR,tackle,2nd half,0,33.0,61.3
+20180915-RGN-POR-347,20180915-RGN-POR-1958,49:21,49:41,Jasmyne Spencer,RGN,take_on,2nd half,1,72.0,6.7
+20180915-RGN-POR-348,20180915-RGN-POR-1960,49:22,49:42,Emily Townsend Menges,POR,foul,2nd half,null,28.8,60.6
+20180915-RGN-POR-349,20180915-RGN-POR-1978,51:07,51:27,Lauren Kate Barnes,RGN,recovery,2nd half,null,38.0,26.3
+20180915-RGN-POR-350,20180915-RGN-POR-1985,51:12,51:32,Emily Ann Sonnett,POR,recovery,2nd half,null,31.7,35.0
+20180915-RGN-POR-351,20180915-RGN-POR-1988,51:13,51:33,Megan Anna Rapinoe,RGN,challenge,2nd half,1,74.6,46.5
+20180915-RGN-POR-352,20180915-RGN-POR-1989,51:13,51:33,Ellie Madison Carpenter,POR,challenge,2nd half,0,30.4,21.5
+20180915-RGN-POR-353,20180915-RGN-POR-1991,51:13,51:33,Megan Anna Rapinoe,RGN,dribble,2nd half,1,74.6,46.0
+20180915-RGN-POR-354,20180915-RGN-POR-1992,51:17,51:37,Adrianna Nichole Franch,POR,save,2nd half,null,26.0,43.8
+20180915-RGN-POR-355,20180915-RGN-POR-2001,51:57,52:17,Megan Anna Rapinoe,RGN,challenge,2nd half,0,100.0,36.6
+20180915-RGN-POR-356,20180915-RGN-POR-2003,51:57,52:17,Christine Margaret Sinclair,POR,challenge,2nd half,1,5.0,31.4
+20180915-RGN-POR-357,20180915-RGN-POR-2014,52:28,52:48,Tobin Powell Powell Heath,POR,dribble,2nd half,1,13.7,19.6
+20180915-RGN-POR-358,20180915-RGN-POR-2019,52:37,52:57,Lauren Kate Barnes,RGN,recovery,2nd half,null,35.1,39.7
+20180915-RGN-POR-359,20180915-RGN-POR-2023,52:41,53:01,Meghan Elizabeth Klingenberg,POR,recovery,2nd half,null,34.9,12.5
+20180915-RGN-POR-360,20180915-RGN-POR-2035,52:53,53:13,Ana Maria Crnogorcevic,POR,dribble,2nd half,1,58.2,0.5
+20180915-RGN-POR-361,20180915-RGN-POR-2039,53:00,53:20,Ellie Madison Carpenter,POR,challenge,2nd half,0,94.3,4.1
+20180915-RGN-POR-362,20180915-RGN-POR-2041,53:00,53:20,Stephanie-Elise Catley,RGN,tackle,2nd half,1,10.7,63.9
+20180915-RGN-POR-363,20180915-RGN-POR-2042,53:00,53:20,Stephanie-Elise Catley,RGN,challenge,2nd half,1,10.7,63.9
+20180915-RGN-POR-364,20180915-RGN-POR-2043,53:00,53:20,Ellie Madison Carpenter,POR,take_on,2nd half,0,94.3,4.1
+20180915-RGN-POR-365,20180915-RGN-POR-2048,53:36,53:56,Celeste Anais Boureille,POR,challenge,2nd half,0,102.3,26.3
+20180915-RGN-POR-366,20180915-RGN-POR-2049,53:36,53:56,Jodie Lee Taylor,RGN,challenge,2nd half,1,2.7,41.7
+20180915-RGN-POR-367,20180915-RGN-POR-2063,53:44,54:04,Megan Anna Rapinoe,RGN,foul,2nd half,null,11.6,63.9
+20180915-RGN-POR-368,20180915-RGN-POR-2070,54:48,55:08,Jessica Anne Fishlock,RGN,challenge,2nd half,1,7.1,36.4
+20180915-RGN-POR-369,20180915-RGN-POR-2071,54:48,55:08,Lindsey Michelle Horan,POR,challenge,2nd half,0,97.9,31.6
+20180915-RGN-POR-370,20180915-RGN-POR-2073,54:49,55:09,Lindsey Michelle Horan,POR,foul,2nd half,null,97.9,31.1
+20180915-RGN-POR-371,20180915-RGN-POR-2076,55:13,55:33,Megan Anna Rapinoe,RGN,challenge,2nd half,0,47.5,55.1
+20180915-RGN-POR-372,20180915-RGN-POR-2077,55:13,55:33,Celeste Anais Boureille,POR,challenge,2nd half,1,57.5,12.9
+20180915-RGN-POR-373,20180915-RGN-POR-2092,55:20,55:40,Megan Anna Rapinoe,RGN,dribble,2nd half,1,44.7,64.2
+20180915-RGN-POR-374,20180915-RGN-POR-2094,55:22,55:42,Megan Anna Rapinoe,RGN,take_on,2nd half,1,54.4,64.9
+20180915-RGN-POR-375,20180915-RGN-POR-2095,55:22,55:42,Celeste Anais Boureille,POR,challenge,2nd half,0,50.6,3.1
+20180915-RGN-POR-376,20180915-RGN-POR-2096,55:22,55:42,Celeste Anais Boureille,POR,tackle,2nd half,0,50.6,3.1
+20180915-RGN-POR-377,20180915-RGN-POR-2098,55:23,55:43,Celeste Anais Boureille,POR,foul,2nd half,null,49.8,3.8
+20180915-RGN-POR-378,20180915-RGN-POR-2104,56:04,56:24,Ana Maria Crnogorcevic,POR,tackle,2nd half,1,14.3,15.1
+20180915-RGN-POR-379,20180915-RGN-POR-2105,56:04,56:24,Ana Maria Crnogorcevic,POR,challenge,2nd half,1,14.3,15.1
+20180915-RGN-POR-380,20180915-RGN-POR-2106,56:04,56:24,Megan Anna Rapinoe,RGN,challenge,2nd half,0,90.7,52.9
+20180915-RGN-POR-381,20180915-RGN-POR-2108,56:05,56:25,Jessica Anne Fishlock,RGN,recovery,2nd half,null,89.7,41.9
+20180915-RGN-POR-382,20180915-RGN-POR-2109,56:05,56:25,Jessica Anne Fishlock,RGN,take_on,2nd half,0,89.7,41.9
+20180915-RGN-POR-383,20180915-RGN-POR-2112,56:05,56:25,Lindsey Michelle Horan,POR,tackle,2nd half,1,15.3,26.1
+20180915-RGN-POR-384,20180915-RGN-POR-2113,56:05,56:25,Lindsey Michelle Horan,POR,challenge,2nd half,1,15.3,26.1
+20180915-RGN-POR-385,20180915-RGN-POR-2115,56:05,56:25,Jessica Anne Fishlock,RGN,challenge,2nd half,0,89.7,41.9
+20180915-RGN-POR-386,20180915-RGN-POR-2118,56:09,56:29,Christine Margaret Sinclair,POR,challenge,2nd half,0,29.8,28.7
+20180915-RGN-POR-387,20180915-RGN-POR-2120,56:09,56:29,Jessica Anne Fishlock,RGN,tackle,2nd half,1,75.2,39.3
+20180915-RGN-POR-388,20180915-RGN-POR-2121,56:09,56:29,Jessica Anne Fishlock,RGN,challenge,2nd half,1,75.2,39.3
+20180915-RGN-POR-389,20180915-RGN-POR-2122,56:09,56:29,Christine Margaret Sinclair,POR,take_on,2nd half,0,29.8,28.7
+20180915-RGN-POR-390,20180915-RGN-POR-2124,56:10,56:30,Rumi Utsugi,RGN,recovery,2nd half,null,75.8,43.3
+20180915-RGN-POR-391,20180915-RGN-POR-2126,56:11,56:31,Christine Margaret Sinclair,POR,foul,2nd half,null,29.2,24.9
+20180915-RGN-POR-392,20180915-RGN-POR-2136,57:14,57:34,Jasmyne Spencer,RGN,challenge,2nd half,1,66.6,4.8
+20180915-RGN-POR-393,20180915-RGN-POR-2138,57:14,57:34,Meghan Elizabeth Klingenberg,POR,challenge,2nd half,0,38.4,63.2
+20180915-RGN-POR-394,20180915-RGN-POR-2151,57:23,57:43,Ellie Madison Carpenter,POR,dribble,2nd half,1,25.8,18.9
+20180915-RGN-POR-395,20180915-RGN-POR-2157,57:28,57:48,Lauren Kate Barnes,RGN,challenge,2nd half,0,44.1,53.2
+20180915-RGN-POR-396,20180915-RGN-POR-2158,57:28,57:48,Caitlin Jade Foord,POR,challenge,2nd half,1,60.9,14.8
+20180915-RGN-POR-397,20180915-RGN-POR-2160,57:28,57:48,Lauren Kate Barnes,RGN,foul,2nd half,null,43.7,53.6
+20180915-RGN-POR-398,20180915-RGN-POR-2168,57:58,58:18,Lindsey Michelle Horan,POR,challenge,2nd half,0,95.8,35.0
+20180915-RGN-POR-399,20180915-RGN-POR-2169,57:58,58:18,Lydia Grace Yilkari Williams,RGN,challenge,2nd half,1,9.2,33.0
+20180915-RGN-POR-400,20180915-RGN-POR-2176,58:00,58:20,Tobin Powell Powell Heath,POR,challenge,2nd half,1,91.1,30.4
+20180915-RGN-POR-401,20180915-RGN-POR-2178,58:00,58:20,Rumi Utsugi,RGN,challenge,2nd half,0,13.9,37.6
+20180915-RGN-POR-402,20180915-RGN-POR-2182,58:03,58:23,Megan Anna Rapinoe,RGN,recovery,2nd half,null,14.5,50.8
+20180915-RGN-POR-403,20180915-RGN-POR-2185,58:06,58:26,Celeste Anais Boureille,POR,recovery,2nd half,null,67.8,12.9
+20180915-RGN-POR-404,20180915-RGN-POR-2194,58:09,58:29,Ana Maria Crnogorcevic,POR,challenge,2nd half,0,84.2,11.3
+20180915-RGN-POR-405,20180915-RGN-POR-2195,58:09,58:29,Theresa Eslund,RGN,challenge,2nd half,1,20.8,56.7
+20180915-RGN-POR-406,20180915-RGN-POR-2199,58:12,58:32,Lauren Kate Barnes,RGN,recovery,2nd half,null,8.4,52.4
+20180915-RGN-POR-407,20180915-RGN-POR-2207,58:16,58:36,Stephanie-Elise Catley,RGN,recovery,2nd half,null,23.3,52.9
+20180915-RGN-POR-408,20180915-RGN-POR-2211,58:19,58:39,Megan Anna Rapinoe,RGN,dribble,2nd half,1,35.3,62.5
+20180915-RGN-POR-409,20180915-RGN-POR-2216,58:25,58:45,Theresa Eslund,RGN,dribble,2nd half,1,33.0,20.1
+20180915-RGN-POR-410,20180915-RGN-POR-2220,58:33,58:53,Meghan Elizabeth Klingenberg,POR,challenge,2nd half,1,23.1,65.1
+20180915-RGN-POR-411,20180915-RGN-POR-2221,58:33,58:53,Jasmyne Spencer,RGN,challenge,2nd half,0,81.9,2.9
+20180915-RGN-POR-412,20180915-RGN-POR-2233,58:52,59:12,Megan Leigh Oyster,RGN,recovery,2nd half,null,70.3,5.3
+20180915-RGN-POR-413,20180915-RGN-POR-2234,58:53,59:13,Tobin Powell Powell Heath,POR,challenge,2nd half,0,26.7,60.8
+20180915-RGN-POR-414,20180915-RGN-POR-2235,58:53,59:13,Megan Leigh Oyster,RGN,take_on,2nd half,1,78.3,7.2
+20180915-RGN-POR-415,20180915-RGN-POR-2236,58:53,59:13,Tobin Powell Powell Heath,POR,tackle,2nd half,0,26.7,60.8
+20180915-RGN-POR-416,20180915-RGN-POR-2243,58:55,59:15,Meghan Elizabeth Klingenberg,POR,recovery,2nd half,null,10.9,60.1
+20180915-RGN-POR-417,20180915-RGN-POR-2248,58:58,59:18,Alexandra Linsley Long Batista,RGN,foul,2nd half,null,95.1,12.5
+20180915-RGN-POR-418,20180915-RGN-POR-2258,60:14,60:34,Alexandra Linsley Long Batista,RGN,challenge,2nd half,1,39.7,17.0
+20180915-RGN-POR-419,20180915-RGN-POR-2259,60:14,60:34,Lindsey Michelle Horan,POR,challenge,2nd half,0,65.3,51.0
+20180915-RGN-POR-420,20180915-RGN-POR-2269,60:56,61:16,Lindsey Michelle Horan,POR,challenge,2nd half,0,89.5,36.6
+20180915-RGN-POR-421,20180915-RGN-POR-2274,60:56,61:16,Megan Leigh Oyster,RGN,challenge,2nd half,1,15.5,31.4
+20180915-RGN-POR-422,20180915-RGN-POR-2275,60:56,61:16,Lindsey Michelle Horan,POR,foul,2nd half,null,89.2,36.9
+20180915-RGN-POR-423,20180915-RGN-POR-2284,61:35,61:55,Megan Leigh Oyster,RGN,recovery,2nd half,null,30.0,12.9
+20180915-RGN-POR-424,20180915-RGN-POR-2290,61:41,62:01,Emily Townsend Menges,POR,recovery,2nd half,null,31.3,57.2
+20180915-RGN-POR-425,20180915-RGN-POR-2299,61:47,62:07,Jessica Anne Fishlock,RGN,recovery,2nd half,null,79.6,3.4
+20180915-RGN-POR-426,20180915-RGN-POR-2324,62:13,62:33,Megan Leigh Oyster,RGN,challenge,2nd half,1,0.59999999999999,9.3
+20180915-RGN-POR-427,20180915-RGN-POR-2325,62:13,62:33,Tobin Powell Powell Heath,POR,challenge,2nd half,0,104.4,58.7
+20180915-RGN-POR-428,20180915-RGN-POR-2326,62:13,62:33,Megan Leigh Oyster,RGN,tackle,2nd half,1,0.59999999999999,9.3
+20180915-RGN-POR-429,20180915-RGN-POR-2327,62:13,62:33,Tobin Powell Powell Heath,POR,take_on,2nd half,0,104.4,58.7
+20180915-RGN-POR-430,20180915-RGN-POR-2333,62:18,62:38,Emily Townsend Menges,POR,recovery,2nd half,null,60.3,56.5
+20180915-RGN-POR-431,20180915-RGN-POR-2342,62:38,62:58,Christine Margaret Sinclair,POR,recovery,2nd half,null,70.6,57.0
+20180915-RGN-POR-432,20180915-RGN-POR-2347,62:40,63:00,Caitlin Jade Foord,POR,challenge,2nd half,0,82.1,59.4
+20180915-RGN-POR-433,20180915-RGN-POR-2349,62:40,63:00,Megan Leigh Oyster,RGN,challenge,2nd half,1,22.9,8.6
+20180915-RGN-POR-434,20180915-RGN-POR-2351,62:42,63:02,Rumi Utsugi,RGN,recovery,2nd half,null,27.9,18.0
+20180915-RGN-POR-435,20180915-RGN-POR-2361,62:58,63:18,Tobin Powell Powell Heath,POR,recovery,2nd half,null,68.5,32.8
+20180915-RGN-POR-436,20180915-RGN-POR-2370,63:07,63:27,Megan Leigh Oyster,RGN,recovery,2nd half,null,5.5,15.3
+20180915-RGN-POR-437,20180915-RGN-POR-2373,63:10,63:30,Tobin Powell Powell Heath,POR,recovery,2nd half,null,63.6,62.7
+20180915-RGN-POR-438,20180915-RGN-POR-2375,63:12,63:32,Jodie Lee Taylor,RGN,tackle,2nd half,0,41.6,5.5
+20180915-RGN-POR-439,20180915-RGN-POR-2376,63:12,63:32,Jodie Lee Taylor,RGN,challenge,2nd half,0,41.6,5.5
+20180915-RGN-POR-440,20180915-RGN-POR-2377,63:12,63:32,Tobin Powell Powell Heath,POR,take_on,2nd half,1,63.4,62.5
+20180915-RGN-POR-441,20180915-RGN-POR-2379,63:12,63:32,Jodie Lee Taylor,RGN,foul,2nd half,null,41.6,5.5
+20180915-RGN-POR-442,20180915-RGN-POR-2388,64:01,64:21,Lindsey Michelle Horan,POR,challenge,2nd half,0,90.1,29.5
+20180915-RGN-POR-443,20180915-RGN-POR-2390,64:01,64:21,Megan Leigh Oyster,RGN,challenge,2nd half,1,14.9,38.5
+20180915-RGN-POR-444,20180915-RGN-POR-2392,64:02,64:22,Lindsey Michelle Horan,POR,foul,2nd half,null,90.5,28.5
+20180915-RGN-POR-445,20180915-RGN-POR-2397,64:27,64:47,Ellie Madison Carpenter,POR,challenge,2nd half,0,50.4,7.7
+20180915-RGN-POR-446,20180915-RGN-POR-2398,64:27,64:47,Megan Anna Rapinoe,RGN,challenge,2nd half,1,54.6,60.3
+20180915-RGN-POR-447,20180915-RGN-POR-2417,64:48,65:08,Megan Anna Rapinoe,RGN,challenge,2nd half,0,59.0,65.1
+20180915-RGN-POR-448,20180915-RGN-POR-2418,64:48,65:08,Ana Maria Crnogorcevic,POR,challenge,2nd half,1,46.0,2.9
+20180915-RGN-POR-449,20180915-RGN-POR-2426,64:52,65:12,Rumi Utsugi,RGN,foul,2nd half,null,51.0,61.5
+20180915-RGN-POR-450,20180915-RGN-POR-2438,65:28,65:48,Emily Ann Sonnett,POR,recovery,2nd half,null,56.1,4.3
+20180915-RGN-POR-451,20180915-RGN-POR-2446,65:32,65:52,Lindsey Michelle Horan,POR,challenge,2nd half,1,87.6,32.3
+20180915-RGN-POR-452,20180915-RGN-POR-2448,65:32,65:52,Megan Leigh Oyster,RGN,challenge,2nd half,0,17.4,35.7
+20180915-RGN-POR-453,20180915-RGN-POR-2457,66:05,66:25,Rumi Utsugi,RGN,challenge,2nd half,0,45.2,57.7
+20180915-RGN-POR-454,20180915-RGN-POR-2458,66:05,66:25,Celeste Anais Boureille,POR,challenge,2nd half,1,59.8,10.3
+20180915-RGN-POR-455,20180915-RGN-POR-2462,66:08,66:28,Caitlin Jade Foord,POR,challenge,2nd half,0,74.6,28.7
+20180915-RGN-POR-456,20180915-RGN-POR-2463,66:08,66:28,Megan Leigh Oyster,RGN,tackle,2nd half,1,30.4,39.3
+20180915-RGN-POR-457,20180915-RGN-POR-2464,66:08,66:28,Megan Leigh Oyster,RGN,challenge,2nd half,1,30.4,39.3
+20180915-RGN-POR-458,20180915-RGN-POR-2465,66:08,66:28,Caitlin Jade Foord,POR,recovery,2nd half,null,74.6,28.7
+20180915-RGN-POR-459,20180915-RGN-POR-2467,66:08,66:28,Caitlin Jade Foord,POR,take_on,2nd half,0,74.6,28.7
+20180915-RGN-POR-460,20180915-RGN-POR-2473,66:11,66:31,Lauren Kate Barnes,RGN,challenge,2nd half,0,23.3,48.4
+20180915-RGN-POR-461,20180915-RGN-POR-2474,66:11,66:31,Christine Margaret Sinclair,POR,challenge,2nd half,1,81.7,19.6
+20180915-RGN-POR-462,20180915-RGN-POR-2479,66:13,66:33,Ana Maria Crnogorcevic,POR,recovery,2nd half,null,82.3,16.0
+20180915-RGN-POR-463,20180915-RGN-POR-2494,67:28,67:48,Megan Anna Rapinoe,RGN,dribble,2nd half,1,84.2,60.6
+20180915-RGN-POR-464,20180915-RGN-POR-2507,67:48,68:08,Tobin Powell Powell Heath,POR,recovery,2nd half,null,24.6,35.0
+20180915-RGN-POR-465,20180915-RGN-POR-2512,67:53,68:13,Christine Margaret Sinclair,POR,dribble,2nd half,1,52.7,22.0
+20180915-RGN-POR-466,20180915-RGN-POR-2519,67:58,68:18,Theresa Eslund,RGN,challenge,2nd half,1,14.7,36.4
+20180915-RGN-POR-467,20180915-RGN-POR-2520,67:58,68:18,Lindsey Michelle Horan,POR,challenge,2nd half,0,90.3,31.6
+20180915-RGN-POR-468,20180915-RGN-POR-2526,68:52,69:12,Celeste Anais Boureille,POR,foul,2nd half,null,60.7,14.4
+20180915-RGN-POR-469,20180915-RGN-POR-2541,69:10,69:30,Adrianna Nichole Franch,POR,recovery,2nd half,null,2.9,33.3
+20180915-RGN-POR-470,20180915-RGN-POR-2547,69:41,70:01,Lindsey Michelle Horan,POR,recovery,2nd half,null,28.3,61.5
+20180915-RGN-POR-471,20180915-RGN-POR-2553,69:43,70:03,Jessica Anne Fishlock,RGN,recovery,2nd half,null,71.8,13.9
+20180915-RGN-POR-472,20180915-RGN-POR-2557,69:44,70:04,Emily Ann Sonnett,POR,recovery,2nd half,null,26.0,46.5
+20180915-RGN-POR-473,20180915-RGN-POR-2559,69:48,70:08,Caitlin Jade Foord,POR,challenge,2nd half,0,69.3,29.5
+20180915-RGN-POR-474,20180915-RGN-POR-2560,69:48,70:08,Lauren Kate Barnes,RGN,challenge,2nd half,1,35.7,38.5
+20180915-RGN-POR-475,20180915-RGN-POR-2564,69:52,70:12,Alexandra Linsley Long Batista,RGN,recovery,2nd half,null,36.1,28.7
+20180915-RGN-POR-476,20180915-RGN-POR-2570,69:56,70:16,Meghan Elizabeth Klingenberg,POR,recovery,2nd half,null,54.8,63.0
+20180915-RGN-POR-477,20180915-RGN-POR-2578,70:04,70:24,Lydia Grace Yilkari Williams,RGN,recovery,2nd half,null,6.3,21.3
+20180915-RGN-POR-478,20180915-RGN-POR-2586,70:28,70:48,Ana Maria Crnogorcevic,POR,challenge,2nd half,1,59.4,8.1
+20180915-RGN-POR-479,20180915-RGN-POR-2590,70:28,70:48,Stephanie-Elise Catley,RGN,challenge,2nd half,0,45.6,59.9
+20180915-RGN-POR-480,20180915-RGN-POR-2593,70:32,70:52,Jessica Anne Fishlock,RGN,tackle,2nd half,0,45.6,54.6
+20180915-RGN-POR-481,20180915-RGN-POR-2594,70:32,70:52,Celeste Anais Boureille,POR,take_on,2nd half,1,59.4,13.4
+20180915-RGN-POR-482,20180915-RGN-POR-2595,70:32,70:52,Jessica Anne Fishlock,RGN,challenge,2nd half,0,45.6,54.6
+20180915-RGN-POR-483,20180915-RGN-POR-2600,70:36,70:56,Lauren Kate Barnes,RGN,challenge,2nd half,1,13.9,51.7
+20180915-RGN-POR-484,20180915-RGN-POR-2602,70:36,70:56,Caitlin Jade Foord,POR,challenge,2nd half,0,91.1,16.3
+20180915-RGN-POR-485,20180915-RGN-POR-2607,71:07,71:27,Lindsey Michelle Horan,POR,challenge,2nd half,0,98.3,18.0
+20180915-RGN-POR-486,20180915-RGN-POR-2608,71:07,71:27,Jessica Anne Fishlock,RGN,challenge,2nd half,1,6.7,50.0
+20180915-RGN-POR-487,20180915-RGN-POR-2616,71:19,71:39,Emily Townsend Menges,POR,recovery,2nd half,null,34.2,62.7
+20180915-RGN-POR-488,20180915-RGN-POR-2624,71:26,71:46,Stephanie-Elise Catley,RGN,recovery,2nd half,null,32.1,49.1
+20180915-RGN-POR-489,20180915-RGN-POR-2631,71:30,71:50,Alexandra Linsley Long Batista,RGN,recovery,2nd half,null,35.5,42.6
+20180915-RGN-POR-490,20180915-RGN-POR-2639,71:32,71:52,Megan Leigh Oyster,RGN,recovery,2nd half,null,25.0,34.2
+20180915-RGN-POR-491,20180915-RGN-POR-2644,71:39,71:59,Ellie Madison Carpenter,POR,tackle,2nd half,1,38.6,1.0
+20180915-RGN-POR-492,20180915-RGN-POR-2645,71:39,71:59,Ellie Madison Carpenter,POR,challenge,2nd half,1,38.6,1.0
+20180915-RGN-POR-493,20180915-RGN-POR-2646,71:39,71:59,Megan Anna Rapinoe,RGN,challenge,2nd half,0,66.4,67.0
+20180915-RGN-POR-494,20180915-RGN-POR-2647,71:39,71:59,Megan Anna Rapinoe,RGN,take_on,2nd half,0,66.4,67.0
+20180915-RGN-POR-495,20180915-RGN-POR-2653,71:46,72:06,Jessica Anne Fishlock,RGN,challenge,2nd half,1,73.1,55.5
+20180915-RGN-POR-496,20180915-RGN-POR-2654,71:46,72:06,Celeste Anais Boureille,POR,challenge,2nd half,0,31.9,12.5
+20180915-RGN-POR-497,20180915-RGN-POR-2657,71:47,72:07,Jessica Anne Fishlock,RGN,dribble,2nd half,1,75.4,54.6
+20180915-RGN-POR-498,20180915-RGN-POR-2662,71:50,72:10,Ellie Madison Carpenter,POR,recovery,2nd half,null,17.0,11.3
+20180915-RGN-POR-499,20180915-RGN-POR-2668,73:09,73:29,Alexandra Linsley Long Batista,RGN,recovery,2nd half,null,48.7,56.0
+20180915-RGN-POR-500,20180915-RGN-POR-2670,73:09,73:29,Alexandra Linsley Long Batista,RGN,dribble,2nd half,1,48.9,53.6
+20180915-RGN-POR-501,20180915-RGN-POR-2671,73:10,73:30,Alexandra Linsley Long Batista,RGN,take_on,2nd half,1,48.7,52.9
+20180915-RGN-POR-502,20180915-RGN-POR-2672,73:10,73:30,Christine Margaret Sinclair,POR,tackle,2nd half,0,56.3,15.1
+20180915-RGN-POR-503,20180915-RGN-POR-2673,73:10,73:30,Christine Margaret Sinclair,POR,challenge,2nd half,0,56.3,15.1
+20180915-RGN-POR-504,20180915-RGN-POR-2684,73:27,73:47,Stephanie-Elise Catley,RGN,recovery,2nd half,null,48.7,61.3
+20180915-RGN-POR-505,20180915-RGN-POR-2687,73:28,73:48,Alexandra Linsley Long Batista,RGN,challenge,2nd half,0,56.3,58.2
+20180915-RGN-POR-506,20180915-RGN-POR-2688,73:28,73:48,Christine Margaret Sinclair,POR,challenge,2nd half,1,48.7,9.8
+20180915-RGN-POR-507,20180915-RGN-POR-2693,73:30,73:50,Lauren Kate Barnes,RGN,recovery,2nd half,null,41.6,54.6
+20180915-RGN-POR-508,20180915-RGN-POR-2700,73:34,73:54,Lindsey Michelle Horan,POR,dribble,2nd half,1,63.4,25.1
+20180915-RGN-POR-509,20180915-RGN-POR-2710,73:42,74:02,Celeste Anais Boureille,POR,recovery,2nd half,null,75.6,40.5
+20180915-RGN-POR-510,20180915-RGN-POR-2712,73:44,74:04,Tobin Powell Powell Heath,POR,dribble,2nd half,1,85.1,61.5
+20180915-RGN-POR-511,20180915-RGN-POR-2713,73:49,74:09,Jasmyne Spencer,RGN,challenge,2nd half,0,10.7,4.3
+20180915-RGN-POR-512,20180915-RGN-POR-2714,73:49,74:09,Jasmyne Spencer,RGN,tackle,2nd half,0,10.7,4.3
+20180915-RGN-POR-513,20180915-RGN-POR-2715,73:49,74:09,Tobin Powell Powell Heath,POR,take_on,2nd half,1,94.3,63.7
+20180915-RGN-POR-514,20180915-RGN-POR-2739,74:14,74:34,Lydia Grace Yilkari Williams,RGN,recovery,2nd half,null,4.4,33.0
+20180915-RGN-POR-515,20180915-RGN-POR-2746,74:21,74:41,Emily Townsend Menges,POR,challenge,2nd half,1,46.6,37.6
+20180915-RGN-POR-516,20180915-RGN-POR-2748,74:21,74:41,Jodie Lee Taylor,RGN,challenge,2nd half,0,58.4,30.4
+20180915-RGN-POR-517,20180915-RGN-POR-2751,74:23,74:43,Jasmyne Spencer,RGN,recovery,2nd half,null,57.8,9.8
+20180915-RGN-POR-518,20180915-RGN-POR-2756,74:31,74:51,Meghan Elizabeth Klingenberg,POR,recovery,2nd half,null,4.0,56.3
+20180915-RGN-POR-519,20180915-RGN-POR-2761,74:42,75:02,Caitlin Jade Foord,POR,challenge,2nd half,0,44.3,64.9
+20180915-RGN-POR-520,20180915-RGN-POR-2762,74:42,75:02,Megan Leigh Oyster,RGN,challenge,2nd half,1,60.7,3.1
+20180915-RGN-POR-521,20180915-RGN-POR-2775,75:06,75:26,Caitlin Jade Foord,POR,challenge,2nd half,0,65.3,53.6
+20180915-RGN-POR-522,20180915-RGN-POR-2776,75:06,75:26,Megan Leigh Oyster,RGN,challenge,2nd half,1,39.7,14.4
+20180915-RGN-POR-523,20180915-RGN-POR-2778,75:07,75:27,Rumi Utsugi,RGN,challenge,2nd half,1,44.1,9.8
+20180915-RGN-POR-524,20180915-RGN-POR-2779,75:07,75:27,Christine Margaret Sinclair,POR,challenge,2nd half,0,60.9,58.2
+20180915-RGN-POR-525,20180915-RGN-POR-2781,75:08,75:28,Ana Maria Crnogorcevic,POR,challenge,2nd half,0,72.5,46.7
+20180915-RGN-POR-526,20180915-RGN-POR-2782,75:08,75:28,Lauren Kate Barnes,RGN,challenge,2nd half,1,32.5,21.3
+20180915-RGN-POR-527,20180915-RGN-POR-2784,75:10,75:30,Tobin Powell Powell Heath,POR,recovery,2nd half,null,62.6,61.1
+20180915-RGN-POR-528,20180915-RGN-POR-2786,75:10,75:30,Tobin Powell Powell Heath,POR,dribble,2nd half,1,61.5,63.9
+20180915-RGN-POR-529,20180915-RGN-POR-2789,75:12,75:32,Rumi Utsugi,RGN,tackle,2nd half,0,34.7,6.0
+20180915-RGN-POR-530,20180915-RGN-POR-2790,75:12,75:32,Rumi Utsugi,RGN,challenge,2nd half,0,34.7,6.0
+20180915-RGN-POR-531,20180915-RGN-POR-2791,75:12,75:32,Tobin Powell Powell Heath,POR,take_on,2nd half,1,70.3,62.0
+20180915-RGN-POR-532,20180915-RGN-POR-2796,75:16,75:36,Lindsey Michelle Horan,POR,challenge,2nd half,0,80.0,38.1
+20180915-RGN-POR-533,20180915-RGN-POR-2797,75:16,75:36,Megan Anna Rapinoe,RGN,challenge,2nd half,1,25.0,29.9
+20180915-RGN-POR-534,20180915-RGN-POR-2798,75:16,75:36,Megan Anna Rapinoe,RGN,tackle,2nd half,1,25.0,29.9
+20180915-RGN-POR-535,20180915-RGN-POR-2801,75:18,75:38,Christine Margaret Sinclair,POR,recovery,2nd half,null,81.1,42.4
+20180915-RGN-POR-536,20180915-RGN-POR-2805,75:20,75:40,Ellie Madison Carpenter,POR,dribble,2nd half,1,78.3,16.8
+20180915-RGN-POR-537,20180915-RGN-POR-2806,75:25,75:45,Ellie Madison Carpenter,POR,challenge,2nd half,0,94.1,16.0
+20180915-RGN-POR-538,20180915-RGN-POR-2808,75:25,75:45,Stephanie-Elise Catley,RGN,challenge,2nd half,1,10.9,52.0
+20180915-RGN-POR-539,20180915-RGN-POR-2809,75:25,75:45,Stephanie-Elise Catley,RGN,tackle,2nd half,1,10.9,52.0
+20180915-RGN-POR-540,20180915-RGN-POR-2812,75:28,75:48,Celeste Anais Boureille,POR,recovery,2nd half,null,76.4,4.3
+20180915-RGN-POR-541,20180915-RGN-POR-2814,75:28,75:48,Celeste Anais Boureille,POR,dribble,2nd half,1,76.0,2.9
+20180915-RGN-POR-542,20180915-RGN-POR-2833,75:38,75:58,Meghan Elizabeth Klingenberg,POR,recovery,2nd half,null,73.5,38.3
+20180915-RGN-POR-543,20180915-RGN-POR-2837,75:40,76:00,Lindsey Michelle Horan,POR,challenge,2nd half,0,81.7,27.8
+20180915-RGN-POR-544,20180915-RGN-POR-2838,75:40,76:00,Theresa Eslund,RGN,tackle,2nd half,1,23.3,40.2
+20180915-RGN-POR-545,20180915-RGN-POR-2839,75:40,76:00,Theresa Eslund,RGN,challenge,2nd half,1,23.3,40.2
+20180915-RGN-POR-546,20180915-RGN-POR-2840,75:40,76:00,Lindsey Michelle Horan,POR,take_on,2nd half,0,81.7,27.8
+20180915-RGN-POR-547,20180915-RGN-POR-2842,75:42,76:02,Rumi Utsugi,RGN,recovery,2nd half,null,20.4,33.8
+20180915-RGN-POR-548,20180915-RGN-POR-2844,75:44,76:04,Tobin Powell Powell Heath,POR,challenge,2nd half,1,77.7,33.3
+20180915-RGN-POR-549,20180915-RGN-POR-2845,75:44,76:04,Rumi Utsugi,RGN,challenge,2nd half,0,27.3,34.7
+20180915-RGN-POR-550,20180915-RGN-POR-2846,75:44,76:04,Tobin Powell Powell Heath,POR,tackle,2nd half,1,77.7,33.3
+20180915-RGN-POR-551,20180915-RGN-POR-2849,75:46,76:06,Ana Maria Crnogorcevic,POR,recovery,2nd half,null,75.6,28.3
+20180915-RGN-POR-552,20180915-RGN-POR-2865,77:24,77:44,Caitlin Jade Foord,POR,challenge,2nd half,0,65.9,2.4
+20180915-RGN-POR-553,20180915-RGN-POR-2866,77:24,77:44,Megan Leigh Oyster,RGN,challenge,2nd half,1,39.1,65.6
+20180915-RGN-POR-554,20180915-RGN-POR-2878,77:48,78:08,Alexandra Linsley Long Batista,RGN,recovery,2nd half,null,26.5,51.5
+20180915-RGN-POR-555,20180915-RGN-POR-2889,77:55,78:15,Beverly Yanez,RGN,recovery,2nd half,null,41.6,15.6
+20180915-RGN-POR-556,20180915-RGN-POR-2890,77:56,78:16,Lindsey Michelle Horan,POR,challenge,2nd half,1,63.0,52.0
+20180915-RGN-POR-557,20180915-RGN-POR-2891,77:56,78:16,Beverly Yanez,RGN,challenge,2nd half,0,42.0,16.0
+20180915-RGN-POR-558,20180915-RGN-POR-2892,77:56,78:16,Lindsey Michelle Horan,POR,tackle,2nd half,1,63.0,52.0
+20180915-RGN-POR-559,20180915-RGN-POR-2895,77:59,78:19,Beverly Yanez,RGN,challenge,2nd half,1,36.5,16.8
+20180915-RGN-POR-560,20180915-RGN-POR-2896,77:59,78:19,Christine Margaret Sinclair,POR,challenge,2nd half,0,68.5,51.2
+20180915-RGN-POR-561,20180915-RGN-POR-2899,78:01,78:21,Lindsey Michelle Horan,POR,recovery,2nd half,null,73.7,47.2
+20180915-RGN-POR-562,20180915-RGN-POR-2921,78:34,78:54,Emily Townsend Menges,POR,recovery,2nd half,null,26.0,24.4
+20180915-RGN-POR-563,20180915-RGN-POR-2939,78:44,79:04,Jessica Anne Fishlock,RGN,recovery,2nd half,null,74.3,50.0
+20180915-RGN-POR-564,20180915-RGN-POR-2965,79:00,79:20,Caitlin Jade Foord,POR,challenge,2nd half,0,61.3,59.6
+20180915-RGN-POR-565,20180915-RGN-POR-2966,79:00,79:20,Megan Leigh Oyster,RGN,challenge,2nd half,1,43.7,8.4
+20180915-RGN-POR-566,20180915-RGN-POR-2988,79:25,79:45,Megan Anna Rapinoe,RGN,dribble,2nd half,1,47.9,60.8
+20180915-RGN-POR-567,20180915-RGN-POR-2990,79:27,79:47,Megan Anna Rapinoe,RGN,take_on,2nd half,1,50.2,40.9
+20180915-RGN-POR-568,20180915-RGN-POR-2992,79:27,79:47,Emily Townsend Menges,POR,challenge,2nd half,0,54.8,27.1
+20180915-RGN-POR-569,20180915-RGN-POR-2993,79:27,79:47,Emily Townsend Menges,POR,tackle,2nd half,0,54.8,27.1
+20180915-RGN-POR-570,20180915-RGN-POR-3000,79:34,79:54,Meghan Elizabeth Klingenberg,POR,challenge,2nd half,0,13.2,44.3
+20180915-RGN-POR-571,20180915-RGN-POR-3001,79:34,79:54,Beverly Yanez,RGN,take_on,2nd half,1,91.8,23.7
+20180915-RGN-POR-572,20180915-RGN-POR-3002,79:34,79:54,Meghan Elizabeth Klingenberg,POR,tackle,2nd half,0,13.2,44.3
+20180915-RGN-POR-573,20180915-RGN-POR-3006,79:37,79:57,Emily Ann Sonnett,POR,recovery,2nd half,null,7.1,40.0
+20180915-RGN-POR-574,20180915-RGN-POR-3011,79:43,80:03,Megan Leigh Oyster,RGN,recovery,2nd half,null,69.5,2.9
+20180915-RGN-POR-575,20180915-RGN-POR-3023,79:47,80:07,Megan Anna Rapinoe,RGN,challenge,2nd half,1,91.6,39.3
+20180915-RGN-POR-576,20180915-RGN-POR-3024,79:47,80:07,Ana Maria Crnogorcevic,POR,challenge,2nd half,0,13.4,28.7
+20180915-RGN-POR-577,20180915-RGN-POR-3031,80:19,80:39,Christine Margaret Sinclair,POR,challenge,2nd half,1,43.7,62.7
+20180915-RGN-POR-578,20180915-RGN-POR-3032,80:19,80:39,Beverly Yanez,RGN,challenge,2nd half,0,61.3,5.3
+20180915-RGN-POR-579,20180915-RGN-POR-3034,80:19,80:39,Theresa Eslund,RGN,recovery,2nd half,null,48.7,6.0
+20180915-RGN-POR-580,20180915-RGN-POR-3042,80:26,80:46,Emily Townsend Menges,POR,challenge,2nd half,1,39.9,52.9
+20180915-RGN-POR-581,20180915-RGN-POR-3043,80:26,80:46,Jodie Lee Taylor,RGN,challenge,2nd half,0,65.1,15.1
+20180915-RGN-POR-582,20180915-RGN-POR-3050,80:28,80:48,Alexandra Linsley Long Batista,RGN,challenge,2nd half,0,49.1,15.1
+20180915-RGN-POR-583,20180915-RGN-POR-3053,80:28,80:48,Lindsey Michelle Horan,POR,challenge,2nd half,1,55.9,52.9
+20180915-RGN-POR-584,20180915-RGN-POR-3055,80:28,80:48,Alexandra Linsley Long Batista,RGN,foul,2nd half,null,49.1,15.8
+20180915-RGN-POR-585,20180915-RGN-POR-3071,82:19,82:39,Megan Anna Rapinoe,RGN,recovery,2nd half,null,13.2,46.7
+20180915-RGN-POR-586,20180915-RGN-POR-3072,82:21,82:41,Lindsey Michelle Horan,POR,tackle,2nd half,1,91.8,23.2
+20180915-RGN-POR-587,20180915-RGN-POR-3073,82:21,82:41,Lindsey Michelle Horan,POR,challenge,2nd half,1,91.8,23.2
+20180915-RGN-POR-588,20180915-RGN-POR-3074,82:21,82:41,Megan Anna Rapinoe,RGN,challenge,2nd half,0,13.2,44.8
+20180915-RGN-POR-589,20180915-RGN-POR-3076,82:22,82:42,Megan Anna Rapinoe,RGN,challenge,2nd half,1,13.2,48.6
+20180915-RGN-POR-590,20180915-RGN-POR-3077,82:22,82:42,Emily Ann Sonnett,POR,challenge,2nd half,0,91.8,19.4
+20180915-RGN-POR-591,20180915-RGN-POR-3081,82:25,82:45,Tobin Powell Powell Heath,POR,recovery,2nd half,null,79.4,15.6
+20180915-RGN-POR-592,20180915-RGN-POR-3082,82:28,82:48,Megan Anna Rapinoe,RGN,tackle,2nd half,1,21.6,55.5
+20180915-RGN-POR-593,20180915-RGN-POR-3083,82:28,82:48,Megan Anna Rapinoe,RGN,challenge,2nd half,1,21.6,55.5
+20180915-RGN-POR-594,20180915-RGN-POR-3084,82:28,82:48,Tobin Powell Powell Heath,POR,challenge,2nd half,0,83.4,12.5
+20180915-RGN-POR-595,20180915-RGN-POR-3086,82:28,82:48,Tobin Powell Powell Heath,POR,take_on,2nd half,0,83.4,12.5
+20180915-RGN-POR-596,20180915-RGN-POR-3092,82:34,82:54,Meghan Elizabeth Klingenberg,POR,recovery,2nd half,null,66.4,56.0
+20180915-RGN-POR-597,20180915-RGN-POR-3095,82:34,82:54,Meghan Elizabeth Klingenberg,POR,dribble,2nd half,1,66.4,56.0
+20180915-RGN-POR-598,20180915-RGN-POR-3105,82:41,83:01,Tobin Powell Powell Heath,POR,recovery,2nd half,null,86.5,34.5
+20180915-RGN-POR-599,20180915-RGN-POR-3112,83:19,83:39,Ana Maria Crnogorcevic,POR,challenge,2nd half,1,59.0,4.8
+20180915-RGN-POR-600,20180915-RGN-POR-3113,83:19,83:39,Morgan Andrews,RGN,challenge,2nd half,0,46.0,63.2
+20180915-RGN-POR-601,20180915-RGN-POR-3114,83:20,83:40,Megan Anna Rapinoe,RGN,recovery,2nd half,null,50.8,67.5
+20180915-RGN-POR-602,20180915-RGN-POR-3115,83:24,83:44,Megan Anna Rapinoe,RGN,take_on,2nd half,0,50.8,66.8
+20180915-RGN-POR-603,20180915-RGN-POR-3116,83:24,83:44,Lindsey Michelle Horan,POR,challenge,2nd half,1,54.2,1.2
+20180915-RGN-POR-604,20180915-RGN-POR-3118,83:24,83:44,Megan Anna Rapinoe,RGN,challenge,2nd half,0,50.8,66.8
+20180915-RGN-POR-605,20180915-RGN-POR-3119,83:24,83:44,Lindsey Michelle Horan,POR,tackle,2nd half,1,54.2,1.2
+20180915-RGN-POR-606,20180915-RGN-POR-3121,83:24,83:44,Megan Anna Rapinoe,RGN,foul,2nd half,null,50.4,66.8
+20180915-RGN-POR-607,20180915-RGN-POR-3124,83:48,84:08,Caitlin Jade Foord,POR,dribble,2nd half,1,89.5,12.9
+20180915-RGN-POR-608,20180915-RGN-POR-3138,84:41,85:01,Megan Anna Rapinoe,RGN,recovery,2nd half,null,13.6,44.8
+20180915-RGN-POR-609,20180915-RGN-POR-3143,84:42,85:02,Christine Margaret Sinclair,POR,recovery,2nd half,null,93.7,24.9
+20180915-RGN-POR-610,20180915-RGN-POR-3147,84:43,85:03,Christine Margaret Sinclair,POR,challenge,2nd half,0,94.5,24.2
+20180915-RGN-POR-611,20180915-RGN-POR-3148,84:43,85:03,Elizabeth Addo,RGN,challenge,2nd half,1,10.5,43.8
+20180915-RGN-POR-612,20180915-RGN-POR-3149,84:43,85:03,Elizabeth Addo,RGN,tackle,2nd half,1,10.5,43.8
+20180915-RGN-POR-613,20180915-RGN-POR-3153,84:53,85:13,Emily Townsend Menges,POR,recovery,2nd half,null,35.9,15.6
+20180915-RGN-POR-614,20180915-RGN-POR-3164,85:07,85:27,Lauren Kate Barnes,RGN,recovery,2nd half,null,45.2,58.4
+20180915-RGN-POR-615,20180915-RGN-POR-3173,85:10,85:30,Lauren Kate Barnes,RGN,recovery,2nd half,null,48.1,57.2
+20180915-RGN-POR-616,20180915-RGN-POR-3176,85:11,85:31,Elizabeth Addo,RGN,challenge,2nd half,0,56.7,55.1
+20180915-RGN-POR-617,20180915-RGN-POR-3177,85:11,85:31,Celeste Anais Boureille,POR,challenge,2nd half,1,48.3,12.9
+20180915-RGN-POR-618,20180915-RGN-POR-3178,85:12,85:32,Celeste Anais Boureille,POR,tackle,2nd half,0,51.2,12.2
+20180915-RGN-POR-619,20180915-RGN-POR-3180,85:12,85:32,Celeste Anais Boureille,POR,challenge,2nd half,0,51.2,12.2
+20180915-RGN-POR-620,20180915-RGN-POR-3181,85:12,85:32,Morgan Andrews,RGN,take_on,2nd half,1,53.8,55.8
+20180915-RGN-POR-621,20180915-RGN-POR-3184,85:12,85:32,Morgan Andrews,RGN,recovery,2nd half,null,53.8,55.8
+20180915-RGN-POR-622,20180915-RGN-POR-3190,85:18,85:38,Lindsey Michelle Horan,POR,foul,2nd half,null,31.3,11.3
+20180915-RGN-POR-623,20180915-RGN-POR-3200,86:06,86:26,Jodie Lee Taylor,RGN,challenge,2nd half,1,96.4,19.6
+20180915-RGN-POR-624,20180915-RGN-POR-3202,86:06,86:26,Caitlin Jade Foord,POR,challenge,2nd half,0,8.6,48.4
+20180915-RGN-POR-625,20180915-RGN-POR-3208,86:10,86:30,Lindsey Michelle Horan,POR,challenge,2nd half,1,8.4,36.4
+20180915-RGN-POR-626,20180915-RGN-POR-3209,86:10,86:30,Stephanie-Elise Catley,RGN,challenge,2nd half,0,96.6,31.6
+20180915-RGN-POR-627,20180915-RGN-POR-3214,86:12,86:32,Ana Maria Crnogorcevic,POR,recovery,2nd half,null,6.9,48.1
+20180915-RGN-POR-628,20180915-RGN-POR-3228,88:11,88:31,Christine Margaret Sinclair,POR,recovery,2nd half,null,17.4,36.9
+20180915-RGN-POR-629,20180915-RGN-POR-3231,88:18,88:38,Stephanie-Elise Catley,RGN,recovery,2nd half,null,38.0,48.8
+20180915-RGN-POR-630,20180915-RGN-POR-3242,88:29,88:49,Ellie Madison Carpenter,POR,recovery,2nd half,null,10.7,10.1
+20180915-RGN-POR-631,20180915-RGN-POR-3249,88:42,89:02,Megan Anna Rapinoe,RGN,dribble,2nd half,1,96.8,65.4
+20180915-RGN-POR-632,20180915-RGN-POR-3261,88:48,89:08,Ana Maria Crnogorcevic,POR,recovery,2nd half,null,22.5,14.4
+20180915-RGN-POR-633,20180915-RGN-POR-3266,88:51,89:11,Lauren Kate Barnes,RGN,recovery,2nd half,null,62.0,61.1
+20180915-RGN-POR-634,20180915-RGN-POR-3280,89:24,89:44,Christine Margaret Sinclair,POR,challenge,2nd half,0,57.3,58.9
+20180915-RGN-POR-635,20180915-RGN-POR-3281,89:24,89:44,Beverly Yanez,RGN,challenge,2nd half,1,47.7,9.1
+20180915-RGN-POR-636,20180915-RGN-POR-3289,89:42,90:02,Megan Leigh Oyster,RGN,challenge,2nd half,1,42.4,3.1
+20180915-RGN-POR-637,20180915-RGN-POR-3290,89:42,90:02,Christine Margaret Sinclair,POR,challenge,2nd half,0,62.6,64.9
+20180915-RGN-POR-638,20180915-RGN-POR-3296,89:44,90:04,Tobin Powell Powell Heath,POR,recovery,2nd half,null,55.7,66.6
+20180915-RGN-POR-639,20180915-RGN-POR-3306,90:08,90:28,Ana Maria Crnogorcevic,POR,recovery,2nd half,null,74.6,64.2
+20180915-RGN-POR-640,20180915-RGN-POR-3320,90:33,90:53,Lindsey Michelle Horan,POR,challenge,2nd half,0,71.4,66.1
+20180915-RGN-POR-641,20180915-RGN-POR-3321,90:33,90:53,Jodie Lee Taylor,RGN,challenge,2nd half,1,33.6,1.9
+20180915-RGN-POR-642,20180915-RGN-POR-3322,90:33,90:53,Jodie Lee Taylor,RGN,tackle,2nd half,1,33.6,1.9
+20180915-RGN-POR-643,20180915-RGN-POR-3325,90:48,91:08,Caitlin Jade Foord,POR,challenge,2nd half,0,81.1,63.2
+20180915-RGN-POR-644,20180915-RGN-POR-3327,90:48,91:08,Megan Leigh Oyster,RGN,challenge,2nd half,1,23.9,4.8
+20180915-RGN-POR-645,20180915-RGN-POR-3340,91:29,91:49,Lindsey Michelle Horan,POR,challenge,2nd half,0,63.0,55.8
+20180915-RGN-POR-646,20180915-RGN-POR-3341,91:29,91:49,Morgan Andrews,RGN,challenge,2nd half,1,42.0,12.2
+20180915-RGN-POR-647,20180915-RGN-POR-3343,91:30,91:50,Lindsey Michelle Horan,POR,foul,2nd half,null,62.6,56.0
+20180915-RGN-POR-648,20180915-RGN-POR-3356,91:56,92:16,Lindsey Michelle Horan,POR,challenge,2nd half,0,31.5,38.1
+20180915-RGN-POR-649,20180915-RGN-POR-3358,91:56,92:16,Morgan Andrews,RGN,challenge,2nd half,1,73.5,29.9
+20180915-RGN-POR-650,20180915-RGN-POR-3372,92:09,92:29,Beverly Yanez,RGN,recovery,2nd half,null,97.9,9.1
+20180915-RGN-POR-651,20180915-RGN-POR-3378,92:12,92:32,Elizabeth Addo,RGN,challenge,2nd half,0,98.9,15.1
+20180915-RGN-POR-652,20180915-RGN-POR-3379,92:12,92:32,Celeste Anais Boureille,POR,tackle,2nd half,1,6.1,52.9
+20180915-RGN-POR-653,20180915-RGN-POR-3380,92:12,92:32,Celeste Anais Boureille,POR,challenge,2nd half,1,6.1,52.9
+20180915-RGN-POR-654,20180915-RGN-POR-3381,92:12,92:32,Elizabeth Addo,RGN,take_on,2nd half,0,98.9,15.1
+20180915-RGN-POR-655,20180915-RGN-POR-3383,92:14,92:34,Tobin Powell Powell Heath,POR,recovery,2nd half,null,7.6,47.4
+20180915-RGN-POR-656,20180915-RGN-POR-3386,92:19,92:39,Caitlin Jade Foord,POR,challenge,2nd half,0,49.1,37.1
+20180915-RGN-POR-657,20180915-RGN-POR-3387,92:19,92:39,Caitlin Jade Foord,POR,take_on,2nd half,0,49.1,37.1
+20180915-RGN-POR-658,20180915-RGN-POR-3388,92:19,92:39,Stephanie-Elise Catley,RGN,challenge,2nd half,1,55.9,30.9
+20180915-RGN-POR-659,20180915-RGN-POR-3389,92:19,92:39,Stephanie-Elise Catley,RGN,tackle,2nd half,1,55.9,30.9
+20180915-RGN-POR-660,20180915-RGN-POR-3392,92:22,92:42,Lauren Kate Barnes,RGN,recovery,2nd half,null,36.1,30.6
+20180915-RGN-POR-661,20180915-RGN-POR-3408,92:34,92:54,Caitlin Jade Foord,POR,dribble,2nd half,1,61.1,50.3
+20180915-RGN-POR-662,20180915-RGN-POR-3422,93:03,93:23,Tobin Powell Powell Heath,POR,challenge,2nd half,0,92.6,65.4
+20180915-RGN-POR-663,20180915-RGN-POR-3423,93:03,93:23,Theresa Eslund,RGN,tackle,2nd half,1,12.4,2.6
+20180915-RGN-POR-664,20180915-RGN-POR-3424,93:03,93:23,Tobin Powell Powell Heath,POR,take_on,2nd half,0,92.6,65.4
+20180915-RGN-POR-665,20180915-RGN-POR-3425,93:03,93:23,Theresa Eslund,RGN,challenge,2nd half,1,12.4,2.6
+20180915-RGN-POR-666,20180915-RGN-POR-3438,93:19,93:39,Ellie Madison Carpenter,POR,challenge,2nd half,1,49.1,15.3
+20180915-RGN-POR-667,20180915-RGN-POR-3439,93:19,93:39,Megan Anna Rapinoe,RGN,challenge,2nd half,0,55.9,52.7
+20180915-RGN-POR-668,20180915-RGN-POR-3441,93:22,93:42,Ana Maria Crnogorcevic,POR,dribble,2nd half,1,58.2,7.7
+20180915-RGN-POR-669,20180915-RGN-POR-3447,93:32,93:52,Megan Anna Rapinoe,RGN,recovery,2nd half,null,1.9,60.8
+20180915-RGN-POR-670,20180915-RGN-POR-3455,93:44,94:04,Christine Margaret Sinclair,POR,challenge,2nd half,1,46.2,50.3
+20180915-RGN-POR-671,20180915-RGN-POR-3457,93:44,94:04,Jodie Lee Taylor,RGN,challenge,2nd half,0,58.8,17.7
+20180915-RGN-POR-672,20180915-RGN-POR-3458,93:44,94:04,Jodie Lee Taylor,RGN,foul,2nd half,null,59.0,17.7
+20180915-RGN-POR-673,20180915-RGN-POR-3470,94:36,94:56,Beverly Yanez,RGN,recovery,2nd half,null,14.9,1.2
+20180915-RGN-POR-674,20180915-RGN-POR-3474,94:38,94:58,Beverly Yanez,RGN,tackle,2nd half,0,15.1,1.2
+20180915-RGN-POR-675,20180915-RGN-POR-3475,94:38,94:58,Beverly Yanez,RGN,challenge,2nd half,0,15.1,1.2
+20180915-RGN-POR-676,20180915-RGN-POR-3477,94:38,94:58,Christine Margaret Sinclair,POR,take_on,2nd half,1,89.9,66.8
+20180915-RGN-POR-677,20180915-RGN-POR-3479,94:38,94:58,Beverly Yanez,RGN,foul,2nd half,null,15.3,1.4
