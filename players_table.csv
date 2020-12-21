@@ -1,4 +1,4 @@
-player_ID,common_name,instat_name
+ID,common_name,instat_name
 1,Lindsay Agnew,
 2,Andressinha,
 3,Morgan Andrews,Morgan Andrews
@@ -49,13 +49,13 @@ player_ID,common_name,instat_name
 48,Schuyler DeBree,
 49,Vanessa DiBernardo,Vanessa Sue Di Bernardo
 50,Jordan DiBiasi,
-51,Makenzy Doniak,
-52,Imani Dorsey,
+51,Makenzy Doniak,Makenzy Doniak
+52,Imani Dorsey,Imani Michelle Dorsey
 53,Meggie Dougherty Howard,
 54,Crystal Dunn,Crystal Alyssia Dunn
 55,Caprice Dydasco,
 56,Britt Eckerstrom,
-57,Elizabeth Eddy,
+57,Elizabeth Eddy,Elizabeth Hunt Eddy
 58,Kristen Edmonds,
 59,Emily van Egmond,
 60,Brooke Elby,Brooke Elby
@@ -71,13 +71,13 @@ player_ID,common_name,instat_name
 70,Bayley Feist,
 71,Jamia Fields,
 72,Jess Fishlock,Jessica Anne Fishlock
-73,Sabrina Flores,
+73,Sabrina Flores,Sabrina Flores
 74,Caitlin Foord,Caitlin Jade Foord
 75,Adrianna Franch,Adrianna Nichole Franch
 76,Gabi,
 77,Morgan Gautrat,Morgan Gautrat
 78,Bella Geist,
-79,Zoey Goralski,
+79,Zoey Goralski,Zoey Goralski
 80,Sarah Gorden,Sarah Gorden
 81,Erin Greening,
 82,Shea Groom,
@@ -89,7 +89,7 @@ player_ID,common_name,instat_name
 88,Ashley Hatch,
 89,Tobin Heath,Tobin Powell Powell Heath
 90,Bianca Henninger,
-91,Rachel Hill,
+91,Rachel Hill,Rachel Hill
 92,Jaelene Hinkle,Jaelene Mckenzie Daniels
 93,Megan Hinz,
 94,Lindsey Horan,Lindsey Michelle Horan
@@ -104,11 +104,11 @@ player_ID,common_name,instat_name
 103,Julie James,
 104,Darian Jenkins,
 105,Celia Jiménez,
-106,Estelle Johnson,
+106,Estelle Johnson,Estelle Laura Johnson
 107,Jaycie Johnson,
 108,Katie Johnson,Katie Johnson Carreon
 109,Samantha Johnson,
-110,Nahomi Kawasumi,
+110,Nahomi Kawasumi,Nahomi Kawasumi
 111,Alika Keene,
 112,Elise Kellond-Knight,
 113,Maegan Kelly,
@@ -130,7 +130,7 @@ player_ID,common_name,instat_name
 129,Rose Lavelle,
 130,Sydney Leroux,
 131,Samantha Leshnak,
-132,Gina Lewandowski,
+132,Gina Lewandowski,Gina Loren Lewandowski
 133,Carli Lloyd,
 134,Chloe Logarzo,
 135,Allie Long,Alexandra Linsley Long Batista
@@ -153,7 +153,7 @@ player_ID,common_name,instat_name
 152,Sam Mewis,Samantha Mewis
 153,Lauren Milliet,
 154,Sydney Miramontez,
-155,Paige Monaghan,
+155,Paige Monaghan,Paige Monaghan
 156,Alex Morgan,
 157,Rebecca Moros,
 158,Casey Murphy,
@@ -169,7 +169,7 @@ player_ID,common_name,instat_name
 168,Heather O'Reilly,Heather Ann OReilly
 169,Denise O'Sullivan,Denise O'Sullivan
 170,Emily Ogle,
-171,Ifeoma Onumonu,
+171,Ifeoma Onumonu,Ifeoma Chukwufumnay Onumonu
 172,Megan Oyster,Megan Leigh Oyster
 173,Allyson Paige Haran,
 174,Peyton Perea,
@@ -206,13 +206,13 @@ player_ID,common_name,instat_name
 205,Sophie Schmidt,
 206,Desiree Scott,
 207,Gabby Seiler,
-208,Kayla Sharples,
-209,Kailen Sheridan,
+208,Kayla Sharples,Kayla Sharples
+209,Kailen Sheridan,Kailen Mary Sheridan
 210,Arielle Ship,
 211,Casey Short,Casey Short
 212,Kyah Simon,
 213,Christine Sinclair,Christine Margaret Sinclair
-214,Erica Skroski,
+214,Erica Skroski,Erica Skroski
 215,Abby Smith,
 216,Riley Smith,
 217,Emily Sonnett,Emily Ann Sonnett
@@ -232,11 +232,11 @@ player_ID,common_name,instat_name
 231,Erika Tymrak,
 232,Chioma Ubogagu,
 233,Rumi Utsugi,Rumi Utsugi
-234,Michele Vasconcelos,
+234,Michele Vasconcelos,Michele Vasconcelos
 235,Marisa Viggiano,
 236,Gaby Vincent,
 237,Scout Watson,
-238,Kealia Watt,
+238,Kealia Watt,Kealia Mae Watt
 239,Dani Weatherholt,
 240,Mallory Weber,
 241,Christen Westphal,
@@ -244,7 +244,7 @@ player_ID,common_name,instat_name
 243,Lydia Williams,Lydia Grace Yilkari Williams
 244,Lynn Williams,Lynn Williams
 245,Ryan Williams,
-246,Sarah Woldmoe,
+246,Sarah Woldmoe,Sarah Christine Woldmoe
 247,Arin Wright,
 248,Kenie Wright,
 249,Beverly Yanez,Beverly Yanez
@@ -263,7 +263,7 @@ player_ID,common_name,instat_name
 262,Averie Collins,
 263,Alana Cook,
 264,Shirley Cruz,
-265,Jennifer Cudjoe,
+265,Jennifer Cudjoe,Jennifer Cudjoe
 266,Holly Daugirda,
 267,Kate Del Fava,
 268,Amanda Dennis,
@@ -307,11 +307,11 @@ player_ID,common_name,instat_name
 306,Erin Simon,
 307,Taylor Smith,
 308,Autumn Smithers,
-309,Bianca St Georges,
+309,Bianca St Georges,Bianca St. Georges
 310,Ella Stevens,
 311,Chestley Strother,
 312,Chantelle Swaby,
-313,Evelyne Viens,
+313,Evelyne Viens,Evelyne Viens
 314,Brianna Visalli,
 315,Ally Watt,
 316,Morgan Weaver,

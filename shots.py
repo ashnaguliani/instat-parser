@@ -1,4 +1,4 @@
-def shots(shot_df): 
+def shots(shot_df, game_ID): 
     max_shift = 3
 
     column_suffixes = ['player_ID', 'action', 'start_time', 'end_time']
@@ -11,18 +11,39 @@ def shots(shot_df):
                 shot_df[column_name] = shot_df[suffix].shift(-i)
                 shift_column_names.append(column_name)
 
-    shot_df = shot_df[shot_df['action'].isin(['Shots'])]
+    shot_df = shot_df[shot_df['action'].isin(['Shots', 'Goals'])]
 
-    # goal_scored = []
+    # right now our DF includes own goals - let's drop those because they're not shots 
+    for index, row in shot_df.iterrows():
+        if row['action'] == 'Goals':
+            y = -max_shift
+            while y < max_shift:
+                if y != 0:
+                    if row[str(y) + '_action'] == 'Own goal' and row[str(y) + '_player_ID'] == row['player_ID'] and row[str(y) + '_start_time'] == row['start_time'] and row[str(y) + '_end_time'] == row['end_time']:
+                        shot_df.drop(index, inplace=True)
+                        break
+                y += 1
+
+    shot_df.rename({'ID': 'raw_event_ID'}, axis='columns', inplace=True)
+    shot_df.reset_index(drop=True, inplace=True)
+    shot_ID = []
+    for index, row in shot_df.iterrows():
+        shot_ID.append(game_ID + '-' + str(index))
+    shot_df.insert(loc = 0, column = 'ID', value = shot_ID)
+
+    # filter through each shot attempt - if it was on target, wide, or bar/post there will be another action that describes that
+    # if none of those, we can assume it was blocked (checked over a bunch of games this seems to hold true)
+    # unless it was a goal - then we assume on_target
     accuracy = []
-
     for index, row in shot_df.iterrows():
         x = -max_shift
-        accuracy_row = "blocked"
+        if row['action'] == 'Goals':
+            accuracy_row = 'on_target'
+        else:
+            accuracy_row = "blocked"
         while x <= max_shift:
             if x != 0:
                 if row[str(x) + '_player_ID'] == row['player_ID'] and row[str(x) + '_start_time'] == row['start_time'] and row[str(x) + '_end_time'] == row['end_time']:
-
                     if row[str(x) + '_action'] == 'Shot on target': 
                         accuracy_row = "on_target"
                     elif row[str(x) + '_action'] == 'Shot into the bar/post': 
@@ -32,11 +53,10 @@ def shots(shot_df):
             x += 1
         accuracy.append(accuracy_row)
 
+    # add the accuracy column & drop the placeholder columns (also actions because they're all shots)
     shot_df.insert(loc = 10, column = "accuracy", value = accuracy)
-
-    shot_df.insert(loc = 0, column = 'raw_event_ID', value = shot_df.index)
-    shot_df.reset_index(drop=True, inplace=True)
-
+    shot_df.drop('action', axis=1, inplace=True)
     for column in shift_column_names: 
-         shot_df.drop([column], axis=1, inplace=True)
+        shot_df.drop([column], axis=1, inplace=True)
+
     return(shot_df)
