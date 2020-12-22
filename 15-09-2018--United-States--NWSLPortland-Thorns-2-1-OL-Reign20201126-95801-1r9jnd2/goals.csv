@@ -1,4 +1,0 @@
-ID,raw_event_ID,start_time,end_time,player_ID,team_ID,half,pos_x,assisted_by,assist_pos_x,assist_pos_y,conceding_GK,conceding_team,own_goal,pos_y
-20180915-RGN-POR-0,20180915-RGN-POR-1051,27:36,28:26,Jasmyne Spencer,RGN,1st half,101.6,null,null,null,Adrianna Nichole Franch,POR,0,28.0
-20180915-RGN-POR-1,20180915-RGN-POR-1645,42:30,43:20,Tobin Powell Powell Heath,POR,1st half,100.8,Lindsey Michelle Horan,85.9,37.1,Lydia Grace Yilkari Williams,RGN,0,41.7
-20180915-RGN-POR-2,20180915-RGN-POR-2828,75:37,76:27,Lindsey Michelle Horan,POR,2nd half,96.6,Christine Margaret Sinclair,79.2,18.0,Lydia Grace Yilkari Williams,RGN,0,35.7
