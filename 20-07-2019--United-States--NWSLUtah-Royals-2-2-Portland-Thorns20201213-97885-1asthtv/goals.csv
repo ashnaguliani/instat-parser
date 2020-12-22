@@ -1,5 +1,0 @@
-ID,raw_event_ID,start_time,end_time,player_ID,team_ID,half,pos_x,assisted_by,assist_pos_x,assist_pos_y,conceding_GK,conceding_team,own_goal,pos_y
-20190719-POR-UTA-0,20190719-POR-UTA-321,8:09,8:59,Christine Margaret Sinclair,POR,1st half,82.9,null,null,null,Nicole Renee Barnhart,UTA,0,25.5
-20190719-POR-UTA-1,20190719-POR-UTA-1653,41:49,42:39,Christen Annemarie Press,UTA,1st half,101.5,Gunnhildur Yrsa Jonsdottir,55.7,14.2,Adrianna Nichole Franch,POR,0,47.9
-20190719-POR-UTA-2,20190719-POR-UTA-3600,86:03,86:53,Becky Sauerbrunn,POR,2nd half,7.9,null,null,null,Nicole Renee Barnhart,UTA,1,37.0
-20190719-POR-UTA-3,20190719-POR-UTA-3663,89:25,90:15,Rachel Louise Corsie,UTA,2nd half,97.8,Kelley Maureen O'Hara,71.9,54.9,Adrianna Nichole Franch,POR,0,26.8
