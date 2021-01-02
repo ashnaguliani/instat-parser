@@ -1,3 +1,5 @@
+from helper import flip, out_of_bounds
+
 def passes(pass_df, game_ID): 
     column_suffixes = ['player_ID', 'team_ID', 'pos_x', 'pos_y', 'action', 'start_time', 'end_time']
     shift_column_names = []
@@ -20,7 +22,7 @@ def passes(pass_df, game_ID):
     pass_df.reset_index(drop=True, inplace=True)
     pass_ID = []
     for index, row in pass_df.iterrows():
-        pass_ID.append(game_ID + '-' + str(index))
+        pass_ID.append('PASS-' + game_ID + '-' + str(index))
     pass_df.insert(loc = 0, column = 'ID', value = pass_ID)
 
     # setting up the structures for what will hold the data for the receiver
@@ -68,19 +70,29 @@ def passes(pass_df, game_ID):
                     break
                 if row['action'] == 'Passes (inaccurate)' and row['team_ID'] != row[str(x) + '_team_ID']:
                     found_next_name = True
-                    receiver.append(row[str(x) + '_player_ID'])
+                    receiver_row = row[str(x) + '_player_ID']
+                    if out_of_bounds(row[str(x) + '_pos_x'], row[str(x) + '_pos_y']) == True:
+                        receiver_row = "\N"
+                    else:
+                        z = x 
+                        while z < upper_shift_limit:
+                            if row[str(z) + '_action'] == 'Goal kicks':
+                                receiver_row = "\N"
+                            z += 1
+                    
+                    receiver.append(receiver_row)
                     successful.append(0) # false
-                    # flip the coordinates if it's a turnover
-                    end_pos_x.append(round(105 - row[str(x) + '_pos_x'], 1))
-                    end_pos_y.append(round(68 - row[str(x) + '_pos_y'], 1))
+                    # flip the coordinates bc it's a turnover
+                    end_pos_x.append(flip(row[str(x) + '_pos_x'], 'x'))
+                    end_pos_y.append(flip(row[str(x) + '_pos_y'], 'y'))
                     cross.append(cross_bool)
                     break
             x += 1
         #just in case we can't find the receiver
         if (found_next_name == False):
-            receiver.append("null")
-            end_pos_x.append("null")
-            end_pos_y.append("null")
+            receiver.append("\N")
+            end_pos_x.append("\N")
+            end_pos_y.append("\N")
             cross.append(cross_bool)
             if row['action'] == 'Passes accurate':
                 successful.append(1) # true
@@ -88,11 +100,11 @@ def passes(pass_df, game_ID):
                 successful.append(0) # true
 
     # add all the lists as their own columns in the df
-    pass_df.insert(loc = 10, column = 'successful', value = successful)
     pass_df.insert(loc = 11, column = 'receiver', value = receiver)
     pass_df.insert(loc = 12 ,column = 'end_pos_x', value = end_pos_x)
     pass_df.insert(loc = 13, column = 'end_pos_y', value = end_pos_y)
-    pass_df.insert(loc = 14, column = 'cross', value = cross)
+    pass_df.insert(loc = 14, column = 'successful', value = successful)
+    pass_df.insert(loc = 15, column = 'cross', value = cross)
 
     #drop all the temp columns 
     for column in shift_column_names: 

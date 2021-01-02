@@ -5,7 +5,7 @@ import sys
 import time
 import os
 
-from helper import convert_seconds_to_minutes, convert_code_to_player_ID, convert_team_name_to_team_ID, check_team_ID
+import helper
 from passes import passes
 from shots import shots
 from goals import goals
@@ -16,15 +16,16 @@ xml_file_name = sys.argv[1]
 date = sys.argv[2]
 away_team = sys.argv[3]
 home_team = sys.argv[4]
-game_ID = (date + '-' + away_team + '-' + home_team)
+game_ID = (date + away_team + home_team)
 
 # open the the accompanying table CSV files 
 players_table = pd.read_csv('players_table.csv')
 teams_table = pd.read_csv('teams_table.csv')
 
-# check that both team IDs exist (throws an error if they don't exist)
-check_team_ID(away_team, teams_table)
-check_team_ID(home_team, teams_table)
+# check that inputs are valid (throw error if found)
+helper.check_date(date)
+helper.check_team_ID(away_team, teams_table)
+helper.check_team_ID(home_team, teams_table)
 
 # open the XML file
 tree = ET.parse(xml_file_name)
@@ -68,6 +69,9 @@ start_time = []
 end_time = []
 player_ID = []
 team_ID = []
+half = []
+common_axis_pos_x = []
+common_axis_pos_y = []
 
 # iterate through each row in the events DF -
 # if the event is the the first half - leave the time as-is
@@ -78,27 +82,40 @@ for index, row in events_df.iterrows():
 	if row['half'] == '2nd half':
 		to_subtract = second_half_delay_seconds
 
-	event_ID.append(game_ID + '-' + str(index))
-	start_time.append(convert_seconds_to_minutes(row['start'] - to_subtract))
-	end_time.append(convert_seconds_to_minutes(row['end'] - to_subtract))
-	player_ID.append(convert_code_to_player_ID(row['code'], players_table))
-	team_ID.append(convert_team_name_to_team_ID(row['team'], teams_table))
+	row_team_ID = helper.convert_team_name_to_team_ID(row['team'], teams_table)
+	row_half = helper.convert_half(row['half'])
+
+	event_ID.append('RAW-' + game_ID + '-' + str(index))
+	start_time.append(helper.convert_seconds_to_minutes(row['start'] - to_subtract))
+	end_time.append(helper.convert_seconds_to_minutes(row['end'] - to_subtract))
+	player_ID.append(helper.convert_code_to_player_ID(row['code'], players_table))
+	team_ID.append(row_team_ID)
+	half.append(row_half)
+	common_axis_pos_x.append(helper.convert_common_axis_pos(row['pos_x'], "x", row_half, row_team_ID, away_team, home_team))
+	common_axis_pos_y.append(helper.convert_common_axis_pos(row['pos_y'], "y", row_half, row_team_ID, away_team, home_team))
+
 
 # add all of the new columns into the DF, and drop the old ones
 # doing this individually instead of in place is a lot safer
-events_df.insert(loc = 1, column = 'ID', value = event_ID)
-events_df.insert(loc = 2, column = "start_time", value = start_time)
-events_df.insert(loc = 3, column = "end_time", value = end_time)
-events_df.insert(loc = 4, column = "player_ID", value = player_ID)
-events_df.insert(loc = 5, column = "team_ID", value = team_ID)
-events_df.drop(['start', 'end', 'code', 'team'], axis=1, inplace=True)
+events_df.drop(['start', 'end', 'code', 'team', 'half'], axis=1, inplace=True)
+
+events_df.insert(loc = 0, column = 'ID', value = event_ID)
+events_df.insert(loc = 1, column = 'game_ID', value = [game_ID] * len(events_df.index))
+events_df.insert(loc = 2, column = "half", value = half)
+events_df.insert(loc = 3, column = "start_time", value = start_time)
+events_df.insert(loc = 4, column = "end_time", value = end_time)
+events_df.insert(loc = 5, column = "player_ID", value = player_ID)
+events_df.insert(loc = 6, column = "team_ID", value = team_ID)
+events_df.insert(loc = 10, column = "common_axis_pos_x", value = common_axis_pos_x)
+events_df.insert(loc = 11, column = "common_axis_pos_y", value = common_axis_pos_y)
 
 #create a folder to dump the game files in, named after the game_ID
 if not os.path.exists(game_ID):
     os.makedirs(game_ID)
 
 # output the DF into a file which is the original filename + events
-events_df.to_csv(game_ID + '/events.csv', index=False)
+events_df.to_csv(game_ID + '/raw-events.csv', index=False)
+events_df.drop(['common_axis_pos_x', 'common_axis_pos_y'], axis=1, inplace=True)
 
 # run each of the other scripts & output into their own files
 passes(pass_df = events_df.copy(), game_ID = game_ID).to_csv(game_ID + "/passes.csv", index=False) 

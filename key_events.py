@@ -4,7 +4,7 @@ def key_events(key_event_df, game_ID):
 	key_event_df.reset_index(drop=True, inplace=True)
 	key_event_ID = []
 	for index, row in key_event_df.iterrows():
-		key_event_ID.append(game_ID + '-' + str(index))
+		key_event_ID.append('KEY-' + game_ID + '-' + str(index))
 	key_event_df.insert(loc = 0, column = 'ID', value = key_event_ID)
 
 	successful = []
@@ -32,16 +32,16 @@ def key_events(key_event_df, game_ID):
 			successful.append(0)
 		elif row['action'] == 'Picking-ups':
 			key_event_df.at[index,'action'] = 'recovery'
-			successful.append('null')
+			successful.append('\N')
 		elif row['action'] == 'Fouls':
 			key_event_df.at[index,'action'] = 'foul'
-			successful.append('null')
+			successful.append('\N')
 		elif row['action'] == 'Shot on target (saved)':
 			key_event_df.at[index,'action'] = 'save'
-			successful.append('null')
+			successful.append('\N')
 		else:
-			successful.append('null')
+			successful.append('\N')
 
-	key_event_df.insert(loc = 8, column = "successful", value = successful)
+	key_event_df.insert(loc = 9, column = "successful", value = successful)
 
 	return key_event_df
