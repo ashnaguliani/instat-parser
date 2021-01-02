@@ -1,7 +1,7 @@
 # instat-parser
 
 
-`python instat_parser.py <xml filename> <game_date YYYYMMDD> <away_team_ID> <home_team_ID>`
+`python instat_parser.py <xml file path> <game_date YYYYMMDD> <away_team_ID> <home_team_ID>`
   
 
 
